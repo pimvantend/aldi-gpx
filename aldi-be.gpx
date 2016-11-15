@@ -1,0 +1,2440 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="Locus Android"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
+ xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
+ xmlns:locus="http://www.locusmap.eu">
+<wpt lat="50.49544109" lon="2.86069706235">
+  <name>aldi 24 Rue Romain Rolland  62410 Wingles </name>
+</wpt>
+<wpt lat="50.8493425946" lon="2.90176008687">
+  <name>aldi Karel Steverlyncklaan 1  8900 Ieper </name>
+</wpt>
+<wpt lat="51.5089426339" lon="3.88783924812">
+  <name>aldi Molenplein 6 4461 BJ Goes </name>
+</wpt>
+<wpt lat="50.5958396876" lon="5.51001757444">
+  <name>aldi rue G. Chapuis 118  4100 Seraing </name>
+</wpt>
+<wpt lat="50.4400127334" lon="3.85002277459">
+  <name>aldi Route de Mons-Valencienne 188 7390 Quaregnon </name>
+</wpt>
+<wpt lat="51.1430597005" lon="4.38530798765">
+  <name>aldi Kontichsesteenweg 28 2630 Aartselaar </name>
+</wpt>
+<wpt lat="50.63987938" lon="2.63617243021">
+  <name>aldi Rue Duhamel - Chemin de Halage  59660 Merville </name>
+</wpt>
+<wpt lat="50.849649204" lon="3.26495111742">
+  <name>aldi Ter Ferrants 11  8520 Kuurne </name>
+</wpt>
+<wpt lat="51.5172594775" lon="5.39181973577">
+  <name>aldi Secretaris L Jansenstraat 34 5682 AC Best </name>
+</wpt>
+<wpt lat="50.3372102523" lon="3.01207986827">
+  <name>aldi 720 Rue Nationale  62117 Brebières </name>
+</wpt>
+<wpt lat="51.1652110905" lon="4.69051975426">
+  <name>aldi Bouwelsesteenweg 134 A 2560 Nijlen </name>
+</wpt>
+<wpt lat="51.0988323175" lon="3.84352967259">
+  <name>aldi Dorp Oost 144 A 9080 Lochristi </name>
+</wpt>
+<wpt lat="51.0671895677" lon="3.09059064447">
+  <name>aldi Zwevezelestraat 16  8820 Torhout </name>
+</wpt>
+<wpt lat="50.2350016718" lon="5.34375998915">
+  <name>aldi Vieille route de Liège 20 6900 Marche/Famenne </name>
+</wpt>
+<wpt lat="50.6664897519" lon="5.53842714397">
+  <name>aldi rue des Francais 393  4430 Ans </name>
+</wpt>
+<wpt lat="50.6745776394" lon="4.7159076032">
+  <name>aldi Chaussée de Huy 304 1325 Chaumont-Gistoux </name>
+</wpt>
+<wpt lat="51.0330085032" lon="2.35672622761">
+  <name>aldi 159 Rue Jean-Baptiste Trystram  59430 St-Pol-sur-Mer </name>
+</wpt>
+<wpt lat="51.3184612536" lon="4.98089271438">
+  <name>aldi Steenweg op Turnhout 58/60 2360 Oud-Turnhout </name>
+</wpt>
+<wpt lat="50.7003823027" lon="3.22455359089">
+  <name>aldi 11 Rue Jean Marais  59150 Wattrelos </name>
+</wpt>
+<wpt lat="50.5762716558" lon="4.86690370083">
+  <name>aldi Route de la Bruyère 14 5310 Eghezée Upigny </name>
+</wpt>
+<wpt lat="51.4453576544" lon="3.57037872123">
+  <name>aldi Glacisstraat 22C 4381 RJ Vlissingen </name>
+</wpt>
+<wpt lat="51.0395006622" lon="5.73044130005">
+  <name>aldi Hoogbaan 24 3650 Dilsen </name>
+</wpt>
+<wpt lat="50.8974726233" lon="4.82809797354">
+  <name>aldi Staatsbaan 200 3210 Lubbeek </name>
+</wpt>
+<wpt lat="50.7407501548" lon="5.0800788943">
+  <name>aldi Hannuitsesteenweg 148 3401 Landen </name>
+</wpt>
+<wpt lat="50.6959619328" lon="6.48837156309">
+  <name>aldi Thumer Linde 2  52385 Nideggen </name>
+</wpt>
+<wpt lat="50.2526008366" lon="3.64254028688">
+  <name>aldi Route de Bavay - RD 942  59530 Le Quesnoy </name>
+</wpt>
+<wpt lat="51.4632120696" lon="5.4642421047">
+  <name>aldi Judas Taddeusplein 1 5622 JX Eindhoven </name>
+</wpt>
+<wpt lat="51.4331480748" lon="5.49016055338">
+  <name>aldi Geldropseweg 105 5611 SE Eindhoven </name>
+</wpt>
+<wpt lat="50.8770315204" lon="4.16420977083">
+  <name>aldi Assesteenweg  104 1740 Ternat </name>
+</wpt>
+<wpt lat="50.8110005364" lon="6.25500659957">
+  <name>aldi Florianweg 6  52249 Eschweiler </name>
+</wpt>
+<wpt lat="50.3954306295" lon="4.45613855733">
+  <name>aldi Avenue de Philippeville  223 6001 Marcinnelle </name>
+</wpt>
+<wpt lat="51.0552013655" lon="3.69648159681">
+  <name>aldi Rooigemlaan 2d 9000 Gent </name>
+</wpt>
+<wpt lat="50.5729190937" lon="6.26276774503">
+  <name>aldi Schmöttsgasse 6  52156 Monschau - Imgenbroich </name>
+</wpt>
+<wpt lat="50.8187794199" lon="4.93570180368">
+  <name>aldi Diestsesteenweg 180 3300 Tienen </name>
+</wpt>
+<wpt lat="50.9763275197" lon="4.45659721135">
+  <name>aldi Brusselsesteenweg 208 1980 ZEMST </name>
+</wpt>
+<wpt lat="50.9285000755" lon="5.34861632582">
+  <name>aldi Casterstraat 31A  3500 Hasselt </name>
+</wpt>
+<wpt lat="51.0054179972" lon="4.01648720384">
+  <name>aldi Schoonaardebaan  84 9200 Schoonaarde </name>
+</wpt>
+<wpt lat="50.9597674138" lon="5.83201068222">
+  <name>aldi Jos Kleijnenlaan  38 - 42 6164 AR Geleen </name>
+</wpt>
+<wpt lat="51.4952327594" lon="5.66731791653">
+  <name>aldi Nieuwveld 1 5702 HW Helmond </name>
+</wpt>
+<wpt lat="50.4958816004" lon="2.48243340168">
+  <name>aldi 15 Boulevard de la Paix  62470 Calonne-Ricouart </name>
+</wpt>
+<wpt lat="51.2042025899" lon="3.45032828005">
+  <name>aldi Stationsstraat  100 A 9990 Maldegem </name>
+</wpt>
+<wpt lat="50.5990422004" lon="4.32115937749">
+  <name>aldi Boulevard des Arbalétriers 45 1400 Nivelles </name>
+</wpt>
+<wpt lat="51.4233915199" lon="4.32295802071">
+  <name>aldi Raadhuisstraat 130C 4631 NJ Hoogerheide </name>
+</wpt>
+<wpt lat="50.3331690626" lon="4.47660711708">
+  <name>aldi Ch. de Philippeville  70 6280 Gerpinnes </name>
+</wpt>
+<wpt lat="50.7382516601" lon="2.28118321271">
+  <name>aldi Avenue Léon Blum - ZAC de Sainte Catherine  62510 Arques </name>
+</wpt>
+<wpt lat="50.805857466" lon="3.3408718474">
+  <name>aldi Avelgemstraat 107E  8550 Zwevegem </name>
+</wpt>
+<wpt lat="51.1012381112" lon="4.14511717314">
+  <name>aldi Biezestraat 15 9220 Hamme </name>
+</wpt>
+<wpt lat="50.8288974162" lon="4.29292067907">
+  <name>aldi Marius Renardlaan / avenue Marius Renard 27 A B1 1070 Anderlecht </name>
+</wpt>
+<wpt lat="51.0216506933" lon="2.31994397392">
+  <name>aldi 399 Rue du Kruys Bellaert  59640 Petite-Synthe </name>
+</wpt>
+<wpt lat="50.4635704249" lon="3.94279679145">
+  <name>aldi Chemin des Baudarts 1 7011 Mons (GHLIN) </name>
+</wpt>
+<wpt lat="51.0255990922" lon="3.77196165919">
+  <name>aldi Brusselsesteenweg 1 9090 Melle </name>
+</wpt>
+<wpt lat="51.1451980243" lon="6.28409965352">
+  <name>aldi Am Bahnhof 9  41844 Wegberg </name>
+</wpt>
+<wpt lat="50.8666004363" lon="4.37781663867">
+  <name>aldi Jeruzalemstraat / rue Jérusalem 48 1030 Schaarbeek/Schaerbeek </name>
+</wpt>
+<wpt lat="51.5932718989" lon="4.79904988566">
+  <name>aldi Teteringsedijk 130 4817 MJ Breda </name>
+</wpt>
+<wpt lat="50.1899504389" lon="3.3851724297">
+  <name>aldi Route Nationale - D 942  59129 Avesnes-les-Aubert </name>
+</wpt>
+<wpt lat="50.6402615083" lon="6.02158767675">
+  <name>aldi Rue Haute 105  4700 Eupen </name>
+</wpt>
+<wpt lat="50.3635384493" lon="4.39235866904">
+  <name>aldi rue de la Station 24 6110 Montigny-le-Tilleul </name>
+</wpt>
+<wpt lat="51.2784920567" lon="4.41965307978">
+  <name>aldi Jozef De Weerdtstraat 8 2180 Ekeren </name>
+</wpt>
+<wpt lat="50.5611803908" lon="4.07711946651">
+  <name>aldi Chaussée du Roeulx 333 7060 Soignies </name>
+</wpt>
+<wpt lat="50.4627002473" lon="4.35170033923">
+  <name>aldi rue de Trazegnies 173 6180 Courcelles </name>
+</wpt>
+<wpt lat="51.5265875346" lon="4.49176967935">
+  <name>aldi Dijkcentrum 41-43 4706 LB Roosendaal </name>
+</wpt>
+<wpt lat="51.5771004058" lon="4.77089212618">
+  <name>aldi Gr. Hendrik-III-Plein 35 4819 CJ Breda </name>
+</wpt>
+<wpt lat="50.809329811" lon="6.14260039204">
+  <name>aldi Am alten Kaninsberg 5  52146 Würselen-Broichweiden </name>
+</wpt>
+<wpt lat="50.7858878949" lon="6.06424250052">
+  <name>aldi Süsterfeldstraße 63  52072 Aachen </name>
+</wpt>
+<wpt lat="50.8611796642" lon="6.07930613742">
+  <name>aldi Im Straßer Feld 1  52134 Herzogenrath-Straß </name>
+</wpt>
+<wpt lat="50.6298288613" lon="5.56822166877">
+  <name>aldi Rue Guillemins 18-34 4000 Liège </name>
+</wpt>
+<wpt lat="51.096900815" lon="4.38252908388">
+  <name>aldi Kerkhofstraat 385 2850 Boom </name>
+</wpt>
+<wpt lat="50.7394297824" lon="3.17993824602">
+  <name>aldi Angle Rue du Docteur Schweitzer et Rue Roger Salengro  59200 Tourcoing </name>
+</wpt>
+<wpt lat="51.1437480372" lon="4.86093220537">
+  <name>aldi Bulestraat 2 2250 Olen </name>
+</wpt>
+<wpt lat="50.684658474" lon="3.20080250727">
+  <name>aldi Angle Rue de Verdun et Rue de Liège  59100 Roubaix </name>
+</wpt>
+<wpt lat="50.6450007814" lon="5.49938759306">
+  <name>aldi Rue Hector Denis 12 4460 Grâce-Hollogne </name>
+</wpt>
+<wpt lat="50.5709885494" lon="5.82198324632">
+  <name>aldi Rue Vovegnez 101  4860 Pépinster </name>
+</wpt>
+<wpt lat="51.2236493618" lon="5.30250810709">
+  <name>aldi Balendijk 42  3920 Lommel </name>
+</wpt>
+<wpt lat="51.1604906393" lon="4.36718665729">
+  <name>aldi Moerelei 11 2610 Wilrijk </name>
+</wpt>
+<wpt lat="50.8606517438" lon="5.39423891089">
+  <name>aldi Kloosterstraat 4a  3720 Kortessem </name>
+</wpt>
+<wpt lat="50.7362823654" lon="5.6793418464">
+  <name>aldi Allée verte 58  4600 Visé </name>
+</wpt>
+<wpt lat="50.8833072066" lon="5.92543221065">
+  <name>aldi Kerkplein 1-3 6367 EN Voerendaal </name>
+</wpt>
+<wpt lat="50.7494511605" lon="6.48918994575">
+  <name>aldi Feldstraße 18  52372 Kreuzau </name>
+</wpt>
+<wpt lat="51.1878027834" lon="4.45196570508">
+  <name>aldi Luchthavenlei 7 2100 Deurne </name>
+</wpt>
+<wpt lat="50.8210179527" lon="3.27365655057">
+  <name>aldi St. Denijssestraat 103  8500 Kortrijk </name>
+</wpt>
+<wpt lat="51.6434205312" lon="5.35385037757">
+  <name>aldi Oude Schoolstraat 6 5271 AN Sint Michielsgestel </name>
+</wpt>
+<wpt lat="50.1767688863" lon="3.21693633688">
+  <name>aldi 7 et 9 Avenue François Mitterrand  59400 Cambrai </name>
+</wpt>
+<wpt lat="51.0420791767" lon="5.30938791737">
+  <name>aldi Koolmijnlaan 24  3550 Heusden </name>
+</wpt>
+<wpt lat="50.7498096368" lon="5.13371443487">
+  <name>aldi Steenweg 137  3890 Gingelom </name>
+</wpt>
+<wpt lat="50.4092911038" lon="3.69964720886">
+  <name>aldi rue de Mons 164 7380 Quievrain </name>
+</wpt>
+<wpt lat="50.6071417014" lon="5.85800107663">
+  <name>aldi rue d'Andrimont 40 4820 Dison </name>
+</wpt>
+<wpt lat="51.2119721436" lon="4.43318786994">
+  <name>aldi Sergeyselsstraat 60 2140 Borgerhout </name>
+</wpt>
+<wpt lat="50.4656713798" lon="3.02539882126">
+  <name>aldi ZAE du Bois Dion - Cité du Bois Dion  59162 Ostricourt </name>
+</wpt>
+<wpt lat="50.2715098174" lon="6.11697871949">
+  <name>aldi rue de Luxembourg  72 4780 St Vith </name>
+</wpt>
+<wpt lat="50.4207008833" lon="4.46497888871">
+  <name>aldi route de la Basse Sambre  1 6061 Gilly </name>
+</wpt>
+<wpt lat="49.7322893506" lon="4.75563963175">
+  <name>aldi CCial les Ayvelles  08000 Villers-Semeuse </name>
+</wpt>
+<wpt lat="50.9137487385" lon="5.40817839578">
+  <name>aldi Steenweg 16 A  3590 Diepenbeek </name>
+</wpt>
+<wpt lat="49.6989877182" lon="4.92356995522">
+  <name>aldi 22 Avenue de la Marne  08200 Sedan </name>
+</wpt>
+<wpt lat="51.1506421218" lon="4.15369670126">
+  <name>aldi Kapelstraat 95 9100 Sint-Niklaas </name>
+</wpt>
+<wpt lat="51.4029128039" lon="5.7484996779">
+  <name>aldi Julianastraat 50 5721 GL Asten </name>
+</wpt>
+<wpt lat="51.193777272" lon="4.55105295962">
+  <name>aldi Kromstraat 62 a 2520 Ranst </name>
+</wpt>
+<wpt lat="50.8077726866" lon="4.3161231765">
+  <name>aldi Neerstallesteenweg / Chaussée de Néerstalle 56 - 70 1190 Vorst/Forest </name>
+</wpt>
+<wpt lat="50.8309082558" lon="5.10820967413">
+  <name>aldi St. Truidensesteenweg 28A 3440 ZOUTLEEUW </name>
+</wpt>
+<wpt lat="50.460078168" lon="2.89075239042">
+  <name>aldi 216 Route de Lille  62880 Annay </name>
+</wpt>
+<wpt lat="50.6953296035" lon="5.85409802086">
+  <name>aldi Rue de Battice  4880 Aubel </name>
+</wpt>
+<wpt lat="51.0690714505" lon="3.68386411468">
+  <name>aldi Brugsesteenweg 367 9030 Gent-Mariakerke </name>
+</wpt>
+<wpt lat="50.8037773453" lon="2.58403875672">
+  <name>aldi Route d'Eecke  59114 Terdeghem </name>
+</wpt>
+<wpt lat="51.0983183876" lon="4.23531913021">
+  <name>aldi Dr. De Putterplein 15 2880 Bornem </name>
+</wpt>
+<wpt lat="51.3171403746" lon="5.35754658937">
+  <name>aldi Burg. Magneestraat 57 5571 HC Bergeijk </name>
+</wpt>
+<wpt lat="50.4685392901" lon="4.88090613823">
+  <name>aldi Boulevard d'Herbatte 225 5004 Namur Bouge </name>
+</wpt>
+<wpt lat="50.5361223337" lon="2.81415716924">
+  <name>aldi 71 Route de Lille  59480 La Bassée </name>
+</wpt>
+<wpt lat="51.4636603015" lon="5.63374624098">
+  <name>aldi Hoofdstraat 95-97 5706 AK Mierlo-Hout </name>
+</wpt>
+<wpt lat="50.901142335" lon="4.21780034533">
+  <name>aldi Brusselsesteenweg  135 1730 Asse </name>
+</wpt>
+<wpt lat="50.9676007852" lon="3.0260373396">
+  <name>aldi Sint-Jansstraat 114-116 8840 Staden </name>
+</wpt>
+<wpt lat="50.5155687917" lon="6.46578959756">
+  <name>aldi An der Olef 46  53937 Schleiden - Oberhausen </name>
+</wpt>
+<wpt lat="51.0679411997" lon="6.10961327554">
+  <name>aldi Humboldtstraße 22  52525 Heinsberg - Gewerbegebiet </name>
+</wpt>
+<wpt lat="50.8825922977" lon="4.0622716668">
+  <name>aldi Steenweg op Ninove 391 9470 Denderleeuw </name>
+</wpt>
+<wpt lat="50.6951188252" lon="3.14895661669">
+  <name>aldi Rue de Mouvaux  59200 Tourcoing </name>
+</wpt>
+<wpt lat="50.5680811602" lon="2.46306201429">
+  <name>aldi 120 Rue des Martyrs de la Libération  62190 Lillers </name>
+</wpt>
+<wpt lat="51.1337605075" lon="4.76044200912">
+  <name>aldi Itegemsesteenweg 68 2270 Herenthout </name>
+</wpt>
+<wpt lat="50.7635889793" lon="6.07664414546">
+  <name>aldi Schillerstraße 20  52064 Aachen </name>
+</wpt>
+<wpt lat="51.3668185596" lon="4.99244899702">
+  <name>aldi Grote Baan 84 2380 Ravels </name>
+</wpt>
+<wpt lat="50.5856027442" lon="5.86417941607">
+  <name>aldi ch. d' Heusy 165  4800 Verviers II </name>
+</wpt>
+<wpt lat="50.4649787047" lon="3.59499315358">
+  <name>aldi 76 Route de Bonsecours  59163 Condé-sur-l'Escaut </name>
+</wpt>
+<wpt lat="50.8036011559" lon="4.2885679625">
+  <name>aldi Bergensesteenweg 88 1600 Sint-Pieters-Leeuw </name>
+</wpt>
+<wpt lat="50.9618009322" lon="5.50281400838">
+  <name>aldi Hoogstraat 80/86  3600 Genk </name>
+</wpt>
+<wpt lat="50.819040777" lon="6.28971142034">
+  <name>aldi Dürener Straße 282  52249 Eschweiler </name>
+</wpt>
+<wpt lat="51.0182394132" lon="2.37619654037">
+  <name>aldi 4 Route de Bergues  59210 Coudekerque-Branche </name>
+</wpt>
+<wpt lat="51.1536205894" lon="4.97621624203">
+  <name>aldi Pas 264 2440 Geel </name>
+</wpt>
+<wpt lat="51.4748310597" lon="3.9644974218">
+  <name>aldi Hoofdstraat 15 4421 JR Kapelle-Biezelinge </name>
+</wpt>
+<wpt lat="50.9165893864" lon="5.95513680329">
+  <name>aldi Groeët Genhei 4 6413 GN Heerlen </name>
+</wpt>
+<wpt lat="51.4700023113" lon="5.47717434939">
+  <name>aldi W.C. Woensel 77 5625 AD Eindhoven </name>
+</wpt>
+<wpt lat="49.8485985889" lon="6.4522008481">
+  <name>aldi Im Schwarzenstein 42  54666 Irrel </name>
+</wpt>
+<wpt lat="51.0595425724" lon="5.99628975998">
+  <name>aldi Raiffeisenstraße 4  52525 Waldfeucht </name>
+</wpt>
+<wpt lat="50.9170089484" lon="5.88356878989">
+  <name>aldi Markt 10 6361 CB Nuth </name>
+</wpt>
+<wpt lat="51.5183619329" lon="5.05782967777">
+  <name>aldi Wethouder de Brouwerstraat 33 5051 SJ Goirle </name>
+</wpt>
+<wpt lat="50.6370275784" lon="5.82067023677">
+  <name>aldi rue de Verviers  4651 Battice </name>
+</wpt>
+<wpt lat="51.6092198229" lon="4.78519133972">
+  <name>aldi Brusselstraat 10-12 4826 NJ Breda </name>
+</wpt>
+<wpt lat="50.859658329" lon="4.31294857123">
+  <name>aldi Louis Mettewielaan / Boulevard Louis Mettewie 44 1080 Sint-Jans-Molenbeek Saint Jean Sint-Jans-Molenbeek </name>
+</wpt>
+<wpt lat="50.2831596223" lon="4.04471690905">
+  <name>aldi Rue René Fourchet  59245 Recquignies </name>
+</wpt>
+<wpt lat="50.9962892075" lon="6.56961627696">
+  <name>aldi Wiesenstraße 21  50181 Bedburg </name>
+</wpt>
+<wpt lat="51.3613775404" lon="5.32142983368">
+  <name>aldi Lindestraat 49 5521 EH Eersel </name>
+</wpt>
+<wpt lat="50.4372118291" lon="4.4170900132">
+  <name>aldi Rue François Dewiest 77 6040 Charleroi Jumet </name>
+</wpt>
+<wpt lat="50.7790020143" lon="6.12316605214">
+  <name>aldi Elsassstraße 139  52068 Aachen - Rothe Erde </name>
+</wpt>
+<wpt lat="51.5650322985" lon="5.46455686726">
+  <name>aldi Sluisplein 2 5492 AN St. Oedenrode </name>
+</wpt>
+<wpt lat="50.922338191" lon="6.11525202201">
+  <name>aldi Am Wasserturm 2  52531 Übach-Palenberg/ Übach </name>
+</wpt>
+<wpt lat="50.767252168" lon="3.44209948736">
+  <name>aldi Doorniksesteenweg 165  8580 Avelgem </name>
+</wpt>
+<wpt lat="50.6843279891" lon="5.46380143711">
+  <name>aldi rue d'Oupeye 8  4342 Hognoul </name>
+</wpt>
+<wpt lat="50.4603472527" lon="2.67971758237">
+  <name>aldi Rue François Mitterrand - RD 937  62114 Sains-en-Gohelle </name>
+</wpt>
+<wpt lat="50.5230480011" lon="2.93729228352">
+  <name>aldi 1 Rue du 8 Mai 1945  59112 Annoeulin </name>
+</wpt>
+<wpt lat="49.5019396947" lon="4.35849021736">
+  <name>aldi Route de Reims  08300 Acy-Romance </name>
+</wpt>
+<wpt lat="51.2037405447" lon="2.90365765546">
+  <name>aldi Torhoutsestwg 610  8400 Oostende </name>
+</wpt>
+<wpt lat="51.160829039" lon="4.304530921">
+  <name>aldi Bazelstraat  263 9150 Kruibeke </name>
+</wpt>
+<wpt lat="50.4891476357" lon="4.89355959323">
+  <name>aldi Chaussée de Louvain 562 5020 Namur Champion </name>
+</wpt>
+<wpt lat="49.5219973395" lon="6.00940186899">
+  <name>aldi Rue du Brill - Zone Commerciale  3898 Foetz </name>
+</wpt>
+<wpt lat="51.2078480767" lon="3.26576950009">
+  <name>aldi Maalsesteenweg 204 tijdelijk gesloten van 10/9/16 tot 26/10/16 8000 Brugge </name>
+</wpt>
+<wpt lat="51.0548282741" lon="5.22300807713">
+  <name>aldi Koolmijnlaan 77  3580 Beringen </name>
+</wpt>
+<wpt lat="50.816648737" lon="5.89278683635">
+  <name>aldi Looierstraat 20 6271BB Gulpen </name>
+</wpt>
+<wpt lat="51.1932080381" lon="5.72276109354">
+  <name>aldi Mgr. Nolensstraat 1 6039 CK Stramproy </name>
+</wpt>
+<wpt lat="50.7993724123" lon="5.35965100193">
+  <name>aldi Tongersesteenweg 137B 3840 Borgloon </name>
+</wpt>
+<wpt lat="50.4617613535" lon="4.63373658806">
+  <name>aldi Trieu des Cannes  993 5190 Jemeppe/S/S </name>
+</wpt>
+<wpt lat="51.4322285804" lon="5.47025856624">
+  <name>aldi Hoogstraat 107a 5615 PB Eindhoven </name>
+</wpt>
+<wpt lat="51.0549922086" lon="5.27336109384">
+  <name>aldi P. Vanhoudtstraat 84  3582 Koersel </name>
+</wpt>
+<wpt lat="50.4386323493" lon="2.8722623382">
+  <name>aldi 10/12 Rue d'Harnes  62218 Loison-sous-Lens </name>
+</wpt>
+<wpt lat="50.8916413275" lon="3.74532375323">
+  <name>aldi Hundelgemsebaan 55 9630 Zwalm </name>
+</wpt>
+<wpt lat="50.6234677463" lon="5.59183785415">
+  <name>aldi bd. de Froidmont 23  4030 Grivegnée </name>
+</wpt>
+<wpt lat="50.9085886351" lon="6.36080279329">
+  <name>aldi Margaretenstr.16  52428 Jülich </name>
+</wpt>
+<wpt lat="50.453619676" lon="4.52576403606">
+  <name>aldi Chaussée de Gilly  38 6220 Fleurus </name>
+</wpt>
+<wpt lat="51.5886512614" lon="5.30802994175">
+  <name>aldi Kapelweg 3 5281 LP Boxtel </name>
+</wpt>
+<wpt lat="50.8364290989" lon="6.118831322">
+  <name>aldi Bardenberger Straße 79  52146 Würselen - Bardenberg </name>
+</wpt>
+<wpt lat="50.8423808813" lon="4.40654097076">
+  <name>aldi Georges Henrilaan / avenue Georges Henri 364 1200 Sint-Lambrechts-Woluwe/Woluwe Saint Lambert </name>
+</wpt>
+<wpt lat="49.3490511133" lon="6.03979893927">
+  <name>aldi Rue de la Paix - ZA de la Paix Haut  57440 Algrange </name>
+</wpt>
+<wpt lat="51.1392905932" lon="2.7390368355">
+  <name>aldi Koning Albert I laan 13  8620 Nieuwpoort </name>
+</wpt>
+<wpt lat="50.3346386259" lon="3.23915857377">
+  <name>aldi 1 Rue de la Gare Ste-Hyacinthe  59580 Aniche </name>
+</wpt>
+<wpt lat="49.6986503402" lon="5.29589809329">
+  <name>aldi rue de France 59  6820 Florenville </name>
+</wpt>
+<wpt lat="50.8140008729" lon="5.60175737146">
+  <name>aldi Maastrichtersteenweg 24 3770 Riemst </name>
+</wpt>
+<wpt lat="50.8345775309" lon="5.98465253839">
+  <name>aldi Marktstraat 1 6369 AG Simpelveld </name>
+</wpt>
+<wpt lat="51.123680505" lon="5.06152588957">
+  <name>aldi Bevrijdingslaan 147 2450 Meerhout </name>
+</wpt>
+<wpt lat="51.6263513141" lon="4.94342697628">
+  <name>aldi Hoge Ham 145 5104 JD Dongen </name>
+</wpt>
+<wpt lat="50.4187125358" lon="4.16974059871">
+  <name>aldi rue Z. Fontaine  76 7130 Binche </name>
+</wpt>
+<wpt lat="50.9206487738" lon="3.33776019464">
+  <name>aldi Wielsbekestraat 28  8780 Oostrozebeke </name>
+</wpt>
+<wpt lat="51.3162972405" lon="6.27150015782">
+  <name>aldi Rosental 32  41334 Nettetal-Lobberich </name>
+</wpt>
+<wpt lat="50.8460378977" lon="2.71553756194">
+  <name>aldi Casselstraat 267  8970 Poperinge </name>
+</wpt>
+<wpt lat="51.174272777" lon="5.57619865142">
+  <name>aldi Kaulillerweg 6 3950 Bocholt </name>
+</wpt>
+<wpt lat="51.4113387383" lon="6.03703802194">
+  <name>aldi Raadhuisplein 4 5975 BK Sevenum </name>
+</wpt>
+<wpt lat="49.9223913271" lon="5.3622680278">
+  <name>aldi Rue de Tibêtême  6800 Libramont </name>
+</wpt>
+<wpt lat="50.6989924375" lon="4.20550661897">
+  <name>aldi Rue de Bruxelles  389 1480 Tubize </name>
+</wpt>
+<wpt lat="50.6629611953" lon="3.61296159927">
+  <name>aldi Route d'Hacquegnies 11 7911 Frasnes-lez-Anvaing </name>
+</wpt>
+<wpt lat="50.3938712158" lon="4.68742608794">
+  <name>aldi Avenue Albert 1er 79 5070 Fosses-la-Ville </name>
+</wpt>
+<wpt lat="50.9310280826" lon="4.42496807047">
+  <name>aldi Franklin Rooseveltlaan 106 B5 1800 Vilvoorde </name>
+</wpt>
+<wpt lat="51.0891175109" lon="5.52473047591">
+  <name>aldi Genkerbaan 14  3670 Meeuwen </name>
+</wpt>
+<wpt lat="50.90259993" lon="4.01317770033">
+  <name>aldi Stationsstraat 65 9450 Haaltert </name>
+</wpt>
+<wpt lat="51.1812806886" lon="4.37106273341">
+  <name>aldi Sint-Bernardsesteenweg 589 2660 Hoboken </name>
+</wpt>
+<wpt lat="50.1056675265" lon="3.53524222608">
+  <name>aldi 16 Boulevard Paturle  59360 Le Cateau-Cambrésis </name>
+</wpt>
+<wpt lat="50.9254220696" lon="5.31875884851">
+  <name>aldi H. Vanveldekesingel 1 C  3500 Hasselt </name>
+</wpt>
+<wpt lat="50.8569220715" lon="4.32924427873">
+  <name>aldi Steenweg op Gent / Chaussée de Gand 271 - 279 1081 Koekelberg </name>
+</wpt>
+<wpt lat="50.5518787486" lon="3.90201255662">
+  <name>aldi rue du Séwoir 93A 7870 Lens </name>
+</wpt>
+<wpt lat="51.0641772658" lon="6.09117718262">
+  <name>aldi Westpromenade 88  52525 Heinsberg </name>
+</wpt>
+<wpt lat="51.2078311741" lon="4.23640730935">
+  <name>aldi Peter Benoitlaan  79 9120 Beveren </name>
+</wpt>
+<wpt lat="49.5151605627" lon="5.37371639185">
+  <name>aldi 6 Route de Villecloye  55600 Montmédy </name>
+</wpt>
+<wpt lat="49.7104513601" lon="6.49032309097">
+  <name>aldi Centre Commercial Mercado-rue Sandkaul  6677 Wasserbillig </name>
+</wpt>
+<wpt lat="50.8575578967" lon="6.02766709081">
+  <name>aldi Carboonplein 16 6466 CX Kerkrade </name>
+</wpt>
+<wpt lat="50.7821579319" lon="6.22130901899">
+  <name>aldi Prattelsackstraße 30  52222 Stolberg </name>
+</wpt>
+<wpt lat="51.533390719" lon="4.46539257665">
+  <name>aldi Boulevard 118A 4701 EZ Roosendaal </name>
+</wpt>
+<wpt lat="51.4702375986" lon="4.66077019554">
+  <name>aldi Molenstraat 51-53 4881 CR Zundert </name>
+</wpt>
+<wpt lat="50.8656128243" lon="5.50622243726">
+  <name>aldi Tongersestraat 63 3740 Bilzen </name>
+</wpt>
+<wpt lat="50.5107478475" lon="2.62799759682">
+  <name>aldi 1200 Rue de Béthune  62131 Vaudricourt </name>
+</wpt>
+<wpt lat="51.2709475391" lon="3.0362896059">
+  <name>aldi Grotestraat 147  8420 De Haan </name>
+</wpt>
+<wpt lat="50.4915678542" lon="2.5659983653">
+  <name>aldi 751 Avenue de la Libération  62700 Bruay-la-Buissière </name>
+</wpt>
+<wpt lat="51.2026473949" lon="5.11542223341">
+  <name>aldi Turnhoutsebaan 157 2400 Mol Achterbos </name>
+</wpt>
+<wpt lat="49.5147576827" lon="5.7518631407">
+  <name>aldi Rue du Pulventeux  54400 Longwy </name>
+</wpt>
+<wpt lat="51.041988705" lon="5.57737676272">
+  <name>aldi Weg naar Zwartberg 54 3660 Opglabbeek </name>
+</wpt>
+<wpt lat="50.8669807182" lon="2.34687865602">
+  <name>aldi Rond-Point L'Erkelsbrugge - Route de Gravelines  59470 Bollezeele </name>
+</wpt>
+<wpt lat="51.5656472401" lon="5.07878387119">
+  <name>aldi Wilhelminapark 48 5041 ED Tilburg </name>
+</wpt>
+<wpt lat="50.7357701075" lon="2.74108728876">
+  <name>aldi 167 Rue de Lille  59270 Bailleul </name>
+</wpt>
+<wpt lat="51.1497620833" lon="4.34052177167">
+  <name>aldi Bredestraat 193 2620 Hemiksem </name>
+</wpt>
+<wpt lat="51.0623121401" lon="4.02281842795">
+  <name>aldi Gentsesteenweg 40 44 9240 Zele </name>
+</wpt>
+<wpt lat="51.0320017978" lon="4.49902720471">
+  <name>aldi Nekkerspoel 441 2800 Mechelen </name>
+</wpt>
+<wpt lat="51.2673801993" lon="3.90901827193">
+  <name>aldi Tuinstraat 3+5 4571 EX Axel </name>
+</wpt>
+<wpt lat="51.5116292636" lon="5.65078838541">
+  <name>aldi Kanaaldijk 3 5735 SL Aarle-Rixtel </name>
+</wpt>
+<wpt lat="50.8181828385" lon="3.21607298814">
+  <name>aldi Kortrijkstraat 345B  8560 Wevelgem </name>
+</wpt>
+<wpt lat="51.5113606077" lon="5.49195020338">
+  <name>aldi Heistraat 14b 5691 CA Son </name>
+</wpt>
+<wpt lat="51.0300901285" lon="4.65728982092">
+  <name>aldi M. Vanderborghtstraat 116 - 118 2580 Putte-Grasheide </name>
+</wpt>
+<wpt lat="50.9474114521" lon="4.03263901988">
+  <name>aldi Dendermondsesteenweg 77 9300 Aalst </name>
+</wpt>
+<wpt lat="50.8358213838" lon="4.30362260618">
+  <name>aldi Sint Guidostraat / rue Saint Guidon 75 1070 Anderlecht </name>
+</wpt>
+<wpt lat="50.6037627979" lon="5.34700654015">
+  <name>aldi Rue Albert 1er 95 4470 Saint Georges sur Meuse </name>
+</wpt>
+<wpt lat="50.8904897304" lon="6.27566401685">
+  <name>aldi Am alten Bahnhof 5  52457 Aldenhoven </name>
+</wpt>
+<wpt lat="51.0515890355" lon="3.65548152479">
+  <name>aldi Antoon Catriestraat 10a 9031 Drongen </name>
+</wpt>
+<wpt lat="50.7439712519" lon="3.23351083408">
+  <name>aldi Rue de la Liesse 123  7700 Moeskroen </name>
+</wpt>
+<wpt lat="50.8989019735" lon="5.96002011961">
+  <name>aldi Zeswegenlaan 283 6412 HK Heerlen </name>
+</wpt>
+<wpt lat="50.9945911563" lon="4.69980075323">
+  <name>aldi Kruisstraat 61 3120 Tremelo </name>
+</wpt>
+<wpt lat="51.1940872479" lon="3.23182910268">
+  <name>aldi Baron Ruzettelaan 86  8000 Brugge </name>
+</wpt>
+<wpt lat="50.9422607485" lon="5.28590663024">
+  <name>aldi Stevoortse Kiezel 9 3511 KURINGEN </name>
+</wpt>
+<wpt lat="50.7980707461" lon="3.75943410922">
+  <name>aldi Geraardsbergsestraat 18 9660 Brakel </name>
+</wpt>
+<wpt lat="51.0199309416" lon="3.68238922724">
+  <name>aldi Kortrijksesteenweg   9051 Sint-Denijs-Westrem </name>
+</wpt>
+<wpt lat="50.9563289226" lon="5.69472923908">
+  <name>aldi Industrielaan 4  3630 Maasmechelen </name>
+</wpt>
+<wpt lat="51.0365091793" lon="4.4702938794">
+  <name>aldi Elektriciteitsstraat 37 2800 Mechelen </name>
+</wpt>
+<wpt lat="50.8594482901" lon="4.34581877593">
+  <name>aldi Opzichtersstraat / rue de l'Intendant 53 1080 Sint-Jans-Molenbeek Saint Jean </name>
+</wpt>
+<wpt lat="51.0904788364" lon="2.96876853973">
+  <name>aldi Ringlaan  84 8680 Koekelare </name>
+</wpt>
+<wpt lat="51.198680283" lon="4.49264202131">
+  <name>aldi Herentalsebaan 150 2160 Wommelgem </name>
+</wpt>
+<wpt lat="50.9114012459" lon="4.66497902065">
+  <name>aldi Tildonksesteenweg 73 3020 Herent </name>
+</wpt>
+<wpt lat="50.66521859" lon="5.65720954168">
+  <name>aldi Rue de Visé 553-555 4020 Liège Wandre </name>
+</wpt>
+<wpt lat="50.8316807588" lon="4.72056608912">
+  <name>aldi Blandenstraat 177 B 3053 Haasrode </name>
+</wpt>
+<wpt lat="50.9366390874" lon="4.05439360953">
+  <name>aldi Aelbrechtlaan 58 9300 Aalst </name>
+</wpt>
+<wpt lat="51.1104422224" lon="3.98071219036">
+  <name>aldi Tweebruggenstraat 10 9160 Lokeren </name>
+</wpt>
+<wpt lat="51.2501810619" lon="5.89679781071">
+  <name>aldi Dorpstraat 22 6093 EC Heythuysen </name>
+</wpt>
+<wpt lat="51.3272286773" lon="3.83551671708">
+  <name>aldi Axelsestraat 163-165 4537 AH Terneuzen </name>
+</wpt>
+<wpt lat="49.3188816782" lon="6.10887583182">
+  <name>aldi 26 Route de Longwy  57190 Florange </name>
+</wpt>
+<wpt lat="50.4652019647" lon="4.19937324562">
+  <name>aldi Rue de la Déportation 14 7100 La Louvière Haine-Saint-Paul </name>
+</wpt>
+<wpt lat="50.833572201" lon="4.37316714597">
+  <name>aldi Goffaertstraat / rue Goffaert 91 1050 Elsene/Ixelles </name>
+</wpt>
+<wpt lat="50.5194514956" lon="2.79142231904">
+  <name>aldi 113 Route Nationale  62138 Auchy-les-Mines </name>
+</wpt>
+<wpt lat="49.2545898913" lon="6.13190745815">
+  <name>aldi 105 Rue de Rombas  57360 Amnéville-les-Thermes </name>
+</wpt>
+<wpt lat="50.3736400553" lon="3.40193578444">
+  <name>aldi Rue Paul Lafargue  59135 Wallers </name>
+</wpt>
+<wpt lat="51.1401877589" lon="5.5890679436">
+  <name>aldi Boogschutterstraat 68 3960 Bree </name>
+</wpt>
+<wpt lat="49.9861786341" lon="4.69348751556">
+  <name>aldi Place de la Gare  08170 Fumay </name>
+</wpt>
+<wpt lat="51.3081011697" lon="4.92117775975">
+  <name>aldi Steenweg op Gierle 339 bus 10 2300 Turnhout </name>
+</wpt>
+<wpt lat="51.2201797403" lon="3.21405850774">
+  <name>aldi St. Pieterskaai 25  8000 Brugge </name>
+</wpt>
+<wpt lat="51.5469213337" lon="5.08530395283">
+  <name>aldi Transvaalplein  45 5021 TD Tilburg </name>
+</wpt>
+<wpt lat="51.3954392382" lon="4.32766147271">
+  <name>aldi Hondseind 10 4641 HN Ossendrecht </name>
+</wpt>
+<wpt lat="50.8739217352" lon="4.68997116808">
+  <name>aldi Slachthuislaan 3 3000 Leuven </name>
+</wpt>
+<wpt lat="51.0527083792" lon="3.74776091478">
+  <name>aldi Dendermondsesteenweg 263 9070 Destelbergen </name>
+</wpt>
+<wpt lat="49.7048972697" lon="6.25348674605">
+  <name>aldi zone Artisanale  6131 Junglinster </name>
+</wpt>
+<wpt lat="51.6456193026" lon="4.45233442693">
+  <name>aldi Oude Molensedijk 9 4793 TE Fijnaart </name>
+</wpt>
+<wpt lat="51.4140591645" lon="4.76331084504">
+  <name>aldi Minderhoutdorp 49 2320 Hoogstraten </name>
+</wpt>
+<wpt lat="50.629041613" lon="5.62442926914">
+  <name>aldi Rue Servais Malaise,25  4030 Beyne-Heusay </name>
+</wpt>
+<wpt lat="49.6156074897" lon="6.20908723837">
+  <name>aldi route de Luxembourg  5230 Sandweiler </name>
+</wpt>
+<wpt lat="50.8113414935" lon="5.72217653449">
+  <name>aldi Burg. Frans Cortenraadstraat 6 6247 NZ Gronsveld </name>
+</wpt>
+<wpt lat="50.7626105636" lon="6.28570943919">
+  <name>aldi Gressenicher Straße 109  52224 Stolberg - Mausbach </name>
+</wpt>
+<wpt lat="51.1902321265" lon="5.99858303007">
+  <name>aldi Nassaustraat 78 6043 ED Roermond </name>
+</wpt>
+<wpt lat="51.243200519" lon="6.1898957153">
+  <name>aldi Borner Straße 53  41379 Brüggen </name>
+</wpt>
+<wpt lat="50.4290716555" lon="4.60503923562">
+  <name>aldi rue Pré des Haz 382 5060 Tamines </name>
+</wpt>
+<wpt lat="50.6455425451" lon="5.59634345539">
+  <name>aldi Quai du Roi Albert 78  4020 Bressoux </name>
+</wpt>
+<wpt lat="50.5333614188" lon="5.21957266859">
+  <name>aldi Chaussée de Tirlemont 20 4520 Wanze </name>
+</wpt>
+<wpt lat="50.4062075275" lon="4.2849886625">
+  <name>aldi Chaussée de Charleroi 127 6150 Anderlues </name>
+</wpt>
+<wpt lat="50.8973308203" lon="4.35861612238">
+  <name>aldi De Wandstraat / rue de Wand 28 - 30 1020 Laken/Laeken </name>
+</wpt>
+<wpt lat="50.8614578134" lon="3.32067308413">
+  <name>aldi Gentsesteenweg 98  8530 Harelbeke </name>
+</wpt>
+<wpt lat="51.2998192903" lon="4.71069153788">
+  <name>aldi Antwerpsesteenweg 130 2390 Malle Oostmalle </name>
+</wpt>
+<wpt lat="50.9797701929" lon="6.0991181924">
+  <name>aldi Von - Humboldt - Str. 126  52511 Geilenkirchen-Niederheid </name>
+</wpt>
+<wpt lat="50.3436788843" lon="3.5524462484">
+  <name>aldi Avenue Albert Schweitzer  59770 Marly </name>
+</wpt>
+<wpt lat="49.6841583273" lon="5.79405931045">
+  <name>aldi rue de l'Hydrion, 5  6700 Arlon </name>
+</wpt>
+<wpt lat="50.9322977026" lon="6.5686270232">
+  <name>aldi Hinter den Gärten 2  50189 Elsdorf </name>
+</wpt>
+<wpt lat="49.3517401476" lon="6.13828364833">
+  <name>aldi Rue du Linkling  57180 Terville </name>
+</wpt>
+<wpt lat="51.3868420055" lon="4.58786219295">
+  <name>aldi Bredabaan 533 2990 Wuustwezel </name>
+</wpt>
+<wpt lat="50.9258188774" lon="3.44995955819">
+  <name>aldi Staatsbaan  28 9870 Zulte </name>
+</wpt>
+<wpt lat="51.0553709515" lon="5.08844258523">
+  <name>aldi Diesterstraat 94 3980 Tessenderlo </name>
+</wpt>
+<wpt lat="50.40800726" lon="3.88723670264">
+  <name>aldi Rue Notre-Dame de Grâces 48 7080 Frameries La Bouverie </name>
+</wpt>
+<wpt lat="51.1322085787" lon="5.45896308687">
+  <name>aldi Molenstraat 11 b2 3990 Peer </name>
+</wpt>
+<wpt lat="50.6473388748" lon="3.27603075961">
+  <name>aldi rue de Roubaix 71 bis  7520 Templeuve </name>
+</wpt>
+<wpt lat="51.0951217282" lon="2.6037968524">
+  <name>aldi Veurnestraat 213  8660 De Panne </name>
+</wpt>
+<wpt lat="49.6419492314" lon="6.00448257981">
+  <name>aldi Parc d'activité de Capellen  2-4 8310 Capellen </name>
+</wpt>
+<wpt lat="51.6304712881" lon="5.22908749118">
+  <name>aldi Vincent van Goghplein  5 5268 EC Helvoirt </name>
+</wpt>
+<wpt lat="50.8280794227" lon="5.76766422132">
+  <name>aldi Kerkstraat 83 6267 EC Cadier en Keer </name>
+</wpt>
+<wpt lat="50.8258412284" lon="6.45799247924">
+  <name>aldi Nordstraße 39  52353 Düren - Birkesdorf </name>
+</wpt>
+<wpt lat="50.3605781165" lon="3.30345107537">
+  <name>aldi 14 Rue Victor Hugo  59179 Fenain </name>
+</wpt>
+<wpt lat="51.3077076315" lon="3.11891927505">
+  <name>aldi Grote Edestraat 66  8370 Blankenberge </name>
+</wpt>
+<wpt lat="51.1987873544" lon="4.41679323707">
+  <name>aldi Covelierstraat 8 2600 Berchem </name>
+</wpt>
+<wpt lat="50.8593971994" lon="5.70070073454">
+  <name>aldi Francois de Veyestraat 3 6221AB Maastricht </name>
+</wpt>
+<wpt lat="50.9276781602" lon="6.21161433208">
+  <name>aldi Hauptstraße 150  52499 Baesweiler-Setterich </name>
+</wpt>
+<wpt lat="51.0200893425" lon="3.00831171074">
+  <name>aldi Staatsbaan  80A 8610 Kortemark </name>
+</wpt>
+<wpt lat="50.9165610375" lon="3.19814051532">
+  <name>aldi Krekelmotestraat 77  8870 Izegem </name>
+</wpt>
+<wpt lat="51.092308937" lon="6.15938173321">
+  <name>aldi Weilerstraße 61-65  41849 Wassenberg </name>
+</wpt>
+<wpt lat="50.4499205326" lon="6.66106829107">
+  <name>aldi Am Mürel 3  53945 Blankenheim-Ahr </name>
+</wpt>
+<wpt lat="50.6115704372" lon="5.61413203676">
+  <name>aldi rue de la Station 5-7  4032 Chênée </name>
+</wpt>
+<wpt lat="51.0357796579" lon="4.83168626674">
+  <name>aldi Westmeerbeeksesteenweg 27a  2230 Ramsel </name>
+</wpt>
+<wpt lat="50.7201492448" lon="4.62425773834">
+  <name>aldi Chaussée de Louvain 314 1300 Wavre </name>
+</wpt>
+<wpt lat="51.2886788462" lon="4.48722810524">
+  <name>aldi Leopoldslei 10 2930 Brasschaat </name>
+</wpt>
+<wpt lat="51.0305878488" lon="3.55812096774">
+  <name>aldi Landegemstraat 1 9850 Nevele </name>
+</wpt>
+<wpt lat="50.6618210557" lon="4.6134299062">
+  <name>aldi Avenue des Musiciens 5 1340 Louvain-La-Neuve </name>
+</wpt>
+<wpt lat="51.171380223" lon="4.8337906793">
+  <name>aldi Noorderwijksebaan 40 2200 Herentals </name>
+</wpt>
+<wpt lat="49.564362857" lon="5.53179015052">
+  <name>aldi Faubourg d´Arrival 65 6762 Virton </name>
+</wpt>
+<wpt lat="51.5899196089" lon="5.07876588475">
+  <name>aldi Verdiplein 95 5049 NP Tilburg </name>
+</wpt>
+<wpt lat="50.9253313702" lon="3.67131857827">
+  <name>aldi Molenstraat 80 9890 Gavere </name>
+</wpt>
+<wpt lat="50.2970988577" lon="3.80823129956">
+  <name>aldi Route de Maubeuge  59570 Bavay </name>
+</wpt>
+<wpt lat="50.8156714312" lon="3.24710857676">
+  <name>aldi Engelse Wandeling 2L2 8510 Kortrijk </name>
+</wpt>
+<wpt lat="50.8775195335" lon="4.3420506184">
+  <name>aldi Emille Delvastraat / rue Emile Delva 132 1020 Laken/Laeken </name>
+</wpt>
+<wpt lat="49.7617922383" lon="6.10363278686">
+  <name>aldi Z.I. Um Mierscherbierg 5 7526 Mersch </name>
+</wpt>
+<wpt lat="51.3025688376" lon="4.56945307967">
+  <name>aldi Handelslei 10 2960 Sint Job in 't Goor </name>
+</wpt>
+<wpt lat="50.2693312692" lon="3.92960374349">
+  <name>aldi Rue Dauge  59600 Maubeuge </name>
+</wpt>
+<wpt lat="51.2504512551" lon="5.53955129598">
+  <name>aldi Bernard Kempplein 2A 3930 Hamont </name>
+</wpt>
+<wpt lat="51.1303574828" lon="3.1533273197">
+  <name>aldi Groenestraat 112D  8210 Zedelgem </name>
+</wpt>
+<wpt lat="50.3254818171" lon="3.38447095885">
+  <name>aldi 2 B Rue Pierre Bériot  59220 Denain </name>
+</wpt>
+<wpt lat="50.8738025605" lon="6.16879763042">
+  <name>aldi Allensteiner Straße 17  52477 Alsdorf </name>
+</wpt>
+<wpt lat="50.8990778033" lon="3.87530270493">
+  <name>aldi Provincieweg 247 9550 Herzele </name>
+</wpt>
+<wpt lat="50.0266672194" lon="4.03404196159">
+  <name>aldi 166 Rue Théophile Legrand  59610 Fourmies </name>
+</wpt>
+<wpt lat="50.6100695077" lon="2.87753236281">
+  <name>aldi 20 Rue du Haut Quesnoy  59134 Le Maisnil </name>
+</wpt>
+<wpt lat="49.1299624639" lon="6.16030803446">
+  <name>aldi 7/9 Route de Lorry  57000 Metz </name>
+</wpt>
+<wpt lat="50.7130771566" lon="2.88551833867">
+  <name>aldi Chemin de la Blanche 90  7782 Ploegsteert </name>
+</wpt>
+<wpt lat="50.72247221" lon="4.51620424739">
+  <name>aldi Avenue Albert 1er 327 1332 Genval </name>
+</wpt>
+<wpt lat="51.5239913147" lon="5.98911317356">
+  <name>aldi D'n Herk 96 5803 DN Venray </name>
+</wpt>
+<wpt lat="49.4749204113" lon="5.95606310454">
+  <name>aldi 562 Allée Lucien Schaeffer  57390 Audun-le-Tiche </name>
+</wpt>
+<wpt lat="50.7837215959" lon="6.48920793218">
+  <name>aldi Gut Weyern 1  52349 Düren </name>
+</wpt>
+<wpt lat="49.7809592035" lon="4.69051975426">
+  <name>aldi 4 Rue des Wattines  08000 Warcq </name>
+</wpt>
+<wpt lat="50.8790913551" lon="3.81776410858">
+  <name>aldi Vandendriesschestraat 3  9620 Zottegem </name>
+</wpt>
+<wpt lat="50.7178090826" lon="2.54493625329">
+  <name>aldi Rue du Milieu  59190 Hazebrouck </name>
+</wpt>
+<wpt lat="50.2877624347" lon="5.92141224307">
+  <name>aldi rue Hermanmont 3  6690 Vielsalm </name>
+</wpt>
+<wpt lat="51.1167993296" lon="3.57268997775">
+  <name>aldi Motje 48 9930 Zomergem </name>
+</wpt>
+<wpt lat="51.237119828" lon="4.96963320787">
+  <name>aldi Geelsebaan 64 2460 Kasterlee </name>
+</wpt>
+<wpt lat="51.3194280005" lon="5.08015084003">
+  <name>aldi De Daries 8 2370 Arendonk </name>
+</wpt>
+<wpt lat="51.2262119824" lon="2.91497112126">
+  <name>aldi A. Pieterslaan 26  8400 Oostende </name>
+</wpt>
+<wpt lat="49.8129975636" lon="5.08673387418">
+  <name>aldi rue de la Sentinelle 66  6830 Bouillon </name>
+</wpt>
+<wpt lat="51.2178702694" lon="4.13291337894">
+  <name>aldi Samelstraat 14 9170 St-Gillis-Waas </name>
+</wpt>
+<wpt lat="50.4294612242" lon="4.45809907843">
+  <name>aldi Chaussée de Châtelet 393 6042 Lodelinsart </name>
+</wpt>
+<wpt lat="51.4122979173" lon="5.39705378752">
+  <name>aldi Mira (W.C. Zonderwijk) 23a 5505 AR Veldhoven </name>
+</wpt>
+<wpt lat="50.7721719933" lon="6.06051031585">
+  <name>aldi Weststraße 28  52074 Aachen </name>
+</wpt>
+<wpt lat="49.223152636" lon="6.00543586071">
+  <name>aldi Rue de la Taye  54310 Homécourt </name>
+</wpt>
+<wpt lat="51.2261725586" lon="4.4504098787">
+  <name>aldi Ten Eekhovelei 29 2100 Deurne </name>
+</wpt>
+<wpt lat="51.1286474105" lon="6.06890098644">
+  <name>aldi Angsterweg 16a 6063 AV Vlodrop </name>
+</wpt>
+<wpt lat="50.6454284901" lon="3.09726361078">
+  <name>aldi Avenue de la Sablière  59370 Mons-en-Baroeul </name>
+</wpt>
+<wpt lat="50.7716885652" lon="6.08419844695">
+  <name>aldi Franzstraße 2  52064 Aachen-Zentrum </name>
+</wpt>
+<wpt lat="51.6333572801" lon="4.86317151617">
+  <name>aldi Loevensteinlaan 165-173 4902 WT Oosterhout </name>
+</wpt>
+<wpt lat="51.6622517297" lon="5.03100291426">
+  <name>aldi Jan de Rooijstraat 15a 5171 DR Kaatsheuvel </name>
+</wpt>
+<wpt lat="50.4124604442" lon="4.54233853325">
+  <name>aldi rue du Campinaire 80 6250 Pont-de-Loup </name>
+</wpt>
+<wpt lat="50.6918373975" lon="2.40409349659">
+  <name>aldi Rue Pierre Dhedin  59173 Blaringhem </name>
+</wpt>
+<wpt lat="51.6492911248" lon="4.60163979995">
+  <name>aldi De Donk 12-14 4761 JK Zevenbergen </name>
+</wpt>
+<wpt lat="51.2262795661" lon="4.41844798882">
+  <name>aldi Brugstraat 8 - 10 2060 Antwerpen </name>
+</wpt>
+<wpt lat="49.5215478113" lon="4.36920113768">
+  <name>aldi ZI de L'Etoîle  08300 Rethel </name>
+</wpt>
+<wpt lat="50.8685415439" lon="4.64419569834">
+  <name>aldi Tervuursesteenweg 167 3060 Bertem </name>
+</wpt>
+<wpt lat="51.3470110423" lon="5.88831720797">
+  <name>aldi Zonnedauw 6 5768 GB Meijel </name>
+</wpt>
+<wpt lat="50.4752590215" lon="4.78722380655">
+  <name>aldi Chaussée de Nivelles 80 5020 Suarlée Suarlée </name>
+</wpt>
+<wpt lat="50.8322885278" lon="4.31168052777">
+  <name>aldi Steenweg op Bergen / Chaussée de Mons 576 1070 Anderlecht </name>
+</wpt>
+<wpt lat="50.4402876598" lon="4.79070418116">
+  <name>aldi rue Ancien Rivage 70 5020 Malonne </name>
+</wpt>
+<wpt lat="49.8409608184" lon="3.90506125687">
+  <name>aldi 56 Chaussée de Fontaine  02140 Fontaine-lès-Vervins </name>
+</wpt>
+<wpt lat="50.8588408747" lon="6.20539102657">
+  <name>aldi Eschweiler Straße 2 d  52477 Alsdorf - Mariadorf </name>
+</wpt>
+<wpt lat="50.4595686205" lon="2.94031400412">
+  <name>aldi Avenue Maurice Tilloy - Marais du Bois Est  62440 Harnes </name>
+</wpt>
+<wpt lat="50.1192377374" lon="4.97344633148">
+  <name>aldi rue de Rochefort 73 - 75  5570 Beauraing </name>
+</wpt>
+<wpt lat="50.6239983476" lon="3.79442671291">
+  <name>aldi Rue de Soignies 22 7800 Ath </name>
+</wpt>
+<wpt lat="50.6415219393" lon="3.98215110493">
+  <name>aldi Ch. d´Ath  4 7850 Enghien </name>
+</wpt>
+<wpt lat="49.735178253" lon="4.85093174911">
+  <name>aldi 5 Rue Pierre Viénot  08330 Vrigne-aux-Bois </name>
+</wpt>
+<wpt lat="50.3913714604" lon="2.90961116449">
+  <name>aldi 2 Route d'Izel  62320 Rouvroy </name>
+</wpt>
+<wpt lat="50.9991814115" lon="5.85854966281">
+  <name>aldi Brugstraat 3a 6131 AE Sittard </name>
+</wpt>
+<wpt lat="50.9993398832" lon="4.1242619051">
+  <name>aldi Leo Duboisstraat 45 9280 Lebbeke </name>
+</wpt>
+<wpt lat="51.1031016682" lon="5.86178722059">
+  <name>aldi Palmbrugweg 4 6101 AJ Echt </name>
+</wpt>
+<wpt lat="51.485450267" lon="5.14220403083">
+  <name>aldi Bloemenstraat 11 5081 CR Hilvarenbeek </name>
+</wpt>
+<wpt lat="50.4738796656" lon="3.23148736047">
+  <name>aldi 2 Bis Carrière Dorée  59310 Orchies </name>
+</wpt>
+<wpt lat="50.7867293698" lon="6.10277843133">
+  <name>aldi Grüner Weg 32  52070 Aachen-Gewerbegebiet </name>
+</wpt>
+<wpt lat="51.2233226878" lon="3.74590831227">
+  <name>aldi Molenstraat 77 9960 Assenede </name>
+</wpt>
+<wpt lat="50.6095102138" lon="6.30943354316">
+  <name>aldi Matthias-Zimmermann-Str. 11  52152 Simmerath </name>
+</wpt>
+<wpt lat="50.9882115891" lon="4.8421903431">
+  <name>aldi August Reyerslaan 13 3200 Aarschot </name>
+</wpt>
+<wpt lat="50.4225000652" lon="6.01481578506">
+  <name>aldi avenue des Alliés 98 D  4960 Malmédy </name>
+</wpt>
+<wpt lat="51.0007208282" lon="3.87310836021">
+  <name>aldi Gentsesteenweg 68- 70 9230 Wetteren </name>
+</wpt>
+<wpt lat="50.7807989232" lon="3.03623564661">
+  <name>aldi Komenstraat 36 B  8940 Wervik </name>
+</wpt>
+<wpt lat="50.7883724765" lon="4.31394681822">
+  <name>aldi Grote Baan / Grande Route 240 1620 Drogenbos </name>
+</wpt>
+<wpt lat="51.5449806452" lon="5.18227780159">
+  <name>aldi Raadhuisstraat 1 5066 AP Moergestel </name>
+</wpt>
+<wpt lat="51.5656081077" lon="4.79423851507">
+  <name>aldi Allerheiligenweg 85 4834 TN Breda </name>
+</wpt>
+<wpt lat="49.316982284" lon="6.29197771079">
+  <name>aldi Route de Kédange - Angle RD 60 et 918  57940 Metzervisse </name>
+</wpt>
+<wpt lat="50.3501523739" lon="3.13758019838">
+  <name>aldi 101 Boulevard Pasteur  59287 Guesnain </name>
+</wpt>
+<wpt lat="50.897047213" lon="6.12983002524">
+  <name>aldi Am Boscheler Berg 8  52134 Herzogenrath-Merkstein </name>
+</wpt>
+<wpt lat="50.8930481661" lon="3.04733327522">
+  <name>aldi Stationstraat  196 8890 Moorslede </name>
+</wpt>
+<wpt lat="51.5806883589" lon="4.64337731568">
+  <name>aldi Concordialaan 195-197 4871 ZA Etten-Leur </name>
+</wpt>
+<wpt lat="51.6941604089" lon="5.22184795225">
+  <name>aldi Oliemaat 6 5251 AG Vlijmen </name>
+</wpt>
+<wpt lat="50.7711880696" lon="6.12309410641">
+  <name>aldi Freunder Weg 23  52068 Aachen-Forst </name>
+</wpt>
+<wpt lat="50.9351088805" lon="3.14726589207">
+  <name>aldi Rumbeeksesteenweg 389  8800 Rumbeke </name>
+</wpt>
+<wpt lat="50.5887774053" lon="6.66559187875">
+  <name>aldi Georges-Girard-Ring 1  53894 Mechernich </name>
+</wpt>
+<wpt lat="51.5465689958" lon="4.58948996505">
+  <name>aldi Kanariestraat  13 4711 JR Sint Willebrord </name>
+</wpt>
+<wpt lat="50.9916420599" lon="3.32838027029">
+  <name>aldi Stationsstraat 91  8700 Tielt </name>
+</wpt>
+<wpt lat="50.4601583211" lon="4.88597831209">
+  <name>aldi Chaussée de Liège 215 5100 Namur Jambes </name>
+</wpt>
+<wpt lat="50.9434677302" lon="5.37098245416">
+  <name>aldi Genkersteenweg 282A 3500 Hasselt </name>
+</wpt>
+<wpt lat="50.8133871834" lon="5.16091891345">
+  <name>aldi Tiensesteenweg 220 3800 Sint-Truiden </name>
+</wpt>
+<wpt lat="51.0924219038" lon="4.01656814279">
+  <name>aldi Zelebaan 128  9160 Lokeren </name>
+</wpt>
+<wpt lat="51.1569824165" lon="4.4848538962">
+  <name>aldi Hovesteenweg 125 2530 Boechout </name>
+</wpt>
+<wpt lat="49.7591082583" lon="4.72933447477">
+  <name>aldi 3 Rue du Theux  08000 Charleville-Mézières </name>
+</wpt>
+<wpt lat="50.4513406714" lon="2.63714369755">
+  <name>aldi 73 Rue Victor Hugo  62530 Hersin-Coupigny </name>
+</wpt>
+<wpt lat="50.7432428253" lon="4.34651125357">
+  <name>aldi Fonteinstraat / rue de la Fontaine 16 A 1640 Sint-Genesius-Rode/Rhode St Genèse </name>
+</wpt>
+<wpt lat="51.06764733" lon="4.52955917323">
+  <name>aldi Generaal De Schachtstraat 37 2860 Sint-Katelijne-Waver </name>
+</wpt>
+<wpt lat="50.8339811514" lon="4.01888839253">
+  <name>aldi Vuurkruissersstraat 122 9400 Ninove </name>
+</wpt>
+<wpt lat="51.001977226" lon="5.3902639094">
+  <name>aldi Industrieweg 2025 3520 Zonhoven </name>
+</wpt>
+<wpt lat="50.6145607395" lon="5.69061034612">
+  <name>aldi rue Bureau 73  4620 Fléron </name>
+</wpt>
+<wpt lat="50.4284414641" lon="3.5689667863">
+  <name>aldi Rue Jean Jaurès  59970 Fresnes-sur-Escaut </name>
+</wpt>
+<wpt lat="50.963432214" lon="5.46908944815">
+  <name>aldi Hasseltweg 74  3600 Genk </name>
+</wpt>
+<wpt lat="50.4484717181" lon="3.90229134632">
+  <name>aldi Avenue Wilson 493 7012 Jemappes </name>
+</wpt>
+<wpt lat="50.5291711501" lon="3.60128840482">
+  <name>aldi rue Neuve Chaussée 169  7600 Péruwelz </name>
+</wpt>
+<wpt lat="51.1247981053" lon="4.21202670062">
+  <name>aldi Paterstraat 48 -  50 9140 Temse </name>
+</wpt>
+<wpt lat="50.8521814942" lon="4.31677068806">
+  <name>aldi Joseph Baecklaan / Avenue Joseph Baeck 40 1080 St Jans Molenbeek St Jean </name>
+</wpt>
+<wpt lat="51.3264981226" lon="6.20000409015">
+  <name>aldi Poststraße 50-56  41334 Nettetal-Kaldenkirchen </name>
+</wpt>
+<wpt lat="51.1437706054" lon="4.57554148695">
+  <name>aldi Lispersteenweg 398 2500 Lier </name>
+</wpt>
+<wpt lat="51.112740141" lon="3.70601440583">
+  <name>aldi Hofbilkstraat 25 9940 Evergem </name>
+</wpt>
+<wpt lat="51.066432272" lon="3.72372204825">
+  <name>aldi Blaisantvest 13 9000 Gent </name>
+</wpt>
+<wpt lat="50.8102276913" lon="6.51143916228">
+  <name>aldi Kölner Landstraße 320  52351 Düren </name>
+</wpt>
+<wpt lat="50.600149614" lon="3.40472368142">
+  <name>aldi Rue de la Lys 18  7500 Tournai </name>
+</wpt>
+<wpt lat="50.7553002409" lon="3.20082049371">
+  <name>aldi Rue de Menin 460  7700 Moeskroen </name>
+</wpt>
+<wpt lat="50.3816807959" lon="3.58501967697">
+  <name>aldi 25 Rue Jean Jaurès - RN 30  59264 Onnaing </name>
+</wpt>
+<wpt lat="50.874920521" lon="3.61237704022">
+  <name>aldi Molenstraat 128 9700 Oudenaarde </name>
+</wpt>
+<wpt lat="51.3244693676" lon="6.08536756504">
+  <name>aldi Diepenbroeklaan 1-3 5991 PT Baarlo </name>
+</wpt>
+<wpt lat="49.1468780038" lon="5.40635277292">
+  <name>aldi Avenue de Metz - ZAC du Dragon  55100 Verdun </name>
+</wpt>
+<wpt lat="50.6865501699" lon="6.65343305064">
+  <name>aldi Bonner Straße 36  53909 Zülpich </name>
+</wpt>
+<wpt lat="51.211752428" lon="4.40214328811">
+  <name>aldi Terninckstraat 13 2000 Antwerpen </name>
+</wpt>
+<wpt lat="50.8554119519" lon="4.40015578736">
+  <name>aldi Leuvensesteenweg / Chaussée de Louvain 612 1030 Schaarbeek/Schaerbeek </name>
+</wpt>
+<wpt lat="50.0266094441" lon="5.36582934136">
+  <name>aldi av. des chasseurs Ardennais 18 6870 St-Hubert </name>
+</wpt>
+<wpt lat="50.0454116155" lon="4.32874065863">
+  <name>aldi Chaussée de Couvin 63 6460 Chimay </name>
+</wpt>
+<wpt lat="51.3097315062" lon="3.38132333323">
+  <name>aldi Sint Annastraat 17 4524 JB Sluis </name>
+</wpt>
+<wpt lat="51.102740257" lon="5.15447077754">
+  <name>aldi Heidestraat  79 3945 Ham </name>
+</wpt>
+<wpt lat="50.1639005517" lon="5.21547176207">
+  <name>aldi Rue de la Libération 61 5580 Rochefort </name>
+</wpt>
+<wpt lat="50.253630129" lon="3.92828174073">
+  <name>aldi 54 Rue de Louvroil  59330 Hautmont </name>
+</wpt>
+<wpt lat="51.0898123003" lon="4.91435190876">
+  <name>aldi Boerenkrijglaan 59A 2260 Westerlo </name>
+</wpt>
+<wpt lat="51.0393875661" lon="3.74551261076">
+  <name>aldi Brusselsesteenweg 4 9050 Gent Ledeberg </name>
+</wpt>
+<wpt lat="50.9082313761" lon="4.51323648609">
+  <name>aldi Mulslaan 11 1820 Steenokkerzeel </name>
+</wpt>
+<wpt lat="50.978422598" lon="4.95516312324">
+  <name>aldi Mannenberg 34 3270 Scherpenheuvel </name>
+</wpt>
+<wpt lat="51.1994185072" lon="3.20219645576">
+  <name>aldi Torhoutsesteenweg 130  8000 Brugge </name>
+</wpt>
+<wpt lat="51.1770805799" lon="3.57853556819">
+  <name>aldi Gentsesteenweg  26 A 9900 Eeklo </name>
+</wpt>
+<wpt lat="50.9498307826" lon="5.77679233562">
+  <name>aldi Koolweg  61 6181 BL Elsloo </name>
+</wpt>
+<wpt lat="51.383491341" lon="6.17358202137">
+  <name>aldi Van Postelstraat 120 5914 PR Venlo </name>
+</wpt>
+<wpt lat="49.9606599654" lon="5.86063608894">
+  <name>aldi rue de Bastogne 6  9638 Pommerloch </name>
+</wpt>
+<wpt lat="50.386497705" lon="2.35400128314">
+  <name>aldi Route d'Ostreville - CD 86  62130 St-Pol-sur-Ternoise </name>
+</wpt>
+<wpt lat="49.4891884512" lon="5.97688239972">
+  <name>aldi rue d'Audun, 59  4018 Esch-Sur-Alzette </name>
+</wpt>
+<wpt lat="49.930132008" lon="4.52997286117">
+  <name>aldi 28 Rue Royale  08230 Rocroi </name>
+</wpt>
+<wpt lat="51.0358475209" lon="4.11739108803">
+  <name>aldi Mechelsesteenweg 91 9200 Dendermonde </name>
+</wpt>
+<wpt lat="51.0748805037" lon="4.70892886754">
+  <name>aldi Stationsstraat 90-92 2220 Heist op den Berg </name>
+</wpt>
+<wpt lat="50.984027883" lon="5.81462679558">
+  <name>aldi Bloemenmarkt 21 6163 CG Geleen </name>
+</wpt>
+<wpt lat="50.384490719" lon="3.49076177945">
+  <name>aldi 189 Bis Rue Henri Durré  59590 Raismes </name>
+</wpt>
+<wpt lat="50.853379458" lon="2.87478943191">
+  <name>aldi Maarschalck Haighlaan  31 C 8900 Ieper </name>
+</wpt>
+<wpt lat="50.9014826336" lon="5.17433679181">
+  <name>aldi Grote Steenweg 129  3454 Rummen </name>
+</wpt>
+<wpt lat="50.7010088679" lon="4.84953780062">
+  <name>aldi Ch. de Charleroi  103 1370 Jodoigne </name>
+</wpt>
+<wpt lat="50.9292312845" lon="4.52910951243">
+  <name>aldi Kutsegemstraat 47 - 49 1910 Kampenhout Berg </name>
+</wpt>
+<wpt lat="51.2098312807" lon="4.04525650202">
+  <name>aldi Oost-Eindeken 4 9190 Stekene </name>
+</wpt>
+<wpt lat="51.1805985493" lon="3.09175976256">
+  <name>aldi Gistelsteenweg 308 8490 Jabbeke </name>
+</wpt>
+<wpt lat="51.4914812789" lon="3.60446301009">
+  <name>aldi Westerscheldeplein 2 4335 NL Middelburg </name>
+</wpt>
+<wpt lat="50.3924780197" lon="4.439267284">
+  <name>aldi Avenue Eugène Mascaux 276 6001 Charleroi Marcinelle </name>
+</wpt>
+<wpt lat="51.2938979269" lon="6.2430995815">
+  <name>aldi Josefstr. 71  41334 Nettetal-Breyell </name>
+</wpt>
+<wpt lat="50.6028095836" lon="5.48114035767">
+  <name>aldi Rue de Meuse 1 4400 Flémalle </name>
+</wpt>
+<wpt lat="50.4472118433" lon="2.73552048802">
+  <name>aldi 40 Rue Hapiot  62160 Bully-les-Mines </name>
+</wpt>
+<wpt lat="50.5029692484" lon="5.39510225963">
+  <name>aldi rue sur les Haies et route de Marche  4557 Tinlot </name>
+</wpt>
+<wpt lat="50.6138702477" lon="3.02458943181">
+  <name>aldi Rue Jules Ferry  59120 Loos </name>
+</wpt>
+<wpt lat="50.9865811774" lon="4.7829430357">
+  <name>aldi Pastoor Pitetlaan 31 3130 Betekom </name>
+</wpt>
+<wpt lat="51.114100771" lon="4.64645299557">
+  <name>aldi Zomerstraat  20/1 2590 Berlaar </name>
+</wpt>
+<wpt lat="50.8087103772" lon="6.4777415817">
+  <name>aldi Fritz-Erler-Straße 11  52349 Düren-Innenstadt </name>
+</wpt>
+<wpt lat="49.4939318579" lon="6.08572729368">
+  <name>aldi route du Luxembourg  3515 Dudelange </name>
+</wpt>
+<wpt lat="50.430549708" lon="4.86499713903">
+  <name>aldi Chaussée de Dinant 704 5100 Namur Wépion </name>
+</wpt>
+<wpt lat="50.0594203655" lon="4.49380214618">
+  <name>aldi Chemin du Try Châlon 19 5660 Couvin </name>
+</wpt>
+<wpt lat="51.0169721407" lon="5.90114153407">
+  <name>aldi In der Fummer 3  52538 Selfkant - Tüddern </name>
+</wpt>
+<wpt lat="50.9499724256" lon="3.11282187457">
+  <name>aldi St. Sebastiaanstraat 79 (Westlaan)  8800 Roeselare </name>
+</wpt>
+<wpt lat="51.5701416521" lon="5.06049166972">
+  <name>aldi Bernardusplein 24 5042 HP Tilburg </name>
+</wpt>
+<wpt lat="49.8632792042" lon="5.25148059917">
+  <name>aldi Rue des Corettes 5 6880 Bertrix </name>
+</wpt>
+<wpt lat="50.379667871" lon="3.08845925226">
+  <name>aldi 138 Rue Augustin Boutique  59500 Douai </name>
+</wpt>
+<wpt lat="50.5477301271" lon="5.64964624697">
+  <name>aldi Complexe commercial "Trixhe Macar"  4140 Sprimont </name>
+</wpt>
+<wpt lat="50.6322190489" lon="5.73645776159">
+  <name>aldi av. de la Résistance 330 4630 Soumagne </name>
+</wpt>
+<wpt lat="50.9964816493" lon="5.21120897766">
+  <name>aldi Molemstraat 50  3560 Lummen </name>
+</wpt>
+<wpt lat="51.2556296525" lon="4.46050026712">
+  <name>aldi Bredabaan 891-893 2170 Merksem </name>
+</wpt>
+<wpt lat="50.8631891129" lon="4.3801278952">
+  <name>aldi Wijnheuvelenstraat / rue des Côteaux 249 1030 Schaarbeek/Schaerbeek </name>
+</wpt>
+<wpt lat="50.6052296828" lon="3.0972186447">
+  <name>aldi 152 Rue Louis Braille  59790 Ronchin </name>
+</wpt>
+<wpt lat="50.459791906" lon="3.81201744352">
+  <name>aldi rue de la Rivierette 43 7333 Saint-Ghislain </name>
+</wpt>
+<wpt lat="50.9232905871" lon="5.93839143499">
+  <name>aldi Prof. v.d. Hoffstraat 11 6431 VB Hoensbroek </name>
+</wpt>
+<wpt lat="50.724538869" lon="3.14496362876">
+  <name>aldi 25 Rue du Brun Pain  59200 Tourcoing </name>
+</wpt>
+<wpt lat="51.1019609544" lon="4.51141086323">
+  <name>aldi Mechelsesteenweg 494 - 496 2500 LIER </name>
+</wpt>
+<wpt lat="50.912002306" lon="2.92005228834">
+  <name>aldi Boezingestraat 23 8920 Langemark </name>
+</wpt>
+<wpt lat="51.4735090865" lon="5.54521702209">
+  <name>aldi Parkhof 13 5671 EX Nuenen </name>
+</wpt>
+<wpt lat="50.4224771462" lon="2.90669736249">
+  <name>aldi 1 Chemin du Marais  62740 Fouquières-les-Lens </name>
+</wpt>
+<wpt lat="50.9787113716" lon="3.66479849663">
+  <name>aldi Savaanstraat 5 9810 Eke </name>
+</wpt>
+<wpt lat="51.2195826687" lon="4.27726348991">
+  <name>aldi Grote Baan 259 9120 Beveren Melsele </name>
+</wpt>
+<wpt lat="50.1421074952" lon="4.82251318636">
+  <name>aldi 35 Rue de Bon Secours  08600 Givet </name>
+</wpt>
+<wpt lat="50.9263914084" lon="4.44677661941">
+  <name>aldi Leuvensesteenweg 229 1800 Vilvoorde Peutie </name>
+</wpt>
+<wpt lat="50.1122426095" lon="3.41547956782">
+  <name>aldi Boulevard du 19 Mars 1962  59540 Caudry </name>
+</wpt>
+<wpt lat="51.5041902699" lon="3.59725045081">
+  <name>aldi Euromarkt 8 4334 ER Middelburg </name>
+</wpt>
+<wpt lat="50.9048117574" lon="6.18188275979">
+  <name>aldi Im Kirchwinkel 5 g  52499 Baesweiler </name>
+</wpt>
+<wpt lat="50.9808799477" lon="5.49019652624">
+  <name>aldi Wilde Kastanjelaan 5 3600 Winterslag </name>
+</wpt>
+<wpt lat="51.1404980952" lon="4.45543708647">
+  <name>aldi Antwerpsesteenweg 123 2550 Kontich </name>
+</wpt>
+<wpt lat="50.874131709" lon="4.33185231139">
+  <name>aldi Leopold I straat / rue Leopold 1er 374 1090 Jette </name>
+</wpt>
+<wpt lat="50.8656979641" lon="4.7484990182">
+  <name>aldi Tiensesteenweg 352 3360 Korbeek-Lo </name>
+</wpt>
+<wpt lat="50.949111229" lon="5.95927368268">
+  <name>aldi Kennedylaan 92a 6441 JG Brunssum </name>
+</wpt>
+<wpt lat="50.7087718848" lon="4.40121698685">
+  <name>aldi Chaussée de Bruxelles 412 1410 Waterloo </name>
+</wpt>
+<wpt lat="50.1815374694" lon="3.24906909786">
+  <name>aldi 80 Avenue de Valenciennes - RN 30  59400 Cambrai </name>
+</wpt>
+<wpt lat="50.6892280428" lon="5.64530252362">
+  <name>aldi r. Basse campagne 133  4040 Herstal II </name>
+</wpt>
+<wpt lat="51.2730799333" lon="5.07417934456">
+  <name>aldi Turnhoutsebaan 84-88 2470 Retie </name>
+</wpt>
+<wpt lat="51.1297028091" lon="5.36573041599">
+  <name>aldi Lommelsebaan 65 3940 Hechtel </name>
+</wpt>
+<wpt lat="50.6181100501" lon="6.65649973731">
+  <name>aldi Kölner Straße 125 -127  53894 Mechernich-Kommern </name>
+</wpt>
+<wpt lat="51.201041432" lon="4.40643305217">
+  <name>aldi Lange Lozanastraat 177-179 2018 Antwerpen </name>
+</wpt>
+<wpt lat="50.5106620611" lon="3.6699875823">
+  <name>aldi avenue de l'Europe 54  7321 Blaton </name>
+</wpt>
+<wpt lat="50.7343414477" lon="4.22967139052">
+  <name>aldi August Demaeghtlaan 166 1500 Halle </name>
+</wpt>
+<wpt lat="51.2178984344" lon="6.27400027188">
+  <name>aldi Industriestr. 3  41366 Schwalmtal-Waldniel </name>
+</wpt>
+<wpt lat="51.3434776988" lon="4.38976862281">
+  <name>aldi Hoogeind 8 2940 Stabroek </name>
+</wpt>
+<wpt lat="51.0746827367" lon="2.66805338114">
+  <name>aldi Nieuwpoortkeiweg 10  8630 Veurne </name>
+</wpt>
+<wpt lat="51.1753496855" lon="3.86382736124">
+  <name>aldi Stationstraat  94C 9185 Wachtebeke </name>
+</wpt>
+<wpt lat="51.2615390673" lon="4.50769666499">
+  <name>aldi Paalstraat 347 2900 Schoten </name>
+</wpt>
+<wpt lat="50.4926205819" lon="5.10114999952">
+  <name>aldi Avenue de Belle-Mine 16 5300 Andenne </name>
+</wpt>
+<wpt lat="50.7283075827" lon="3.30972834018">
+  <name>aldi Boulevard des Canadiens 6  7711 Dottignies </name>
+</wpt>
+<wpt lat="50.699322819" lon="5.28329859759">
+  <name>aldi Chaussée Romaine 224 4300 Waremme </name>
+</wpt>
+<wpt lat="51.2290673059" lon="4.43852984028">
+  <name>aldi Slachthuislaan 27 2060 Antwerpen </name>
+</wpt>
+<wpt lat="51.1851703809" lon="4.37133252989">
+  <name>aldi Zeelandstraat 8 2660 Hoboken </name>
+</wpt>
+<wpt lat="49.4770006957" lon="6.38750365177">
+  <name>aldi Trierer Straße 41  66706 Perl </name>
+</wpt>
+<wpt lat="50.2065877454" lon="3.854285559">
+  <name>aldi 60 Rue de Maubeuge - CD 959  59138 Bachant </name>
+</wpt>
+<wpt lat="50.254320145" lon="4.60646016376">
+  <name>aldi route de Mettet  46 5620 Florennes </name>
+</wpt>
+<wpt lat="50.1959727771" lon="4.53390289659">
+  <name>aldi Zoning des Quatre Bras 7 5600 Philippeville </name>
+</wpt>
+<wpt lat="50.2637091196" lon="3.32307427281">
+  <name>aldi 14 Route Nationale  59111 Hordain </name>
+</wpt>
+<wpt lat="50.4528695635" lon="4.47827086205">
+  <name>aldi rue de la Flanière  2 6043 Ransart </name>
+</wpt>
+<wpt lat="50.7233888386" lon="3.83360116206">
+  <name>aldi Chaussée de Grammont 120  7860 Lessines </name>
+</wpt>
+<wpt lat="51.219729121" lon="4.37386861682">
+  <name>aldi Edmond de Coussemakerstraat 2 2050 Antwerpen </name>
+</wpt>
+<wpt lat="50.0186993574" lon="6.28900095627">
+  <name>aldi Wabecostraße 3  54673 Neuerburg </name>
+</wpt>
+<wpt lat="50.3527174222" lon="3.51197677614">
+  <name>aldi Rue du Faubourg de Paris  59300 Valenciennes </name>
+</wpt>
+<wpt lat="49.4814706706" lon="5.20092073848">
+  <name>aldi ZAC des Cailloux - Quartier Chanzy  55700 Stenay </name>
+</wpt>
+<wpt lat="50.171521743" lon="6.02542778001">
+  <name>aldi Rue de Stavelot  9964 Huldange </name>
+</wpt>
+<wpt lat="51.021707263" lon="5.37456175416">
+  <name>aldi De Vloot 6  3530 Houthalen </name>
+</wpt>
+<wpt lat="51.365970724" lon="4.46237984927">
+  <name>aldi Willy Vandersteenplein 16 2920 Kalmthout </name>
+</wpt>
+<wpt lat="51.4421289921" lon="4.92857917656">
+  <name>aldi Stationsstraat 29 5111 CK Baarle-Nassau </name>
+</wpt>
+<wpt lat="51.3524987002" lon="4.63426718781">
+  <name>aldi Bethovenstraat 59 2960 Brecht </name>
+</wpt>
+<wpt lat="50.9981117132" lon="5.93026156767">
+  <name>aldi Hoengener Weg 1 b  52538 Selfkant - Süsterseel </name>
+</wpt>
+<wpt lat="49.739781541" lon="4.71849764942">
+  <name>aldi 6 Boulevard Jean Delautre  08000 Charleville-Mézières </name>
+</wpt>
+<wpt lat="50.2663420698" lon="4.93830084312">
+  <name>aldi Rue Saint Jacques  357 5500 Dinant </name>
+</wpt>
+<wpt lat="50.9164873302" lon="6.0504559003">
+  <name>aldi Korte Hovenstraat 10 6374 GG Landgraaf </name>
+</wpt>
+<wpt lat="50.9431390716" lon="5.8862038022">
+  <name>aldi Scalaplein 1 6365 BP Schinnen </name>
+</wpt>
+<wpt lat="49.2405589234" lon="6.1718103578">
+  <name>aldi 2 Clos de la Chapelle  57525 Talange </name>
+</wpt>
+<wpt lat="49.9127788791" lon="4.09253383884">
+  <name>aldi 89 Rue de la Verrerie  02500 Hirson </name>
+</wpt>
+<wpt lat="50.6906580783" lon="3.16904746137">
+  <name>aldi 20 Rue du Bois  59100 Roubaix </name>
+</wpt>
+<wpt lat="51.4635202295" lon="3.60252946864">
+  <name>aldi Vlissingsestraat 1 4388 HA Oost-Souburg </name>
+</wpt>
+<wpt lat="50.6449722673" lon="2.75715816586">
+  <name>aldi 1440 Rue de la Lys  59253 La Gorgue </name>
+</wpt>
+<wpt lat="50.7136409129" lon="3.16438897545">
+  <name>aldi 12 Rue de Roubaix  59200 Tourcoing </name>
+</wpt>
+<wpt lat="50.6092705143" lon="3.24801689158">
+  <name>aldi 12 Rue de Tournai  59780 Baisieux </name>
+</wpt>
+<wpt lat="50.7889694386" lon="4.49346040397">
+  <name>aldi Brusselsesteenweg 496 3090 Overijse </name>
+</wpt>
+<wpt lat="50.91674814" lon="5.68418918986">
+  <name>aldi Steenweg 48  3621 Rekem </name>
+</wpt>
+<wpt lat="50.8460492545" lon="6.45560028377">
+  <name>aldi Industriestraße 8  52382 Niederzier Huchem-Stammeln </name>
+</wpt>
+<wpt lat="51.1692318345" lon="4.4510843699">
+  <name>aldi Mechelsesteenweg 37 2640 Mortsel </name>
+</wpt>
+<wpt lat="50.8061984606" lon="4.95075644737">
+  <name>aldi Slachthuisstraat 36  3300 Tienen </name>
+</wpt>
+<wpt lat="50.9120590094" lon="4.12071857797">
+  <name>aldi Bleregemstraat 1 1790 Affligem </name>
+</wpt>
+<wpt lat="51.0173002771" lon="4.49619434165">
+  <name>aldi Leuvensesteenweg 100 2800 Mechelen </name>
+</wpt>
+<wpt lat="51.3258911915" lon="4.93149297857">
+  <name>aldi Nieuwe Kaai 29 bus 11 2300 Turnhout </name>
+</wpt>
+<wpt lat="50.8732974833" lon="4.45541910004">
+  <name>aldi Jozef Van Damstraat  3 A 1932 Sint-Stevens-Woluwe </name>
+</wpt>
+<wpt lat="50.8362416736" lon="6.08018747259">
+  <name>aldi Honigmannstraße 14  52134 Herzogenrath - Kohlscheid </name>
+</wpt>
+<wpt lat="51.5916516563" lon="4.52605181897">
+  <name>aldi Oost-Vaardeke 41 4731 JV Oudenbosch </name>
+</wpt>
+<wpt lat="50.4852395509" lon="2.50119325038">
+  <name>aldi Angle Rue de Bruay et Rue d'Heuchin  62470 Calonne-Ricouart </name>
+</wpt>
+<wpt lat="50.4796887138" lon="5.69892007776">
+  <name>aldi Avenue de la porallée 38 A  4920 Aywaille </name>
+</wpt>
+<wpt lat="50.8398083052" lon="4.55572943197">
+  <name>aldi College Van Luxemburglaan 2 3080 Vossem </name>
+</wpt>
+<wpt lat="50.8513695866" lon="5.4952687001">
+  <name>aldi Weyerstraat 14 3730 Hoeselt </name>
+</wpt>
+<wpt lat="50.5883606005" lon="3.05183887647">
+  <name>aldi 221 Rue Clemenceau  59139 Wattignies </name>
+</wpt>
+<wpt lat="50.7056110169" lon="3.19856319647">
+  <name>aldi 60 Rue des Patriotes  59150 Wattrelos </name>
+</wpt>
+<wpt lat="50.9049989072" lon="4.87014125861">
+  <name>aldi Gouden Kruispunt 86  3390 Tielt-Winge </name>
+</wpt>
+<wpt lat="50.7765681162" lon="6.14808625384">
+  <name>aldi Forster Str. 5  52080 Aachen-Eilendorf </name>
+</wpt>
+<wpt lat="50.733259963" lon="6.59492318696">
+  <name>aldi Gereonstraße 137  52391 Vettweiß </name>
+</wpt>
+<wpt lat="51.0533584906" lon="6.22229827276">
+  <name>aldi Parkhofstraße 51  41836 Hückelhoven </name>
+</wpt>
+<wpt lat="50.7122115782" lon="5.67749823711">
+  <name>aldi Rue d'Argenteau 11 4681 Hermalle-sous-Argenteau Hermalle-sous-Argenteau </name>
+</wpt>
+<wpt lat="50.0025689152" lon="5.69909094887">
+  <name>aldi Route de Marche,122  6600 Bastogne </name>
+</wpt>
+<wpt lat="50.4467307913" lon="2.79955218636">
+  <name>aldi 120 Rue du Grand Mont  62750 Loos-en-Gohelle </name>
+</wpt>
+<wpt lat="51.0680485747" lon="4.97755623122">
+  <name>aldi Oude Geelsebaan 12  2431 Veerle-Laakdal </name>
+</wpt>
+<wpt lat="51.1595205465" lon="4.13444222567">
+  <name>aldi Pastoor de Meerleerstraat 113 9100 Sint-Niklaas </name>
+</wpt>
+<wpt lat="50.8158816673" lon="4.43073272196">
+  <name>aldi Waversesteenweg / Chaussée de Wavre 1805 1160 Oudergem/Auderghem </name>
+</wpt>
+<wpt lat="50.4891590791" lon="5.84402561888">
+  <name>aldi Avenue Reine Astrid  228 4900 Spa </name>
+</wpt>
+<wpt lat="51.2173125993" lon="5.42641663795">
+  <name>aldi Leopoldlaan 22A 3900 Overpelt </name>
+</wpt>
+<wpt lat="50.2677217236" lon="4.44860224227">
+  <name>aldi Rue des Barrages 76 A 5650 Walcourt </name>
+</wpt>
+<wpt lat="51.2042476673" lon="4.44408764781">
+  <name>aldi Frans De Vriendtstraat 50 2600 Berchem </name>
+</wpt>
+<wpt lat="50.9522896451" lon="4.2956276371">
+  <name>aldi Merchtemsesteenweg 91 1861 Wolvertem-Meise </name>
+</wpt>
+<wpt lat="50.3717873948" lon="3.20040680577">
+  <name>aldi Cité Barrois - D 25  59146 Pecquencourt </name>
+</wpt>
+<wpt lat="51.2134481543" lon="4.3400900973">
+  <name>aldi Heidam 2 2070 Zwijndrecht </name>
+</wpt>
+<wpt lat="50.4094171937" lon="4.38546986553">
+  <name>aldi Rue Julien Durant 30 6031 Charleroi Monceau-sur-Sambre </name>
+</wpt>
+<wpt lat="51.1240981971" lon="3.03157716069">
+  <name>aldi Aartrijkestraat 111 8480 Eernegem </name>
+</wpt>
+<wpt lat="51.4462712795" lon="4.04340389951">
+  <name>aldi Sluisweg 26 4416 RL Kruiningen </name>
+</wpt>
+<wpt lat="50.666330146" lon="5.56884220068">
+  <name>aldi Rue des Tendeurs 1 4040 Vottem </name>
+</wpt>
+<wpt lat="51.1990184024" lon="4.64289168201">
+  <name>aldi Liersebaan 190 2240 Zandhoven </name>
+</wpt>
+<wpt lat="49.4117803586" lon="5.94798719652">
+  <name>aldi 1 Bis Rue Emile Zola  57710 Aumetz </name>
+</wpt>
+<wpt lat="50.7923293406" lon="6.47049304956">
+  <name>aldi Monschauer Str. 77  52355 Düren - Rölsdorf </name>
+</wpt>
+<wpt lat="50.6706678128" lon="3.12082583686">
+  <name>aldi Rue de Marcq-en-Baroeul  59290 Wasquehal </name>
+</wpt>
+<wpt lat="51.5427378445" lon="4.47636430024">
+  <name>aldi Philipslaan 82 4702 NS Roosendaal </name>
+</wpt>
+<wpt lat="51.3280378934" lon="4.4188257039">
+  <name>aldi Kapelsestraat  116 2950 Kapellen </name>
+</wpt>
+<wpt lat="50.7470726289" lon="4.26452010275">
+  <name>aldi Alsembergsesteenweg 173 1501 Buizingen </name>
+</wpt>
+<wpt lat="51.5615996532" lon="5.10641103092">
+  <name>aldi Spoordijk 72-74 5018 GH Tilburg </name>
+</wpt>
+<wpt lat="50.9745607857" lon="5.78067740496">
+  <name>aldi Mauritsweg 128 6171 AK Stein </name>
+</wpt>
+<wpt lat="50.9299681502" lon="5.97442725174">
+  <name>aldi Akerstraat 128 6445 CT Brunssum </name>
+</wpt>
+<wpt lat="49.4333721992" lon="5.61579578173">
+  <name>aldi 2 Rue Ardant du Picq  54260 Longuyon </name>
+</wpt>
+<wpt lat="51.4886702659" lon="4.29071734113">
+  <name>aldi Glacisstraat 17 4615 AE Bergen op Zoom </name>
+</wpt>
+<wpt lat="50.8889580054" lon="5.64619285201">
+  <name>aldi Molenweideplein 13 3620 Lanaken </name>
+</wpt>
+<wpt lat="50.7035378274" lon="3.00558676628">
+  <name>aldi 57 Rue de Lille  59890 Quesnoy-sur-Deûle </name>
+</wpt>
+<wpt lat="49.446857159" lon="6.34171019559">
+  <name>aldi 89 Rue de Sierck  57480 Rettel </name>
+</wpt>
+<wpt lat="50.8521474284" lon="3.36179006795">
+  <name>aldi Vichtesteenweg 46  8540 Deerlijk </name>
+</wpt>
+<wpt lat="50.4779489358" lon="2.73597914204">
+  <name>aldi 62 Route Nationale 43  62980 Vermelles </name>
+</wpt>
+<wpt lat="51.3533299359" lon="5.45911597154">
+  <name>aldi Handwerkstraat 14 5554 HP Valkenswaard </name>
+</wpt>
+<wpt lat="50.8834604" lon="4.70602405875">
+  <name>aldi J. P. Mincklerstraat 76 3000 Leuven </name>
+</wpt>
+<wpt lat="49.8509007022" lon="6.12626871168">
+  <name>aldi zone Industrielle  9099 Ingeldorf </name>
+</wpt>
+<wpt lat="50.549067326" lon="6.76315927977">
+  <name>aldi Trierer Straße 20  53902 Bad Münstereifel </name>
+</wpt>
+<wpt lat="51.4417590267" lon="5.50338058099">
+  <name>aldi Tongelresestraat 227 5613 DG Eindhoven </name>
+</wpt>
+<wpt lat="50.7708923197" lon="5.46313593912">
+  <name>aldi Luikersteenweg 128  3700 Tongeren </name>
+</wpt>
+<wpt lat="50.468270252" lon="4.26621082737">
+  <name>aldi Chaussée de Bascoup 999 7140 Morlanwelz </name>
+</wpt>
+<wpt lat="51.0846886893" lon="3.71667136686">
+  <name>aldi Morekstraat 330 9032 Gent Wondelgem </name>
+</wpt>
+<wpt lat="49.1655225334" lon="5.84436736109">
+  <name>aldi Rue de Verdun - ZI Val de l'Orne  54800 Conflans-en-Jarnisy </name>
+</wpt>
+<wpt lat="50.9814008438" lon="6.28573641884">
+  <name>aldi Im Gansbruch 2  52441 Linnich </name>
+</wpt>
+<wpt lat="51.493519435" lon="4.31114093481">
+  <name>aldi Holleweg 107-109 4623 XG Bergen op Zoom </name>
+</wpt>
+<wpt lat="49.5163399895" lon="5.76940890523">
+  <name>aldi 22/24 Avenue de Saintignon - 17 Rue du Colonel Merlin  54400 Longwy </name>
+</wpt>
+<wpt lat="50.9351088805" lon="4.0353369847">
+  <name>aldi Kapiteintjesstraat 17 9300 Aalst </name>
+</wpt>
+<wpt lat="50.8094889303" lon="3.08023045957">
+  <name>aldi Menenstraat 27  8940 Geluwe </name>
+</wpt>
+<wpt lat="50.9780205768" lon="4.62842159737">
+  <name>aldi Rijmenamsesteenweg 35 3150 Haacht </name>
+</wpt>
+<wpt lat="50.8165521437" lon="6.06552853042">
+  <name>aldi Roder Weg 4  52072 Aachen - Richterich </name>
+</wpt>
+<wpt lat="50.813881545" lon="4.34756345984">
+  <name>aldi Vanderkinderestraat / rue Vanderkindere 166 1180 Ukkel/Uccle </name>
+</wpt>
+<wpt lat="50.2572008539" lon="3.95901156001">
+  <name>aldi 60 Route d'Avesnes  59720 Louvroil </name>
+</wpt>
+<wpt lat="51.4195107477" lon="5.44110255978">
+  <name>aldi Kastelenplein 60 5653 LP Eindhoven </name>
+</wpt>
+<wpt lat="51.4238793971" lon="5.56929186149">
+  <name>aldi St. Jozefplein 30-32 5666 RM Geldrop </name>
+</wpt>
+<wpt lat="50.5914608548" lon="5.85354044147">
+  <name>aldi rue P. de Clermont 35  4800 Verviers I </name>
+</wpt>
+<wpt lat="50.9985814779" lon="6.42593166399">
+  <name>aldi Heinrich-Gossen-Straße 1  52445 Titz </name>
+</wpt>
+<wpt lat="51.1640098745" lon="5.84103987115">
+  <name>aldi Akker 5 6017 BN Thorn </name>
+</wpt>
+<wpt lat="50.0525088924" lon="6.07097841935">
+  <name>aldi Marbuergerstrooss 9  9764 Marnach </name>
+</wpt>
+<wpt lat="50.4221906566" lon="4.4403284835">
+  <name>aldi Ch. de Bruxelles  389A 6020 Lodelinsart II </name>
+</wpt>
+<wpt lat="51.1039487147" lon="2.64441920934">
+  <name>aldi Robert Vandammestraat 41  8670 Koksijde </name>
+</wpt>
+<wpt lat="50.8734790847" lon="4.07881019113">
+  <name>aldi Kasteelstraat 17  9470 Denderleeuw </name>
+</wpt>
+<wpt lat="51.2832679229" lon="5.75324809598">
+  <name>aldi Dr. Schmidtstraat 9 6031 EX Nederweert </name>
+</wpt>
+<wpt lat="51.02114722" lon="5.31126749953">
+  <name>aldi Inakker 31  3550 Zolder </name>
+</wpt>
+<wpt lat="50.815029353" lon="5.19517407342">
+  <name>aldi Kattenstraat 25  3800 St. Truiden </name>
+</wpt>
+<wpt lat="51.248340328" lon="5.71930769857">
+  <name>aldi Dr. Schaepmanstraat 17 6004 AD Weert </name>
+</wpt>
+<wpt lat="50.6648480655" lon="5.09131142116">
+  <name>aldi Rue de Huy 54 4280 Hannut </name>
+</wpt>
+<wpt lat="50.4824584913" lon="4.16641310876">
+  <name>aldi Chaussée Paul Houtart 134 7110 La Louvière Houdeng-Goegnies </name>
+</wpt>
+<wpt lat="50.6439286411" lon="6.18679305576">
+  <name>aldi Bundesstraße 38-40  52159 Roetgen </name>
+</wpt>
+<wpt lat="51.349308412" lon="4.81152347634">
+  <name>aldi Merksplassesteenweg 110 2310 Rijkevorsel </name>
+</wpt>
+<wpt lat="50.8445785327" lon="3.22870845671">
+  <name>aldi Gullegemstraat 20 - 22  8501 Heule </name>
+</wpt>
+<wpt lat="50.540289123" lon="2.60522677375">
+  <name>aldi 49 Rue Pierre Mendès France - Sur RN 43  62232 Vendin-les-Béthune </name>
+</wpt>
+<wpt lat="50.7804008797" lon="3.10552837634">
+  <name>aldi 216 Rue de la Lys  59250 Halluin </name>
+</wpt>
+<wpt lat="50.7957685841" lon="6.50017066256">
+  <name>aldi Euskirchener Str. 99  52351 Düren </name>
+</wpt>
+<wpt lat="49.6006127847" lon="6.06540262539">
+  <name>aldi rue de Longwy 36 8080 Bertrange </name>
+</wpt>
+<wpt lat="50.6265885085" lon="2.45676676305">
+  <name>aldi Angle 540 Rue Emile Zola - CD 187  62330 Isbergues </name>
+</wpt>
+<wpt lat="51.0324090071" lon="5.81063380765">
+  <name>aldi Kerkstraat 43-2 6121 LB Born </name>
+</wpt>
+<wpt lat="50.8828419497" lon="4.47712872361">
+  <name>aldi Hoogstraat 7 1930 Zaventem </name>
+</wpt>
+<wpt lat="51.1711321203" lon="4.12725664604">
+  <name>aldi Plezantstraat 268 9100 Sint-Niklaas </name>
+</wpt>
+<wpt lat="51.2463475239" lon="4.59773674418">
+  <name>aldi Turnhoutsebaan 472 2970 Schilde </name>
+</wpt>
+<wpt lat="50.412901728" lon="2.9662324528">
+  <name>aldi Boulevard Jacques Piette  62110 Hénin-Beaumont </name>
+</wpt>
+<wpt lat="50.2111979589" lon="3.0869663784">
+  <name>aldi 113 Route Nationale  62860 Marquion </name>
+</wpt>
+<wpt lat="50.4919626298" lon="2.96440682994">
+  <name>aldi 515 Rue de Tilloy  62220 Carvin </name>
+</wpt>
+<wpt lat="51.2454073858" lon="4.42995930538">
+  <name>aldi Lambrechtshoekenlaan 33 2170 Merksem </name>
+</wpt>
+<wpt lat="49.6910296276" lon="4.96233970965">
+  <name>aldi 50 Avenue Charles de Gaulle  08200 Balan </name>
+</wpt>
+<wpt lat="51.0942519275" lon="5.77945432757">
+  <name>aldi Maastrichtersteenweg 6  3680 Maaseik </name>
+</wpt>
+<wpt lat="51.0790503666" lon="3.45039123256">
+  <name>aldi Lostraat  81  9880 Aalter </name>
+</wpt>
+<wpt lat="50.8747105507" lon="4.35586419827">
+  <name>aldi Molenbeeksestraat / rue de Molenbeek 94 1020 Laken </name>
+</wpt>
+<wpt lat="50.3417619193" lon="5.48419805113">
+  <name>aldi Rue de l'Industrie  6940 Durbuy Barvaux </name>
+</wpt>
+<wpt lat="50.9142590473" lon="4.71787711751">
+  <name>aldi Pleinstraat 53 D 3220 Holsbeek </name>
+</wpt>
+<wpt lat="50.839938925" lon="3.60976001435">
+  <name>aldi Remparden 36 9700 Oudenaarde </name>
+</wpt>
+<wpt lat="50.8927872234" lon="4.42939273277">
+  <name>aldi Oude Haachtsesteenweg 2 A 1831 Diegem </name>
+</wpt>
+<wpt lat="50.4264076072" lon="2.80317645243">
+  <name>aldi 269 Avenue Alfred Maës  62300 Lens </name>
+</wpt>
+<wpt lat="51.3045816941" lon="4.40959866422">
+  <name>aldi Antwerpse Steenweg  81 2940 Hoevenen </name>
+</wpt>
+<wpt lat="50.4765925513" lon="3.00370718412">
+  <name>aldi Rue d'Oignies  62820 Libercourt </name>
+</wpt>
+<wpt lat="51.6943722404" lon="5.26772234737">
+  <name>aldi Boschmeersingel 115 5223 HH 's-Hertogenbosch </name>
+</wpt>
+<wpt lat="50.2541706424" lon="3.16250939329">
+  <name>aldi 35 Bis Route Nationale  59265 Aubencheul-au-Bac </name>
+</wpt>
+<wpt lat="51.4556923228" lon="6.05479962366">
+  <name>aldi Loevestraat  55 - 57 5961 TW Horst </name>
+</wpt>
+<wpt lat="51.3393485659" lon="3.28455632843">
+  <name>aldi Maurice Lippensplein 24  8300 Knokke </name>
+</wpt>
+<wpt lat="50.9289875494" lon="3.9614127487">
+  <name>aldi Oudenaardsesteenweg 334 9420 Erpe-Mere Mere </name>
+</wpt>
+<wpt lat="50.5613917705" lon="4.70372179544">
+  <name>aldi Chaussée de Namur 46 5030 Gembloux </name>
+</wpt>
+<wpt lat="50.484117991" lon="4.20136074637">
+  <name>aldi rue de la Gratine  8 7100 La Louvière </name>
+</wpt>
+<wpt lat="51.5880701564" lon="4.31775094861">
+  <name>aldi Westdam 81 4651 BE Steenbergen </name>
+</wpt>
+<wpt lat="50.3844219065" lon="3.06068820107">
+  <name>aldi Rue de Flers  59500 Douai </name>
+</wpt>
+<wpt lat="50.7608015784" lon="6.15346419704">
+  <name>aldi Neuenhofstr. 192  52078 Aachen - Eilendorf </name>
+</wpt>
+<wpt lat="51.0184091345" lon="4.46882798519">
+  <name>aldi Hombeeksesteenweg 146 - 148 2800 Mechelen </name>
+</wpt>
+<wpt lat="50.9735301598" lon="3.52200421204">
+  <name>aldi Katteputstraat 1 9800 Deinze </name>
+</wpt>
+<wpt lat="51.2097298689" lon="4.46389070957">
+  <name>aldi Boterlaarbaan 91 2100 Deurne </name>
+</wpt>
+<wpt lat="49.2539207223" lon="5.94731270532">
+  <name>aldi Avenue Albert 1er  54150 Briey </name>
+</wpt>
+<wpt lat="50.6907321427" lon="2.9080463449">
+  <name>aldi 261 Rue Victor Hugo  59116 Houplines </name>
+</wpt>
+<wpt lat="51.6510488067" lon="4.85264046016">
+  <name>aldi Patrijslaan 2B 4901 AT Oosterhout </name>
+</wpt>
+<wpt lat="50.7697889287" lon="3.86766746449">
+  <name>aldi Astridlaan 36 9500 Geraardsbergen </name>
+</wpt>
+<wpt lat="51.0052086155" lon="3.75101645899">
+  <name>aldi Plataan 43 9820 Merelbeke </name>
+</wpt>
+<wpt lat="51.6095996" lon="5.14220403083">
+  <name>aldi Tongerloplein 19 5071 CX Udenhout </name>
+</wpt>
+<wpt lat="51.1235111692" lon="4.33839937268">
+  <name>aldi Provinciale Steenweg 459 2627 Schelle </name>
+</wpt>
+<wpt lat="50.4083912705" lon="2.82547063504">
+  <name>aldi 11/21 Rue Edouard Depret  62210 Avion </name>
+</wpt>
+<wpt lat="50.6629326922" lon="2.97456916409">
+  <name>aldi 4 Avenue du Bois - Ancien Site Agache  59840 Pérenchies </name>
+</wpt>
+<wpt lat="50.892021405" lon="6.01529242551">
+  <name>aldi Hoofdstraat 144 6372 EN Schaesberg </name>
+</wpt>
+<wpt lat="51.4804210139" lon="5.65889127308">
+  <name>aldi Noord Koninginnewal 42 5701 NK Helmond </name>
+</wpt>
+<wpt lat="50.349297327" lon="6.56699925109">
+  <name>aldi Auf dem Wehrt 13  54584 Jünkerath </name>
+</wpt>
+<wpt lat="50.8771506869" lon="4.40842954613">
+  <name>aldi Haachtsesteenweg / Chaussée de Haecht 1248 - 1250 1140 Evere </name>
+</wpt>
+<wpt lat="51.2097016989" lon="6.18029096055">
+  <name>aldi Gewerbering 25  41372 Niederkrüchten </name>
+</wpt>
+<wpt lat="50.7902713583" lon="3.14056594611">
+  <name>aldi Noordstraat 10  8930 Menen </name>
+</wpt>
+<wpt lat="50.4420803703" lon="3.42456271604">
+  <name>aldi 44 Rue des Faïenciers Fauquez  59230 St-Amand-les-Eaux </name>
+</wpt>
+<wpt lat="50.3894908235" lon="3.10820835473">
+  <name>aldi 68 Rue Maurice Facon  59119 Waziers </name>
+</wpt>
+<wpt lat="50.9749798248" lon="5.041605916">
+  <name>aldi Leuvensesteenweg 94  3290 Diest </name>
+</wpt>
+<wpt lat="50.972641085" lon="2.58313943511">
+  <name>aldi Chemin de Looweg - ZA de la Communauté de Flandre  59122 Hondschoote </name>
+</wpt>
+<wpt lat="50.9606284129" lon="4.58572180752">
+  <name>aldi Mechelsesteenweg 46 1910 Kampenhout </name>
+</wpt>
+<wpt lat="50.8158475751" lon="6.37399584125">
+  <name>aldi Im Gewerbegebiet 8  52379 Langerwehe </name>
+</wpt>
+<wpt lat="51.1292174416" lon="3.32234582231">
+  <name>aldi Hubert d'Ydewallestraat 50-52 8730 Beernem </name>
+</wpt>
+<wpt lat="50.3011775812" lon="5.11215769598">
+  <name>aldi Av. X. Schlögel  119 5590 Ciney </name>
+</wpt>
+<wpt lat="50.4293409166" lon="3.79271800186">
+  <name>aldi Rue Neuve 101 7300 Boussu </name>
+</wpt>
+<wpt lat="50.9975910046" lon="5.49452226317">
+  <name>aldi G. Lambertlaan 117  3600 Genk </name>
+</wpt>
+<wpt lat="51.2350195507" lon="4.47179574649">
+  <name>aldi Bisschoppenhoflaan 489 2100 Antwerpen Deurne </name>
+</wpt>
+<wpt lat="50.5785275045" lon="2.93305647876">
+  <name>aldi 35 Rue de Lille  59136 Wavrin </name>
+</wpt>
+<wpt lat="50.8635921275" lon="5.65522204093">
+  <name>aldi Malbergsingel 54 6218 AV Maastricht </name>
+</wpt>
+<wpt lat="50.9940307858" lon="5.98726956427">
+  <name>aldi Heinrich-Josef-Otten-Str. 2  52538 Gangelt </name>
+</wpt>
+<wpt lat="50.713008822" lon="6.13883223451">
+  <name>aldi Werkstraße 21  52076 Aachen - Oberforstbach </name>
+</wpt>
+<wpt lat="51.3208893233" lon="4.86199340486">
+  <name>aldi Krommenhof 1 2340 Beerse </name>
+</wpt>
+<wpt lat="49.5616621306" lon="5.89814679312">
+  <name>aldi av du Luxembourg  4950 Bascharage </name>
+</wpt>
+<wpt lat="50.5704173672" lon="3.44304377504">
+  <name>aldi rue Louvieaux 5  7640 Antoing </name>
+</wpt>
+<wpt lat="51.1461402094" lon="5.73098988623">
+  <name>aldi Breeërsteenweg 348 3640 Kinrooi </name>
+</wpt>
+<wpt lat="50.2057588958" lon="6.42654320268">
+  <name>aldi Gerberweg 25  54595 Prüm </name>
+</wpt>
+<wpt lat="51.0571402621" lon="4.63459993681">
+  <name>aldi Mechelbaan 387 2580 Putte </name>
+</wpt>
+<wpt lat="50.3282778449" lon="3.34415437126">
+  <name>aldi 20 Rue Paul Bert  59124 Escaudain </name>
+</wpt>
+<wpt lat="50.8336403596" lon="3.27799128071">
+  <name>aldi Gentsesteenweg 68  8500 Kortrijk </name>
+</wpt>
+<wpt lat="51.0327879348" lon="2.87109322011">
+  <name>aldi Esenweg 30 8600 Diksmuide </name>
+</wpt>
+<wpt lat="50.7694988576" lon="6.22975364887">
+  <name>aldi Rathausstraße 1  52222 Stolberg - Mitte </name>
+</wpt>
+<wpt lat="51.4667978017" lon="4.46979925252">
+  <name>aldi Nieuwstraat 34 2910 Essen </name>
+</wpt>
+<wpt lat="50.4196923947" lon="2.87039174926">
+  <name>aldi 38 Rue Edouard Vaillant  62430 Sallaumines </name>
+</wpt>
+<wpt lat="50.4339181203" lon="6.20262111602">
+  <name>aldi Monschauerstrasse 33 4750 Bütgenbach </name>
+</wpt>
+<wpt lat="50.1263586849" lon="3.69337893727">
+  <name>aldi Boulevard Dupleix  59550 Landrecies </name>
+</wpt>
+<wpt lat="50.5343674852" lon="5.25451131298">
+  <name>aldi Quai d´Arona  4500 Huy II </name>
+</wpt>
+<wpt lat="51.2350702288" lon="4.82783717027">
+  <name>aldi Poederleeseweg 50 2275 Lille </name>
+</wpt>
+<wpt lat="50.7132593816" lon="6.01199191521">
+  <name>aldi ch. de Liège 251  4720 La Calamine </name>
+</wpt>
+<wpt lat="51.2089185667" lon="5.94921926712">
+  <name>aldi Dorpstraat 69 6085 BE Horn </name>
+</wpt>
+<wpt lat="50.4527206848" lon="3.97357157681">
+  <name>aldi Chaussée de Binche 101 7000 Mons </name>
+</wpt>
+<wpt lat="51.2769393713" lon="4.04495972589">
+  <name>aldi Stationsplein 28 4561 GC Hulst </name>
+</wpt>
+<wpt lat="49.30858069" lon="5.76773616705">
+  <name>aldi 156 Rue de la Mourière  54490 Piennes </name>
+</wpt>
+<wpt lat="50.9486013025" lon="3.29177788093">
+  <name>aldi Gentstraat 13  8760 Meulebeke </name>
+</wpt>
+<wpt lat="49.8594413381" lon="4.76114347997">
+  <name>aldi 44 Place de la Gare  08120 Bogny-sur-Meuse </name>
+</wpt>
+<wpt lat="51.1971418081" lon="3.82603786736">
+  <name>aldi Rijkswachtlaan  8 9060 Zelzate </name>
+</wpt>
+<wpt lat="50.4671082189" lon="4.44030150385">
+  <name>aldi Avenue du Chêne Saint-Jean 10 6041 Charleroi Gosselies </name>
+</wpt>
+<wpt lat="51.503938364" lon="5.74412897489">
+  <name>aldi Dorpstraat 54 5761 BP Bakel </name>
+</wpt>
+<wpt lat="50.8641427193" lon="6.0042577494">
+  <name>aldi Heerlerbaan 239a 6418 CE Heerlen </name>
+</wpt>
+<wpt lat="50.4042013757" lon="3.66079651548">
+  <name>aldi Rue des Hauts Bois  59920 Quiévrechain </name>
+</wpt>
+<wpt lat="50.5677727037" lon="5.54784304118">
+  <name>aldi rue de Tilff 53-55 4100 Boncelles </name>
+</wpt>
+<wpt lat="51.0513515955" lon="4.87738079754">
+  <name>aldi Dieperstraat 2  2230 Herselt </name>
+</wpt>
+<wpt lat="50.6175793824" lon="5.5086506056">
+  <name>aldi rue du Pont 99  4101 Jemeppe SM </name>
+</wpt>
+<wpt lat="51.3743304834" lon="6.14099959958">
+  <name>aldi Burg. Coenengrachtstraat  43A - 47 5922 BJ Blerick-Venlo </name>
+</wpt>
+<wpt lat="51.058869938" lon="4.20801572625">
+  <name>aldi Heikant 16 2890 Sint-Amands </name>
+</wpt>
+<wpt lat="51.3305497443" lon="3.86237945345">
+  <name>aldi Kokkeldreef 10 4533 DD Terneuzen </name>
+</wpt>
+<wpt lat="49.559217932" lon="5.84075208823">
+  <name>aldi rue du Commerce 13 6791 Athus </name>
+</wpt>
+<wpt lat="50.6715113598" lon="3.22861852454">
+  <name>aldi 51 Rue de Toufflers  59390 Lys-lez-Lannoy </name>
+</wpt>
+<wpt lat="50.9853413469" lon="5.70201374409">
+  <name>aldi Layensweg 6 3630 Eisden </name>
+</wpt>
+<wpt lat="50.3764275134" lon="3.51151812212">
+  <name>aldi 389 Rue Jean Jaurès  59410 Anzin </name>
+</wpt>
+<wpt lat="50.1622413558" lon="4.01081248451">
+  <name>aldi 1 Rue du Courtil - D 962  59216 Beugnies </name>
+</wpt>
+<wpt lat="51.6864501827" lon="5.13593575924">
+  <name>aldi Grotestraat 156a 5151 BP Drunen </name>
+</wpt>
+<wpt lat="50.3301781313" lon="3.4113786613">
+  <name>aldi 16 Rue Charles Isbergues  59220 Wavrechain-sous-Denain </name>
+</wpt>
+<wpt lat="51.3485725922" lon="5.55090073464">
+  <name>aldi Margrietlaan 3c 5595 EA Leende </name>
+</wpt>
+<wpt lat="51.617429004" lon="5.43694769396">
+  <name>aldi Hoofdstraat 154 5481 AH Schijndel </name>
+</wpt>
+<wpt lat="50.4731527689" lon="4.58027191859">
+  <name>aldi rue de Wanfercée-Baulet  13 6224 Wanfercée-Baulet </name>
+</wpt>
+<wpt lat="50.7447907182" lon="3.58724999455">
+  <name>aldi Engelsenlaan 35  9600 Ronse </name>
+</wpt>
+<wpt lat="50.691159435" lon="2.8732695784">
+  <name>aldi 73/73 Bis Rue des Résistants  59280 Armentières </name>
+</wpt>
+<wpt lat="50.0098921481" lon="3.78021743153">
+  <name>aldi 34 Avenue du Docteur Jacques Lemaire  02170 Le Nouvion-en-Thiérache </name>
+</wpt>
+<wpt lat="50.8706698584" lon="5.82389880134">
+  <name>aldi Koningswinkelstraat 2-4-6 6301 WJ Valkenburg </name>
+</wpt>
+<wpt lat="51.1741205419" lon="5.1432472439">
+  <name>aldi Molsesteenweg 52 2490 Balen </name>
+</wpt>
+<wpt lat="51.0310007264" lon="2.42386058549">
+  <name>aldi Route du Chapeau Rouge  59229 Téteghem </name>
+</wpt>
+<wpt lat="50.5433982568" lon="6.57517408449">
+  <name>aldi Siemensring 8  53925 Kall </name>
+</wpt>
+<wpt lat="50.8314989945" lon="6.27099653772">
+  <name>aldi Am Fließ 8  52249 Eschweiler - Dürwiß </name>
+</wpt>
+<wpt lat="50.6103377382" lon="2.97448822514">
+  <name>aldi Angle Rue Fidèle Lhermitte et Rue de Santes  59320 Haubourdin </name>
+</wpt>
+<wpt lat="51.0580785911" lon="3.27365655057">
+  <name>aldi Egemsestraat 1  8750 Wingene </name>
+</wpt>
+<wpt lat="51.2048787453" lon="6.02550871895">
+  <name>aldi St. Wirosingel 194 6042 KZ Roermond </name>
+</wpt>
+<wpt lat="50.8590225325" lon="6.06755200403">
+  <name>aldi Maria Gorettiplein  2 6462 XB Kerkrade </name>
+</wpt>
+<wpt lat="50.9203086153" lon="3.25588595564">
+  <name>aldi Kortrijksestraat 127  8770 Ingelmunster </name>
+</wpt>
+<wpt lat="50.9153420174" lon="6.37852842214">
+  <name>aldi Rudolf-Diesel-Straße 2  52428 Jülich - Gewerbegebiet </name>
+</wpt>
+<wpt lat="51.1125086605" lon="5.23846741553">
+  <name>aldi Leopoldsburgsesteenweg 89 3971 HEPPEN </name>
+</wpt>
+<wpt lat="50.4272727232" lon="3.94850748365">
+  <name>aldi Chaussée de Maubeuge 482 7000 Mons </name>
+</wpt>
+<wpt lat="51.1672412435" lon="4.14882237815">
+  <name>aldi Papenakkerstraat 25 9100 Sint-Niklaas </name>
+</wpt>
+<wpt lat="51.1822108623" lon="5.11884864873">
+  <name>aldi Molderdijk 23 2400 Mol </name>
+</wpt>
+<wpt lat="50.2481671496" lon="3.43764784541">
+  <name>aldi Rue d''Haspres  59227 Saulzoir </name>
+</wpt>
+<wpt lat="50.6639587947" lon="5.63479844726">
+  <name>aldi Boulevard Zénobe Gramme 37 4040 Herstal </name>
+</wpt>
+<wpt lat="50.6145493265" lon="4.45228946085">
+  <name>aldi Rue des Lilas 22 1470 Genappe </name>
+</wpt>
+<wpt lat="50.9489015932" lon="5.11783241531">
+  <name>aldi Zwarte Duivelstraat 10 3545 Halen </name>
+</wpt>
+<wpt lat="50.2860500796" lon="3.96378695773">
+  <name>aldi Boulevard Alphonse de Lamartine  59600 Maubeuge </name>
+</wpt>
+<wpt lat="50.4289513469" lon="2.77441614748">
+  <name>aldi 51 Rue Germain Delbecque  62800 Liévin </name>
+</wpt>
+<wpt lat="50.6797408472" lon="3.15154666292">
+  <name>aldi 215 Boulevard Emile Zola  59170 Croix </name>
+</wpt>
+<wpt lat="51.5193524412" lon="5.96416599221">
+  <name>aldi Veltumse Kleffen 50 5801 SH Venray </name>
+</wpt>
+<wpt lat="50.6506291165" lon="5.59449085288">
+  <name>aldi Rue St-Léonard 199 4000 Liège </name>
+</wpt>
+<wpt lat="51.004031533" lon="4.29925190317">
+  <name>aldi Molenstraat 21 1840 Londerzeel </name>
+</wpt>
+<wpt lat="51.0524313724" lon="3.75055780497">
+  <name>aldi Dendermondsesteenweg 122 9040 Gent Sint-Amandsberg </name>
+</wpt>
+<wpt lat="50.5408778166" lon="5.29818237017">
+  <name>aldi Chaussée de Liège 7A 4540 AMAY </name>
+</wpt>
+<wpt lat="49.6255586761" lon="5.18252061843">
+  <name>aldi 1 Rue du Perchy  08110 Blagny </name>
+</wpt>
+<wpt lat="51.5981378663" lon="4.76938126588">
+  <name>aldi Belcrumweg 5-7 4815 HA Breda </name>
+</wpt>
+<wpt lat="50.8910797147" lon="3.4242569467">
+  <name>aldi Noorderlaan 56 8790 Waregem </name>
+</wpt>
+<wpt lat="50.6997728177" lon="6.0849538771">
+  <name>aldi Aachenerstrasse 49  4731 Eynatten </name>
+</wpt>
+<wpt lat="50.6430218651" lon="5.53364275303">
+  <name>aldi rue St Nicolas 614  4420 Glain </name>
+</wpt>
+<wpt lat="51.3610686912" lon="5.16691738857">
+  <name>aldi Kruisstraat 3 5541 CH Reusel </name>
+</wpt>
+<wpt lat="50.3053478581" lon="3.39514590631">
+  <name>aldi 283 Bis Avenue de la République  59282 Douchy-les-Mines </name>
+</wpt>
+<wpt lat="50.8435223101" lon="4.25952886784">
+  <name>aldi Ninoofsesteenweg 360 A 1700 Dilbeek </name>
+</wpt>
+<wpt lat="50.6670312678" lon="5.97527261405">
+  <name>aldi Rue Mitoyenne 312A 4710 Lontzen </name>
+</wpt>
+<wpt lat="50.4186781544" lon="3.13645604637">
+  <name>aldi 943 Rue Nationale  59194 Râches </name>
+</wpt>
+<wpt lat="51.5874219921" lon="5.33523442033">
+  <name>aldi Oosterhof 7-9 5283 BV Boxtel </name>
+</wpt>
+<wpt lat="51.0241623212" lon="3.73068279748">
+  <name>aldi C. Heymanslaan 19 9000 Gent </name>
+</wpt>
+<wpt lat="50.9593992185" lon="3.13152776397">
+  <name>aldi Koning Leopold III Laan  8800 Roeselare </name>
+</wpt>
+<wpt lat="50.7576328414" lon="5.60743209079">
+  <name>aldi Rue Royale 39  4690 Bassenge </name>
+</wpt>
+<wpt lat="50.7707501316" lon="6.02410577725">
+  <name>aldi Kerkstraat 2 6291 AC Vaals </name>
+</wpt>
+<wpt lat="50.9595691552" lon="3.97763651047">
+  <name>aldi Ommeganglaan 81 9340 Lede </name>
+</wpt>
+<wpt lat="51.3363427727" lon="3.24826870163">
+  <name>aldi Pannenstraat 202 8301 Heist </name>
+</wpt>
+<wpt lat="50.2229027917" lon="6.64779430417">
+  <name>aldi Sarresdorfer Straße 65  54568 Gerolstein </name>
+</wpt>
+<wpt lat="51.1600619962" lon="3.23503068759">
+  <name>aldi Brugsestraat 105B  8020 Oostkamp </name>
+</wpt>
+<wpt lat="50.6229314336" lon="3.36984798954">
+  <name>aldi rue de Maire 3 7503 Froyennes </name>
+</wpt>
+<wpt lat="50.8345377725" lon="3.21139651579">
+  <name>aldi Bissegemstraat 212  8560 Gullegem </name>
+</wpt>
+<wpt lat="51.2728492569" lon="4.64671379884">
+  <name>aldi Handelslei  199 2980 Zoersel </name>
+</wpt>
+<wpt lat="50.6745719402" lon="3.07835087741">
+  <name>aldi 39 Rue de Menin - RN 17  59520 Marquette-lez-Lille </name>
+</wpt>
+<wpt lat="51.2386175542" lon="2.97051322365">
+  <name>aldi Vloedstraat 6  8450 Bredene </name>
+</wpt>
+<wpt lat="50.8483489388" lon="5.67677877982">
+  <name>aldi Volksplein  34b 6214 AM Maastricht </name>
+</wpt>
+<wpt lat="50.6105089483" lon="3.06153356338">
+  <name>aldi 105 Rue du Faubourg d'Arras  59155 Fâches-Thumesnil </name>
+</wpt>
+<wpt lat="50.3120907551" lon="4.13541349301">
+  <name>aldi route de Mons 242 6560 Erquelinnes </name>
+</wpt>
+<wpt lat="51.3262227567" lon="3.48354022696">
+  <name>aldi Veerhoeklaan 5A 4501 EA Oostburg </name>
+</wpt>
+<wpt lat="50.1176115911" lon="3.93741884825">
+  <name>aldi 8 Rue de l 'Ancienne Gare  59440 Avesnelles-sur-Helpe </name>
+</wpt>
+<wpt lat="50.4083511501" lon="3.01034417757">
+  <name>aldi 9004 Rue Jules Ferry  62970 Courcelles-les-Lens </name>
+</wpt>
+<wpt lat="51.1945719334" lon="2.84399666013">
+  <name>aldi Oostendelaan 300  8430 Middelkerke </name>
+</wpt>
+<wpt lat="50.9618292535" lon="4.24340403145">
+  <name>aldi Bleukenweg 1 1785 Merchtem </name>
+</wpt>
+<wpt lat="51.460242422" lon="5.48951304182">
+  <name>aldi Cassandraplein 15 5631 BA Eindhoven </name>
+</wpt>
+<wpt lat="51.1265026759" lon="5.25548258032">
+  <name>aldi Lommelsesteenweg 31  3970 Leopoldsburg </name>
+</wpt>
+<wpt lat="51.0596725762" lon="4.35016249929">
+  <name>aldi Denderlaan 14 2830 Willebroek </name>
+</wpt>
+<wpt lat="50.6436206814" lon="3.00824875823">
+  <name>aldi 17 Rue Lavoisier  59160 Lomme </name>
+</wpt>
+<wpt lat="51.1782307148" lon="3.75464971828">
+  <name>aldi Pastorijstraat 74 9940 Ertvelde </name>
+</wpt>
+<wpt lat="50.8710784836" lon="4.25291885404">
+  <name>aldi Brusselstraat 333 1702 Groot-Bijgaarden </name>
+</wpt>
+</gpx>

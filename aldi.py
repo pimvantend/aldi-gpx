@@ -147,6 +147,8 @@ def zoekzipcode(land,zipcode1,totnutoe):
 def maakgpx(regellijst,land):
     if land=='F':
 	land1='fr'
+    elif land=='B':
+	land1='be'
     else:
 	land1=land.lower()
     doelbestand='aldi-'+land1+'.gpx'
@@ -167,6 +169,17 @@ def maakgpx(regellijst,land):
 	doelbestand.write('</wpt>\n')
     doelbestand.write('</gpx>\n')
     return
+
+land1='B'
+zipcodelijst=range(1000,9999,50)
+regellijst1=[]
+for zipcode in zipcodelijst:
+    zipcode=str(zipcode)
+    regellijst1=zoekzipcode(land1,zipcode,regellijst1)
+print regellijst1
+plt.show()
+maakgpx(regellijst1,land1)
+exit()
 
 land1='NL'
 zipcodelijst=[
@@ -189,6 +202,15 @@ zipcodelijst=[
 9645, #veendam
 9861, #grootegast
 8531] #lemmer
+land1='NL'
+regellijst1=[]
+for zipcode in zipcodelijst:
+    zipcode=str(zipcode)
+    regellijst1=zoekzipcode(land1,zipcode,regellijst1)
+print regellijst1
+plt.show()
+maakgpx(regellijst1,land1)
+exit()
 zipcodelijst=['0'+str(getal)+'120' for getal in range(1,10)]
 zipcodelijst+=[str(getal)+'120' for getal in range(10,96)]
 zipcodelijst+=['59140']
