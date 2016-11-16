@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="Locus Android"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
+ xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
+ xmlns:locus="http://www.locusmap.eu">
+<wpt lat="54.70402879" lon="11.9655099396">
+  <name>aldi Stovby Ringvej 5 4873 Væggerløse </name>
+</wpt>
+<wpt lat="54.7766596554" lon="11.489597939">
+  <name>aldi Brovejen 30 4930 Maribo </name>
+</wpt>
+<wpt lat="55.4339089224" lon="11.5613278303">
+  <name>aldi Absalonsgade 18 A 4180 Sorø </name>
+</wpt>
+<wpt lat="54.8991508461" lon="11.8779429948">
+  <name>aldi Apotekergade 2 4840 Nørre Alslev </name>
+</wpt>
+<wpt lat="55.8086903364" lon="12.357955902">
+  <name>aldi Akacietorvet 2 3520 Farum </name>
+</wpt>
+<wpt lat="56.5687022386" lon="9.00202041771">
+  <name>aldi Holstebrovej 76 C 7800 Skive </name>
+</wpt>
+<wpt lat="55.5988896317" lon="12.5826873781">
+  <name>aldi Kongelundsvej 479 2770 Kastrup </name>
+</wpt>
+<wpt lat="55.8909802903" lon="12.5263988388">
+  <name>aldi Bolbrovej 60-62 2960 Rungsted Kyst </name>
+</wpt>
+<wpt lat="56.3740389088" lon="9.65421743954">
+  <name>aldi Storegade 31 8850 Bjerringbro </name>
+</wpt>
+<wpt lat="56.1994492513" lon="10.1984598958">
+  <name>aldi Skejbygårdsvej 30A  8240 Risskov </name>
+</wpt>
+<wpt lat="57.1588696914" lon="10.2881402463">
+  <name>aldi Strømgade 2  9330 Dronninglund </name>
+</wpt>
+<wpt lat="56.1390109848" lon="9.14542624099">
+  <name>aldi Eli Christensensvej 1  7430 Ikast </name>
+</wpt>
+<wpt lat="57.4496880074" lon="10.0093865214">
+  <name>aldi Frilandsvej 100 9800 Hjørring </name>
+</wpt>
+<wpt lat="56.09211102" lon="8.24358653457">
+  <name>aldi Skolevænget  30 6950 Ringkøbing </name>
+</wpt>
+<wpt lat="57.0404199823" lon="9.95082269839">
+  <name>aldi Odinsgade 7 9000 Aalborg </name>
+</wpt>
+<wpt lat="57.0697305701" lon="9.90573071306">
+  <name>aldi Viaduktvej 7-9 9400 Nørresundby </name>
+</wpt>
+<wpt lat="55.4631295188" lon="8.47430749257">
+  <name>aldi Darumvej 41  6700 Esbjerg </name>
+</wpt>
+<wpt lat="55.0627925668" lon="10.5959600456">
+  <name>aldi Vestergade 115  5700 Svendborg </name>
+</wpt>
+<wpt lat="57.3722400092" lon="9.72835751273">
+  <name>aldi Industrivej 2-4  9480 Løkken </name>
+</wpt>
+<wpt lat="55.4939893497" lon="8.40941244549">
+  <name>aldi Tarphagevej 22  6710 Esbjerg V </name>
+</wpt>
+<wpt lat="55.3690302021" lon="10.4635529256">
+  <name>aldi Blækhatten 5 5220 Odense SØ </name>
+</wpt>
+<wpt lat="55.6574097024" lon="12.3535941922">
+  <name>aldi Stationstorvet 3-9 2620 Albertslund </name>
+</wpt>
+<wpt lat="54.8320496901" lon="11.1491057858">
+  <name>aldi Løjtoftevej 4 4900 Nakskov </name>
+</wpt>
+<wpt lat="56.7495998204" lon="8.42253354772">
+  <name>aldi Østre Allé 1 7760 Hurup Thy </name>
+</wpt>
+<wpt lat="55.4847110066" lon="10.2461419273">
+  <name>aldi Vesterled 18  5471 Søndersø </name>
+</wpt>
+<wpt lat="55.4067703534" lon="10.442427861">
+  <name>aldi Vollsmose Allé 4 5240 Odense NØ </name>
+</wpt>
+<wpt lat="55.3340010155" lon="11.1412816878">
+  <name>aldi Tårnborgvej  22 4220 Korsør </name>
+</wpt>
+<wpt lat="55.7059019469" lon="12.5901517474">
+  <name>aldi Østbanegade 129 2100 København Ø </name>
+</wpt>
+<wpt lat="56.2299001706" lon="10.2369328741">
+  <name>aldi Sønderskovvej 4  8520 Lystrup </name>
+</wpt>
+<wpt lat="55.2361686882" lon="9.48494712687">
+  <name>aldi Erlev Bjerge  60 6100 Haderslev </name>
+</wpt>
+<wpt lat="54.9810421809" lon="12.2812977283">
+  <name>aldi Vasen 2  4780 Stege </name>
+</wpt>
+<wpt lat="55.6640299721" lon="12.473419803">
+  <name>aldi Hvidovrevej 90 A 2650 Hvidovre </name>
+</wpt>
+<wpt lat="55.5971823738" lon="12.3270372252">
+  <name>aldi Over Bølgen 35 2670 Greve Strand </name>
+</wpt>
+<wpt lat="55.1013491302" lon="10.2313570801">
+  <name>aldi Assensvej 2 - 4  5600 Faaborg </name>
+</wpt>
+<wpt lat="55.9737503227" lon="12.0221132415">
+  <name>aldi Kirkegade 15 3300 Frederiksværk </name>
+</wpt>
+<wpt lat="55.7957099911" lon="12.5268934657">
+  <name>aldi Lundtofteparken 45 2800 Kgs. Lyngby </name>
+</wpt>
+<wpt lat="55.5694188497" lon="9.72050643511">
+  <name>aldi Vejlevej 32  7000 Fredericia </name>
+</wpt>
+<wpt lat="56.177079507" lon="10.1365416032">
+  <name>aldi Runevej 4  8210 Aarhus V </name>
+</wpt>
+<wpt lat="55.7689319484" lon="9.70036163114">
+  <name>aldi Bytorvet 6  8722 Hedensted </name>
+</wpt>
+<wpt lat="55.8544509222" lon="9.85202322676">
+  <name>aldi Hoegh Guldbergs Gade 11 8700 Horsens </name>
+</wpt>
+<wpt lat="55.655628887" lon="12.6172213278">
+  <name>aldi Kastrupvej 50 2300 København S </name>
+</wpt>
+<wpt lat="55.2496886291" lon="12.109752132">
+  <name>aldi Rådhusvej 85 4640 Faxe </name>
+</wpt>
+<wpt lat="54.8016013053" lon="11.6437506554">
+  <name>aldi Nykøbingvej 45 4990 Sakskøbing </name>
+</wpt>
+<wpt lat="56.0194523363" lon="12.5872019726">
+  <name>aldi Meretecentret, Egevænget 3 3000 Helsingør </name>
+</wpt>
+<wpt lat="55.7802219337" lon="12.1735769864">
+  <name>aldi Niels Olsens Vej 2 3650 Ølstykke </name>
+</wpt>
+<wpt lat="55.2575974826" lon="9.47894865176">
+  <name>aldi Hiort Lorenzens Vej 59  6100 Haderslev </name>
+</wpt>
+<wpt lat="56.3645106654" lon="8.60960143497">
+  <name>aldi Døesvej 9 7500 Holstebro </name>
+</wpt>
+<wpt lat="55.4714903068" lon="9.13592940483">
+  <name>aldi Søndergade 40  6600 Vejen </name>
+</wpt>
+<wpt lat="54.9368419885" lon="10.7128268883">
+  <name>aldi Grønnegården 7  5900 Rudkøbing </name>
+</wpt>
+<wpt lat="56.3202999573" lon="10.3129885023">
+  <name>aldi Banevej  3 8543 Hornslet </name>
+</wpt>
+<wpt lat="56.107499947" lon="10.2073811661">
+  <name>aldi Stenvej  1-3 8270 Højbjerg </name>
+</wpt>
+<wpt lat="55.5047884022" lon="11.2884196957">
+  <name>aldi Centervej 39 4270 Høng </name>
+</wpt>
+<wpt lat="55.6121894717" lon="11.7642867303">
+  <name>aldi Vestergade 52 4340 Tølløse </name>
+</wpt>
+<wpt lat="55.7292291889" lon="12.3497181161">
+  <name>aldi Baltorpvej 22 2750 Ballerup </name>
+</wpt>
+<wpt lat="55.7210599075" lon="12.4001071057">
+  <name>aldi Skovlunde Centret, Bybuen 2 2740 Skovlunde </name>
+</wpt>
+<wpt lat="56.1594898369" lon="10.1576576745">
+  <name>aldi Carit Etlarsvej  1 8230 Aabyhøj </name>
+</wpt>
+<wpt lat="55.1152697728" lon="9.3547613312">
+  <name>aldi Østergade 51 6230 Rødekro </name>
+</wpt>
+<wpt lat="55.3058621864" lon="12.3899087987">
+  <name>aldi Rengegade 31 4660 Store Heddinge </name>
+</wpt>
+<wpt lat="55.6636698176" lon="12.6180397104">
+  <name>aldi Bremensgade  79 2300 København S </name>
+</wpt>
+<wpt lat="55.9320901813" lon="12.2818013484">
+  <name>aldi Industrivænget 8 A 3400 Hillerød </name>
+</wpt>
+<wpt lat="56.7162911408" lon="10.1165856568">
+  <name>aldi Østre Allé 2 9560 Hadsund </name>
+</wpt>
+<wpt lat="55.6127177145" lon="12.3589721354">
+  <name>aldi Vejlebrovej 21 2635 Ishøj </name>
+</wpt>
+<wpt lat="55.4795282461" lon="12.175393616">
+  <name>aldi Ølbycenter 3 4600 Køge </name>
+</wpt>
+<wpt lat="55.7130510362" lon="12.5704925771">
+  <name>aldi Landskronagade 64 2100 København Ø </name>
+</wpt>
+<wpt lat="55.8366278687" lon="12.0639496826">
+  <name>aldi Nygade 8-10 3600 Frederikssund </name>
+</wpt>
+<wpt lat="55.7560294409" lon="8.92879765256">
+  <name>aldi Nørretorv 7 - 9  7200 Grindsted </name>
+</wpt>
+<wpt lat="56.0151897045" lon="12.1986770524">
+  <name>aldi Bymosevej 9 B 3200 Helsinge </name>
+</wpt>
+<wpt lat="55.6598499474" lon="11.3988384025">
+  <name>aldi Jyderup Stationscenter, Skarridsøgade 35 D 4450 Jyderup </name>
+</wpt>
+<wpt lat="55.6667487776" lon="12.561706205">
+  <name>aldi Ingerslevsgade 60 1705 København V </name>
+</wpt>
+<wpt lat="57.2679122449" lon="9.94576851096">
+  <name>aldi Gasværksvej 3  9700 Brønderslev </name>
+</wpt>
+<wpt lat="56.9979708526" lon="10.3073677423">
+  <name>aldi Midtergade 23  9370 Hals </name>
+</wpt>
+<wpt lat="56.6429694211" lon="9.79249712966">
+  <name>aldi Banegårdsvej  4 9500 Hobro </name>
+</wpt>
+<wpt lat="55.6721807505" lon="12.5129359944">
+  <name>aldi Roskildevej 46 2000 Frederiksberg </name>
+</wpt>
+<wpt lat="56.1684484069" lon="10.1893857408">
+  <name>aldi Paludan-Müllers Vej  26 8200 Århus N </name>
+</wpt>
+<wpt lat="54.9386088634" lon="8.87176267631">
+  <name>aldi Kongevej 1  6270 Tønder </name>
+</wpt>
+<wpt lat="55.7137096391" lon="11.7180975726">
+  <name>aldi Borgmester N. E. Hansensvej 3 4300 Holbæk </name>
+</wpt>
+<wpt lat="55.7554778268" lon="12.4660993251">
+  <name>aldi Gammelmosevej 328 2880 Bagsværd </name>
+</wpt>
+<wpt lat="55.6726574703" lon="12.4726823593">
+  <name>aldi Roskildevej 250 2610 Rødovre </name>
+</wpt>
+<wpt lat="55.8550819004" lon="11.9839909986">
+  <name>aldi Hovedgaden 36 3630 Jægerspris </name>
+</wpt>
+<wpt lat="55.435332455" lon="11.7906098737">
+  <name>aldi Søndervang 1 4100 Ringsted </name>
+</wpt>
+<wpt lat="56.043817713" lon="9.94781896422">
+  <name>aldi Højvang Centret 2 8660 Skanderborg </name>
+</wpt>
+<wpt lat="55.5359311464" lon="9.71743974843">
+  <name>aldi Strevelinsvej 3 7000 Fredericia </name>
+</wpt>
+<wpt lat="55.6302980425" lon="12.0818102097">
+  <name>aldi Sdr. Ringvej 24 A 4000 Roskilde </name>
+</wpt>
+<wpt lat="55.3018180515" lon="11.5485304838">
+  <name>aldi Byagervej 21 4250 Fuglebjerg </name>
+</wpt>
+<wpt lat="56.9491123209" lon="8.6638305278">
+  <name>aldi Simons Bakke  70-74 7700 Thisted </name>
+</wpt>
+<wpt lat="55.9096000631" lon="12.4911724115">
+  <name>aldi Holmegårdscenteret, Højengen 12 2980 Kokkedal </name>
+</wpt>
+<wpt lat="56.6162621311" lon="8.17706371538">
+  <name>aldi Lemvigvej  11 7673 Harboøre </name>
+</wpt>
+<wpt lat="56.1841521579" lon="9.54537254557">
+  <name>aldi Nørrevænget 42 8600 Silkeborg </name>
+</wpt>
+<wpt lat="55.2451004653" lon="9.29142211049">
+  <name>aldi Rådhuscentret  19 6500 Vojens </name>
+</wpt>
+<wpt lat="55.5204519509" lon="12.2072925534">
+  <name>aldi Jersie Center 2 2680 Solrød </name>
+</wpt>
+<wpt lat="55.4047279539" lon="10.3405886824">
+  <name>aldi Snorresvej 40  5210 Odense NV </name>
+</wpt>
+<wpt lat="55.8198980709" lon="11.4954525226">
+  <name>aldi Esterhøjvej 63 4550 Asnæs </name>
+</wpt>
+<wpt lat="55.850281161" lon="9.48083722713">
+  <name>aldi Torvegade 155 155 7160 Tørring </name>
+</wpt>
+<wpt lat="55.8532697036" lon="12.5629742485">
+  <name>aldi Baneskellet 1 2950 Vedbæk </name>
+</wpt>
+<wpt lat="55.3941313125" lon="10.3652300944">
+  <name>aldi Grønløkkevej 7 5000 Odense C </name>
+</wpt>
+<wpt lat="55.4031194901" lon="12.1360482957">
+  <name>aldi Pogebanken 2 4681 Herfølge </name>
+</wpt>
+<wpt lat="55.6684022871" lon="12.5438007119">
+  <name>aldi Rejsbygade 8 1759 København V </name>
+</wpt>
+<wpt lat="55.4781521775" lon="9.46871437188">
+  <name>aldi Haderslevvej 98-100  6000 Kolding </name>
+</wpt>
+<wpt lat="55.5813917994" lon="9.76702834178">
+  <name>aldi Treldevej 86  7000 Fredericia </name>
+</wpt>
+<wpt lat="55.519800276" lon="9.4603237013">
+  <name>aldi Damhusvej 1  6000 Kolding </name>
+</wpt>
+<wpt lat="55.661417509" lon="12.3339620016">
+  <name>aldi Egelundsvej 1 2620 Albertslund </name>
+</wpt>
+<wpt lat="55.4887619524" lon="9.01894565033">
+  <name>aldi Nørregade 77  6650 Brørup </name>
+</wpt>
+<wpt lat="54.9334578448" lon="9.24231015759">
+  <name>aldi Hovedgaden 102  6360 Tinglev </name>
+</wpt>
+<wpt lat="57.0688603404" lon="9.94557965342">
+  <name>aldi Hjørringvej 56 9400 Nørresundby </name>
+</wpt>
+<wpt lat="56.2643277049" lon="10.0640203089">
+  <name>aldi Fredensgade 3 8382 Hinnerup </name>
+</wpt>
+<wpt lat="55.3796795553" lon="10.396265683">
+  <name>aldi Hjallesevej 140  5230 Odense M </name>
+</wpt>
+<wpt lat="55.2442289106" lon="10.4765481228">
+  <name>aldi Odensevej 46 - 48  5750 Ringe </name>
+</wpt>
+<wpt lat="56.9678290643" lon="9.26438850302">
+  <name>aldi Limfjordsvej 13 9670 Løgstør </name>
+</wpt>
+<wpt lat="55.7052989519" lon="12.5071173836">
+  <name>aldi Frederikssundsvej 131-135 2700 Brønshøj </name>
+</wpt>
+<wpt lat="55.0542886501" lon="9.74943761117">
+  <name>aldi Havnbjerg Centret 17  6430 Nordborg </name>
+</wpt>
+<wpt lat="55.6412880885" lon="9.65187021015">
+  <name>aldi Nyvej 3  7080 Børkop </name>
+</wpt>
+<wpt lat="55.8661198364" lon="12.3293215021">
+  <name>aldi Bjarkesvej 1 3450 Allerød </name>
+</wpt>
+<wpt lat="55.1208191866" lon="12.034622805">
+  <name>aldi Vesterbro 63 4720 Præstø </name>
+</wpt>
+<wpt lat="55.3421794803" lon="8.78356620642">
+  <name>aldi Mosevej 20  6760 Ribe </name>
+</wpt>
+<wpt lat="55.7195605853" lon="12.4436072918">
+  <name>aldi Stationsalleen 46 2730 Herlev </name>
+</wpt>
+<wpt lat="55.0685809957" lon="10.6295587008">
+  <name>aldi Nyborgvej  99 5700 Svendborg </name>
+</wpt>
+<wpt lat="57.0089120987" lon="9.88735757266">
+  <name>aldi Bisgaardsvej 8 9200 Aalborg SV </name>
+</wpt>
+<wpt lat="54.695282504" lon="11.394737496">
+  <name>aldi Østergade 58 4970 Rødby </name>
+</wpt>
+<wpt lat="55.0348686385" lon="9.41729116246">
+  <name>aldi Tøndervej 5  6200 Aabenraa </name>
+</wpt>
+<wpt lat="55.9196398371" lon="11.6715396931">
+  <name>aldi Egebjergvej 1 4500 Nykøbing Sj. </name>
+</wpt>
+<wpt lat="56.3499023771" lon="8.62487191584">
+  <name>aldi Herningvej 52 7500 Holstebro </name>
+</wpt>
+<wpt lat="57.4701016634" lon="10.1965983001">
+  <name>aldi Ved Banen 4 9870 Sindal </name>
+</wpt>
+<wpt lat="55.0109993797" lon="11.9124319784">
+  <name>aldi Prins Jørgens Allé 2 4760 Vordingborg </name>
+</wpt>
+<wpt lat="57.1155501118" lon="8.60580629779">
+  <name>aldi Bytorvet 57 7730 Hanstholm </name>
+</wpt>
+<wpt lat="54.9214896422" lon="9.59344128541">
+  <name>aldi Jernbanegade 1  6300 Gråsten </name>
+</wpt>
+<wpt lat="55.4654187157" lon="8.69707844757">
+  <name>aldi Storegade 53  6740 Bramming </name>
+</wpt>
+<wpt lat="55.7577297803" lon="11.9580725499">
+  <name>aldi Hovedgaden 1 B 4050 Skibby </name>
+</wpt>
+<wpt lat="55.1927476914" lon="9.06403763565">
+  <name>aldi Østergade  1  6520 Toftlund </name>
+</wpt>
+<wpt lat="55.4575716728" lon="10.6556120477">
+  <name>aldi Nordre Ringvej 50 5300 Kerteminde </name>
+</wpt>
+<wpt lat="55.6479719803" lon="12.2998867059">
+  <name>aldi Taastrup Hovedgade 109-111 2630 Taastrup </name>
+</wpt>
+<wpt lat="55.5023996217" lon="9.52699940516">
+  <name>aldi Lyshøj Allé 6  6000 Kolding </name>
+</wpt>
+<wpt lat="55.6661096724" lon="12.4360619835">
+  <name>aldi Turpinssvinget 5 2605 Brøndby </name>
+</wpt>
+<wpt lat="55.2188018698" lon="11.7760768365">
+  <name>aldi Ved Åsen 2 4700 Næstved </name>
+</wpt>
+<wpt lat="56.4476193899" lon="9.36369159475">
+  <name>aldi Viborg Storcenter, Holstebrovej 81 8800 Viborg </name>
+</wpt>
+<wpt lat="55.9708415105" lon="10.1493659293">
+  <name>aldi Banegårdsgade 14 8300 Odder </name>
+</wpt>
+<wpt lat="57.723289061" lon="10.5892780861">
+  <name>aldi Chr. X's Vej 12 9990 Skagen </name>
+</wpt>
+<wpt lat="56.4913200992" lon="8.58387184382">
+  <name>aldi Holstebrovej 21-25 7600 Struer </name>
+</wpt>
+<wpt lat="55.5579203659" lon="12.2543360666">
+  <name>aldi Strandvejscentret, Ræveholmsvej 57 2690 Karlslunde </name>
+</wpt>
+<wpt lat="55.7232581339" lon="11.468868576">
+  <name>aldi Hovedgaden 12 4520 Svinninge </name>
+</wpt>
+<wpt lat="55.6220623714" lon="12.4216368649">
+  <name>aldi Brøndby Strand Centrum 41 2660 Brøndby Strand </name>
+</wpt>
+<wpt lat="56.8025408359" lon="9.51889651749">
+  <name>aldi Aars City Center, Søndergade  31 A 9600 Aars </name>
+</wpt>
+<wpt lat="55.6936121852" lon="12.547883632">
+  <name>aldi Jagtvej 63-65 2200 København N </name>
+</wpt>
+<wpt lat="57.008520346" lon="9.92661296075">
+  <name>aldi Gugvej 217 9210 Aalborg SØ </name>
+</wpt>
+<wpt lat="55.4204414989" lon="10.2747403544">
+  <name>aldi Rugårdsvej 455  5210 Odense NV </name>
+</wpt>
+<wpt lat="55.5017323671" lon="9.74789077801">
+  <name>aldi Odensevej 77-79  5500 Middelfart </name>
+</wpt>
+<wpt lat="55.7189476701" lon="12.4806323623">
+  <name>aldi Ruten 18 2700 Brønshøj </name>
+</wpt>
+<wpt lat="54.8865103142" lon="12.0370239937">
+  <name>aldi Nykøbingvej 42 4850 Stubbekøbing </name>
+</wpt>
+<wpt lat="55.6656024386" lon="12.3926607228">
+  <name>aldi Hovedvejen 140 2600 Glostrup </name>
+</wpt>
+<wpt lat="56.1292285832" lon="10.1572889527">
+  <name>aldi Nordbyvej 4 8260 Viby </name>
+</wpt>
+<wpt lat="54.9214482951" lon="9.80917954545">
+  <name>aldi Grundtvigs Plads 6 6400 Sønderborg </name>
+</wpt>
+<wpt lat="56.1302209689" lon="8.8821768205">
+  <name>aldi Snejbjerg Hovedgade 38 7400 Herning </name>
+</wpt>
+<wpt lat="56.4722503817" lon="10.0301968233">
+  <name>aldi Mariagervej  78 8920 Randers NV </name>
+</wpt>
+<wpt lat="57.0526302404" lon="9.90447166282">
+  <name>aldi Dannebrogsgade 58 1 9000 Aalborg </name>
+</wpt>
+<wpt lat="55.3568494295" lon="10.3892869474">
+  <name>aldi Odensevej 2A  5260 Odense S </name>
+</wpt>
+<wpt lat="54.7600008544" lon="11.8921972423">
+  <name>aldi Østerbrogade 147 4800 Nykøbing F </name>
+</wpt>
+<wpt lat="55.6823883846" lon="12.5820668462">
+  <name>aldi Gothersgade 52 1123 København K </name>
+</wpt>
+<wpt lat="57.2475901318" lon="9.62290306122">
+  <name>aldi Stenmarksvej  1 9492 Blokhus </name>
+</wpt>
+<wpt lat="55.6807608182" lon="11.102332069">
+  <name>aldi Sct. Jørgensbjerg 46  4400 Kalundborg </name>
+</wpt>
+<wpt lat="55.6865507931" lon="12.549718248">
+  <name>aldi Rantzausgade 30 2200 København N </name>
+</wpt>
+<wpt lat="55.6496618042" lon="12.2018066916">
+  <name>aldi Hovedgaden 407 2640 Hedehusene </name>
+</wpt>
+<wpt lat="56.1787314104" lon="10.2010229624">
+  <name>aldi Randersvej 144  8200 Århus N </name>
+</wpt>
+<wpt lat="55.6601594063" lon="12.6047567303">
+  <name>aldi Tingvej 4 2300 København S </name>
+</wpt>
+<wpt lat="55.8675882965" lon="9.88326565935">
+  <name>aldi Sundvej 109 8700 Horsens </name>
+</wpt>
+<wpt lat="56.551728609" lon="8.31019928592">
+  <name>aldi Skous Gade 7 7620 Lemvig </name>
+</wpt>
+<wpt lat="56.2063977312" lon="10.2609537542">
+  <name>aldi Åmarksvej 22  8250 Egå </name>
+</wpt>
+<wpt lat="55.9792603621" lon="12.4022205114">
+  <name>aldi Wendorfsvej 2 3480 Fredensborg </name>
+</wpt>
+<wpt lat="55.7026182982" lon="12.5449878164">
+  <name>aldi Heimdalsgade 39 2200 København N </name>
+</wpt>
+<wpt lat="56.7789818465" lon="9.34170318148">
+  <name>aldi Holmevej 3 9640 Farsø </name>
+</wpt>
+<wpt lat="55.6369888857" lon="12.4795261967">
+  <name>aldi Hvidovrevej 344-348 2650 Hvidovre </name>
+</wpt>
+<wpt lat="55.7319485271" lon="12.5185117883">
+  <name>aldi Søborg Hovedgade 47 2860 Søborg </name>
+</wpt>
+<wpt lat="55.3558218409" lon="9.4896685653">
+  <name>aldi Lindegade 53 6070 Christiansfeld </name>
+</wpt>
+<wpt lat="55.8537593584" lon="11.5801236518">
+  <name>aldi Torvesvinget 3 4560 Vig </name>
+</wpt>
+<wpt lat="55.2737793288" lon="9.90706170904">
+  <name>aldi Nørre Allé 12  5610 Assens </name>
+</wpt>
+<wpt lat="55.4137800866" lon="11.3530539396">
+  <name>aldi Ndr. Ringgade 24 4200 Slagelse </name>
+</wpt>
+<wpt lat="56.1323910969" lon="8.95857419093">
+  <name>aldi Dæmningen 11 7400 Herning </name>
+</wpt>
+<wpt lat="57.0861584369" lon="9.2686872603">
+  <name>aldi Parkvej 3  9690 Fjerritslev </name>
+</wpt>
+<wpt lat="55.467860719" lon="8.45680669412">
+  <name>aldi Østergade 20  6700 Esbjerg </name>
+</wpt>
+<wpt lat="56.8933919705" lon="9.83783193182">
+  <name>aldi Hobrovej 56 9530 Støvring </name>
+</wpt>
+<wpt lat="55.410037973" lon="10.4078489453">
+  <name>aldi Kochsgade 121  5000 Odense C </name>
+</wpt>
+<wpt lat="55.3899225088" lon="11.3418663788">
+  <name>aldi Idagårdsvej  7 4200 Slagelse </name>
+</wpt>
+<wpt lat="55.8444700092" lon="12.4341464285">
+  <name>aldi Birkerød Kongevej 102 3460 Birkerød </name>
+</wpt>
+<wpt lat="56.1526180142" lon="8.93063226863">
+  <name>aldi Tjelevej 26 - 28   7400 Herning </name>
+</wpt>
+<wpt lat="57.334199666" lon="10.5197065666">
+  <name>aldi Sophus Falksvej 4  9300 Sæby </name>
+</wpt>
+<wpt lat="56.796518275" lon="8.85892036378">
+  <name>aldi Støberivej  1 7900 Nykøbing Mors </name>
+</wpt>
+<wpt lat="55.7066721456" lon="9.53875353855">
+  <name>aldi Jyllandsgade 6 7100 Vejle </name>
+</wpt>
+<wpt lat="55.2509086327" lon="11.78117599">
+  <name>aldi Messebuen 1 4700 Næstved </name>
+</wpt>
+<wpt lat="55.6612196649" lon="12.6205218381">
+  <name>aldi Messinavej 2 2300 København S </name>
+</wpt>
+<wpt lat="56.1241309258" lon="12.3076478514">
+  <name>aldi Gilleleje Hovedgade 6 A 3250 Gilleleje </name>
+</wpt>
+<wpt lat="55.438408947" lon="12.1487017507">
+  <name>aldi Lerbæk Torv 2 4600 Køge </name>
+</wpt>
+<wpt lat="55.4791816852" lon="8.47873215487">
+  <name>aldi Strandby Kirkevej 88 6705 Esbjerg Ø </name>
+</wpt>
+<wpt lat="55.8453788479" lon="9.23631168248">
+  <name>aldi Hjortevangen 29  7323 Give </name>
+</wpt>
+<wpt lat="56.4451290665" lon="10.0582826371">
+  <name>aldi Vennelystvej 35 8960 Randers SØ </name>
+</wpt>
+<wpt lat="56.4114912373" lon="10.8751994042">
+  <name>aldi Søndergade 10 8500 Grenå </name>
+</wpt>
+<wpt lat="55.3295504848" lon="11.9402300093">
+  <name>aldi Grønlandsgade 4 4690 Haslev </name>
+</wpt>
+<wpt lat="55.5852904816" lon="12.3190962154">
+  <name>aldi Hundige Strandvej 192-194 2670 Greve Strand </name>
+</wpt>
+<wpt lat="57.4741008238" lon="9.9908155302">
+  <name>aldi Skagensvej 100 9800 Hjørring </name>
+</wpt>
+<wpt lat="56.2014503825" lon="10.6791023281">
+  <name>aldi Garverivej 2 8400 Ebeltoft </name>
+</wpt>
+<wpt lat="56.4664679808" lon="10.31930174">
+  <name>aldi Rougsøvej  47 B 8961 Allingåbro </name>
+</wpt>
+<wpt lat="56.1135675523" lon="10.1516861791">
+  <name>aldi Søndervangs Allé 38 8260 Viby J </name>
+</wpt>
+<wpt lat="55.9644997431" lon="11.8491017509">
+  <name>aldi Strandvejen 18 3390 Hundested </name>
+</wpt>
+<wpt lat="57.0972886898" lon="9.52315030869">
+  <name>aldi Kirkegade 3 9460 Brovst </name>
+</wpt>
+<wpt lat="55.7008699468" lon="12.4597770942">
+  <name>aldi Slotsherrens Vænge 3 B 2610 Rødovre </name>
+</wpt>
+<wpt lat="55.6792295257" lon="12.5332156966">
+  <name>aldi Howitzvej 2 2000 Frederiksberg </name>
+</wpt>
+<wpt lat="57.5894186467" lon="9.95797230515">
+  <name>aldi Nørregade 18 9850 Hirtshals </name>
+</wpt>
+<wpt lat="56.1584581402" lon="10.2025158362">
+  <name>aldi Grønnegade 57 8000 Aarhus C </name>
+</wpt>
+<wpt lat="55.9380393379" lon="9.13545276438">
+  <name>aldi Chr. Bergsvej 2 7330 Brande </name>
+</wpt>
+<wpt lat="55.7196315005" lon="9.60487166302">
+  <name>aldi Bredballe Centret 24 7120 Vejle Øst </name>
+</wpt>
+<wpt lat="55.3324612907" lon="10.4367801214">
+  <name>aldi Klaus Berntsens Vej 7, Højby  5260 Odense S </name>
+</wpt>
+<wpt lat="55.7504775193" lon="12.337100634">
+  <name>aldi Klakkebjerg  8 2750 Ballerup </name>
+</wpt>
+<wpt lat="56.0151897045" lon="8.12716935269">
+  <name>aldi Parallelvej 65  6960 Hvide Sande </name>
+</wpt>
+<wpt lat="55.5014420314" lon="8.45705850417">
+  <name>aldi Østervangsvej 1B  6715 Esbjerg N </name>
+</wpt>
+<wpt lat="55.9530618022" lon="8.48734765586">
+  <name>aldi Bredgade 132A 6900 Skjern </name>
+</wpt>
+<wpt lat="55.253609936" lon="11.2961808412">
+  <name>aldi Bakkenborgvej 2 B 4230 Skælskør </name>
+</wpt>
+<wpt lat="55.526469251" lon="11.4984472636">
+  <name>aldi Torvet 34 4293 Dianalund </name>
+</wpt>
+<wpt lat="57.162668776" lon="9.72987736624">
+  <name>aldi Vestergade 2  9440 Aabybro </name>
+</wpt>
+<wpt lat="55.3189592816" lon="10.7804199002">
+  <name>aldi Vestergade 35B  5800 Nyborg </name>
+</wpt>
+<wpt lat="55.4988696657" lon="11.9775158831">
+  <name>aldi Borup Center, Hovedgaden 60 4140 Borup </name>
+</wpt>
+<wpt lat="57.4554794845" lon="10.5256600757">
+  <name>aldi Gl. Skagensvej 101 9900 Frederikshavn </name>
+</wpt>
+<wpt lat="55.634669049" lon="12.6367995591">
+  <name>aldi Kastrupvej 326 2770 Kastrup </name>
+</wpt>
+<wpt lat="57.4272198178" lon="10.5146164064">
+  <name>aldi Gærumvej 35 9900 Frederikshavn </name>
+</wpt>
+<wpt lat="55.6933384723" lon="12.533773276">
+  <name>aldi Borups Allé 113 2000 Frederiksberg </name>
+</wpt>
+<wpt lat="54.7812498666" lon="11.8662428208">
+  <name>aldi Møllebakken 1 4800 Nykøbing F </name>
+</wpt>
+</gpx>

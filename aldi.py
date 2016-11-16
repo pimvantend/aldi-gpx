@@ -170,13 +170,33 @@ def maakgpx(regellijst,land):
     doelbestand.write('</gpx>\n')
     return
 
-land1='B'
+land1='B' # en luxemburg
 zipcodelijst=range(1000,9999,50)
 regellijst1=[]
 for zipcode in zipcodelijst:
     zipcode=str(zipcode)
     regellijst1=zoekzipcode(land1,zipcode,regellijst1)
-print regellijst1
+# verwijder duitse en franse postcodes:
+    reguliere=re.compile(r' [0-9][0-9][0-9][0-9][0-9] ')
+    regellijst1=[ding for ding in regellijst1 if len(reguliere.findall(ding))==0]
+# verwijder nederlandse postcodes:
+    reguliere=re.compile(r' [1-9][0-9][0-9][0-9] [A-Z][A-Z] ')
+    regellijst1=[ding for ding in regellijst1 if len(reguliere.findall(ding))==0]
+    print len(regellijst1)
+plt.show()
+maakgpx(regellijst1,land1)
+exit()
+
+land1='DK'
+# 222 filialen
+zipcodelijst=range(1000,9999,50)
+regellijst1=[]
+for zipcode in zipcodelijst:
+    zipcode=str(zipcode)
+    regellijst1=zoekzipcode(land1,zipcode,regellijst1)
+    reguliere=re.compile(r' [0-9][0-9][0-9][0-9] ')
+    regellijst1=[ding for ding in regellijst1 if len(reguliere.findall(ding))>0]
+    print len(regellijst1)
 plt.show()
 maakgpx(regellijst1,land1)
 exit()
@@ -202,7 +222,6 @@ zipcodelijst=[
 9645, #veendam
 9861, #grootegast
 8531] #lemmer
-land1='NL'
 regellijst1=[]
 for zipcode in zipcodelijst:
     zipcode=str(zipcode)
@@ -211,6 +230,8 @@ print regellijst1
 plt.show()
 maakgpx(regellijst1,land1)
 exit()
+
+land1='F'
 zipcodelijst=['0'+str(getal)+'120' for getal in range(1,10)]
 zipcodelijst+=[str(getal)+'120' for getal in range(10,96)]
 zipcodelijst+=['59140']
@@ -223,18 +244,7 @@ zipcodelijst+=['01420','60200','62000','62450','66200','66000']
 zipcodelijst+=['67150','68180','69380','69170','70000','72140']
 zipcodelijst+=['77100','77130','79300','83190','84100','87300']
 zipcodelijst+=['88400','88200','89100','95260']
-#zipcodelijst.remove('20120')
-#zipcodelijst.remove('05120')
-#zipcodelijst+=['05140']
 print zipcodelijst
-#exit()
-#zipcodelijst=[44120,49120,37120,47120,45120,85120,79120,86120,36120,18120,58120]
-#zipcodelijst+=[50120,14120,27120,29120,22120,56120,35120,53120,72120,28120]
-#zipcodelijst+=[89120,21120,25120,45120]
-#zipcodelijst+=[76150,60120,95120,78120,91120,77120,10120,52120]
-#zipcodelijst+=[62220,59120,80120,'02120','08120',55120,57120,67120,68120]
-#zipcodelijst+=[51120,54120,88120,70120,90120]
-land1='F'
 regellijst1=[]
 for zipcode in zipcodelijst:
     zipcode=str(zipcode)
