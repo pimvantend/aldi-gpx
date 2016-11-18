@@ -170,37 +170,6 @@ def maakgpx(regellijst,land):
     doelbestand.write('</gpx>\n')
     return
 
-land1='B' # en luxemburg
-zipcodelijst=range(1000,9999,50)
-regellijst1=[]
-for zipcode in zipcodelijst:
-    zipcode=str(zipcode)
-    regellijst1=zoekzipcode(land1,zipcode,regellijst1)
-# verwijder duitse en franse postcodes:
-    reguliere=re.compile(r' [0-9][0-9][0-9][0-9][0-9] ')
-    regellijst1=[ding for ding in regellijst1 if len(reguliere.findall(ding))==0]
-# verwijder nederlandse postcodes:
-    reguliere=re.compile(r' [1-9][0-9][0-9][0-9] [A-Z][A-Z] ')
-    regellijst1=[ding for ding in regellijst1 if len(reguliere.findall(ding))==0]
-    print len(regellijst1)
-plt.show()
-maakgpx(regellijst1,land1)
-exit()
-
-land1='DK'
-# 222 filialen
-zipcodelijst=range(1000,9999,50)
-regellijst1=[]
-for zipcode in zipcodelijst:
-    zipcode=str(zipcode)
-    regellijst1=zoekzipcode(land1,zipcode,regellijst1)
-    reguliere=re.compile(r' [0-9][0-9][0-9][0-9] ')
-    regellijst1=[ding for ding in regellijst1 if len(reguliere.findall(ding))>0]
-    print len(regellijst1)
-plt.show()
-maakgpx(regellijst1,land1)
-exit()
-
 land1='NL'
 zipcodelijst=[
 4338, #middelburg
@@ -226,7 +195,49 @@ regellijst1=[]
 for zipcode in zipcodelijst:
     zipcode=str(zipcode)
     regellijst1=zoekzipcode(land1,zipcode,regellijst1)
-print regellijst1
+# kies nederlandse postcodes met spatie:
+    reguliere=re.compile(r' [1-9][0-9][0-9][0-9] [A-Z][A-Z] ')
+    regellijst2=[ding for ding in regellijst1 if len(reguliere.findall(ding))>0]
+# kies nederlandse postcodes zonder spatie:
+    reguliere=re.compile(r' [1-9][0-9][0-9][0-9][A-Z][A-Z] ')
+    regellijst2+=[ding for ding in regellijst1 if len(reguliere.findall(ding))>0]
+    regellijst1=regellijst2
+    print len(regellijst1)
+plt.show()
+maakgpx(regellijst1,land1)
+exit()
+
+land1='B' # en luxemburg
+# 456 filialen
+zipcodelijst=range(1000,9999,50)
+regellijst1=[]
+for zipcode in zipcodelijst:
+    zipcode=str(zipcode)
+    regellijst1=zoekzipcode(land1,zipcode,regellijst1)
+# verwijder duitse en franse postcodes:
+    reguliere=re.compile(r' [0-9][0-9][0-9][0-9][0-9] ')
+    regellijst1=[ding for ding in regellijst1 if len(reguliere.findall(ding))==0]
+# verwijder nederlandse postcodes met spatie:
+    reguliere=re.compile(r' [1-9][0-9][0-9][0-9] [A-Z][A-Z] ')
+    regellijst1=[ding for ding in regellijst1 if len(reguliere.findall(ding))==0]
+# verwijder nederlandse postcodes zonder spatie:
+    reguliere=re.compile(r' [1-9][0-9][0-9][0-9][A-Z][A-Z] ')
+    regellijst1=[ding for ding in regellijst1 if len(reguliere.findall(ding))==0]
+    print len(regellijst1)
+plt.show()
+maakgpx(regellijst1,land1)
+exit()
+
+land1='DK'
+# 222 filialen
+zipcodelijst=range(1000,9999,50)
+regellijst1=[]
+for zipcode in zipcodelijst:
+    zipcode=str(zipcode)
+    regellijst1=zoekzipcode(land1,zipcode,regellijst1)
+    reguliere=re.compile(r' [0-9][0-9][0-9][0-9] ')
+    regellijst1=[ding for ding in regellijst1 if len(reguliere.findall(ding))>0]
+    print len(regellijst1)
 plt.show()
 maakgpx(regellijst1,land1)
 exit()

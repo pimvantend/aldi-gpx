@@ -178,8 +178,8 @@
 <wpt lat="51.2119721436" lon="4.43318786994">
   <name>aldi Sergeyselsstraat 60 2140 Borgerhout </name>
 </wpt>
-<wpt lat="51.058869938" lon="4.20801572625">
-  <name>aldi Heikant 16 2890 Sint-Amands </name>
+<wpt lat="50.3011775812" lon="5.11215769598">
+  <name>aldi Av. X. Schlögel  119 5590 Ciney </name>
 </wpt>
 <wpt lat="50.2715098174" lon="6.11697871949">
   <name>aldi rue de Luxembourg  72 4780 St Vith </name>
@@ -271,9 +271,6 @@
 <wpt lat="51.0548282741" lon="5.22300807713">
   <name>aldi Koolmijnlaan 77  3580 Beringen </name>
 </wpt>
-<wpt lat="50.816648737" lon="5.89278683635">
-  <name>aldi Looierstraat 20 6271BB Gulpen </name>
-</wpt>
 <wpt lat="50.7993724123" lon="5.35965100193">
   <name>aldi Tongersesteenweg 137B 3840 Borgloon </name>
 </wpt>
@@ -330,9 +327,6 @@
 </wpt>
 <wpt lat="50.6629611953" lon="3.61296159927">
   <name>aldi Route d'Hacquegnies 11 7911 Frasnes-lez-Anvaing </name>
-</wpt>
-<wpt lat="50.6997728177" lon="6.0849538771">
-  <name>aldi Aachenerstrasse 49  4731 Eynatten </name>
 </wpt>
 <wpt lat="50.3938712158" lon="4.68742608794">
   <name>aldi Avenue Albert 1er 79 5070 Fosses-la-Ville </name>
@@ -528,9 +522,6 @@
 </wpt>
 <wpt lat="51.1987873544" lon="4.41679323707">
   <name>aldi Covelierstraat 8 2600 Berchem </name>
-</wpt>
-<wpt lat="50.8593971994" lon="5.70070073454">
-  <name>aldi Francois de Veyestraat 3 6221AB Maastricht </name>
 </wpt>
 <wpt lat="50.9165610375" lon="3.19814051532">
   <name>aldi Krekelmotestraat 77  8870 Izegem </name>
@@ -1033,6 +1024,9 @@
 <wpt lat="51.1240981971" lon="3.03157716069">
   <name>aldi Aartrijkestraat 111 8480 Eernegem </name>
 </wpt>
+<wpt lat="50.6670312678" lon="5.97527261405">
+  <name>aldi Rue Mitoyenne 312A 4710 Lontzen </name>
+</wpt>
 <wpt lat="50.666330146" lon="5.56884220068">
   <name>aldi Rue des Tendeurs 1 4040 Vottem </name>
 </wpt>
@@ -1210,8 +1204,8 @@
 <wpt lat="51.1292174416" lon="3.32234582231">
   <name>aldi Hubert d'Ydewallestraat 50-52 8730 Beernem </name>
 </wpt>
-<wpt lat="50.3011775812" lon="5.11215769598">
-  <name>aldi Av. X. Schlögel  119 5590 Ciney </name>
+<wpt lat="51.058869938" lon="4.20801572625">
+  <name>aldi Heikant 16 2890 Sint-Amands </name>
 </wpt>
 <wpt lat="50.4293409166" lon="3.79271800186">
   <name>aldi Rue Neuve 101 7300 Boussu </name>
@@ -1336,8 +1330,8 @@
 <wpt lat="51.3668185596" lon="4.99244899702">
   <name>aldi Grote Baan 84 2380 Ravels </name>
 </wpt>
-<wpt lat="50.6670312678" lon="5.97527261405">
-  <name>aldi Rue Mitoyenne 312A 4710 Lontzen </name>
+<wpt lat="50.6997728177" lon="6.0849538771">
+  <name>aldi Aachenerstrasse 49  4731 Eynatten </name>
 </wpt>
 <wpt lat="50.6430218651" lon="5.53364275303">
   <name>aldi rue St Nicolas 614  4420 Glain </name>
