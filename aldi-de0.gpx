@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="Locus Android"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
+ xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
+ xmlns:locus="http://www.locusmap.eu">
+<wpt lat="51.4396793165" lon="14.2604168">
+  <name>aldi Albert-Einstein-Straße 1 A 02977 Hoyerswerda </name>
+</wpt>
+<wpt lat="50.7427021888" lon="12.7473981302">
+  <name>aldi Chemnitzer Str. 1 09385 Lugau </name>
+</wpt>
+<wpt lat="50.5867789925" lon="12.704806259">
+  <name>aldi Rudolf-Breitscheid-Str.  7 08280 Aue </name>
+</wpt>
+<wpt lat="50.6517524218" lon="12.2243526842">
+  <name>aldi Reichenbacher Straße 105 07973 Greiz </name>
+</wpt>
+<wpt lat="50.8137678991" lon="12.3883619655">
+  <name>aldi Parkhausstraße 2 08451 Crimmitschau </name>
+</wpt>
+<wpt lat="51.3549418164" lon="12.2936004479">
+  <name>aldi Heinrich-Heine-Str.   39 04178 Leipzig </name>
+</wpt>
+<wpt lat="51.0802876927" lon="13.7128018878">
+  <name>aldi Lommatzscher Str. 1c 01139 Dresden </name>
+</wpt>
+<wpt lat="51.5171811294" lon="13.3938125141">
+  <name>aldi Nordring  11 b 04924 Bad Liebenwerda </name>
+</wpt>
+<wpt lat="51.3574297297" lon="12.4251981785">
+  <name>aldi Löbauer Str. 68-70 04347 Leipzig </name>
+</wpt>
+<wpt lat="51.271178225" lon="14.1037279966">
+  <name>aldi Uferstraße 4 01917 Kamenz </name>
+</wpt>
+<wpt lat="51.3605689127" lon="12.0193343377">
+  <name>aldi Kollenbeyer Weg 2 e 06217 Merseburg </name>
+</wpt>
+<wpt lat="51.3053913098" lon="12.225593748">
+  <name>aldi Leipziger Str. 34 04420 Markranstädt </name>
+</wpt>
+<wpt lat="51.0629508128" lon="13.2967127603">
+  <name>aldi Fabrikstraße 3  01683 Nossen </name>
+</wpt>
+<wpt lat="50.9139471926" lon="13.3661583748">
+  <name>aldi Dresdner Str. 31d  09599 Freiberg </name>
+</wpt>
+<wpt lat="50.5644309619" lon="13.0113760012">
+  <name>aldi Oberwiesenthaler Weg 6  09456 Annaberg-Buchholz </name>
+</wpt>
+<wpt lat="50.9575015504" lon="13.951481842">
+  <name>aldi Struppener Str. 2a  01796 Pirna </name>
+</wpt>
+<wpt lat="51.8177791058" lon="12.2176527383">
+  <name>aldi Zunftstraße 17 06847 Dessau-Roßlau </name>
+</wpt>
+<wpt lat="51.1577382298" lon="14.9837231812">
+  <name>aldi Pontestraße 10 02826 Görlitz </name>
+</wpt>
+<wpt lat="50.8038000793" lon="12.9207063969">
+  <name>aldi Hermann-Pöge-Straße 2 09120 Chemnitz </name>
+</wpt>
+<wpt lat="51.3668073301" lon="12.3856100414">
+  <name>aldi Delitzscher Str. 61 04129 Leipzig </name>
+</wpt>
+<wpt lat="51.2920814391" lon="13.1212191422">
+  <name>aldi Nossener Str. 5 04758 Oschatz </name>
+</wpt>
+<wpt lat="51.481322736" lon="11.8949941325">
+  <name>aldi Bennstedter Straße  22 06126 Halle </name>
+</wpt>
+<wpt lat="51.2201121477" lon="11.7729112245">
+  <name>aldi Merseburger Str. 31 06632 Freyburg </name>
+</wpt>
+<wpt lat="50.8616678433" lon="12.0867924514">
+  <name>aldi Braustraße 13 07551 Gera </name>
+</wpt>
+<wpt lat="51.7815624842" lon="14.318396064">
+  <name>aldi Limberger Straße 1 03044 Cottbus </name>
+</wpt>
+<wpt lat="51.0544608326" lon="12.7008402507">
+  <name>aldi Colditzer Str. 6 04643 Geithain </name>
+</wpt>
+<wpt lat="51.5114389658" lon="12.0512512615">
+  <name>aldi Saarbrücker Straße 01 06188 Peissen </name>
+</wpt>
+<wpt lat="50.5136416168" lon="12.3985512793">
+  <name>aldi Bahnhofstraße 15 08209 Auerbach/Vogtl. </name>
+</wpt>
+<wpt lat="51.1136208853" lon="13.6114483428">
+  <name>aldi Weinböhlaer Str. 9  01445 Radebeul </name>
+</wpt>
+<wpt lat="50.8038625979" lon="12.7305898094">
+  <name>aldi Dresdner Straße 151 09337 Hohenstein-Ernstthal </name>
+</wpt>
+<wpt lat="50.9735811253" lon="13.8601467397">
+  <name>aldi August-Bebel-Str. 30  01809 Heidenau </name>
+</wpt>
+<wpt lat="51.7566522466" lon="14.3133418765">
+  <name>aldi Karl-Liebknecht-Straße 81 03046 Cottbus </name>
+</wpt>
+<wpt lat="51.1247021508" lon="14.1858090796">
+  <name>aldi Am Güterbahnhof 2 01877 Bischofswerda </name>
+</wpt>
+<wpt lat="51.7485072463" lon="11.9498257708">
+  <name>aldi Konrad-Adenauer-Allee  3 06366 Köthen </name>
+</wpt>
+<wpt lat="51.0571289568" lon="13.6872611541">
+  <name>aldi Raimundstraße 1 - 3  01157 Dresden </name>
+</wpt>
+<wpt lat="50.9487599469" lon="13.9421738633">
+  <name>aldi Rottwerndorfer Str. 41  01796 Pirna </name>
+</wpt>
+<wpt lat="51.3370226049" lon="13.3412201866">
+  <name>aldi Teninger Str. 5  01619 Zeithain </name>
+</wpt>
+<wpt lat="51.6598975604" lon="12.2641116924">
+  <name>aldi Damaschkestraße 2 c 06766 Bitterfeld-Wolfen </name>
+</wpt>
+<wpt lat="50.6517809318" lon="13.3522368763">
+  <name>aldi Dörfelstr. 3  09526 Olbernhau </name>
+</wpt>
+<wpt lat="51.098837965" lon="13.6892576481">
+  <name>aldi Meißner Str. 47 a  01445 Radebeul </name>
+</wpt>
+<wpt lat="51.8912684579" lon="12.4539764699">
+  <name>aldi Schwarzer Weg  5 a 06869 Coswig </name>
+</wpt>
+<wpt lat="50.9829521737" lon="12.4176168973">
+  <name>aldi Geraer Str. 72 04600 Altenburg </name>
+</wpt>
+<wpt lat="50.8928099141" lon="11.5847281785">
+  <name>aldi Oßmaritzer Straße  1 a 07745 Jena </name>
+</wpt>
+<wpt lat="51.7529779922" lon="11.9998910046">
+  <name>aldi Schlachthofstraße  1 06366 Köthen </name>
+</wpt>
+<wpt lat="51.5169572769" lon="14.0026892142">
+  <name>aldi Schulstraße 8 b 01968 Senftenberg </name>
+</wpt>
+<wpt lat="51.1240191746" lon="12.5060831637">
+  <name>aldi Oststraße  3 a 04552 Borna </name>
+</wpt>
+<wpt lat="51.0607578112" lon="14.4995104422">
+  <name>aldi Bautzener Straße 7 a 02736 Oppach </name>
+</wpt>
+<wpt lat="51.4677782262" lon="13.8697694808">
+  <name>aldi Schipkauer Straße 13 01987 Schwarzheide </name>
+</wpt>
+<wpt lat="51.6351602342" lon="11.1300761406">
+  <name>aldi Stolberger Straße 25 A 06493 Harzgerode </name>
+</wpt>
+<wpt lat="51.681671748" lon="12.26430055">
+  <name>aldi Comeniusstraße  38 06766 Bitterfeld-Wolfen </name>
+</wpt>
+<wpt lat="51.1860722916" lon="11.9285927877">
+  <name>aldi Am Marktweg 2 06667 Leißling </name>
+</wpt>
+<wpt lat="51.3934808723" lon="12.2112585616">
+  <name>aldi Merseburger Str.  25 04435 Schkeuditz </name>
+</wpt>
+<wpt lat="50.9471791444" lon="11.6053496229">
+  <name>aldi Altenburger Straße 1 07743 Jena </name>
+</wpt>
+<wpt lat="51.3845577433" lon="12.7251309273">
+  <name>aldi Nischwitzer Breite  1 04808 Wurzen </name>
+</wpt>
+<wpt lat="51.4402006544" lon="14.2472507317">
+  <name>aldi Teschenstraße 1 02977 Hoyerswerda Altstadt </name>
+</wpt>
+<wpt lat="51.5836613391" lon="11.5030517902">
+  <name>aldi Auf der Spitze 2  06308 Klostermansfeld </name>
+</wpt>
+<wpt lat="50.5788701556" lon="11.8033622541">
+  <name>aldi Austeg 3 07907 Schleiz </name>
+</wpt>
+<wpt lat="51.8007700376" lon="12.2547497545">
+  <name>aldi Kreuzberger Straße 33 06849 Dessau-Roßlau </name>
+</wpt>
+<wpt lat="51.4410527206" lon="14.0999418527">
+  <name>aldi Friedensstraße 8 02991 Lauta </name>
+</wpt>
+<wpt lat="50.6476981325" lon="13.156508522">
+  <name>aldi Johann-Ehrenfried-Wagner-Str. 9  09496 Marienberg </name>
+</wpt>
+<wpt lat="51.4088425348" lon="13.4463328959">
+  <name>aldi Hauptstraße 10 01609 Gröditz </name>
+</wpt>
+<wpt lat="51.7582777304" lon="14.3467876471">
+  <name>aldi Willy-Brandt-Straße 19 a 03050 Cottbus </name>
+</wpt>
+<wpt lat="50.9656015036" lon="14.2502904387">
+  <name>aldi Bad Schandauer Str. 86 01855 Sebnitz </name>
+</wpt>
+<wpt lat="51.5521892984" lon="12.9749714626">
+  <name>aldi Zum Großen Teich 1 04860 Torgau </name>
+</wpt>
+<wpt lat="51.2975925424" lon="13.2684380891">
+  <name>aldi Riesapark 2  01587 Riesa </name>
+</wpt>
+<wpt lat="50.4745493164" lon="12.3681991751">
+  <name>aldi Ferdinand-Lassalle-Straße 21 08223 Falkenstein </name>
+</wpt>
+<wpt lat="51.0492485023" lon="13.7345025181">
+  <name>aldi Webergasse 1  01067 Dresden </name>
+</wpt>
+<wpt lat="51.169778809" lon="14.9678501549">
+  <name>aldi Am Hopfenfeld 6 02828 Görlitz </name>
+</wpt>
+<wpt lat="50.9180805154" lon="12.8109981542">
+  <name>aldi Strasse der Deutschen Einheit 2-4 09217 Burgstädt </name>
+</wpt>
+<wpt lat="50.6599226619" lon="11.9929212622">
+  <name>aldi Meinersdorfer Str. 8 07937 Zeulenroda </name>
+</wpt>
+<wpt lat="51.7812286577" lon="14.0773778736">
+  <name>aldi Cottbuser Straße 13 c 03226 Vetschau </name>
+</wpt>
+<wpt lat="51.2182420457" lon="13.716848835">
+  <name>aldi Großenhainer Str. 39 a  01471 Radeburg </name>
+</wpt>
+<wpt lat="51.3872685382" lon="11.8738420883">
+  <name>aldi Am Bahnhof 23 06246 Bad Lauchstädt </name>
+</wpt>
+<wpt lat="51.3750827308" lon="12.480497464">
+  <name>aldi Leipziger Str.  104 04425 Taucha </name>
+</wpt>
+<wpt lat="50.5804006335" lon="12.7136915564">
+  <name>aldi Damaschkestr. 28 08280 Aue </name>
+</wpt>
+<wpt lat="51.8613317311" lon="12.7174327343">
+  <name>aldi Marktstrasse 4 06888 Mühlanger </name>
+</wpt>
+<wpt lat="51.2919802086" lon="12.3932992411">
+  <name>aldi Friederikenstr. 25 04279 Leipzig </name>
+</wpt>
+<wpt lat="51.4676381669" lon="11.2738686721">
+  <name>aldi Riethweg  11 06526 Sangerhausen </name>
+</wpt>
+<wpt lat="51.7519480339" lon="14.2595894242">
+  <name>aldi Berliner Straße 114 b 03099 Kolkwitz </name>
+</wpt>
+<wpt lat="51.0362773172" lon="13.7389721465">
+  <name>aldi Uhlandstr. 5  01069 Dresden </name>
+</wpt>
+<wpt lat="50.9156878822" lon="13.0331935434">
+  <name>aldi Klingbach 14  09669 Frankenberg </name>
+</wpt>
+<wpt lat="51.2795327766" lon="12.431295579">
+  <name>aldi Bornaische Chaussee  2 04416 Markkleeberg </name>
+</wpt>
+<wpt lat="51.4806394451" lon="11.9199862799">
+  <name>aldi Neustädter Passage  17 06122 Halle-Neustadt-Centrum </name>
+</wpt>
+<wpt lat="51.3569018316" lon="12.4584460982">
+  <name>aldi Goldsternstraße  58 04329 Leipzig </name>
+</wpt>
+<wpt lat="50.8682123559" lon="11.7163528887">
+  <name>aldi Jenaer Str. 11 07646 Stadtroda </name>
+</wpt>
+<wpt lat="50.9788416023" lon="12.9817073814">
+  <name>aldi Chemnitzer Straße 28 E  09648 Mittweida </name>
+</wpt>
+<wpt lat="50.5327097507" lon="12.1026384981">
+  <name>aldi Alte Jößnitzer Straße 30 08525 Plauen </name>
+</wpt>
+<wpt lat="51.3003197314" lon="13.0923059525">
+  <name>aldi Filderstädter Str. 5 a  04758 Oschatz </name>
+</wpt>
+<wpt lat="51.0462689568" lon="13.7552318811">
+  <name>aldi Straßburger Platz 1 01307 Dresden </name>
+</wpt>
+<wpt lat="51.0640811854" lon="13.746193699">
+  <name>aldi Antonstr.  2a 01097 Dresden </name>
+</wpt>
+<wpt lat="51.1631808481" lon="12.0989692659">
+  <name>aldi Lützener Str.   16 06679 Hohenmölsen </name>
+</wpt>
+<wpt lat="51.1793188062" lon="14.4071321268">
+  <name>aldi Dresdner Straße 49 d 02625 Bautzen </name>
+</wpt>
+<wpt lat="51.0243885873" lon="14.2317194476">
+  <name>aldi Sebnitzer Straße 41 01844 Neustadt i. Sa. </name>
+</wpt>
+<wpt lat="51.0195519089" lon="13.7354198261">
+  <name>aldi Bulgakowstraße 7 01217 Dresden Plauen </name>
+</wpt>
+<wpt lat="51.7862914274" lon="12.9542061267">
+  <name>aldi Hospitalplatz  10 06917 Jessen </name>
+</wpt>
+<wpt lat="51.3450281342" lon="12.4047565984">
+  <name>aldi Konradstr.   27 04315 Leipzig </name>
+</wpt>
+<wpt lat="50.8995826011" lon="14.7948566508">
+  <name>aldi Dresdner Straße 42 02763 Zittau </name>
+</wpt>
+<wpt lat="51.4008201042" lon="12.3995495263">
+  <name>aldi Handelsstr.   4-8 04356 Leipzig </name>
+</wpt>
+<wpt lat="51.8885820733" lon="12.2322127551">
+  <name>aldi Magdeburger Straße  38 a 06862 Dessau-Roßlau </name>
+</wpt>
+<wpt lat="51.0619108456" lon="13.8508297678">
+  <name>aldi Bautzner Landstraße 149  01324 Dresden </name>
+</wpt>
+<wpt lat="51.5614319277" lon="13.0065736238">
+  <name>aldi Elbstraße  14 04860 Torgau </name>
+</wpt>
+<wpt lat="51.0409482669" lon="13.7985701893">
+  <name>aldi Glashütter Str. 87  01277 Dresden </name>
+</wpt>
+<wpt lat="50.8382578762" lon="12.066215973">
+  <name>aldi Otto-Rothe-Straße 26 07549 Gera </name>
+</wpt>
+<wpt lat="51.0367410402" lon="13.7153020018">
+  <name>aldi Chemnitzer Str. 28  01187 Dresden </name>
+</wpt>
+<wpt lat="51.1864894194" lon="14.4405778973">
+  <name>aldi Gesundbrunnenring 4 02625 Bautzen </name>
+</wpt>
+<wpt lat="50.8342878618" lon="12.9166684429">
+  <name>aldi Theaterstraße 7 09111 Chemnitz </name>
+</wpt>
+<wpt lat="51.5238010686" lon="14.0035255833">
+  <name>aldi Bahnhofstraße 38 01968 Senftenberg </name>
+</wpt>
+<wpt lat="51.3721017378" lon="11.9831906024">
+  <name>aldi Querfurter Str.  4 06217 Merseburg </name>
+</wpt>
+<wpt lat="50.8640973099" lon="12.9018206432">
+  <name>aldi Bornaer Straße 148 09114 Chemnitz </name>
+</wpt>
+<wpt lat="50.8131087475" lon="12.9571469084">
+  <name>aldi Zschopauer Straße 244 09126 Chemnitz </name>
+</wpt>
+<wpt lat="50.9644007605" lon="11.8871430549">
+  <name>aldi Saasaer Straße 1 07607 Eisenberg </name>
+</wpt>
+<wpt lat="50.7178717162" lon="12.4573579191">
+  <name>aldi Marienthaler Str. 8 08060 Zwickau </name>
+</wpt>
+<wpt lat="50.9010515882" lon="14.8187516258">
+  <name>aldi Leipziger Straße 35 02763 Zittau </name>
+</wpt>
+<wpt lat="51.3292123554" lon="12.3442682272">
+  <name>aldi Nonnenstr. 13/15 04229 Leipzig </name>
+</wpt>
+<wpt lat="50.9914326159" lon="13.6430325176">
+  <name>aldi Dresdner Straße 258  01705 Freital </name>
+</wpt>
+<wpt lat="50.98380142" lon="14.6148034721">
+  <name>aldi Spreequellstraße 6 02727 Neugersdorf </name>
+</wpt>
+<wpt lat="51.0400322098" lon="13.6680426514">
+  <name>aldi Kesselsdorfer Straße 158 01169 Dresden </name>
+</wpt>
+<wpt lat="51.4297503387" lon="14.2719191234">
+  <name>aldi Ziolkowskistraße 18 02977 Hoyerswerda Neustadt </name>
+</wpt>
+<wpt lat="51.4648873139" lon="13.5342775558">
+  <name>aldi Lauchhammer Straße 60 04910 Elsterwerda </name>
+</wpt>
+<wpt lat="51.1541677491" lon="13.4615314311">
+  <name>aldi Talstraße 42  01662 Meißen </name>
+</wpt>
+<wpt lat="51.4324696692" lon="11.9831276499">
+  <name>aldi Merseburger Straße 380 06132 Halle </name>
+</wpt>
+<wpt lat="50.6220413693" lon="12.2613417819">
+  <name>aldi Robert-Georgi-Weg 3 08499 Mylau </name>
+</wpt>
+<wpt lat="50.6909714269" lon="11.3249321529">
+  <name>aldi Anne-Frank-Str. 1 07407 Rudolstadt </name>
+</wpt>
+<wpt lat="51.1331397423" lon="13.0973511467">
+  <name>aldi Grimmaische Straße 67  04720 Döbeln </name>
+</wpt>
+<wpt lat="51.3210691752" lon="12.3239705385">
+  <name>aldi Klingenstr.  38 a 04229 Leipzig </name>
+</wpt>
+<wpt lat="51.7785802133" lon="11.141749335">
+  <name>aldi Neinstedter Feldweg  1 06484 Quedlinburg </name>
+</wpt>
+<wpt lat="50.8835398333" lon="11.6183358269">
+  <name>aldi Salvador-Allende-Platz 25 07747 Jena </name>
+</wpt>
+<wpt lat="50.9048514559" lon="13.3376229002">
+  <name>aldi Olbernhauer Str. 72  09599 Freiberg </name>
+</wpt>
+<wpt lat="51.7454893818" lon="14.6341209002">
+  <name>aldi Charlottenstraße 92 03149 Forst </name>
+</wpt>
+<wpt lat="51.7657085636" lon="14.3576604453">
+  <name>aldi Stadtring 8 03042 Cottbus </name>
+</wpt>
+<wpt lat="51.3829076156" lon="12.4505320681">
+  <name>aldi Tauchaer Str. 260 04349 Leipzig </name>
+</wpt>
+<wpt lat="51.0561510393" lon="13.5334411867">
+  <name>aldi Meißner Str. 30 b  01723 Wilsdruff </name>
+</wpt>
+<wpt lat="51.0385280273" lon="12.3127470049">
+  <name>aldi Altenburger Str.  71 04610 Meuselwitz </name>
+</wpt>
+<wpt lat="51.4560509678" lon="12.6129315637">
+  <name>aldi Straße der Jugend  1 a 04838 Eilenburg </name>
+</wpt>
+<wpt lat="51.1989395081" lon="11.995160573">
+  <name>aldi Selauer Str.  65 06667 Weißenfels </name>
+</wpt>
+<wpt lat="51.0064988447" lon="13.8370701473">
+  <name>aldi Pirnaer Landstraße 196  01257 Dresden </name>
+</wpt>
+<wpt lat="51.6901186971" lon="13.2227795311">
+  <name>aldi Leipziger Str. 11 04916 Herzberg </name>
+</wpt>
+<wpt lat="51.037549717" lon="13.7049777898">
+  <name>aldi Tharandter Str. 40  01159 Dresden </name>
+</wpt>
+<wpt lat="51.2194981768" lon="11.9683877688">
+  <name>aldi Merseburger Str.  142 06667 Weißenfels </name>
+</wpt>
+<wpt lat="50.727692768" lon="12.7005075017">
+  <name>aldi Hedwigschachtstraße 1 09376 Oelsnitz/Erzgeb. </name>
+</wpt>
+<wpt lat="51.0577790062" lon="13.7094114453">
+  <name>aldi Hamburger Str. 1 01067 Dresden Friedrichstadt </name>
+</wpt>
+<wpt lat="51.35365007" lon="11.0985998844">
+  <name>aldi Bahnhofstr. 1 - 3 06567 Bad Frankenhausen </name>
+</wpt>
+<wpt lat="51.1199493303" lon="13.7698998165">
+  <name>aldi Travemünder Str. 1  01109 Dresden </name>
+</wpt>
+<wpt lat="51.8515724495" lon="12.0760005921">
+  <name>aldi Dessauer Landstraße 14 06385 Aken </name>
+</wpt>
+<wpt lat="51.3199900532" lon="12.2908125509">
+  <name>aldi Ludwigsburger Str. 9 04209 Leipzig </name>
+</wpt>
+<wpt lat="50.9988022091" lon="12.4404686593">
+  <name>aldi Offenburger Allee 15 04600 Altenburg </name>
+</wpt>
+<wpt lat="51.784561248" lon="14.3495215847">
+  <name>aldi Kauperstraße 38 03044 Cottbus </name>
+</wpt>
+<wpt lat="51.7262415781" lon="12.4489222824">
+  <name>aldi R.-Luxemburg-Straße 47 06773 Gräfenhainichen </name>
+</wpt>
+<wpt lat="51.7948523353" lon="11.7450322547">
+  <name>aldi Karlstraße  1 06406 Bernburg </name>
+</wpt>
+<wpt lat="51.8364099827" lon="12.2145410855">
+  <name>aldi Kühnauer Straße 25 06846 Dessau-Roßlau </name>
+</wpt>
+<wpt lat="51.5911376362" lon="14.0125187994">
+  <name>aldi IFA-Park 2 01983 Großräschen </name>
+</wpt>
+<wpt lat="51.4630775992" lon="11.071863053">
+  <name>aldi Hallesche Straße 69 06536 Roßla </name>
+</wpt>
+<wpt lat="51.2569973275" lon="13.8903009931">
+  <name>aldi Birkenweg 02 01936 Königsbrück </name>
+</wpt>
+<wpt lat="51.5365290164" lon="11.5480538434">
+  <name>aldi Gerbstedter Str. 5 06295 Eisleben </name>
+</wpt>
+<wpt lat="50.6198503698" lon="12.5114790934">
+  <name>aldi Lengenfelder Straße 41 08107 Kirchberg </name>
+</wpt>
+<wpt lat="51.148870745" lon="11.8245142982">
+  <name>aldi Franz-Julius-Höltz-Str. 3 06618 Naumburg </name>
+</wpt>
+<wpt lat="51.3449719599" lon="12.3796295527">
+  <name>aldi Willy-Brandt-Platz 7 04109 Leipzig </name>
+</wpt>
+<wpt lat="51.5250600352" lon="12.3442682272">
+  <name>aldi Eisenbahnstr.  25 04509 Delitzsch </name>
+</wpt>
+<wpt lat="51.52625742" lon="11.8253956334">
+  <name>aldi Str. der Einheit 15 06198 Salzmünde </name>
+</wpt>
+<wpt lat="51.3639493308" lon="11.2888783498">
+  <name>aldi Schönfelder Straße 4 06556 Artern/Unstrut </name>
+</wpt>
+<wpt lat="51.8657524278" lon="12.6152428202">
+  <name>aldi Dessauer Str. 3-4 06886 Lutherstadt Wittenberg </name>
+</wpt>
+<wpt lat="51.1524021486" lon="12.2872422441">
+  <name>aldi Schusterstraße  1 04539 Groitzsch </name>
+</wpt>
+<wpt lat="51.3323590907" lon="12.37855936">
+  <name>aldi Windmühlenstraße 31 04107 Leipzig </name>
+</wpt>
+<wpt lat="50.8971379675" lon="13.6901659629">
+  <name>aldi Gewerbering 5  01744 Reinholdshain </name>
+</wpt>
+<wpt lat="51.1240304635" lon="14.9822482938">
+  <name>aldi Zittauer Straße 144 02827 Görlitz </name>
+</wpt>
+<wpt lat="50.642132181" lon="12.8192809062">
+  <name>aldi Wehrgasse 1b 08297 Zwönitz </name>
+</wpt>
+<wpt lat="51.148718426" lon="14.9469229411">
+  <name>aldi Reichenbacher Straße 106 02827 Görlitz </name>
+</wpt>
+<wpt lat="50.5989109074" lon="13.0227793992">
+  <name>aldi Gewerbering, Erzgebirgscenter  09456 Annaberg-Buchholz </name>
+</wpt>
+<wpt lat="51.3413204839" lon="12.3617600324">
+  <name>aldi Elsterstr.  51 - 57 04109 Leipzig </name>
+</wpt>
+<wpt lat="51.2348280998" lon="12.72645293">
+  <name>aldi Lange Str.  26 04668 Grimma </name>
+</wpt>
+<wpt lat="51.8447502493" lon="12.2389037078">
+  <name>aldi Roßlauer Allee 4 06844 Dessau-Roßlau </name>
+</wpt>
+<wpt lat="51.3301676371" lon="12.3713378075">
+  <name>aldi Defourstr. 26 04107 Leipzig </name>
+</wpt>
+<wpt lat="50.7182076586" lon="12.8848504445">
+  <name>aldi Meinersdorfer Straße 6 09390 Gornsdorf </name>
+</wpt>
+<wpt lat="50.7222216997" lon="11.3546817117">
+  <name>aldi Oststr. 33 07407 Rudolstadt </name>
+</wpt>
+<wpt lat="50.6530410538" lon="11.3417764466">
+  <name>aldi Mittlerer Watzenbach 27 07318 Saalfeld </name>
+</wpt>
+<wpt lat="50.4939192952" lon="12.1005610652">
+  <name>aldi Neundorfer Straße 188 08523 Plauen </name>
+</wpt>
+<wpt lat="50.8131201123" lon="12.5410308013">
+  <name>aldi Goetheweg 30 08371 Glauchau </name>
+</wpt>
+<wpt lat="51.0938396137" lon="14.3922573475">
+  <name>aldi Zittauer Straße 12 02681 Wilthen </name>
+</wpt>
+<wpt lat="51.507649637" lon="14.6195698766">
+  <name>aldi Berliner Straße 106 02943 Weißwasser/O.L. </name>
+</wpt>
+<wpt lat="50.8675312699" lon="12.0797867361">
+  <name>aldi Hinter dem Südbahnhof 1 07548 Gera </name>
+</wpt>
+<wpt lat="50.8191600917" lon="12.5137094109">
+  <name>aldi Grenayer Straße 10 c 08371 Glauchau </name>
+</wpt>
+<wpt lat="51.4423083682" lon="11.9475684736">
+  <name>aldi Kaiserslauterer Straße 65 06128 Halle-Wörmlitz </name>
+</wpt>
+<wpt lat="51.3317803324" lon="12.411069836">
+  <name>aldi Eilenburger Str. 55 04317 Leipzig </name>
+</wpt>
+<wpt lat="50.6035116535" lon="12.6281300989">
+  <name>aldi Bruno-Dost-Straße 39 08289 Schneeberg </name>
+</wpt>
+<wpt lat="50.981338563" lon="13.1082779043">
+  <name>aldi Kastanienring 2  09661 Hainichen </name>
+</wpt>
+<wpt lat="51.2833072978" lon="12.5793419017">
+  <name>aldi Erdmannshainer Str. 67 04683 Naunhof </name>
+</wpt>
+<wpt lat="51.0575189875" lon="12.7844681668">
+  <name>aldi Geithainer Str. 21 09306 Rochlitz </name>
+</wpt>
+<wpt lat="50.5494901929" lon="12.7747734799">
+  <name>aldi Roter Mühlenweg 28 08340 Schwarzenberg/Erzgeb. </name>
+</wpt>
+<wpt lat="50.3081795318" lon="12.2527262809">
+  <name>aldi Elsterstraße 77 08626 Adorf/Vogtl. </name>
+</wpt>
+<wpt lat="51.317989114" lon="12.3784964075">
+  <name>aldi Arthur-Hoffmann-Straße 113 04275 Leipzig </name>
+</wpt>
+<wpt lat="51.6746174774" lon="11.772056869">
+  <name>aldi Bernburger Str. 18 06420 Könnern </name>
+</wpt>
+<wpt lat="51.464651999" lon="11.9703033238">
+  <name>aldi Beesener Straße  225 06110 Halle </name>
+</wpt>
+<wpt lat="51.007687182" lon="14.5848380761">
+  <name>aldi Unterer Kirchweg 8 02730 Ebersbach </name>
+</wpt>
+<wpt lat="51.4802809934" lon="11.3144190834">
+  <name>aldi Oststraße 02 06526 Sangerhausen </name>
+</wpt>
+<wpt lat="51.2888588243" lon="13.5318224078">
+  <name>aldi Dresdner Straße 33 01558 Großenhain </name>
+</wpt>
+<wpt lat="51.7812620404" lon="11.7515613296">
+  <name>aldi Zepziger Weg 4 06406 Bernburg </name>
+</wpt>
+<wpt lat="51.1237087275" lon="12.4855966175">
+  <name>aldi Lobstädter Str.  25  04552 Borna </name>
+</wpt>
+<wpt lat="51.8244108471" lon="12.2423211299">
+  <name>aldi Franzstraße  159 06842 Dessau-Roßlau </name>
+</wpt>
+<wpt lat="50.8973988858" lon="12.3499969058">
+  <name>aldi Bergstraße 18 04626 Schmölln </name>
+</wpt>
+<wpt lat="51.0403997658" lon="13.6317999907">
+  <name>aldi Gompitzer Höhe 5a  01156 Dresden-Gompitz </name>
+</wpt>
+<wpt lat="50.7565405161" lon="12.6322040257">
+  <name>aldi Platanenstr. 4 09350 Lichtenstein </name>
+</wpt>
+<wpt lat="50.7221704588" lon="12.7836767638">
+  <name>aldi Neue Schichtstraße 2 09366 Niederdorf </name>
+</wpt>
+<wpt lat="51.7498379379" lon="11.459713482">
+  <name>aldi Eislebener Straße 3 06449 Aschersleben </name>
+</wpt>
+<wpt lat="51.375492532" lon="12.3601322603">
+  <name>aldi Max-Liebermann-Str.  19 F 04157 Leipzig </name>
+</wpt>
+<wpt lat="51.2930093753" lon="14.8286711432">
+  <name>aldi Horkaer Straße 17 02906 Niesky </name>
+</wpt>
+<wpt lat="51.6564218688" lon="11.4921160395">
+  <name>aldi Über der Heckerlingsbreite 19 06333 Hettstedt </name>
+</wpt>
+<wpt lat="51.5130284871" lon="11.567434224">
+  <name>aldi Hallesche Straße  224 c 06295 Eisleben </name>
+</wpt>
+<wpt lat="50.6525677992" lon="12.9710414272">
+  <name>aldi Chemnitzer Straße 52  09427 Ehrenfriedersdorf </name>
+</wpt>
+<wpt lat="50.9287211399" lon="11.5837209383">
+  <name>aldi Leutragraben 1 07743 Jena </name>
+</wpt>
+<wpt lat="50.8086080846" lon="12.8927105153">
+  <name>aldi Stollberger Straße 100 09119 Chemnitz </name>
+</wpt>
+<wpt lat="51.3600972066" lon="12.6156385217">
+  <name>aldi Gartenallee  4 04827 Machern </name>
+</wpt>
+<wpt lat="51.3636292687" lon="12.3633158588">
+  <name>aldi Elsbethstraße 25 04155 Leipzig </name>
+</wpt>
+<wpt lat="51.0562923581" lon="13.7658168964">
+  <name>aldi Pfotenhauerstr. 7  01307 Dresden </name>
+</wpt>
+<wpt lat="51.1648106886" lon="13.4901118717">
+  <name>aldi Fabrikstraße 14a  01662 Meißen </name>
+</wpt>
+<wpt lat="50.9814121676" lon="13.9311122076">
+  <name>aldi Radeberger Str. 1h  01796 Pirna </name>
+</wpt>
+<wpt lat="50.6870173843" lon="12.4980971879">
+  <name>aldi Muldestraße 55 08056 Zwickau </name>
+</wpt>
+<wpt lat="51.3767724353" lon="12.3150132953">
+  <name>aldi Flößenstr.  2 04159 Leipzig </name>
+</wpt>
+<wpt lat="51.2328178167" lon="12.7056786009">
+  <name>aldi Gerichtswiesen 39 04668 Grimma </name>
+</wpt>
+<wpt lat="51.132332735" lon="13.5852421112">
+  <name>aldi Salzstr. 7  01640 Coswig </name>
+</wpt>
+<wpt lat="50.7391281404" lon="11.7675692542">
+  <name>aldi Triptiser Str. 38 07806 Neustadt/Orla </name>
+</wpt>
+<wpt lat="50.7489788779" lon="13.0751558895">
+  <name>aldi Waldkirchener Straße 15-17a 09405 Zschopau </name>
+</wpt>
+<wpt lat="51.866307761" lon="13.9386485226">
+  <name>aldi Am Kaufland 3 03222 Lübbenau </name>
+</wpt>
+<wpt lat="51.715650677" lon="14.3179733828">
+  <name>aldi Sachsendorfer Straße  5 03058 Cottbus </name>
+</wpt>
+<wpt lat="51.520337332" lon="11.9543133856">
+  <name>aldi Trothaer Str.  42 06118 Halle </name>
+</wpt>
+<wpt lat="50.6929882021" lon="11.5732258551">
+  <name>aldi Saalfelder Straße 29 07381 Pößneck </name>
+</wpt>
+<wpt lat="51.3199507098" lon="12.4247844905">
+  <name>aldi Holzhäuser Str.  108 04299 Leipzig </name>
+</wpt>
+<wpt lat="50.5771226089" lon="12.9989833495">
+  <name>aldi Bahnhofsplatz 4  09456 Annaberg-Buchholz </name>
+</wpt>
+<wpt lat="50.8513922975" lon="13.0763160144">
+  <name>aldi Augustusburger Str. 75  09557 Flöha </name>
+</wpt>
+<wpt lat="51.0967822113" lon="13.7194478744">
+  <name>aldi Döbelner Straße 132  01129 Dresden </name>
+</wpt>
+<wpt lat="50.8871312157" lon="12.0899310838">
+  <name>aldi Dornaer Str. 4 07545 Gera </name>
+</wpt>
+<wpt lat="50.7794910533" lon="12.0400996736">
+  <name>aldi Am Schafberge 2 07570 Weida </name>
+</wpt>
+<wpt lat="51.4570988674" lon="12.0130570729">
+  <name>aldi Leipziger Chaussee 147 06112 Halle </name>
+</wpt>
+<wpt lat="51.0295301868" lon="13.8024732451">
+  <name>aldi Enderstraße  59 01277 Dresden </name>
+</wpt>
+<wpt lat="50.7338803967" lon="12.3734691997">
+  <name>aldi Uferstraße 3 08412 Werdau </name>
+</wpt>
+<wpt lat="50.8194498547" lon="12.8769094347">
+  <name>aldi Zwickauer Straße 247 09116 Chemnitz </name>
+</wpt>
+<wpt lat="50.4258174859" lon="12.1705462725">
+  <name>aldi Willy-Brandt-Ring 2 08606 Oelsnitz/Vogtl. </name>
+</wpt>
+<wpt lat="50.8688480272" lon="12.7502669662">
+  <name>aldi Limbacher Straße 81 09243 Niederfrohna </name>
+</wpt>
+<wpt lat="51.15355854" lon="14.0207565853">
+  <name>aldi Pulsnitzer Straße 16 01900 Großröhrsdorf </name>
+</wpt>
+<wpt lat="50.9995719301" lon="13.7923109109">
+  <name>aldi Fritz-Meinhardt-Str. 5  01239 Dresden </name>
+</wpt>
+<wpt lat="51.3041487687" lon="12.426637093">
+  <name>aldi Bockstraße  1-3 04289 Leipzig </name>
+</wpt>
+<wpt lat="51.1463884466" lon="14.9874463727">
+  <name>aldi Emmerichstraße 33-35 02826 Görlitz </name>
+</wpt>
+<wpt lat="50.980840314" lon="12.4847602484">
+  <name>aldi Altenburger Straße 29 04603 Nobitz </name>
+</wpt>
+<wpt lat="51.345601108" lon="12.318619575">
+  <name>aldi Georg-Schwarz-Str.  92 - 96 04179 Leipzig </name>
+</wpt>
+<wpt lat="51.0407107724" lon="12.1507791836">
+  <name>aldi Käthe-Niederkirchner-Str.   60 06712 Zeitz </name>
+</wpt>
+<wpt lat="51.0289815504" lon="13.8118171966">
+  <name>aldi Löwenhainer Straße 2 01279 Dresden </name>
+</wpt>
+<wpt lat="51.1293020991" lon="13.9161564893">
+  <name>aldi An der Ziegelei 2 01454 Radeberg </name>
+</wpt>
+<wpt lat="51.3455898733" lon="12.2674032095">
+  <name>aldi Merseburger Str.  255 04178 Leipzig Rückmarsdorf </name>
+</wpt>
+<wpt lat="51.6235207086" lon="12.3330986528">
+  <name>aldi Mühlstraße  13 06749 Bitterfeld-Wolfen </name>
+</wpt>
+<wpt lat="50.7314783049" lon="12.5229184642">
+  <name>aldi Otto-Hahn-Str. 4 08066 Zwickau Eckersbach </name>
+</wpt>
+<wpt lat="50.6729704323" lon="12.4638240415">
+  <name>aldi Am Kreuzberg 69 08064 Zwickau </name>
+</wpt>
+<wpt lat="51.4564488363" lon="11.6711889576">
+  <name>aldi Schraplauer Straße  06317 Röblingen am See </name>
+</wpt>
+<wpt lat="51.8902916094" lon="12.6644177257">
+  <name>aldi Berliner Chaussee  75 06886 Lutherstadt Wittenberg </name>
+</wpt>
+<wpt lat="51.6373426616" lon="13.5643598635">
+  <name>aldi Gerberstraße 16-23 03253 Doberlug-Kirchhain </name>
+</wpt>
+<wpt lat="50.8398821338" lon="12.4479690015">
+  <name>aldi Guteborner Allee 3 08393 Meerane </name>
+</wpt>
+<wpt lat="51.5629917506" lon="14.3725622043">
+  <name>aldi Grünstraße 3 03130 Spremberg </name>
+</wpt>
+<wpt lat="51.0816888256" lon="12.1101478335">
+  <name>aldi Zeitzer Str.  39 06712 Zeitz </name>
+</wpt>
+<wpt lat="51.3293078844" lon="11.9772730662">
+  <name>aldi Straße des Friedens 100 06217 Merseburg </name>
+</wpt>
+<wpt lat="50.8147509269" lon="12.9121268688">
+  <name>aldi Heinrich-Lorenz-Straße 39 09120 Chemnitz </name>
+</wpt>
+<wpt lat="51.3458875922" lon="12.1778307776">
+  <name>aldi Am Einkaufszentrum  06254 Leuna </name>
+</wpt>
+<wpt lat="51.9561978649" lon="14.7042769786">
+  <name>aldi Karl-Marx-Straße  96 03172 Guben </name>
+</wpt>
+<wpt lat="51.4919124349" lon="14.6578629905">
+  <name>aldi Heinrich-Heine-Straße 76 02943 Weißwasser/O.L. </name>
+</wpt>
+<wpt lat="50.4966710763" lon="12.1711128452">
+  <name>aldi Äußere Reichenbacher Straße  64 08529 Plauen </name>
+</wpt>
+<wpt lat="51.50753209" lon="11.9438632686">
+  <name>aldi Dölauer Straße 80 06120 Halle - Kröllwitz </name>
+</wpt>
+<wpt lat="50.7795081127" lon="12.695858009">
+  <name>aldi Im Gewerbegebiet 10 09355 Gersdorf </name>
+</wpt>
+<wpt lat="51.4982897077" lon="11.9843687137">
+  <name>aldi Hermesstraße 07 06114 Halle </name>
+</wpt>
+<wpt lat="51.0900100026" lon="14.6686998159">
+  <name>aldi Ahornallee 2 02708 Löbau </name>
+</wpt>
+<wpt lat="51.7591795147" lon="11.4513497911">
+  <name>aldi Magdeburger Straße  17 06449 Aschersleben </name>
+</wpt>
+<wpt lat="51.6125818575" lon="12.307090272">
+  <name>aldi Brehnaer Straße  34 06749 Bitterfeld-Wolfen </name>
+</wpt>
+<wpt lat="51.6999686923" lon="11.6703885614">
+  <name>aldi Ascherslebener Straße  01 06425 Alsleben </name>
+</wpt>
+<wpt lat="51.2733893754" lon="12.3563641028">
+  <name>aldi Koburger Str. 181 04416 Markkleeberg </name>
+</wpt>
+<wpt lat="51.30062899" lon="12.3165871081">
+  <name>aldi Gerhard-Ellrodt-Str. 30 04249  Leipzig </name>
+</wpt>
+<wpt lat="51.492410779" lon="11.9316414879">
+  <name>aldi Blücherstraße  36 06120 Halle </name>
+</wpt>
+<wpt lat="50.8591985127" lon="13.3199692171">
+  <name>aldi Großhartmannsdorfer Str. 9a  09618 Brand-Erbisdorf </name>
+</wpt>
+<wpt lat="51.1547092616" lon="12.9163536803">
+  <name>aldi Colditzer Str. 39 04703 Leisnig </name>
+</wpt>
+<wpt lat="50.7952001316" lon="12.8901834216">
+  <name>aldi Wladimir-Sagorski-Straße 22 09122 Chemnitz </name>
+</wpt>
+<wpt lat="51.5952384605" lon="12.5870041218">
+  <name>aldi Schmiedeberger Str.  3 04849 Bad Düben </name>
+</wpt>
+<wpt lat="50.8717595178" lon="13.1964294081">
+  <name>aldi Freiberger Str. 31  09569 Oederan </name>
+</wpt>
+<wpt lat="51.6348309074" lon="13.7068483787">
+  <name>aldi Berliner Straße 20 B 03238 Finsterwalde </name>
+</wpt>
+<wpt lat="51.3645220679" lon="12.7503928712">
+  <name>aldi Dresdner Str.  60 04808 Wurzen </name>
+</wpt>
+<wpt lat="51.3719726132" lon="11.6042074844">
+  <name>aldi Vor dem Nebraer Tor  5 06268 Querfurt </name>
+</wpt>
+<wpt lat="50.8315728363" lon="12.883375557">
+  <name>aldi Waldenburger Straße 33 09116 Chemnitz </name>
+</wpt>
+<wpt lat="50.6400504826" lon="12.327819635">
+  <name>aldi Zwickauer Straße 324 08468 Reichenbach im Vogtland </name>
+</wpt>
+<wpt lat="51.1624307637" lon="11.7988116867">
+  <name>aldi Bahnhofstraße  37 06618 Naumburg </name>
+</wpt>
+<wpt lat="51.4637275359" lon="11.9064514898">
+  <name>aldi An der Lauchstädter Straße  3 06179 Teutschenthal Angersdorf </name>
+</wpt>
+<wpt lat="51.7510015651" lon="11.0377877574">
+  <name>aldi Otto-Schönermark-Straße  2 06502 Thale </name>
+</wpt>
+<wpt lat="50.9072786717" lon="11.850351808">
+  <name>aldi Erich-Weinert-Straße 45 07629 Hermsdorf </name>
+</wpt>
+<wpt lat="51.0143017032" lon="13.7890014074">
+  <name>aldi Reicker Str. 97 01237 Dresden </name>
+</wpt>
+<wpt lat="50.5641110563" lon="12.6356124546">
+  <name>aldi Am Kuchenhaus 12 08321 Zschorlau </name>
+</wpt>
+<wpt lat="51.017102264" lon="13.8469177188">
+  <name>aldi Kleinzschachwitzer Ufer 3  01259 Dresden </name>
+</wpt>
+<wpt lat="51.3766994594" lon="12.3919322723">
+  <name>aldi Essener Str. 11 04129 Leipzig </name>
+</wpt>
+<wpt lat="51.635567703" lon="12.1119105038">
+  <name>aldi Radegaster Straße 63 06780 Zörbig </name>
+</wpt>
+<wpt lat="50.8396492892" lon="12.9512293722">
+  <name>aldi Heinrich-Schütz-Straße 55 09130 Chemnitz </name>
+</wpt>
+<wpt lat="51.306712527" lon="12.2607842025">
+  <name>aldi Straße Am See 1 04207 Leipzig </name>
+</wpt>
+<wpt lat="50.7392704246" lon="12.4956510331">
+  <name>aldi Angerstraße 21 08058 Zwickau </name>
+</wpt>
+<wpt lat="51.3428709924" lon="12.4836360964">
+  <name>aldi Hugo-Aurig-Str.  7 A 04319 Leipzig </name>
+</wpt>
+<wpt lat="51.1712110622" lon="14.4363330994">
+  <name>aldi Stieberstraße 53 02625 Bautzen </name>
+</wpt>
+</gpx>
