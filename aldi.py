@@ -9,6 +9,7 @@ def adresmaken(response):
     plaatslijst=reguliere.findall(response)
 #plaatslijst=[ding for ding in plaatslijst if '<strong>' not in ding]
     plaatslijst=[ding for ding in plaatslijst if '<strong>' not in ding and '<b>' not in ding]
+    plaatslijst=[ding for ding in plaatslijst if '</p></div>' not in ding ]
     reguliere=re.compile(r'>(.*?) km</span')
     afstandenlijst=reguliere.findall(response)
     afstandenlijst=[ding.replace(',','.') for ding in afstandenlijst]
@@ -50,6 +51,8 @@ def maakregellijst(br9,response9):
     adreslijst9=[]
     coordinatenlijst1=coordinatenlijstmaken(br9)
     straatlijst1,plaatslijst1,afstandenlijst1=adresmaken(response9)
+#    print len(coordinatenlijst1),len(straatlijst1),len(plaatslijst1),len(afstandenlijst1)
+#    print plaatslijst1
     for ((lon,lat),straat,plaats,afstand) in zip(coordinatenlijst1,straatlijst1,plaatslijst1,afstandenlijst1):
 	adreslijst9.append(str(lon)+' '+str(lat)+' '+afstand+' '+straat+' '+plaats)
     return adreslijst9
@@ -78,7 +81,7 @@ def zoekzipcode(land,zipcode1,totnutoe):
     radius=str(radius)
     adreslijst=[]
     stad=''
-    yellowmapaanvraag='http://www.yellowmap.de/Partners/AldiNord/Search.aspx?Radius='+radius+'&BC=ALDI|ALDN&Search=1&Country='+land+'&Zip='+zipcode+'&Town='+stad
+    yellowmapaanvraag='http://www.yellowmap.de/Partners/AldiNord/Search.aspx?Radius='+radius+'&BC=ALDI|ALDN&Search=1&Country='+land+'&Zip='+zipcode1+'&Town='+stad
     br = mechanize.Browser()
 #br.set_all_readonly(False)    # allow everything to be written to
     br.set_handle_robots(False)   # ignore robots
@@ -86,14 +89,29 @@ def zoekzipcode(land,zipcode1,totnutoe):
     br.addheaders =  [('User-agent', 'Firefox')]
     response1=br.open(yellowmapaanvraag)
     response1=response1.read()
-    reguliere=re.compile(zipcode1+r'\|(.*?)\|\|\|\|\|\|')
-    plaatsenlijst=reguliere.findall(response1)
-    if len(plaatsenlijst)>0:
-	stad=plaatsenlijst[0]
-	print zipcode1,stad
-	yellowmapaanvraag='http://www.yellowmap.de/Partners/AldiNord/Search.aspx?Radius='+radius+'&BC=ALDI|ALDN&Search=1&Country='+land+'&Zip='+zipcode+'&Town='+stad
-	response1=br.open(yellowmapaanvraag)
-	response1=response1.read()
+    if land=='D':
+	reguliere=re.compile(r'\|D\|(.*?)\|\|\|\|\|')
+#    reguliere=re.compile(zipcode1+r'\|(.*?)\|\|\|\|\|\|')
+	plaatsenlijst=reguliere.findall(response1)
+#	print plaatsenlijst
+	if len(plaatsenlijst)>0:
+	    plaatsenlijstgesplitst=plaatsenlijst[0].split('|')
+	    stad=plaatsenlijstgesplitst[-1]
+	    zipcode2=plaatsenlijstgesplitst[0]
+	    print zipcode2,stad
+	    yellowmapaanvraag='http://www.yellowmap.de/Partners/AldiNord/Search.aspx?Radius='+radius+'&BC=ALDI|ALDN&Search=1&Country='+land+'&Zip='+zipcode2+'&Town='+stad
+	    response1=br.open(yellowmapaanvraag)
+	    response1=response1.read()
+    else:
+	reguliere=re.compile(zipcode1+r'\|(.*?)\|\|\|\|\|\|')
+	plaatsenlijst=reguliere.findall(response1)
+	zipcode2=zipcode1
+	if len(plaatsenlijst)>0:
+	    stad=plaatsenlijst[0]
+	    print zipcode2,stad
+	    yellowmapaanvraag='http://www.yellowmap.de/Partners/AldiNord/Search.aspx?Radius='+radius+'&BC=ALDI|ALDN&Search=1&Country='+land+'&Zip='+zipcode2+'&Town='+stad
+	    response1=br.open(yellowmapaanvraag)
+	    response1=response1.read()
     laatstepagina=bepaallaatstepagina(br)
     adreslijst+=maakregellijst(br,response1)
     paginaverwerkt=1
@@ -144,11 +162,13 @@ def zoekzipcode(land,zipcode1,totnutoe):
 	plt.plot(vierkantx,vierkanty,'b-')
     return regellijst
 
-def maakgpx(regellijst,land):
+def maakgpx(regellijst,land,*args):
     if land=='F':
 	land1='fr'
     elif land=='B':
 	land1='be'
+    elif land=='D':
+	land1='de'+args[0]
     else:
 	land1=land.lower()
     doelbestand='aldi-'+land1+'.gpx'
@@ -169,6 +189,25 @@ def maakgpx(regellijst,land):
 	doelbestand.write('</wpt>\n')
     doelbestand.write('</gpx>\n')
     return
+
+land1='D'
+voorvoegsel='4'
+# 6855 filialen
+zipcodelijst=range(1000,9999,50)
+regellijst1=[]
+for zipcode in zipcodelijst:
+    zipcode=voorvoegsel+str(zipcode)
+    while len(zipcode)<5:
+	zipcode='0'+zipcode
+    print zipcode
+    regellijst1=zoekzipcode(land1,zipcode,regellijst1)
+# verwijder viercijferige postcodes:
+    reguliere=re.compile(r' '+voorvoegsel+r'[0-9][0-9][0-9][0-9] ')
+    regellijst1=[ding for ding in regellijst1 if len(reguliere.findall(ding))>0]
+    print len(regellijst1)
+plt.show()
+maakgpx(regellijst1,land1,voorvoegsel)
+exit()
 
 land1='NL'
 zipcodelijst=[
