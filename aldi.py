@@ -190,25 +190,6 @@ def maakgpx(regellijst,land,*args):
     doelbestand.write('</gpx>\n')
     return
 
-land1='D'
-voorvoegsel='4'
-# 6855 filialen
-zipcodelijst=range(1000,9999,50)
-regellijst1=[]
-for zipcode in zipcodelijst:
-    zipcode=voorvoegsel+str(zipcode)
-    while len(zipcode)<5:
-	zipcode='0'+zipcode
-    print zipcode
-    regellijst1=zoekzipcode(land1,zipcode,regellijst1)
-# verwijder viercijferige postcodes:
-    reguliere=re.compile(r' '+voorvoegsel+r'[0-9][0-9][0-9][0-9] ')
-    regellijst1=[ding for ding in regellijst1 if len(reguliere.findall(ding))>0]
-    print len(regellijst1)
-plt.show()
-maakgpx(regellijst1,land1,voorvoegsel)
-exit()
-
 land1='NL'
 zipcodelijst=[
 4338, #middelburg
@@ -244,6 +225,28 @@ for zipcode in zipcodelijst:
     print len(regellijst1)
 plt.show()
 maakgpx(regellijst1,land1)
+exit()
+
+land1='D'
+#voorvoegsel='4'
+# 622 filialen in postcodegebied 4
+voorvoegsel='0'
+# 296 filialen in postcodegebied 0
+#zipcodelijst=range(1000,9999,50)
+zipcodelijst=range(1000,9999,100)
+regellijst1=[]
+for zipcode in zipcodelijst:
+    zipcode=voorvoegsel+str(zipcode)
+    while len(zipcode)<5:
+	zipcode='0'+zipcode
+    print zipcode
+    regellijst1=zoekzipcode(land1,zipcode,regellijst1)
+# verwijder viercijferige postcodes:
+    reguliere=re.compile(r' '+voorvoegsel+r'[0-9][0-9][0-9][0-9] ')
+    regellijst1=[ding for ding in regellijst1 if len(reguliere.findall(ding))>0]
+    print len(regellijst1)
+plt.show()
+maakgpx(regellijst1,land1,voorvoegsel)
 exit()
 
 land1='B' # en luxemburg

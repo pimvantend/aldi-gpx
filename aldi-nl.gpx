@@ -1261,6 +1261,9 @@
 <wpt lat="51.9418911832" lon="5.89390199514">
   <name>aldi Op het Toneel 3 6836 ND Arnhem </name>
 </wpt>
+<wpt lat="52.957622424" lon="5.92374148603">
+  <name>aldi Molenplein  28 8442 LM Heerenveen </name>
+</wpt>
 <wpt lat="51.9244908596" lon="4.50978309112">
   <name>aldi Lusthofstraat 81 3061 WL Rotterdam </name>
 </wpt>
@@ -1425,9 +1428,6 @@
 </wpt>
 <wpt lat="53.1752593127" lon="6.97277315968">
   <name>aldi Esborgstraat 3-5 9679 BS Scheemda </name>
-</wpt>
-<wpt lat="52.957069829" lon="5.93828351639">
-  <name>aldi Abe Lenstra Boulevard 301 8448 JA Heerenveen </name>
 </wpt>
 <wpt lat="53.1069103766" lon="6.09551191276">
   <name>aldi Markt 67 9203 AA Drachten </name>
