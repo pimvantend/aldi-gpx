@@ -1,0 +1,1798 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="Locus Android"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
+ xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
+ xmlns:locus="http://www.locusmap.eu">
+<wpt lat="53.5425684003" lon="10.101818796">
+  <name>aldi Schiffbeker Weg 27 22111 Hamburg </name>
+</wpt>
+<wpt lat="53.4717011995" lon="7.38816980946">
+  <name>aldi Ekelser Straße 11 26624 Südbrookmerland-Moordorf </name>
+</wpt>
+<wpt lat="53.8378888302" lon="10.7616240786">
+  <name>aldi Am Bahnhof 3  23923 Herrnburg </name>
+</wpt>
+<wpt lat="53.9505297123" lon="10.3125568279">
+  <name>aldi Eutiner Strasse  24 23795 Bad Segeberg </name>
+</wpt>
+<wpt lat="53.5509416158" lon="10.0759992727">
+  <name>aldi Horner Landstraße 110 22111 Hamburg-Horn </name>
+</wpt>
+<wpt lat="53.1037519384" lon="7.67631245199">
+  <name>aldi Florianstraße 1 26683 Ramsloh </name>
+</wpt>
+<wpt lat="53.5900392057" lon="8.61976376911">
+  <name>aldi Hans-Böckler-Straße 38 27578 Bremerhaven </name>
+</wpt>
+<wpt lat="53.0265276125" lon="8.65293974316">
+  <name>aldi Annenheider Straße 181 27755 Delmenhorst </name>
+</wpt>
+<wpt lat="53.469201303" lon="9.68747435252">
+  <name>aldi Stader Straße 10 21614 Buxtehude </name>
+</wpt>
+<wpt lat="53.3336283152" lon="8.46362355189">
+  <name>aldi Weserstraße 80 26919 Brake </name>
+</wpt>
+<wpt lat="53.5048283123" lon="8.47798571794">
+  <name>aldi Atenser Allee 142 26954 Nordenham </name>
+</wpt>
+<wpt lat="53.9121795311" lon="9.881502989">
+  <name>aldi Hamburger Str.36 - 38  24576 Bad Bramstedt </name>
+</wpt>
+<wpt lat="53.7516202227" lon="9.6488215099">
+  <name>aldi Wedenkamp 9 b 25335 Elmshorn </name>
+</wpt>
+<wpt lat="53.0611903036" lon="8.96248623991">
+  <name>aldi Koblenzer Straße 2a 28325 Bremen </name>
+</wpt>
+<wpt lat="53.9878876117" lon="11.1978130439">
+  <name>aldi Kastanienallee 1  23946 Boltenhagen </name>
+</wpt>
+<wpt lat="54.6112784296" lon="8.97824235445">
+  <name>aldi Husumer Str. 79  25821 Bredstedt </name>
+</wpt>
+<wpt lat="53.8996974032" lon="9.12534438953">
+  <name>aldi Max-Planck-Str. 1-7 25541 Brunsbüttel </name>
+</wpt>
+<wpt lat="53.2870581874" lon="10.7325939772">
+  <name>aldi Industriestraße 36 21354 Bleckede </name>
+</wpt>
+<wpt lat="54.0696806311" lon="9.94117297755">
+  <name>aldi Wasbeker Str. 330  24537 Neumünster </name>
+</wpt>
+<wpt lat="53.6547715604" lon="10.0603780564">
+  <name>aldi Johannes-Büll-Weg 1 a 22399 Hamburg </name>
+</wpt>
+<wpt lat="53.5999293669" lon="9.95801727123">
+  <name>aldi Grelckstraße 2 22529 Hamburg </name>
+</wpt>
+<wpt lat="53.7303498763" lon="10.0964678325">
+  <name>aldi Eichholzkoppel 1 22889 Tangstedt </name>
+</wpt>
+<wpt lat="53.5570374715" lon="8.56461736824">
+  <name>aldi Barkhausenstr.  107 27568 Bremerhaven </name>
+</wpt>
+<wpt lat="53.6416688219" lon="9.88901232441">
+  <name>aldi Waldhof 1  25474 Ellerbek </name>
+</wpt>
+<wpt lat="52.8043324699" lon="9.13505706287">
+  <name>aldi Bücker Straße 4-12 27318 Hoya </name>
+</wpt>
+<wpt lat="54.8093606714" lon="9.42171582476">
+  <name>aldi Apenrader Straße 111 24939 Flensburg </name>
+</wpt>
+<wpt lat="54.1383016872" lon="8.87401098032">
+  <name>aldi Heider Str. 2 b  25761 Büsum </name>
+</wpt>
+<wpt lat="53.5798423907" lon="9.8021468505">
+  <name>aldi Sülldorfer Landstraße 158-162 22589 Hamburg </name>
+</wpt>
+<wpt lat="54.2896307925" lon="10.4302330601">
+  <name>aldi Kieler Straße 5  24238 Selent </name>
+</wpt>
+<wpt lat="53.7456003018" lon="9.6715563601">
+  <name>aldi Hainholzer Damm 9 a  25337 Elmshorn </name>
+</wpt>
+<wpt lat="53.392199935" lon="8.00772145699">
+  <name>aldi Alte Bahnlinie 4 26345 Bockhorn </name>
+</wpt>
+<wpt lat="53.0171799746" lon="9.03099655985">
+  <name>aldi Embser Landstraße  4 - 6 28832 Achim </name>
+</wpt>
+<wpt lat="54.2829112251" lon="10.1294369625">
+  <name>aldi Grot Steenbusch 35  24145 Kiel-Neumeimersdorf </name>
+</wpt>
+<wpt lat="54.2940976482" lon="10.5985321054">
+  <name>aldi Königsberger Str. 7  24321 Lütjenburg </name>
+</wpt>
+<wpt lat="53.1292719606" lon="8.89670086444">
+  <name>aldi Hamfhofsweg 59 28357 Bremen </name>
+</wpt>
+<wpt lat="54.2391915467" lon="10.0561332584">
+  <name>aldi Lise- Meitner-Str. 3  24220 Flintbek </name>
+</wpt>
+<wpt lat="52.8450020635" lon="11.1522893842">
+  <name>aldi Neutorstraße 63+65 29410 Salzwedel </name>
+</wpt>
+<wpt lat="53.5304090605" lon="8.60211907921">
+  <name>aldi Schiffdorfer Chaussee 20 27574 Bremerhaven </name>
+</wpt>
+<wpt lat="53.8959880726" lon="10.7062618406">
+  <name>aldi Glashüttenweg 31  23568 Lübeck </name>
+</wpt>
+<wpt lat="53.6013222365" lon="9.82205783085">
+  <name>aldi Hauptstr. 58  22869 Schenefeld </name>
+</wpt>
+<wpt lat="53.6349399593" lon="10.0148094306">
+  <name>aldi Erdkampsweg 134 22335 Hamburg </name>
+</wpt>
+<wpt lat="54.3961100428" lon="10.1730720469">
+  <name>aldi Friedrichsorter Str.  2 24159 Kiel </name>
+</wpt>
+<wpt lat="53.1412279081" lon="7.60235224312">
+  <name>aldi Im  Gewerbegebiet 22a 26842 Ostrhauderfehn </name>
+</wpt>
+<wpt lat="53.6876384129" lon="10.0400174153">
+  <name>aldi Mittelstraße 76 a 22851 Norderstedt </name>
+</wpt>
+<wpt lat="54.5319174004" lon="9.57532894827">
+  <name>aldi Hans-Jürgen-Klinker-Str.  1 24837 Schleswig </name>
+</wpt>
+<wpt lat="54.1515024496" lon="10.3499596135">
+  <name>aldi Plöner Chaussee 74 24326 Ascheberg </name>
+</wpt>
+<wpt lat="53.047920019" lon="8.84904581254">
+  <name>aldi Steinsetzerstraße  11  28279 Bremen-Habenh. </name>
+</wpt>
+<wpt lat="53.4555804372" lon="9.50823056325">
+  <name>aldi Hohenfelde 2 21698 Harsefeld </name>
+</wpt>
+<wpt lat="53.6917496264" lon="10.5022237546">
+  <name>aldi Hauptstraße 1 23898 Sandesneben </name>
+</wpt>
+<wpt lat="53.8040718618" lon="9.98068916892">
+  <name>aldi Gutenbergstraße 4 a 24558 Henstedt-Ulzburg </name>
+</wpt>
+<wpt lat="53.2277875237" lon="10.1600588632">
+  <name>aldi Alte Baumschule 2 21376 Salzhausen </name>
+</wpt>
+<wpt lat="53.1159902692" lon="9.23354177194">
+  <name>aldi Große Straße 36 27367 Sottrum </name>
+</wpt>
+<wpt lat="53.4448423593" lon="10.2301969553">
+  <name>aldi Neuengammer Hausdeich 205 21039 Hamburg-Neuengamme </name>
+</wpt>
+<wpt lat="53.53556184" lon="10.0369417354">
+  <name>aldi Billhorner Röhrendamm 145-147 20539 Hamburg-Rothenburgsort </name>
+</wpt>
+<wpt lat="52.9151278654" lon="8.82656277239">
+  <name>aldi Zum Hachepark  3 28857 Syke </name>
+</wpt>
+<wpt lat="53.2405717967" lon="7.46117673742">
+  <name>aldi Ringstraße 19 26789 Leer </name>
+</wpt>
+<wpt lat="54.8071475639" lon="9.51382434364">
+  <name>aldi Birkland  24999 Wees </name>
+</wpt>
+<wpt lat="53.4917806776" lon="8.59636342093">
+  <name>aldi Bohmsiel 12 27572 Bremerhaven </name>
+</wpt>
+<wpt lat="54.1970511862" lon="9.1267833041">
+  <name>aldi Schanzenstr. 3  25746 Heide </name>
+</wpt>
+<wpt lat="52.6800778923" lon="9.61867624967">
+  <name>aldi Celler Straße 31 29690 Schwarmstedt </name>
+</wpt>
+<wpt lat="53.7994510993" lon="10.1453369685">
+  <name>aldi Brünskamp 1 23866 Nahe </name>
+</wpt>
+<wpt lat="53.153229066" lon="8.93546162566">
+  <name>aldi Falkenberger Landstraße 89 28865 Lilienthal </name>
+</wpt>
+<wpt lat="53.0804911343" lon="8.77075087353">
+  <name>aldi Dötlinger Straße 10-12 28197 Bremen </name>
+</wpt>
+<wpt lat="53.5573900533" lon="10.1025562397">
+  <name>aldi Querkamp 69 22119 Hamburg </name>
+</wpt>
+<wpt lat="53.5014424116" lon="10.4714040032">
+  <name>aldi Hamburger Straße 31 21493 Schwarzenbek </name>
+</wpt>
+<wpt lat="53.6718022308" lon="9.80176913542">
+  <name>aldi Flensburger Str. 3  25421 Pinneberg </name>
+</wpt>
+<wpt lat="53.9535621242" lon="10.2099802056">
+  <name>aldi Neumünsterstrasse  6 c 23812 Wahlstedt </name>
+</wpt>
+<wpt lat="53.6893585679" lon="9.98176835485">
+  <name>aldi Kösliner Weg 6 22850 Norderstedt </name>
+</wpt>
+<wpt lat="54.2051681523" lon="8.93120783446">
+  <name>aldi Bahnhofstr. 20  25764 Wesselburen </name>
+</wpt>
+<wpt lat="53.3505307926" lon="7.22624695431">
+  <name>aldi Petkumer Straße 207 26725 Emden </name>
+</wpt>
+<wpt lat="54.0758386989" lon="10.2287490475">
+  <name>aldi Kieler Tor 42  24619 Bornhöved </name>
+</wpt>
+<wpt lat="53.4168624115" lon="7.73901315436">
+  <name>aldi Hauptstraße  138 26639 Wiesmoor </name>
+</wpt>
+<wpt lat="53.8705490936" lon="10.6679687266">
+  <name>aldi Ziegelstraße 2 b  23556 Lübeck </name>
+</wpt>
+<wpt lat="53.8681682013" lon="10.696207425">
+  <name>aldi Kanalstr. 76  23552 Lübeck </name>
+</wpt>
+<wpt lat="53.0810583571" lon="8.89238412073">
+  <name>aldi Berliner Freiheit  14  28327 Bremen-Vahr </name>
+</wpt>
+<wpt lat="53.5692425702" lon="9.87756396037">
+  <name>aldi Osdorfer Landstr.  1 a 22607 Hamburg </name>
+</wpt>
+<wpt lat="53.907867367" lon="9.48270781607">
+  <name>aldi Lübscher Kamp 4  25524 Itzehoe </name>
+</wpt>
+<wpt lat="54.3297416376" lon="10.1975425878">
+  <name>aldi Schönkirchener Str. 80 b  24149 Kiel </name>
+</wpt>
+<wpt lat="53.6674226594" lon="7.90885003963">
+  <name>aldi Heinrich-Steinberg-Straße 1 26434 Wangerland-Hohenkirchen </name>
+</wpt>
+<wpt lat="52.6215085328" lon="10.2439116098">
+  <name>aldi Oppershäuser Straße 6 29331 Lachendorf </name>
+</wpt>
+<wpt lat="54.022089732" lon="10.7509041651">
+  <name>aldi Seestraße 63 23683 Scharbeutz </name>
+</wpt>
+<wpt lat="53.8136623018" lon="10.7379269543">
+  <name>aldi Grönauer Heide 1 23627 Groß Grönau </name>
+</wpt>
+<wpt lat="53.5582020486" lon="8.59308089707">
+  <name>aldi Stresemannstraße 150 27576 Bremerhaven </name>
+</wpt>
+<wpt lat="53.0596013281" lon="8.88784254662">
+  <name>aldi Osenbrückstraße  5 28309 Bremen </name>
+</wpt>
+<wpt lat="53.0235526002" lon="7.86001687643">
+  <name>aldi Am Bahnhof 3 26169 Friesoythe </name>
+</wpt>
+<wpt lat="53.5222296064" lon="7.28435212327">
+  <name>aldi Keno-Tom-Brook-Straße  26529 Upgant-Schott </name>
+</wpt>
+<wpt lat="53.4635585972" lon="9.7983427201">
+  <name>aldi Hauptstraße 45-51 21629 Neu Wulmstorf </name>
+</wpt>
+<wpt lat="53.2597598773" lon="7.93127012727">
+  <name>aldi Am Esch 3 26655 Westerstede </name>
+</wpt>
+<wpt lat="53.2598674698" lon="10.4110505302">
+  <name>aldi Auf dem Schmaarkamp 15 21339 Lüneburg </name>
+</wpt>
+<wpt lat="53.6346680097" lon="9.9150476849">
+  <name>aldi Oldesloer Str. 50  22457 Hamburg </name>
+</wpt>
+<wpt lat="53.5037478489" lon="8.01159753311">
+  <name>aldi Am Markt 6 26452 Sande </name>
+</wpt>
+<wpt lat="52.9853785229" lon="10.5473696992">
+  <name>aldi Nordallee 3 29525 Uelzen </name>
+</wpt>
+<wpt lat="53.0325094704" lon="8.80975445158">
+  <name>aldi Kattenturmer Heerstraße 326 28277 Bremen </name>
+</wpt>
+<wpt lat="53.6002815911" lon="10.1403727133">
+  <name>aldi Scharbeutzer Straße 76 22147 Hamburg </name>
+</wpt>
+<wpt lat="53.6153124245" lon="9.30591917478">
+  <name>aldi Bahnhofstraße 9 21709 Himmelpforten </name>
+</wpt>
+<wpt lat="53.8540391397" lon="8.70933620106">
+  <name>aldi Grodener Chaussee 34 27472 Cuxhaven </name>
+</wpt>
+<wpt lat="53.564937804" lon="9.90807794246">
+  <name>aldi Bahrenfelder Kirchenweg 80  22761 Hamburg </name>
+</wpt>
+<wpt lat="53.4774980374" lon="8.47067423328">
+  <name>aldi Mittelweg 105 26954 Nordenham </name>
+</wpt>
+<wpt lat="54.4724584969" lon="9.83251694113">
+  <name>aldi Kreisbahnstr. 6  24340 Eckernförde </name>
+</wpt>
+<wpt lat="53.5831793156" lon="8.62612197287">
+  <name>aldi Neufelder Weg 3-5 27619 Schiffdorf Spaden </name>
+</wpt>
+<wpt lat="53.9217875925" lon="10.7237806255">
+  <name>aldi An der Au 1 23611 Sereetz </name>
+</wpt>
+<wpt lat="53.414048395" lon="7.96836714351">
+  <name>aldi Neuenburger Straße 21 26340 Zetel </name>
+</wpt>
+<wpt lat="54.7982420795" lon="9.39696649416">
+  <name>aldi Marktallee 1  24955 Harrislee </name>
+</wpt>
+<wpt lat="53.9249280062" lon="9.38210970123">
+  <name>aldi Steindamm 9 b 25554 Wilster </name>
+</wpt>
+<wpt lat="54.3133295111" lon="10.1015759792">
+  <name>aldi Mühlendamm 1 24113 Kiel </name>
+</wpt>
+<wpt lat="53.5799491764" lon="8.59791924731">
+  <name>aldi Langener Landstraße 160 27580 Bremerhaven </name>
+</wpt>
+<wpt lat="53.6850181037" lon="9.15930277337">
+  <name>aldi Otto-Peschel-Straße 14-16 21745 Hemmoor </name>
+</wpt>
+<wpt lat="52.8011409813" lon="9.96782886995">
+  <name>aldi Celler Str.  62 29303 Bergen </name>
+</wpt>
+<wpt lat="53.5515079637" lon="9.94391590845">
+  <name>aldi Grosse Bergstraße 152-162  22767 Hamburg </name>
+</wpt>
+<wpt lat="53.6248979888" lon="10.1146431221">
+  <name>aldi Pezolddamm 156 - 158 22159 Hamburg </name>
+</wpt>
+<wpt lat="53.532600672" lon="8.13856375743">
+  <name>aldi Ölhafendamm 48 26384 Wilhelmshaven </name>
+</wpt>
+<wpt lat="53.1566804634" lon="8.60819849326">
+  <name>aldi Hansering  3 27809 Lemwerder </name>
+</wpt>
+<wpt lat="52.6346914323" lon="9.9763094727">
+  <name>aldi Hehlenbruchweg  4 29313 Hambühren </name>
+</wpt>
+<wpt lat="53.5498890435" lon="8.07846209451">
+  <name>aldi Sven-Hedin-Straße  26389 Wilhelmshaven </name>
+</wpt>
+<wpt lat="53.9474600307" lon="9.7139503806">
+  <name>aldi Breitenberger Str. 2  25548 Kellinghusen </name>
+</wpt>
+<wpt lat="54.2842499764" lon="10.2217613186">
+  <name>aldi Carl-Zeiss-Straße 2-10 24223 Schwentinental Raisdorf </name>
+</wpt>
+<wpt lat="53.5756294805" lon="7.88985636732">
+  <name>aldi Wittmunder Straße 7 26441 Jever </name>
+</wpt>
+<wpt lat="53.2607873752" lon="8.11404825046">
+  <name>aldi Oldenburger Landstraße 32 26215 Wiefelstede </name>
+</wpt>
+<wpt lat="53.7067585369" lon="9.98856722619">
+  <name>aldi Buckhörner Moor 110 - 112 22846 Norderstedt </name>
+</wpt>
+<wpt lat="53.5815188947" lon="10.088167094">
+  <name>aldi Stephanstraße 6 22047 Hamburg </name>
+</wpt>
+<wpt lat="53.7784919415" lon="8.6165082249">
+  <name>aldi Feuerweg 6 e 27637 Nordholz </name>
+</wpt>
+<wpt lat="53.5775410938" lon="9.70645003841">
+  <name>aldi Feldstr. 5 22880 Wedel </name>
+</wpt>
+<wpt lat="52.8944183382" lon="10.1587818265">
+  <name>aldi Müdener Weg  21 29328 Faßberg </name>
+</wpt>
+<wpt lat="53.1605090328" lon="7.75425665558">
+  <name>aldi Krumme Kamp 1-11 26676 Barßel </name>
+</wpt>
+<wpt lat="53.0976773669" lon="11.0905869289">
+  <name>aldi Schützenstraße 1 a 29451 Dannenberg </name>
+</wpt>
+<wpt lat="53.5560918967" lon="9.96611116569">
+  <name>aldi Neuer Kamp  31 20359 Hamburg </name>
+</wpt>
+<wpt lat="53.5843912215" lon="10.1418476007">
+  <name>aldi Berliner Platz 21 22045 Hamburg </name>
+</wpt>
+<wpt lat="52.594087398" lon="10.543322752">
+  <name>aldi Wittinger Str.  42 29392 Wesendorf </name>
+</wpt>
+<wpt lat="53.9096473806" lon="10.6688410686">
+  <name>aldi Stockelsdorfer Weg 80 23611 Bad Schwartau </name>
+</wpt>
+<wpt lat="52.6047990302" lon="10.0552699097">
+  <name>aldi An der Hasenbahn  3 29225 Celle </name>
+</wpt>
+<wpt lat="53.4736014506" lon="9.87643980836">
+  <name>aldi Striepenweg 37 21147 Hamburg-Neuwiedenthal </name>
+</wpt>
+<wpt lat="52.6574996545" lon="9.82441405346">
+  <name>aldi Nienburger Str.  49 29323 Wietze </name>
+</wpt>
+<wpt lat="53.3082674088" lon="7.48639371525">
+  <name>aldi Rudolf-Eucken-Straße 3 26802 Moormerland </name>
+</wpt>
+<wpt lat="52.5417698282" lon="10.1344731635">
+  <name>aldi Nienhagener Str.  17 29339 Wathlingen </name>
+</wpt>
+<wpt lat="53.6068719122" lon="9.47760866257">
+  <name>aldi Hansestraße 22 a 21682 Stade </name>
+</wpt>
+<wpt lat="53.4716316113" lon="9.90224134523">
+  <name>aldi Cuxhavener Straße 66 21149 Hamburg-Neugraben </name>
+</wpt>
+<wpt lat="53.5991715411" lon="9.91778162258">
+  <name>aldi Kieler Str. 555  22525 Hamburg </name>
+</wpt>
+<wpt lat="53.3180514885" lon="9.88042380307">
+  <name>aldi Soltauer Straße 85 21244 Buchholz in der Nordheide </name>
+</wpt>
+<wpt lat="53.537897489" lon="7.93915717775">
+  <name>aldi Mühlenweg 61 26419 Schortens </name>
+</wpt>
+<wpt lat="53.105760408" lon="8.47234697147">
+  <name>aldi Langenberger Straße 2 27798 Hude </name>
+</wpt>
+<wpt lat="54.1291492878" lon="10.5801769514">
+  <name>aldi Plöner Landstraße 8 - 10  23701 Eutin </name>
+</wpt>
+<wpt lat="54.2177796897" lon="10.897664458">
+  <name>aldi Dieselstr. 4  23738 Lensahn </name>
+</wpt>
+<wpt lat="53.0590824663" lon="9.0120928197">
+  <name>aldi Hauptstraße  118 - 120 28876 Oyten </name>
+</wpt>
+<wpt lat="54.7982524479" lon="9.42528613153">
+  <name>aldi Neustadt 47  24939 Flensburg </name>
+</wpt>
+<wpt lat="53.2328586269" lon="8.75412241704">
+  <name>aldi Hördorfer Weg 45 27711 Osterholz-Scharmbeck </name>
+</wpt>
+<wpt lat="53.9560810282" lon="9.00682279508">
+  <name>aldi Königstr. 59  25709 Marne </name>
+</wpt>
+<wpt lat="53.2182304687" lon="7.47491837156">
+  <name>aldi Osseweg 87 26789 Leer </name>
+</wpt>
+<wpt lat="53.5690823511" lon="9.95472575416">
+  <name>aldi Eimsbütteler Chaussee 85  20259 Hamburg </name>
+</wpt>
+<wpt lat="53.6598079414" lon="10.0858558375">
+  <name>aldi Poppenbüttler Hauptstr. 1 22399 Hamburg </name>
+</wpt>
+<wpt lat="53.4724291931" lon="7.48954134088">
+  <name>aldi Hammerkeweg 32 26603 Aurich </name>
+</wpt>
+<wpt lat="53.6744606536" lon="10.239010307">
+  <name>aldi Große Straße 26 22926 Ahrensburg </name>
+</wpt>
+<wpt lat="53.5112195993" lon="10.2360425457">
+  <name>aldi Am Ladenzentrum 5 21465 Reinbek </name>
+</wpt>
+<wpt lat="53.4847014986" lon="10.6165185375">
+  <name>aldi Möllner Straße 22 a 21514 Büchen </name>
+</wpt>
+<wpt lat="53.6024909307" lon="7.18504903154">
+  <name>aldi Gewerbestraße 13 26506 Norden </name>
+</wpt>
+<wpt lat="53.165841499" lon="7.45450377111">
+  <name>aldi Ihrener Straße 7-9 26810 Westoverledingen </name>
+</wpt>
+<wpt lat="53.4325210212" lon="10.3412002211">
+  <name>aldi Am Schleusenkanal 28 21502 Geesthacht </name>
+</wpt>
+<wpt lat="54.4143208401" lon="9.98291049328">
+  <name>aldi Ravensberg 4c 24214 Gettorf </name>
+</wpt>
+<wpt lat="54.3894706962" lon="10.3723886944">
+  <name>aldi Kuhlenkamp 1 a  24217 Schönberg </name>
+</wpt>
+<wpt lat="54.3177203571" lon="10.1812199006">
+  <name>aldi Philipp-Reis-Weg 4  24148 Kiel </name>
+</wpt>
+<wpt lat="54.469589374" lon="9.0897672268">
+  <name>aldi Ostenfelder Str. 70  25813 Husum-Mildstedt </name>
+</wpt>
+<wpt lat="54.1711325092" lon="9.85309341947">
+  <name>aldi Niedernstraße 9c 24589 Nortorf </name>
+</wpt>
+<wpt lat="53.3664982283" lon="10.2029565038">
+  <name>aldi Altstadtring 100 21423 Winsen/Luhe </name>
+</wpt>
+<wpt lat="54.175638526" lon="10.0451615348">
+  <name>aldi Mühlenstraße 12 24582 Bordesholm </name>
+</wpt>
+<wpt lat="53.6473997719" lon="10.0147644646">
+  <name>aldi Tangstedter Landstr. 25 22415 Hamburg </name>
+</wpt>
+<wpt lat="53.5744386833" lon="9.97704691641">
+  <name>aldi Grindelberg 27-31  20144 Hamburg </name>
+</wpt>
+<wpt lat="53.1927417452" lon="8.75860103864">
+  <name>aldi Rohwedderstraße 2-6 27721 Ritterhude </name>
+</wpt>
+<wpt lat="53.6542225851" lon="9.82325392859">
+  <name>aldi Grüner Weg  3 25462 Rellingen </name>
+</wpt>
+<wpt lat="52.851199148" lon="8.72805108368">
+  <name>aldi Bremer Straße 34-38 27211 Bassum </name>
+</wpt>
+<wpt lat="53.7131299816" lon="9.37656988014">
+  <name>aldi Sietwender Straße 49 21706 Drochtersen </name>
+</wpt>
+<wpt lat="54.3108584706" lon="9.33017387849">
+  <name>aldi Heidkoppel 2 24803 Erfde </name>
+</wpt>
+<wpt lat="52.8467618865" lon="9.22611337547">
+  <name>aldi Wulfers Hoff 8 27313 Dörverden </name>
+</wpt>
+<wpt lat="53.1409204187" lon="8.17741445081">
+  <name>aldi Bloherfelder Straße 97 26129 Oldenburg </name>
+</wpt>
+<wpt lat="54.3607174726" lon="10.1297427319">
+  <name>aldi Prinz-Heinrich-Str.20  24106 Kiel-Wik </name>
+</wpt>
+<wpt lat="54.285168702" lon="10.8819623027">
+  <name>aldi Holsteiner Str. 50  23758 Oldenburg </name>
+</wpt>
+<wpt lat="53.2272007012" lon="8.78951971545">
+  <name>aldi Bahnhofstraße 99-105 27711 Osterholz-Scharmbeck </name>
+</wpt>
+<wpt lat="53.6076776218" lon="10.0570235868">
+  <name>aldi Steilshooper Straße 317 22309 Hamburg </name>
+</wpt>
+<wpt lat="53.4726326008" lon="9.84234652628">
+  <name>aldi Cuxhavener Straße 402 21149 Hamburg-Neugraben </name>
+</wpt>
+<wpt lat="53.0487579786" lon="7.32701594025">
+  <name>aldi Zu den Emsauen 2 26871 Aschendorf </name>
+</wpt>
+<wpt lat="53.8374696033" lon="9.956092723">
+  <name>aldi Funkenberg 1 24568 Kaltenkirchen </name>
+</wpt>
+<wpt lat="53.6622379799" lon="10.2851005393">
+  <name>aldi Eilbergweg 10 22927 Großhansdorf </name>
+</wpt>
+<wpt lat="53.5789987744" lon="10.1288613967">
+  <name>aldi Jenfelder Allee 70 22043 Hamburg </name>
+</wpt>
+<wpt lat="54.783682208" lon="9.44283189607">
+  <name>aldi Johannisstr. 3 (Hafermarkt)  24937 Flensburg </name>
+</wpt>
+<wpt lat="54.6642785534" lon="9.40371140621">
+  <name>aldi Dorfstraße 15 24963 Tarp </name>
+</wpt>
+<wpt lat="52.9605911468" lon="10.5567855965">
+  <name>aldi Veerßer Straße 59 29525 Uelzen </name>
+</wpt>
+<wpt lat="54.1766596812" lon="10.56034691">
+  <name>aldi Lütjenburger Str. 1  23714 Malente Gremsmühlen </name>
+</wpt>
+<wpt lat="53.5283189058" lon="10.2518166467">
+  <name>aldi Sachsenwaldstraße 20 21465 Reinbek </name>
+</wpt>
+<wpt lat="53.5930710824" lon="9.70948974544">
+  <name>aldi Am Marienhof 1  22880 Wedel </name>
+</wpt>
+<wpt lat="53.583819975" lon="10.1166486093">
+  <name>aldi Tonndorfer Hauptstr. 28 22045 Hamburg </name>
+</wpt>
+<wpt lat="53.608531337" lon="9.84229256698">
+  <name>aldi Friedrich-Ebert-Allee 21  22869 Schenefeld </name>
+</wpt>
+<wpt lat="53.2599320252" lon="7.44388278294">
+  <name>aldi Nüttermoorer Straße  4 26789 Leer </name>
+</wpt>
+<wpt lat="54.8145016618" lon="9.47135837741">
+  <name>aldi Friedheim 8  24944 Flensburg </name>
+</wpt>
+<wpt lat="53.2254078818" lon="8.92692706362">
+  <name>aldi Findorffstraße 39 27726 Worpswede </name>
+</wpt>
+<wpt lat="53.291692221" lon="10.4265998008">
+  <name>aldi Borgwardstraße 1 21365 Adendorf </name>
+</wpt>
+<wpt lat="54.2937774784" lon="9.66961382543">
+  <name>aldi Kreishafenstr. 2  24768 Rendsburg </name>
+</wpt>
+<wpt lat="53.114781167" lon="9.14225163572">
+  <name>aldi Am Damm  10 28870 Ottersberg </name>
+</wpt>
+<wpt lat="54.2068513157" lon="9.08366083309">
+  <name>aldi Am Ruthenstrom 2 25746 Wesseln </name>
+</wpt>
+<wpt lat="53.1683484458" lon="8.69851736214">
+  <name>aldi Hindenburgstraße 13 28717 Bremen </name>
+</wpt>
+<wpt lat="53.4838773904" lon="10.2129299804">
+  <name>aldi Neuer Weg 37 b 21029 Hamburg-Bergedorf </name>
+</wpt>
+<wpt lat="53.5256512695" lon="10.1498695494">
+  <name>aldi Kandinskyallee 4-12 22115 Hamburg-Mümmelmannsberg </name>
+</wpt>
+<wpt lat="53.6181291099" lon="10.0821596257">
+  <name>aldi Berner Chaussee 16 22175 Hamburg </name>
+</wpt>
+<wpt lat="53.607330795" lon="8.5946097438">
+  <name>aldi Leher Landstraße 4 h 27607 Langen </name>
+</wpt>
+<wpt lat="53.4891214421" lon="10.2540109914">
+  <name>aldi Am Casinopark 14 21465 Wentorf </name>
+</wpt>
+<wpt lat="53.3895183695" lon="8.15315075388">
+  <name>aldi Rodenkirchener Straße 1 A 26316 Varel-Streek </name>
+</wpt>
+<wpt lat="54.4109085671" lon="10.1297337387">
+  <name>aldi Erdbeerfeld 2  24161 Altenholz </name>
+</wpt>
+<wpt lat="53.2935091411" lon="10.4910092142">
+  <name>aldi Röthenkuhlen 85 21379 Scharnebeck </name>
+</wpt>
+<wpt lat="53.7004926082" lon="10.7430171146">
+  <name>aldi Max-Planck-Straße 13 23909 Ratzeburg </name>
+</wpt>
+<wpt lat="52.9686674246" lon="10.560886503">
+  <name>aldi Lüneburger Straße 52-54 29525 Uelzen </name>
+</wpt>
+<wpt lat="54.3976492962" lon="10.2337582688">
+  <name>aldi Bullbrücke 1  24235 Laboe </name>
+</wpt>
+<wpt lat="53.6090915783" lon="9.90109021358">
+  <name>aldi Lohkampstr. 11-25  22523 Hamburg </name>
+</wpt>
+<wpt lat="53.6039690959" lon="7.4500161563">
+  <name>aldi Dornumer Straße 2 26556 Westerholt </name>
+</wpt>
+<wpt lat="53.65478222" lon="9.90744841733">
+  <name>aldi Kieler Str. 24 - 26  25474 Bönningstedt </name>
+</wpt>
+<wpt lat="54.4781700134" lon="11.0686434817">
+  <name>aldi Bahnhofstraße 23 23769 Petersdorf/Fehmarn </name>
+</wpt>
+<wpt lat="53.6017491605" lon="7.29115998783">
+  <name>aldi Am Edenhof 1 26524 Hage </name>
+</wpt>
+<wpt lat="53.7309723424" lon="9.90411193417">
+  <name>aldi Bahnhofstr. 94  25451 Quickborn </name>
+</wpt>
+<wpt lat="53.0760395266" lon="8.88151132252">
+  <name>aldi Vahrer Straße 279 / 281 28329 Bremen Neue Vahr Südwest </name>
+</wpt>
+<wpt lat="53.4885007514" lon="10.1830725031">
+  <name>aldi Friedrich-Frank-Bogen 166 21033 Hamburg-Bergedorf </name>
+</wpt>
+<wpt lat="53.4814317283" lon="9.69669239899">
+  <name>aldi Westmoor 2 c 21614 Buxtehude </name>
+</wpt>
+<wpt lat="54.7720222353" lon="9.32245769911">
+  <name>aldi Wiesharder Markt 14 a  24983 Handewitt </name>
+</wpt>
+<wpt lat="53.4433211352" lon="9.99186773648">
+  <name>aldi Rönneburger Straße 5 21079 Hamburg-Harburg </name>
+</wpt>
+<wpt lat="53.5769590755" lon="9.95159611497">
+  <name>aldi Heußweg 37 d  20255 Hamburg </name>
+</wpt>
+<wpt lat="54.2995716414" lon="10.105479035">
+  <name>aldi Hamburger Chaussee 180 24113 Kiel </name>
+</wpt>
+<wpt lat="53.6660426272" lon="10.231599897">
+  <name>aldi Bogenstraße 30 22926 Ahrensburg </name>
+</wpt>
+<wpt lat="54.3786401825" lon="9.07333662106">
+  <name>aldi Van-Wouwer-Straße 1 25840 Friedrichstadt </name>
+</wpt>
+<wpt lat="53.5939411054" lon="9.42327165114">
+  <name>aldi Steinkamp 3 21684 Stade </name>
+</wpt>
+<wpt lat="54.7624189071" lon="9.16914135174">
+  <name>aldi Hauptstraße 96 24980 Schafflund </name>
+</wpt>
+<wpt lat="53.358297886" lon="8.65697769717">
+  <name>aldi Döhrenacker 3  27628 Hagen </name>
+</wpt>
+<wpt lat="53.9671020892" lon="9.61372098762">
+  <name>aldi Deutsch-Ordens-Str. 2  25551 Hohenlockstedt </name>
+</wpt>
+<wpt lat="53.3776209083" lon="9.00572562273">
+  <name>aldi Hindenburgstraße 29 27442 Gnarrenburg </name>
+</wpt>
+<wpt lat="54.8699692267" lon="8.90671031391">
+  <name>aldi Hauptstr. 6 A  25923 Süderlügum </name>
+</wpt>
+<wpt lat="54.0099417108" lon="10.5795744059">
+  <name>aldi Bökenbarg 8  23623 Ahrensbök </name>
+</wpt>
+<wpt lat="53.5683773794" lon="10.0595326941">
+  <name>aldi Menckesallee 24-26 22089 Hamburg-Eilbek </name>
+</wpt>
+<wpt lat="54.2950896339" lon="9.70630614695">
+  <name>aldi Kieler Str. 21  24783 Osterrönfeld </name>
+</wpt>
+<wpt lat="53.0849908961" lon="8.81454783574">
+  <name>aldi Theodor-Heuß-Allee  6 28215 Bremen </name>
+</wpt>
+<wpt lat="52.7817804271" lon="9.3724599804">
+  <name>aldi Stöckener Straße 12 27336 Rethem </name>
+</wpt>
+<wpt lat="53.0809989341" lon="10.5726586228">
+  <name>aldi Medinger Straße 32 29549 Bad Bevensen </name>
+</wpt>
+<wpt lat="53.1293798811" lon="10.2158887485">
+  <name>aldi Grenzweg  2 a 21385 Amelinghausen </name>
+</wpt>
+<wpt lat="53.0531097004" lon="8.6300610015">
+  <name>aldi Weberstraße 7 27753 Delmenhorst </name>
+</wpt>
+<wpt lat="54.3342985258" lon="10.1895296322">
+  <name>aldi Langer Rehm 10   24149 Kiel-Dietrichsdorf </name>
+</wpt>
+<wpt lat="53.4915773617" lon="9.1292474453">
+  <name>aldi Wesermünder Straße 70 27432 Bremervörde </name>
+</wpt>
+<wpt lat="53.8320192705" lon="10.6910003529">
+  <name>aldi Alexander-Fleming-Str.  1 23562 Lübeck St. Jürgen </name>
+</wpt>
+<wpt lat="53.988807647" lon="9.11184557222">
+  <name>aldi Johannßenstraße 19  25693 St.Michaelisdonn </name>
+</wpt>
+<wpt lat="53.5811184619" lon="9.49792433764">
+  <name>aldi Carl-Benz-Straße 4 21684 Stade </name>
+</wpt>
+<wpt lat="53.486927581" lon="10.2883560835">
+  <name>aldi Zwischen den Kreiseln 10 21039 Börnsen </name>
+</wpt>
+<wpt lat="53.6071173618" lon="10.4136855425">
+  <name>aldi Vorburgstraße 1 22946 Trittau </name>
+</wpt>
+<wpt lat="53.2931113604" lon="9.28019857685">
+  <name>aldi Auf der Worth 9 27404 Zeven </name>
+</wpt>
+<wpt lat="53.4576902441" lon="9.98791072141">
+  <name>aldi Seeveplatz 1 21073 Hamburg-Harburg </name>
+</wpt>
+<wpt lat="53.5730075463" lon="9.96185737449">
+  <name>aldi Bismarckstr. 24  20259 Hamburg </name>
+</wpt>
+<wpt lat="53.5721691338" lon="10.0301338708">
+  <name>aldi Hamburger Str. 23 22083 Hamburg </name>
+</wpt>
+<wpt lat="52.683861605" lon="9.90868948115">
+  <name>aldi Meißendorfer Straße  4 29308 Winsen </name>
+</wpt>
+<wpt lat="53.8883087119" lon="10.6868634735">
+  <name>aldi Schwartauer Landstr. 4 a  23554 Lübeck </name>
+</wpt>
+<wpt lat="53.8023776414" lon="10.0039995849">
+  <name>aldi Henstedter Straße 26 24629 Kisdorf </name>
+</wpt>
+<wpt lat="53.6468080541" lon="9.77148897695">
+  <name>aldi Westring 8 / Wedeler Weg 25421 Pinneberg </name>
+</wpt>
+<wpt lat="53.3349816192" lon="9.88109829428">
+  <name>aldi Hamburger Straße 85 21244 Buchholz in der Nordheide </name>
+</wpt>
+<wpt lat="54.0897398028" lon="9.65002660085">
+  <name>aldi Am Markt 2  24594 Hohenwestedt </name>
+</wpt>
+<wpt lat="52.7295619144" lon="10.7176382589">
+  <name>aldi Celler Straße 35 29378 Wittingen </name>
+</wpt>
+<wpt lat="52.9760003095" lon="9.18419599542">
+  <name>aldi Große Straße  2 27299 Langwedel </name>
+</wpt>
+<wpt lat="54.1505702114" lon="10.9635757385">
+  <name>aldi Brookgang 21 23743 Grömitz </name>
+</wpt>
+<wpt lat="54.3305020281" lon="10.1122868995">
+  <name>aldi Eichkamp 24  24116 Kiel </name>
+</wpt>
+<wpt lat="53.0709282541" lon="7.45661717688">
+  <name>aldi Umländerwiek links 9-10 26871 Papenburg </name>
+</wpt>
+<wpt lat="53.1011926236" lon="8.78630913731">
+  <name>aldi Waller Heerstraße  (Walle-Center) 101 28219 Bremen-Walle </name>
+</wpt>
+<wpt lat="54.2993984582" lon="10.0877534061">
+  <name>aldi Rendsburger Landstr. 240 24113 Kiel Hassee </name>
+</wpt>
+<wpt lat="53.0734677571" lon="8.7976675692">
+  <name>aldi Westerstraße 33 28199 Bremen-Neustadt </name>
+</wpt>
+<wpt lat="53.8446807839" lon="10.6342531596">
+  <name>aldi Brüder-Grimm-Ring 9 23560 Lübeck </name>
+</wpt>
+<wpt lat="53.5734614569" lon="8.08490123721">
+  <name>aldi Posener Straße 91 26388 Wilhelmshaven Fedderwardergroden </name>
+</wpt>
+<wpt lat="53.6007992487" lon="9.97421405336">
+  <name>aldi Nedderfeld 70 22529 Hamburg </name>
+</wpt>
+<wpt lat="53.5284311673" lon="8.09865186456">
+  <name>aldi Werftstraße 161 26382 Wilhelmshaven </name>
+</wpt>
+<wpt lat="53.5913576717" lon="10.0439294642">
+  <name>aldi Hufnerstraße 129 22305 Hamburg Barmbek-Nord </name>
+</wpt>
+<wpt lat="53.5834302417" lon="9.85367797851">
+  <name>aldi Bornheide 17 22549 Hamburg </name>
+</wpt>
+<wpt lat="52.9882208241" lon="8.78639007626">
+  <name>aldi Bremer Straße 50 28844 Weyhe-Erichsh. </name>
+</wpt>
+<wpt lat="53.538619002" lon="10.123213657">
+  <name>aldi Möllner Landstraße 131 22117 Hamburg-Billstedt </name>
+</wpt>
+<wpt lat="53.1834409435" lon="10.7525499236">
+  <name>aldi Dannenberger Straße 24 21368 Dahlenburg </name>
+</wpt>
+<wpt lat="53.1705102329" lon="8.63517814144">
+  <name>aldi Hermann-Fortmann-Straße 21 28759 Bremen </name>
+</wpt>
+<wpt lat="53.4323174213" lon="9.98397169278">
+  <name>aldi Winsener Straße 151 21077 Hamburg-Harburg </name>
+</wpt>
+<wpt lat="53.7710408163" lon="9.98569839026">
+  <name>aldi Dammstücken 25 - 27 24558 Henstedt-Ulzburg </name>
+</wpt>
+<wpt lat="53.3061179421" lon="9.26945168366">
+  <name>aldi Nord-West-Ring 5 27404 Zeven </name>
+</wpt>
+<wpt lat="54.4822193245" lon="9.04059232139">
+  <name>aldi Nordhusumer Straße 90 25813 Husum </name>
+</wpt>
+<wpt lat="53.1871108519" lon="8.55208981827">
+  <name>aldi Rönnebecker Straße 68-74 28777 Bremen </name>
+</wpt>
+<wpt lat="54.7787603252" lon="8.98076944816">
+  <name>aldi Rudolf-Diesel-Str. 1 a  25917 Leck </name>
+</wpt>
+<wpt lat="53.6803203119" lon="9.67339996939">
+  <name>aldi Gerberstr. 1  25436 Uetersen </name>
+</wpt>
+<wpt lat="54.3126474977" lon="9.64458570514">
+  <name>aldi Schleswiger Chaussee 45  24768 Rendsburg </name>
+</wpt>
+<wpt lat="54.4122117539" lon="9.52180132628">
+  <name>aldi Industriestraße  1 24848 Kropp </name>
+</wpt>
+<wpt lat="53.0354081556" lon="8.54172963337">
+  <name>aldi Raiffeisenstraße 1 27777 Ganderkesee </name>
+</wpt>
+<wpt lat="53.4288399981" lon="7.10805810886">
+  <name>aldi Handelsstraße 2 26736 Pewsum </name>
+</wpt>
+<wpt lat="54.5298717725" lon="9.53022796973">
+  <name>aldi Flensburger Str. 172-174  24837 Schleswig </name>
+</wpt>
+<wpt lat="53.1132481494" lon="8.21178652259">
+  <name>aldi Cloppenburger Straße 293 26133 Oldenburg </name>
+</wpt>
+<wpt lat="54.688171834" lon="8.95645179194">
+  <name>aldi Dorfstr. 4  25842 Langenhorn </name>
+</wpt>
+<wpt lat="53.1810426693" lon="8.22905349742">
+  <name>aldi Stubbenweg 31 26125 Oldenburg </name>
+</wpt>
+<wpt lat="53.1830313601" lon="7.26472892583">
+  <name>aldi Neuschanzer Straße 19 26831 Bunde </name>
+</wpt>
+<wpt lat="53.525758192" lon="8.64734596277">
+  <name>aldi Am Fernsehturm 2 a 27619 Schiffdorf </name>
+</wpt>
+<wpt lat="53.5895481066" lon="10.051951413">
+  <name>aldi Bramfelder Strasse 103 22305 Hamburg </name>
+</wpt>
+<wpt lat="54.2920296225" lon="10.9123413866">
+  <name>aldi Am Vossberg 6  23758 Oldenburg </name>
+</wpt>
+<wpt lat="53.3658703783" lon="9.71385145523">
+  <name>aldi Am Stinnberg 11 a 21279 Hollenstedt </name>
+</wpt>
+<wpt lat="53.2638213087" lon="10.0100520194">
+  <name>aldi Harburger Straße 51-53 21271 Hanstedt </name>
+</wpt>
+<wpt lat="53.2700283673" lon="9.73179292126">
+  <name>aldi Zinnhütte 13 21255 Tostedt </name>
+</wpt>
+<wpt lat="53.3213875564" lon="9.8469510529">
+  <name>aldi Sprötzer Weg 31 a 21244 Buchholz in der Nordheide </name>
+</wpt>
+<wpt lat="54.0823018406" lon="9.78174124326">
+  <name>aldi Itzehoer Str. 4-6  24613 Aukrug </name>
+</wpt>
+<wpt lat="53.5424989283" lon="10.2167071312">
+  <name>aldi Möllner Landstraße 108 21509 Glinde </name>
+</wpt>
+<wpt lat="53.2429505959" lon="10.4141172169">
+  <name>aldi Willy-Brandt-Straße 10 21335 Lüneburg </name>
+</wpt>
+<wpt lat="53.5844606248" lon="10.0592718908">
+  <name>aldi Alter Teichweg 71 22049 Hamburg </name>
+</wpt>
+<wpt lat="52.8299320174" lon="8.99065299261">
+  <name>aldi Lange Straße 12-14 27305 Bruchhausen-Vilsen </name>
+</wpt>
+<wpt lat="53.4329710807" lon="8.82383782793">
+  <name>aldi Logestraße 34 27616 Beverstedt </name>
+</wpt>
+<wpt lat="53.6047908693" lon="10.1578465321">
+  <name>aldi Schweriner Straße 8 - 12 22143 Hamburg </name>
+</wpt>
+<wpt lat="53.8554607476" lon="10.9272881117">
+  <name>aldi Dassower Straße 8 a  23923 Schönberg </name>
+</wpt>
+<wpt lat="52.9828175847" lon="9.58246956182">
+  <name>aldi Süderstraße 18 27374 Visselhövede </name>
+</wpt>
+<wpt lat="52.9996206327" lon="9.0985625921">
+  <name>aldi Am Lahof  1 28832 Achim-Baden </name>
+</wpt>
+<wpt lat="54.7590875608" lon="9.39571643713">
+  <name>aldi Holzkrugweg 2  24941 Flensburg-Weiche </name>
+</wpt>
+<wpt lat="53.0234390048" lon="8.34701751247">
+  <name>aldi Hauptstraße 35 26209 Kirchhatten </name>
+</wpt>
+<wpt lat="54.0000209265" lon="9.26194234825">
+  <name>aldi Bahnhofstr. 9 a 25712 Burg </name>
+</wpt>
+<wpt lat="53.8585690207" lon="11.187326954">
+  <name>aldi Gebhardstraße 4 23936 Grevesmühlen </name>
+</wpt>
+<wpt lat="53.233520733" lon="8.4548911391">
+  <name>aldi Oberrege 12 b 26931 Elsfleth </name>
+</wpt>
+<wpt lat="53.5838413302" lon="9.87280654907">
+  <name>aldi Kressenweg  24 22549 Hamburg </name>
+</wpt>
+<wpt lat="54.354711799" lon="10.104939442">
+  <name>aldi Torfmoorkamp 10 24106 Kiel Wik </name>
+</wpt>
+<wpt lat="53.2476378425" lon="10.3596722869">
+  <name>aldi Wiesenweg 9 21391 Reppenstedt </name>
+</wpt>
+<wpt lat="53.0679617088" lon="8.86462206276">
+  <name>aldi Emil-von-Behring-Straße 4 28207 Bremen-Hastedt </name>
+</wpt>
+<wpt lat="53.1634098903" lon="8.24564598105">
+  <name>aldi Clausewitzstraße 3 26125 Oldenburg </name>
+</wpt>
+<wpt lat="53.8403192027" lon="10.7079795448">
+  <name>aldi Weidentrift 2 23562 Lübeck </name>
+</wpt>
+<wpt lat="53.7860692613" lon="9.43069105439">
+  <name>aldi Christian-IV-Straße 23 25348 Glückstadt </name>
+</wpt>
+<wpt lat="53.6411516653" lon="9.94953666849">
+  <name>aldi Ernst-Mittelbach-Ring 49-55  22455 Hamburg </name>
+</wpt>
+<wpt lat="52.6380315613" lon="10.0929424918">
+  <name>aldi Sprengerstr.  38 29223 Celle </name>
+</wpt>
+<wpt lat="52.9139510832" lon="9.25440603319">
+  <name>aldi Max-Planck-Straße 3 27283 Verden </name>
+</wpt>
+<wpt lat="54.364060565" lon="10.9689896545">
+  <name>aldi Höhenweg 2  23774 Heiligenhafen </name>
+</wpt>
+<wpt lat="54.275528937" lon="9.65592615059">
+  <name>aldi Am Busbahnhof 20 24784 Westerrönfeld </name>
+</wpt>
+<wpt lat="54.2356122869" lon="10.2731035891">
+  <name>aldi Hufenweg 24 24211 Preetz </name>
+</wpt>
+<wpt lat="53.2966482528" lon="10.3826229743">
+  <name>aldi Vor der Westermarsch 1 21357 Bardowick </name>
+</wpt>
+<wpt lat="53.5826400864" lon="10.0429492037">
+  <name>aldi Hufnerstr. 4 c 22083 Hamburg </name>
+</wpt>
+<wpt lat="53.8583992916" lon="10.6289291757">
+  <name>aldi Herrenholz 14 (Citti-Park)  23568 Lübeck </name>
+</wpt>
+<wpt lat="53.6236605759" lon="10.1674872597">
+  <name>aldi Meiendorfer Straße 98 22145 Hamburg </name>
+</wpt>
+<wpt lat="53.1195687963" lon="9.78374673044">
+  <name>aldi Marktstraße 10 29640 Schneverdingen </name>
+</wpt>
+<wpt lat="53.612399518" lon="10.0248368666">
+  <name>aldi Alsterdorfer Markt 4  22297 Hamburg </name>
+</wpt>
+<wpt lat="53.3983883432" lon="8.12197127381">
+  <name>aldi Gertrud-Barthel-Straße 1 26316 Varel </name>
+</wpt>
+<wpt lat="54.7552577305" lon="9.75737862095">
+  <name>aldi Schafslück  24972 Steinbergkirche </name>
+</wpt>
+<wpt lat="53.4047206092" lon="7.60213640594">
+  <name>aldi Müllers Kamp 21-23 26629 Ostgroßefehn </name>
+</wpt>
+<wpt lat="54.1398980126" lon="9.28521679141">
+  <name>aldi Karkloh 14  25767 Albersdorf </name>
+</wpt>
+<wpt lat="53.1012898155" lon="8.8788133577">
+  <name>aldi Leher Heerstraße 105-107 28359 Bremen </name>
+</wpt>
+<wpt lat="52.8655126061" lon="9.69098170679">
+  <name>aldi Düshorner Straße 2 29683 Bad Fallingbostel </name>
+</wpt>
+<wpt lat="53.6070586674" lon="10.1724605082">
+  <name>aldi Sieker Landstr. 29 22143 Hamburg </name>
+</wpt>
+<wpt lat="54.3145308763" lon="10.1466769577">
+  <name>aldi Augustenstr. 30a-32  24143 Kiel </name>
+</wpt>
+<wpt lat="54.1282007369" lon="10.6221482908">
+  <name>aldi Johann-Specht-Str. 5 a  23701 Eutin </name>
+</wpt>
+<wpt lat="52.5997576245" lon="10.1102184598">
+  <name>aldi Lärchenweg 1 29227 Celle </name>
+</wpt>
+<wpt lat="52.8587908644" lon="9.58404337463">
+  <name>aldi Sudetenstraße 2 29664 Walsrode </name>
+</wpt>
+<wpt lat="54.668101383" lon="9.92394197558">
+  <name>aldi Mehlbydiek 8  24376 Kappeln </name>
+</wpt>
+<wpt lat="53.6063223134" lon="9.98122876188">
+  <name>aldi Borsteler Chaussee  86 22453 Hamburg </name>
+</wpt>
+<wpt lat="53.3855225236" lon="10.1044987744">
+  <name>aldi Harburger Straße 25 21435 Stelle </name>
+</wpt>
+<wpt lat="53.4071009972" lon="7.43969194426">
+  <name>aldi 2. Kompanieweg 8 26632 Ihlowerfehn </name>
+</wpt>
+<wpt lat="53.0744510989" lon="8.94910433442">
+  <name>aldi Schevemoorer Landstraße 14-20 28325 Bremen Osterholz </name>
+</wpt>
+<wpt lat="54.48698916" lon="9.82370358939">
+  <name>aldi Ostlandstr. 99  24340 Eckernförde </name>
+</wpt>
+<wpt lat="53.1588212689" lon="8.17424883876">
+  <name>aldi Posthalterweg 10 26129 Oldenburg </name>
+</wpt>
+<wpt lat="53.2221073903" lon="10.3852669798">
+  <name>aldi Häcklinger Weg 66 b 21335 Lüneburg </name>
+</wpt>
+<wpt lat="53.2604377059" lon="10.4382370224">
+  <name>aldi Wulf-Werum-Straße 2 21337 Lüneburg </name>
+</wpt>
+<wpt lat="53.5743212037" lon="10.0986082179">
+  <name>aldi Gustav-Adolf-Straße 92 22043 Hamburg </name>
+</wpt>
+<wpt lat="52.7310214428" lon="10.6036492453">
+  <name>aldi Hindenburgstraße   1 29386 Hankensbüttel </name>
+</wpt>
+<wpt lat="54.3018596914" lon="10.1402827811">
+  <name>aldi Theodor-Heuss-Ring 136 24143 Kiel </name>
+</wpt>
+<wpt lat="54.2201774446" lon="9.27794127962">
+  <name>aldi Hauptstraße 5 b  25782 Tellingstedt </name>
+</wpt>
+<wpt lat="54.5701288247" lon="9.17230696379">
+  <name>aldi Westermarkt 2 25884 Viöl </name>
+</wpt>
+<wpt lat="53.1849876245" lon="8.98165078334">
+  <name>aldi Am Langenmoor 1 28879 Grasberg </name>
+</wpt>
+<wpt lat="54.0608614475" lon="10.0106995309">
+  <name>aldi Haart 224  24539 Neumünster </name>
+</wpt>
+<wpt lat="54.279587784" lon="10.2453235447">
+  <name>aldi Lütjenburger Str. 2 24223 Schwentinental/OT Raisdorf </name>
+</wpt>
+<wpt lat="53.9482592282" lon="10.7338170546">
+  <name>aldi Rosenstrasse 1  23626 Ratekau </name>
+</wpt>
+<wpt lat="53.5983389845" lon="9.97221755939">
+  <name>aldi Osterfeldstraße 39  22529 Hamburg </name>
+</wpt>
+<wpt lat="53.8868405161" lon="10.6496225658">
+  <name>aldi Rathausmarkt 3 B  23617 Stockelsdorf </name>
+</wpt>
+<wpt lat="53.0480497686" lon="8.74154090777">
+  <name>aldi Alter Dorfweg 30-50 28259 Bremen-Huchting </name>
+</wpt>
+<wpt lat="54.6337974789" lon="9.7754369988">
+  <name>aldi Südertoft 2  24392 Süderbrarup </name>
+</wpt>
+<wpt lat="53.1014086054" lon="9.39785682255">
+  <name>aldi Grafeler Damm /Brauerstraße  1 27356 Rotenburg </name>
+</wpt>
+<wpt lat="52.9244000072" lon="9.23407237168">
+  <name>aldi Hohe Leuchte  8 27283 Verden </name>
+</wpt>
+<wpt lat="53.4813514526" lon="9.13943675909">
+  <name>aldi Am Bahnhof Süd 7 27432 Bremervörde </name>
+</wpt>
+<wpt lat="53.1160280531" lon="8.75870895723">
+  <name>aldi Lindenhofstraße 1-15 28237 Bremen </name>
+</wpt>
+<wpt lat="53.5477891637" lon="9.96587734207">
+  <name>aldi Zirkusweg 4 - 6 20359 Hamburg </name>
+</wpt>
+<wpt lat="53.8636075393" lon="10.6544339364">
+  <name>aldi Ziegelstr. 109-111  23556 Lübeck </name>
+</wpt>
+<wpt lat="53.5779575791" lon="8.11165605499">
+  <name>aldi Flutstraße 99 26388 Wilhelmshaven </name>
+</wpt>
+<wpt lat="54.305228561" lon="10.1267839638">
+  <name>aldi Stormarnstr. 29  24113 Kiel </name>
+</wpt>
+<wpt lat="53.6337188383" lon="9.87126870913">
+  <name>aldi Krupunder Heide 2 25462 Rellingen </name>
+</wpt>
+<wpt lat="53.8706975635" lon="10.745571188">
+  <name>aldi Grootkoppel 5-7  23566 Lübeck </name>
+</wpt>
+<wpt lat="54.3055696305" lon="9.58792844397">
+  <name>aldi Disshorn 4  24787 Fockbek </name>
+</wpt>
+<wpt lat="54.7788692458" lon="9.41551949889">
+  <name>aldi Friesische Str. 156  24937 Flensburg </name>
+</wpt>
+<wpt lat="54.4991176039" lon="9.59842352711">
+  <name>aldi Mühlenberg 18 a  24857 Fahrdorf </name>
+</wpt>
+<wpt lat="53.5678005757" lon="10.1641867494">
+  <name>aldi Am Akku 7 22885 Barsbüttel </name>
+</wpt>
+<wpt lat="54.3660516192" lon="11.0047826544">
+  <name>aldi Tollbrettkoppel 4  23774 Heiligenhafen </name>
+</wpt>
+<wpt lat="53.6144481765" lon="10.6777983117">
+  <name>aldi Grambeker Weg  95 - 97 23879 Mölln </name>
+</wpt>
+<wpt lat="53.4582203567" lon="7.49814784864">
+  <name>aldi Raiffeisenstraße 17 26603 Aurich </name>
+</wpt>
+<wpt lat="53.5493921348" lon="10.1536736798">
+  <name>aldi Im Hegen 3 22113 Oststeinbek </name>
+</wpt>
+<wpt lat="53.9628008888" lon="10.861619648">
+  <name>aldi Nordmeerstraße  100 23570 Lübeck-Travemünde </name>
+</wpt>
+<wpt lat="53.1811774073" lon="8.56920390843">
+  <name>aldi Weserstrandstraße 17 28779 Bremen </name>
+</wpt>
+<wpt lat="54.4448982428" lon="11.1820029701">
+  <name>aldi Ehlers Kamp 8  23769 Fehmarn </name>
+</wpt>
+<wpt lat="53.8307189403" lon="9.98041037922">
+  <name>aldi Kisdorfer Weg 11 24568 Kaltenkirchen </name>
+</wpt>
+<wpt lat="52.9899207016" lon="7.62747928879">
+  <name>aldi Poststraße 46 26897 Esterwegen </name>
+</wpt>
+<wpt lat="53.5885979204" lon="9.9222692374">
+  <name>aldi Randstr. 77 22525 Hamburg </name>
+</wpt>
+<wpt lat="53.3872979055" lon="9.9748525717">
+  <name>aldi Am Göhlenbach 33 21218 Seevetal-Hittfeld </name>
+</wpt>
+<wpt lat="54.7606079756" lon="9.43283143981">
+  <name>aldi Schleswiger Str. 130 (Fördepark)  24941 Flensburg-Rude </name>
+</wpt>
+<wpt lat="53.222161234" lon="9.07589069442">
+  <name>aldi Bremer Landstraße 3 c 27412 Tarmstedt </name>
+</wpt>
+<wpt lat="53.0579204093" lon="9.17172240475">
+  <name>aldi Posthausen 1 28870 Ottersberg </name>
+</wpt>
+<wpt lat="53.7002210813" lon="10.2482733195">
+  <name>aldi Poggensiek 2 22941 Delingsdorf </name>
+</wpt>
+<wpt lat="53.6350892643" lon="9.83785891147">
+  <name>aldi Hartkirchener Chaussee 14 25469 Halstenbek </name>
+</wpt>
+<wpt lat="53.7728904344" lon="9.66019792822">
+  <name>aldi Sibirien 4  25335 Elmshorn </name>
+</wpt>
+<wpt lat="53.5838092975" lon="10.0188833575">
+  <name>aldi Barmbeker Straße 17 22303 Hamburg </name>
+</wpt>
+<wpt lat="54.6010691605" lon="9.58517651985">
+  <name>aldi Hans-Christophersen-Allee 2  24860 Böklund </name>
+</wpt>
+<wpt lat="54.3289602563" lon="10.1335828351">
+  <name>aldi Preußerstr. 1-9  24105 Kiel </name>
+</wpt>
+<wpt lat="53.5841509786" lon="7.77117289498">
+  <name>aldi Esenser Straße 58 26409 Wittmund </name>
+</wpt>
+<wpt lat="52.9664088188" lon="7.33214207341">
+  <name>aldi Hauptstraße 44-48 26892 Dörpen </name>
+</wpt>
+<wpt lat="53.5591208667" lon="9.94850244864">
+  <name>aldi Holstenstr. 156  22765 Hamburg </name>
+</wpt>
+<wpt lat="53.0769417707" lon="7.38916805644">
+  <name>aldi Friederikenstraße 44 26871 Papenburg </name>
+</wpt>
+<wpt lat="53.0580501288" lon="8.80889110284">
+  <name>aldi Volkmannstraße  2 28201 Bremen-Neust. </name>
+</wpt>
+<wpt lat="54.0998923151" lon="9.97825200737">
+  <name>aldi Baeyerstraße  1 24536 Neumünster </name>
+</wpt>
+<wpt lat="53.6531086231" lon="10.1106141613">
+  <name>aldi Kunaustraße 1 22393 Hamburg </name>
+</wpt>
+<wpt lat="53.5509790164" lon="10.0464835376">
+  <name>aldi Wendenstraße 349 20537 Hamburg-Hamm </name>
+</wpt>
+<wpt lat="53.7986809227" lon="9.43488189307">
+  <name>aldi Wiebeke-Kruse-Str. 5-7  25348 Glückstadt </name>
+</wpt>
+<wpt lat="52.8520789429" lon="11.1657342423">
+  <name>aldi Schillerstr. 11 29410 Salzwedel </name>
+</wpt>
+<wpt lat="52.9707526034" lon="9.81632915222">
+  <name>aldi Am Westerfeld 7 29614 Soltau </name>
+</wpt>
+<wpt lat="53.5206790742" lon="9.98398967921">
+  <name>aldi Ernst-August-Stieg 7 21107 Hamburg-Wilhelmsburg </name>
+</wpt>
+<wpt lat="53.7708282113" lon="9.05829097059">
+  <name>aldi Stader Straße 6 21781 Cadenberge </name>
+</wpt>
+<wpt lat="53.5624113537" lon="9.91583908792">
+  <name>aldi Paul-Dessau-Str. 8  22761 Hamburg </name>
+</wpt>
+<wpt lat="53.0876105888" lon="8.78130890918">
+  <name>aldi Konsul-Smidt-Straße 8 28217 Bremen </name>
+</wpt>
+<wpt lat="53.3390412735" lon="10.2026597277">
+  <name>aldi Winsener Landstraße 13-15 21423 Winsen/Luhe </name>
+</wpt>
+<wpt lat="53.050990656" lon="8.95925767535">
+  <name>aldi Hans-Bredow-Str. 19 28325 Bremen </name>
+</wpt>
+<wpt lat="53.2994807807" lon="7.59460908409">
+  <name>aldi Im Brink 8 26835 Hesel </name>
+</wpt>
+<wpt lat="53.523769389" lon="10.2289918643">
+  <name>aldi Gutenbergstraße 3 a 21509 Glinde </name>
+</wpt>
+<wpt lat="53.0765419763" lon="8.81051887494">
+  <name>aldi Violenstraße 24 28195 Bremen-Mitte </name>
+</wpt>
+<wpt lat="53.5355992542" lon="8.12502896727">
+  <name>aldi Gökerstraße 109 26384 Wilhelmshaven </name>
+</wpt>
+<wpt lat="53.0408588864" lon="8.83102340756">
+  <name>aldi Arsterdamm  94 A 28277 Bremen-Kattenturm </name>
+</wpt>
+<wpt lat="53.5900125156" lon="7.2145917463">
+  <name>aldi Bahnhofstraße 1a 26506 Norden </name>
+</wpt>
+<wpt lat="53.3794717236" lon="9.89576622967">
+  <name>aldi Bremer Straße 51 21224 Rosengarten-Nenndorf </name>
+</wpt>
+<wpt lat="53.1277178747" lon="7.98075979524">
+  <name>aldi Bahnhofstraße 5 26188 Edewecht </name>
+</wpt>
+<wpt lat="53.0519474823" lon="8.20121949372">
+  <name>aldi Rheinstraße 6 26203 Wardenburg </name>
+</wpt>
+<wpt lat="52.9041776751" lon="9.63472014712">
+  <name>aldi Cordinger Straße 59 29699 Bomlitz </name>
+</wpt>
+<wpt lat="53.6493507828" lon="10.7063427795">
+  <name>aldi Ratzeburger Straße 36 23879 Mölln </name>
+</wpt>
+<wpt lat="53.1343709101" lon="8.73776375703">
+  <name>aldi Ritterhuder Heerstraße 6 28239 Bremen </name>
+</wpt>
+<wpt lat="52.7280805519" lon="10.2272471804">
+  <name>aldi Celler Straße 50 A 29348 Eschede </name>
+</wpt>
+<wpt lat="53.6266100391" lon="9.08990212504">
+  <name>aldi Am Galgenberg 1 21769 Lamstedt </name>
+</wpt>
+<wpt lat="53.8569300454" lon="10.6648031145">
+  <name>aldi Hansering 9-19  23558 Lübeck </name>
+</wpt>
+<wpt lat="53.2191297304" lon="7.7625034347">
+  <name>aldi Stahlwerkstraße  15a 26689 Augustfehn </name>
+</wpt>
+<wpt lat="53.4695813825" lon="7.460826002">
+  <name>aldi Dreekamp 6 26605 Aurich </name>
+</wpt>
+<wpt lat="54.3178724807" lon="10.1250123002">
+  <name>aldi Kirchhofallee 25  24103 Kiel </name>
+</wpt>
+<wpt lat="54.4890682789" lon="9.07900234718">
+  <name>aldi Flensburger Chaussee 52 / (Gewerbegebiet)  25813 Husum </name>
+</wpt>
+<wpt lat="53.5940798804" lon="10.0002674003">
+  <name>aldi Winterhuder Markt 6-7 a 22299 Hamburg </name>
+</wpt>
+<wpt lat="53.3068219043" lon="8.84077205377">
+  <name>aldi Hauptstrasse 33 27729 Hambergen </name>
+</wpt>
+<wpt lat="53.4354998982" lon="10.3833334383">
+  <name>aldi Berliner Straße 83-87 21502 Geesthacht </name>
+</wpt>
+<wpt lat="54.0875507538" lon="9.97692101139">
+  <name>aldi Rendsburger Str. 140  24537 Neumünster </name>
+</wpt>
+<wpt lat="54.3352685692" lon="10.1318381512">
+  <name>aldi Droysenstr. 5  24105 Kiel </name>
+</wpt>
+<wpt lat="53.5296499881" lon="9.68713261031">
+  <name>aldi Ostfeld 1 21635 Jork </name>
+</wpt>
+<wpt lat="54.223300627" lon="11.0360160938">
+  <name>aldi Bürgerm.-Höppner-Strasse 1  23749 Grube </name>
+</wpt>
+<wpt lat="54.0811200842" lon="9.99352248823">
+  <name>aldi Goethestr. 11  24536 Neumünster </name>
+</wpt>
+<wpt lat="53.5044806414" lon="9.59002386331">
+  <name>aldi Am Poggenpohl 3 21640 Horneburg </name>
+</wpt>
+<wpt lat="53.6280020288" lon="8.81103148826">
+  <name>aldi Handelspark 21 27624 Bad  Bederkesa </name>
+</wpt>
+<wpt lat="53.6464882031" lon="9.81675183338">
+  <name>aldi Rellinger Str.  25-27 25421 Pinneberg </name>
+</wpt>
+<wpt lat="53.6221190927" lon="9.95250442979">
+  <name>aldi Tibarg 41 - 43  22459 Hamburg </name>
+</wpt>
+<wpt lat="53.8601124629" lon="8.67432561094">
+  <name>aldi Brockeswalder Chaussee 52 27474 Cuxhaven </name>
+</wpt>
+<wpt lat="54.3537684197" lon="10.0905502963">
+  <name>aldi Steekberg 1  24107 Kiel-Suchsdorf </name>
+</wpt>
+<wpt lat="53.1375918393" lon="7.57188322711">
+  <name>aldi Rhauderwieke 9 26817 Rhauderfehn </name>
+</wpt>
+<wpt lat="52.9866887116" lon="10.7560932508">
+  <name>aldi Lüchower Straße 10 29571 Rosche </name>
+</wpt>
+<wpt lat="53.1199573967" lon="9.42343352903">
+  <name>aldi Waldweg  1-5 27356 Rotenburg </name>
+</wpt>
+<wpt lat="53.3615395712" lon="7.16657696576">
+  <name>aldi Thüringer Straße 9 26723 Emden </name>
+</wpt>
+<wpt lat="53.0269008268" lon="8.75381664769">
+  <name>aldi Stuhrer Landstraße 142 c 28816 Stuhr </name>
+</wpt>
+<wpt lat="53.9276710412" lon="10.3308670158">
+  <name>aldi Anny-Schröder-Weg  2 23795 Bad Segeberg </name>
+</wpt>
+<wpt lat="53.3912185016" lon="10.0381198467">
+  <name>aldi Eichenallee 1 b 21220 Seevetal-Maschen </name>
+</wpt>
+<wpt lat="53.9164117997" lon="9.8925916244">
+  <name>aldi Lohstücker Weg 16  24576 Bad Bramstedt </name>
+</wpt>
+<wpt lat="53.678312139" lon="10.1446444909">
+  <name>aldi Ferdinand-Harten-Straße 3 + 5 22949 Ammersbek </name>
+</wpt>
+<wpt lat="54.3057690237" lon="8.64892876879">
+  <name>aldi Nordergeest 4 a  25826 St. Peter-Ording </name>
+</wpt>
+<wpt lat="52.9816318134" lon="8.85144700123">
+  <name>aldi Lahauser Straße  2 a 28844 Weyhe-Kirchweyhe </name>
+</wpt>
+<wpt lat="53.1304320922" lon="8.22473675371">
+  <name>aldi Bremer Straße 47-53 26135 Oldenburg </name>
+</wpt>
+<wpt lat="54.3238887828" lon="10.0541457577">
+  <name>aldi Kurt-Schumacher-Platz 4  24109 Kiel-Mettenhof </name>
+</wpt>
+<wpt lat="53.5217591061" lon="9.39639992155">
+  <name>aldi Dinghorner Straße 12 21717 Fredenbeck </name>
+</wpt>
+<wpt lat="53.4834920876" lon="10.1763905436">
+  <name>aldi Grachtenplatz 7 21035 Hamburg-Allermöhe </name>
+</wpt>
+<wpt lat="53.6908816186" lon="10.7989459253">
+  <name>aldi Kolberger Straße 2 23909 Ratzeburg </name>
+</wpt>
+<wpt lat="54.5024076464" lon="9.54501281693">
+  <name>aldi Georg-Pfingsten-Weg 5  24837 Schleswig-Friedrichsberg </name>
+</wpt>
+<wpt lat="54.1031511403" lon="10.8334618885">
+  <name>aldi Rettiner Weg 77  23730 Neustadt </name>
+</wpt>
+<wpt lat="53.5137491061" lon="10.4962792388">
+  <name>aldi Hans-Koch-Ring 4 21493 Schwarzenbek </name>
+</wpt>
+<wpt lat="53.3749706152" lon="9.21485386897">
+  <name>aldi Hauptstraße 10 a 27446 Selsingen </name>
+</wpt>
+<wpt lat="53.6198521033" lon="9.88777126059">
+  <name>aldi Pinneberger Ch. 130-132  22523 Hamburg </name>
+</wpt>
+<wpt lat="53.0204691893" lon="7.85205788022">
+  <name>aldi Am alten Hafen 24 26169 Friesoythe </name>
+</wpt>
+<wpt lat="53.3738922099" lon="10.5494291457">
+  <name>aldi Hamburger Straße 33-35 21481 Lauenburg/Elbe </name>
+</wpt>
+<wpt lat="53.6674706134" lon="9.98909782593">
+  <name>aldi Rugenbarg 84 - 90 22848 Norderstedt </name>
+</wpt>
+<wpt lat="53.671360032" lon="9.77068858072">
+  <name>aldi Peiner Hag 11-13 25497 Prisdorf </name>
+</wpt>
+<wpt lat="53.1810211111" lon="8.00725380975">
+  <name>aldi Langenhof 30a 26160 Bad Zwischenahn </name>
+</wpt>
+<wpt lat="53.8072211242" lon="10.3516503381">
+  <name>aldi Helene-Stöcker-Straße 1 23843 Bad Oldesloe </name>
+</wpt>
+<wpt lat="52.9858495457" lon="10.0876904536">
+  <name>aldi Winkelmannshof 1 29633 Munster </name>
+</wpt>
+<wpt lat="53.1686826943" lon="9.48608926531">
+  <name>aldi Vahlder Weg  1 a 27383 Scheeßel </name>
+</wpt>
+<wpt lat="53.3060588302" lon="9.9450040876">
+  <name>aldi Am Allerbeek 2 21266 Jesteburg </name>
+</wpt>
+<wpt lat="53.9183874178" lon="10.6950203205">
+  <name>aldi Eutiner Ring 14 (P1 Center)  23611 Bad Schwartau </name>
+</wpt>
+<wpt lat="52.9673621057" lon="11.1513900626">
+  <name>aldi Drawehner Straße 6-10 29439 Lüchow </name>
+</wpt>
+<wpt lat="54.313140647" lon="10.1600858429">
+  <name>aldi Ostring 232  24148 Kiel-Ellerbek </name>
+</wpt>
+<wpt lat="54.7939804377" lon="9.47025221183">
+  <name>aldi Engelsbyer Str.  33 24943 Flensburg </name>
+</wpt>
+<wpt lat="53.7881094838" lon="9.771408038">
+  <name>aldi Küsterkamp 3 25355 Barmstedt </name>
+</wpt>
+<wpt lat="53.551208762" lon="10.0945612707">
+  <name>aldi Hermannstal 72 22119 Hamburg-Horn </name>
+</wpt>
+<wpt lat="53.443519326" lon="9.95531930642">
+  <name>aldi Beutnerring 21 21077 Hamburg-Harburg </name>
+</wpt>
+<wpt lat="54.3240775976" lon="8.95163142813">
+  <name>aldi Friedrichstädter Chaussee 36 25832 Tönning </name>
+</wpt>
+<wpt lat="52.7994608702" lon="8.63638323239">
+  <name>aldi Große Straße 38 27239 Twistringen </name>
+</wpt>
+<wpt lat="53.533311585" lon="9.88055870132">
+  <name>aldi Köhlfleet Hauptdeich 7 21129 Hamburg-Finkenwerder </name>
+</wpt>
+<wpt lat="53.7504503409" lon="9.91863597811">
+  <name>aldi Berliner Damm 1  25479 Ellerau </name>
+</wpt>
+<wpt lat="53.6807517636" lon="9.99441281662">
+  <name>aldi Ohechaussee 26 - 32 22848 Norderstedt </name>
+</wpt>
+<wpt lat="53.5420126209" lon="8.59102145059">
+  <name>aldi Elbestraße 97 27570 Bremerhaven </name>
+</wpt>
+<wpt lat="53.0375495963" lon="8.93490404626">
+  <name>aldi Mahndorfer Heerstraße 7 28307 Bremen-Mahndorf </name>
+</wpt>
+<wpt lat="53.6116579218" lon="10.0585973996">
+  <name>aldi Schreyerring 6 22309 Hamburg </name>
+</wpt>
+<wpt lat="53.5867508681" lon="7.39842207576">
+  <name>aldi Coldinner Straße 11 26532 Großheide </name>
+</wpt>
+<wpt lat="53.0950474864" lon="8.5316122653">
+  <name>aldi Stedinger Straße 44 a 27777 Bookholzberg </name>
+</wpt>
+<wpt lat="53.581081088" lon="10.0757924287">
+  <name>aldi Auf dem Königslande 21 22041 Hamburg </name>
+</wpt>
+<wpt lat="54.4524279237" lon="9.83495410268">
+  <name>aldi Rendsburger Str. 119  24340 Eckernförde </name>
+</wpt>
+<wpt lat="53.0472712648" lon="8.66424421574">
+  <name>aldi Syker Straße 174 27751 Delmenhorst </name>
+</wpt>
+<wpt lat="53.8045976405" lon="9.62500747378">
+  <name>aldi Horster Viereck 1 25358 Horst </name>
+</wpt>
+<wpt lat="53.1010198373" lon="8.81444891036">
+  <name>aldi Hemmstraße 353-357 28215 Bremen-Find. </name>
+</wpt>
+<wpt lat="53.6153284289" lon="10.135948051">
+  <name>aldi Bekassinenau 86 22147 Hamburg </name>
+</wpt>
+<wpt lat="53.1571711865" lon="8.2209775894">
+  <name>aldi Nadorster Straße 150 26123 Oldenburg </name>
+</wpt>
+<wpt lat="53.0193006812" lon="10.4228586229">
+  <name>aldi Kiebitzkamp 3 29574 Ebstorf </name>
+</wpt>
+<wpt lat="53.4972377415" lon="10.2091078636">
+  <name>aldi Am Beckerkamp 29 a 21031 Hamburg-Bergedorf </name>
+</wpt>
+<wpt lat="53.6329882818" lon="7.61731695464">
+  <name>aldi Wittmunder Straße 6 26427 Esens </name>
+</wpt>
+<wpt lat="53.5550394525" lon="9.92869039366">
+  <name>aldi Bahrenfelder Straße 188 22765 Hamburg Ottensen </name>
+</wpt>
+<wpt lat="53.9548215952" lon="9.49252840801">
+  <name>aldi Lise-Meitner-Str. 16  25524 Itzehoe </name>
+</wpt>
+<wpt lat="53.8221994519" lon="10.5009557112">
+  <name>aldi Barnitzer Straße 1 - 7 23858 Reinfeld </name>
+</wpt>
+<wpt lat="53.4190974119" lon="10.0193869776">
+  <name>aldi Am Saal 12 21217 Seevetal-Meckelfeld </name>
+</wpt>
+<wpt lat="53.6914088156" lon="10.2565200987">
+  <name>aldi Kornkamp 46 g 22926 Ahrensburg </name>
+</wpt>
+<wpt lat="53.6874094087" lon="8.57005826395">
+  <name>aldi Speckenstraße 15 27632 Dorum </name>
+</wpt>
+<wpt lat="54.6586398733" lon="9.94845748256">
+  <name>aldi Glücksburger Straße 1 24376 Kappeln </name>
+</wpt>
+<wpt lat="54.0911006474" lon="9.0791822115">
+  <name>aldi Raiffeisenplatz 14 25704 Meldorf </name>
+</wpt>
+<wpt lat="53.5629615238" lon="10.0333174693">
+  <name>aldi Lübecker Straße 116-124 22087 Hamburg-Hohenfelde </name>
+</wpt>
+<wpt lat="53.0428594779" lon="8.59418706264">
+  <name>aldi Wildeshauser Straße  50 27753 Delmenhorst </name>
+</wpt>
+<wpt lat="54.3198815094" lon="9.62515136523">
+  <name>aldi Friedrichstädter Str. 57 a (Eiderpark)  24768 Rendsburg </name>
+</wpt>
+<wpt lat="53.6524690143" lon="10.186939586">
+  <name>aldi Buchenkamp 94 22359 Hamburg </name>
+</wpt>
+<wpt lat="54.3145885829" lon="9.67604397491">
+  <name>aldi Hollerstr. 74  24782 Büdelsdorf </name>
+</wpt>
+<wpt lat="53.2851818521" lon="9.5062430625">
+  <name>aldi Stader Straße 11 27419 Sittensen </name>
+</wpt>
+<wpt lat="54.1615082036" lon="10.4269595294">
+  <name>aldi Lütjenburger Str. 9-10  24306 Plön </name>
+</wpt>
+<wpt lat="53.4745006947" lon="9.78559033973">
+  <name>aldi Wulmstorfer Wiesen 4 21629 Neu Wulmstorf </name>
+</wpt>
+<wpt lat="53.6491215704" lon="7.42384589756">
+  <name>aldi Am Bensjücht 1 26553 Dornum </name>
+</wpt>
+<wpt lat="54.1250598248" lon="9.41706633206">
+  <name>aldi Theodor-Storm-Str. 15  25557 Hanerau-Hademarschen </name>
+</wpt>
+<wpt lat="54.0966490553" lon="10.7918412846">
+  <name>aldi Sierksdorfer Str.  19 23730 Neustadt </name>
+</wpt>
+<wpt lat="53.7172280619" lon="10.2893723169">
+  <name>aldi Otto-Hahn-Straße 2 22941 Bargteheide </name>
+</wpt>
+<wpt lat="53.1841415376" lon="8.61923316937">
+  <name>aldi Hammersbecker Straße 87 28755 Bremen </name>
+</wpt>
+<wpt lat="54.177138668" lon="9.09355337076">
+  <name>aldi Fritz-Thiedemann-Ring  40 25746 Heide </name>
+</wpt>
+<wpt lat="53.8424788259" lon="8.69354411366">
+  <name>aldi Christian-Hülsmeyer-Straße 3 27472 Cuxhaven </name>
+</wpt>
+<wpt lat="52.9424289081" lon="8.24598772326">
+  <name>aldi Am Rieskamp  2 26197 Großenkneten </name>
+</wpt>
+<wpt lat="53.9945124697" lon="10.7798083615">
+  <name>aldi Höppnerweg 14  23669 Timmend.Strand </name>
+</wpt>
+<wpt lat="53.1633020553" lon="8.21794687559">
+  <name>aldi Scheideweg 56-58 26121 Oldenburg </name>
+</wpt>
+<wpt lat="54.7621594663" lon="8.87670894514">
+  <name>aldi Dorfstr. 226  25920 Risum-Lindholm </name>
+</wpt>
+<wpt lat="53.8006674184" lon="10.4024979817">
+  <name>aldi Lily-Braun-Straße 18 - 22 23843 Bad Oldesloe </name>
+</wpt>
+<wpt lat="52.8980098562" lon="8.41792002788">
+  <name>aldi Dr.-Dürr-Straße 12 27793 Wildeshausen </name>
+</wpt>
+<wpt lat="53.8070087025" lon="8.88750979763">
+  <name>aldi Cuxhavener Straße 42-44 21762 Otterndorf </name>
+</wpt>
+<wpt lat="53.9309910372" lon="9.52809657752">
+  <name>aldi Langer Peter 27  25524 Itzehoe </name>
+</wpt>
+<wpt lat="52.9834510655" lon="9.83970252076">
+  <name>aldi Böhmheide 45 29614 Soltau </name>
+</wpt>
+<wpt lat="52.6157373765" lon="10.0627432722">
+  <name>aldi Itagstr. 22 29221 Celle </name>
+</wpt>
+<wpt lat="53.2483373875" lon="8.19022079048">
+  <name>aldi Raiffeisenstraße 34 26180 Rastede </name>
+</wpt>
+<wpt lat="53.6928998422" lon="9.65476602572">
+  <name>aldi Reuterstr. 115 25436 Uetersen </name>
+</wpt>
+<wpt lat="53.7345579932" lon="9.98839635508">
+  <name>aldi Quickborner Straße 54 22844 Norderstedt </name>
+</wpt>
+<wpt lat="54.6921691403" lon="9.59649897887">
+  <name>aldi Hans-Redlefsen-Str. 8  24986 Satrup </name>
+</wpt>
+<wpt lat="53.8663917235" lon="10.7218021179">
+  <name>aldi Kantstraße 22  23566 Lübeck-Marli </name>
+</wpt>
+<wpt lat="52.9073507491" lon="8.58328728478">
+  <name>aldi Junkernkamp  8 27243 Harpstedt </name>
+</wpt>
+<wpt lat="53.2284873932" lon="8.60082405609">
+  <name>aldi Ritterkamp 42 28790 Schwanewede </name>
+</wpt>
+<wpt lat="53.304838958" lon="7.74662141514">
+  <name>aldi Ostertorstraße 60 26670 Uplengen-Remels </name>
+</wpt>
+<wpt lat="53.2426007807" lon="7.50652952601">
+  <name>aldi Hohe Loga 76 26789 Leer-Loga </name>
+</wpt>
+<wpt lat="53.1686395656" lon="8.19799992237">
+  <name>aldi Alexander Straße 322 26127 Oldenburg </name>
+</wpt>
+<wpt lat="53.3900225167" lon="7.21149807997">
+  <name>aldi Fritz-Reuter-Straße 11 26721 Emden </name>
+</wpt>
+<wpt lat="53.1346784464" lon="10.4946604599">
+  <name>aldi Rübenbaum 1 29553 Bienenbüttel </name>
+</wpt>
+<wpt lat="53.4598909715" lon="9.98227197494">
+  <name>aldi Lüneburger Straße 39 21073 Hamburg-Harburg </name>
+</wpt>
+<wpt lat="53.5991982254" lon="10.0768716147">
+  <name>aldi Haldesdorfer Straße 86 22179 Hamburg </name>
+</wpt>
+<wpt lat="53.3674104725" lon="7.20248687748">
+  <name>aldi Lookvenne 12 26721 Emden </name>
+</wpt>
+<wpt lat="53.5749993767" lon="10.0435157763">
+  <name>aldi Holsteinischer Kamp 65 22081 Hamburg </name>
+</wpt>
+<wpt lat="54.0470298725" lon="9.48825663038">
+  <name>aldi Bahnhofstr. 23 a  25560 Schenefeld </name>
+</wpt>
+<wpt lat="54.0581905174" lon="9.97987078626">
+  <name>aldi Altonaer Str. 164  24539 Neumünster </name>
+</wpt>
+<wpt lat="53.8847414896" lon="8.66115054942">
+  <name>aldi Heinrich-Grube-Weg 76 27476 Cuxhaven </name>
+</wpt>
+<wpt lat="53.4546486617" lon="7.83809141568">
+  <name>aldi Friedeburger Hauptstraße 119 26446 Friedeburg </name>
+</wpt>
+<wpt lat="53.3518191438" lon="10.2208080377">
+  <name>aldi Zum Torfmoor 13 21423 Winsen/Luhe </name>
+</wpt>
+<wpt lat="53.474548868" lon="8.65268793311">
+  <name>aldi Parkstr. 9 27612 Loxstedt </name>
+</wpt>
+<wpt lat="53.5004100058" lon="10.0002314274">
+  <name>aldi Dratelnstraße 23-25 21109 Hamburg-Wilhelmsburg </name>
+</wpt>
+<wpt lat="53.9003915413" lon="10.803928167">
+  <name>aldi Alter Kühlturm 1-5  23569 Lübeck </name>
+</wpt>
+<wpt lat="53.6298792756" lon="10.0861076476">
+  <name>aldi Bramfelder Drift 14 22175 Hamburg </name>
+</wpt>
+<wpt lat="53.7668522993" lon="10.2649917082">
+  <name>aldi Bundesstraße 7 23869 Elmenhorst </name>
+</wpt>
+<wpt lat="53.7486475957" lon="9.68376914751">
+  <name>aldi Hans-Böckler-Str. 1 a  25337 Elmshorn </name>
+</wpt>
+<wpt lat="52.6854480498" lon="8.8116160473">
+  <name>aldi Bismarckstraße 2-4 27232 Sulingen </name>
+</wpt>
+<wpt lat="53.5216895999" lon="8.07521554351">
+  <name>aldi Güterstraße 48 a 26389 Wilhelmshaven </name>
+</wpt>
+<wpt lat="53.9234293222" lon="9.50900397983">
+  <name>aldi Rotenbrook 6  25524 Itzehoe </name>
+</wpt>
+<wpt lat="53.582298393" lon="9.95218966723">
+  <name>aldi Eidelstedter Weg 44 20255 Hamburg </name>
+</wpt>
+<wpt lat="54.0130120763" lon="10.0149982882">
+  <name>aldi Neumünsterstraße 49 b  24598 Boostedt </name>
+</wpt>
+<wpt lat="53.8543521098" lon="10.6480667395">
+  <name>aldi Korvettenstrasse 69  23558 Lübeck </name>
+</wpt>
+<wpt lat="53.5085508862" lon="10.1852038953">
+  <name>aldi Weberade 21-23 21031 Hamburg-Lohbrügge </name>
+</wpt>
+<wpt lat="53.5841616561" lon="9.72370802003">
+  <name>aldi Rissener Str.  125 22880 Wedel </name>
+</wpt>
+<wpt lat="53.8929090781" lon="10.6673841675">
+  <name>aldi Friedhofsallee 144  23554 Lübeck </name>
+</wpt>
+<wpt lat="54.3849880062" lon="10.1384931311">
+  <name>aldi Friedrichsruher Weg 4  24161 Altenholz </name>
+</wpt>
+<wpt lat="53.6963875731" lon="9.71389642131">
+  <name>aldi Tornescher Hof 1 - 5 25436 Tornesch </name>
+</wpt>
+<wpt lat="54.904440693" lon="8.32129691454">
+  <name>aldi Keitumer Landstr. 21  25980 Sylt/OT Tinnum </name>
+</wpt>
+<wpt lat="53.2809288791" lon="9.71064987031">
+  <name>aldi Unter den Linden 5 21255 Tostedt </name>
+</wpt>
+<wpt lat="52.8331213927" lon="10.676017655">
+  <name>aldi Bergstr.  7 29389 Bad Bodenteich </name>
+</wpt>
+<wpt lat="54.2980497029" lon="10.1738544567">
+  <name>aldi Villacher Str. 8  24147 Kiel-Elmschenhagen </name>
+</wpt>
+<wpt lat="53.1238378109" lon="8.08536888444">
+  <name>aldi Friedrichsfehner Straße  1 26188 Friedrichsfehn </name>
+</wpt>
+<wpt lat="53.7215492412" lon="9.90165678619">
+  <name>aldi Gütloh 1 - 5  25451 Quickborn </name>
+</wpt>
+<wpt lat="53.1026774767" lon="8.20911553742">
+  <name>aldi Alter Postweg 125 26133 Oldenburg </name>
+</wpt>
+<wpt lat="53.2509578891" lon="10.4275620749">
+  <name>aldi Bleckeder Landstraße 26-28 21337 Lüneburg </name>
+</wpt>
+<wpt lat="54.7836096029" lon="8.82589727441">
+  <name>aldi Hauptstraße 75 25899 Niebüll </name>
+</wpt>
+<wpt lat="54.0425996275" lon="10.213784336">
+  <name>aldi Gablonzer Straße 5 24610 Trappenkamp </name>
+</wpt>
+<wpt lat="52.6363506132" lon="10.0517175894">
+  <name>aldi Bremer Weg 199 29227 Celle </name>
+</wpt>
+<wpt lat="54.5183893056" lon="9.38969098237">
+  <name>aldi Tükeslih 2  24887 Silberstedt </name>
+</wpt>
+<wpt lat="53.0587203403" lon="8.93542565279">
+  <name>aldi Osterholzer Heerstraße 111-113 28307 Bremen Osterholz </name>
+</wpt>
+<wpt lat="53.1683484458" lon="7.34960689899">
+  <name>aldi Neue Feldstraße 4 26826 Weener </name>
+</wpt>
+<wpt lat="54.3019174158" lon="9.67364278623">
+  <name>aldi Konrad-Adenauer-Str 3  24768 Rendsburg </name>
+</wpt>
+<wpt lat="53.1822175709" lon="8.71062223096">
+  <name>aldi An der Ihle 5 c 27721 Ritterhude </name>
+</wpt>
+<wpt lat="52.9016119257" lon="8.44988191776">
+  <name>aldi Harpstedter Straße 34c 27793 Wildeshausen </name>
+</wpt>
+<wpt lat="53.4307903906" lon="9.61247093059">
+  <name>aldi Beckdorfer Straße 14 21641 Apensen </name>
+</wpt>
+<wpt lat="52.8249926419" lon="10.0820517071">
+  <name>aldi Celler Str.  45 29320 Hermannsburg </name>
+</wpt>
+<wpt lat="54.3771578347" lon="10.2210598477">
+  <name>aldi Tobringer 2  24226 Heikendorf </name>
+</wpt>
+<wpt lat="53.8459488469" lon="10.6824927705">
+  <name>aldi Kronsforder Allee 70 c  23560 Lübeck-St.Jürgen </name>
+</wpt>
+<wpt lat="53.5157597692" lon="8.1020872731">
+  <name>aldi Rüderstraße 3 a 26382 Wilhelmshaven </name>
+</wpt>
+</gpx>

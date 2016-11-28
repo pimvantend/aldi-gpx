@@ -25,8 +25,8 @@
 <wpt lat="51.1639196411" lon="7.09548559281">
   <name>aldi Schützenstraße 64 42659 Solingen </name>
 </wpt>
-<wpt lat="51.2462011563" lon="6.98396971368">
-  <name>aldi Flurstr. 20 40822 Mettmann </name>
+<wpt lat="51.9850301604" lon="7.29187944511">
+  <name>aldi Darfelder Straße 36 48727 Billerbeck </name>
 </wpt>
 <wpt lat="51.1764378449" lon="6.83147174896">
   <name>aldi Kölner Landstraße 437-441  40589 Düsseldorf </name>
@@ -169,8 +169,8 @@
 <wpt lat="52.8332300555" lon="8.1622878614">
   <name>aldi Am Mühlencenter 10 49685 Emstek </name>
 </wpt>
-<wpt lat="51.5577921327" lon="7.54192682442">
-  <name>aldi Kuskestraße 4 44328 Dortmund </name>
+<wpt lat="51.1730999895" lon="6.3881961294">
+  <name>aldi Helmut-Grashoff-Str. 2  41179 Mönchengladbach-Nordpark </name>
 </wpt>
 <wpt lat="51.5855780258" lon="7.03505118089">
   <name>aldi Buschgrundstr.  33 45894 Gelsenkirchen </name>
@@ -208,8 +208,8 @@
 <wpt lat="51.2099495941" lon="6.80368271134">
   <name>aldi Oberbilker Allee 237  40227 Düsseldorf-Oberbilk </name>
 </wpt>
-<wpt lat="51.4916996571" lon="7.30818414583">
-  <name>aldi Werner Hellweg  502 44894 Bochum-Werne </name>
+<wpt lat="51.9527615736" lon="7.01382719099">
+  <name>aldi Fabrikstraße 46 48712 Gescher </name>
 </wpt>
 <wpt lat="51.2797690448" lon="6.74065825319">
   <name>aldi Niederrheinstraße 162-166  40474 Düsseldorf-Lohausen </name>
@@ -316,9 +316,6 @@
 <wpt lat="51.3082023647" lon="6.58489575105">
   <name>aldi Kölner Straße 456-458  47807 Krefeld- Fischeln </name>
 </wpt>
-<wpt lat="51.1477988598" lon="6.36830313548">
-  <name>aldi Geusenstraße 20  41179 Mönchengladbach-Rheindahlen </name>
-</wpt>
 <wpt lat="51.5059703654" lon="7.19395231544">
   <name>aldi Riemker Str. 13 44809 Bochum </name>
 </wpt>
@@ -334,8 +331,8 @@
 <wpt lat="51.5786988124" lon="6.97565998204">
   <name>aldi Schultenstr. 10 45966 Gladbeck </name>
 </wpt>
-<wpt lat="51.6660672325" lon="7.34673806307">
-  <name>aldi Bülowstraße 80 45711 Datteln </name>
+<wpt lat="51.4317127584" lon="6.89131260862">
+  <name>aldi Uhlandstraße 8  45468 Mülheim an der Ruhr </name>
 </wpt>
 <wpt lat="52.8433616705" lon="8.05159935814">
   <name>aldi Emsteker Straße  30/32a 49661 Cloppenburg </name>
@@ -364,8 +361,8 @@
 <wpt lat="51.5157092792" lon="7.50369666295">
   <name>aldi Körner Hellweg  47-49 44143 Dortmund </name>
 </wpt>
-<wpt lat="51.4317127584" lon="6.89131260862">
-  <name>aldi Uhlandstraße 8  45468 Mülheim an der Ruhr </name>
+<wpt lat="51.6660672325" lon="7.34673806307">
+  <name>aldi Bülowstraße 80 45711 Datteln </name>
 </wpt>
 <wpt lat="52.2104199579" lon="7.32016310962">
   <name>aldi Gnoiener Platz 10 48493 Wettringen </name>
@@ -388,6 +385,9 @@
 <wpt lat="51.5918416188" lon="7.53596432217">
   <name>aldi Bebelstraße 159 44532 Lünen </name>
 </wpt>
+<wpt lat="51.3219009811" lon="6.54760088405">
+  <name>aldi Nauenweg 74  47804 Krefeld-Benrad </name>
+</wpt>
 <wpt lat="51.4900981926" lon="6.95547021198">
   <name>aldi Alte Bottroper Str. 98  45356 Essen </name>
 </wpt>
@@ -396,9 +396,6 @@
 </wpt>
 <wpt lat="51.1138015488" lon="6.33060357376">
   <name>aldi Gladbacher Str. 25-27  41844 Wegberg-Rath </name>
-</wpt>
-<wpt lat="51.1261978898" lon="6.95160312908">
-  <name>aldi Immigrather Straße 10  40764 Langenfeld </name>
 </wpt>
 <wpt lat="51.1681998958" lon="6.93819424393">
   <name>aldi Am Kronengarten 6  40721 Hilden </name>
@@ -433,8 +430,8 @@
 <wpt lat="52.8607998947" lon="7.32109840409">
   <name>aldi Kreuzstr. 6 - 8  49762 Lathen </name>
 </wpt>
-<wpt lat="51.4471680717" lon="6.26891910481">
-  <name>aldi von Galenstr. 1  47638 Straelen </name>
+<wpt lat="51.7335885677" lon="6.29749055223">
+  <name>aldi Xantener Str. 15  47546 Kalkar </name>
 </wpt>
 <wpt lat="51.160242478" lon="7.03318958517">
   <name>aldi Löhdorfer Straße 25-27 42699 Solingen </name>
@@ -496,6 +493,9 @@
 <wpt lat="51.323598268" lon="6.60439304347">
   <name>aldi Hafelsstr. 237  47809 Krefeld </name>
 </wpt>
+<wpt lat="51.7610275595" lon="6.39532774974">
+  <name>aldi Vor dem Delltor 13  46459 Rees </name>
+</wpt>
 <wpt lat="51.4938497869" lon="7.55460725906">
   <name>aldi Rodenbergstraße 23 44287 Dortmund </name>
 </wpt>
@@ -535,8 +535,8 @@
 <wpt lat="52.2808680894" lon="8.06644715786">
   <name>aldi Bohmter Straße 64 49074 Osnabrück </name>
 </wpt>
-<wpt lat="51.602031382" lon="6.69867792063">
-  <name>aldi Bahnhofstr. 145a  46562 Voerde </name>
+<wpt lat="51.1261978898" lon="6.95160312908">
+  <name>aldi Immigrather Straße 10  40764 Langenfeld </name>
 </wpt>
 <wpt lat="51.459160974" lon="6.92653004271">
   <name>aldi Aktienstr. 42  45359 Essen </name>
@@ -607,8 +607,8 @@
 <wpt lat="51.243200519" lon="6.1898957153">
   <name>aldi Borner Straße 53  41379 Brüggen </name>
 </wpt>
-<wpt lat="51.9850301604" lon="7.29187944511">
-  <name>aldi Darfelder Straße 36 48727 Billerbeck </name>
+<wpt lat="51.2462011563" lon="6.98396971368">
+  <name>aldi Flurstr. 20 40822 Mettmann </name>
 </wpt>
 <wpt lat="51.483602165" lon="7.22612104929">
   <name>aldi Blumenstr. 7  44791 Bochum </name>
@@ -652,8 +652,8 @@
 <wpt lat="51.2575376323" lon="6.95020918059">
   <name>aldi Steinesweg 6 40822 Mettmann </name>
 </wpt>
-<wpt lat="51.4589984744" lon="6.98379884257">
-  <name>aldi Altendorfer Str. 241 - 245 45143 Essen </name>
+<wpt lat="51.6935527815" lon="7.11908379175">
+  <name>aldi Hammer Str. 109 45772 Marl </name>
 </wpt>
 <wpt lat="52.2946813838" lon="7.65962104299">
   <name>aldi Roßlauer Straße 10 49479 Ibbenbüren </name>
@@ -745,8 +745,8 @@
 <wpt lat="51.8312194568" lon="6.61460034369">
   <name>aldi Friesenstr. 19  46395 Bocholt </name>
 </wpt>
-<wpt lat="51.4381376913" lon="7.00557141865">
-  <name>aldi Rüttenscheider Strasse 62  45130 Essen </name>
+<wpt lat="51.4456379094" lon="6.63452031726">
+  <name>aldi Uerdinger Straße 67  47441 Moers </name>
 </wpt>
 <wpt lat="51.2325193638" lon="6.74579337956">
   <name>aldi Hansa-Allee 10-12  40547 Düsseldorf-Oberkassel </name>
@@ -766,8 +766,8 @@
 <wpt lat="52.7827812961" lon="8.43036663891">
   <name>aldi Vechtaer Straße 1 49424 Goldenstedt </name>
 </wpt>
-<wpt lat="51.4456379094" lon="6.63452031726">
-  <name>aldi Uerdinger Straße 67  47441 Moers </name>
+<wpt lat="51.4381376913" lon="7.00557141865">
+  <name>aldi Rüttenscheider Strasse 62  45130 Essen </name>
 </wpt>
 <wpt lat="52.2647113595" lon="8.16905975309">
   <name>aldi Mindener Straße 8 49143 Bissendorf </name>
@@ -868,17 +868,14 @@
 <wpt lat="51.0944213705" lon="6.81629120025">
   <name>aldi Mathias-Giesen-Straße 20  41540 Dormagen-Horrem </name>
 </wpt>
-<wpt lat="51.5111982941" lon="6.93549627912">
-  <name>aldi Am Südring-Center 3  46242 Bottrop </name>
+<wpt lat="51.5301906635" lon="7.40072433907">
+  <name>aldi Aspeystraße 75 44369 Dortmund </name>
 </wpt>
 <wpt lat="52.3008907368" lon="8.0593065443">
   <name>aldi Mönkedieckstraße 3-9 49088 Osnabrück </name>
 </wpt>
 <wpt lat="51.3303980257" lon="6.33890431218">
   <name>aldi Am Weidenbusch 2  47929 Grefrath </name>
-</wpt>
-<wpt lat="51.4910781164" lon="7.24408949497">
-  <name>aldi Castroper Straße 206 44791 Bochum </name>
 </wpt>
 <wpt lat="51.091077581" lon="6.8890643046">
   <name>aldi Rathausplatz 10  40789 Monheim </name>
@@ -894,6 +891,9 @@
 </wpt>
 <wpt lat="52.0409298435" lon="7.46927063188">
   <name>aldi Lütke Berg 3 48341 Altenberge </name>
+</wpt>
+<wpt lat="51.3616021567" lon="6.41770287129">
+  <name>aldi Hessenring 25  47906 Kempen </name>
 </wpt>
 <wpt lat="51.2089523713" lon="6.77685594783">
   <name>aldi Friedrichstr. 129-133  40217 Düsseldorf-Bilk </name>
@@ -922,8 +922,8 @@
 <wpt lat="51.4174019819" lon="6.7490039577">
   <name>aldi Wörthstr. 130  47053 Duisburg-Hochfeld </name>
 </wpt>
-<wpt lat="51.4327612166" lon="7.03032974246">
-  <name>aldi Schürmannstr. 43 b  45136 Essen </name>
+<wpt lat="51.3713999692" lon="6.50688859495">
+  <name>aldi Josef-Heinrichs-Straße 25  47839 Krefeld-Hüls </name>
 </wpt>
 <wpt lat="52.5236510395" lon="8.19186654902">
   <name>aldi Mühlenstraße 34  49401 Damme </name>
@@ -976,9 +976,6 @@
 <wpt lat="52.7903305881" lon="7.23568083796">
   <name>aldi Lange Str. 73-77  49733 Haren </name>
 </wpt>
-<wpt lat="51.5813701498" lon="7.14600948063">
-  <name>aldi Ewaldstr.  182 45699 Herten </name>
-</wpt>
 <wpt lat="51.2678978747" lon="6.52900291324">
   <name>aldi Stahlwerk-Becker-Straße 15  47877 Willich </name>
 </wpt>
@@ -997,8 +994,8 @@
 <wpt lat="51.4997005378" lon="7.03145389447">
   <name>aldi Stauderstr. 221  45327 Essen </name>
 </wpt>
-<wpt lat="51.7335885677" lon="6.29749055223">
-  <name>aldi Xantener Str. 15  47546 Kalkar </name>
+<wpt lat="51.4471680717" lon="6.26891910481">
+  <name>aldi von Galenstr. 1  47638 Straelen </name>
 </wpt>
 <wpt lat="51.5219321384" lon="7.15116259343">
   <name>aldi Plutostr.  4 44651 Herne </name>
@@ -1078,8 +1075,8 @@
 <wpt lat="51.0944100743" lon="6.90677194702">
   <name>aldi Am Wald 23  40789 Monheim </name>
 </wpt>
-<wpt lat="51.5301906635" lon="7.40072433907">
-  <name>aldi Aspeystraße 75 44369 Dortmund </name>
+<wpt lat="51.5111982941" lon="6.93549627912">
+  <name>aldi Am Südring-Center 3  46242 Bottrop </name>
 </wpt>
 <wpt lat="51.6062708566" lon="7.20926776239">
   <name>aldi Hubertusstr.  68 45657 Recklinghausen </name>
@@ -1161,6 +1158,9 @@
 </wpt>
 <wpt lat="52.118649119" lon="7.09496398628">
   <name>aldi Im Stroot 35 48619 Heek </name>
+</wpt>
+<wpt lat="51.3285998407" lon="6.586100842">
+  <name>aldi Neue Ritterstr. 33  47805 Krefeld </name>
 </wpt>
 <wpt lat="51.5383022546" lon="6.86399121823">
   <name>aldi Kirchhellener Str. 140  46145 Oberhausen-Königshardt </name>
@@ -1309,6 +1309,9 @@
 <wpt lat="51.6079073331" lon="7.2606280193">
   <name>aldi Schulstr.  47 45665 Recklinghausen </name>
 </wpt>
+<wpt lat="51.4589984744" lon="6.98379884257">
+  <name>aldi Altendorfer Str. 241 - 245 45143 Essen </name>
+</wpt>
 <wpt lat="51.2778619878" lon="7.16254800496">
   <name>aldi Weinberg 107 42109 Wuppertal Elberfeld </name>
 </wpt>
@@ -1342,8 +1345,8 @@
 <wpt lat="51.4553392789" lon="6.38109148872">
   <name>aldi Industriestraße 5a  47647 Kerken </name>
 </wpt>
-<wpt lat="51.3616021567" lon="6.41770287129">
-  <name>aldi Hessenring 25  47906 Kempen </name>
+<wpt lat="51.602031382" lon="6.69867792063">
+  <name>aldi Bahnhofstr. 145a  46562 Voerde </name>
 </wpt>
 <wpt lat="51.5411381734" lon="7.2658890507">
   <name>aldi Mont-Cenis-Str.  351 44627 Herne </name>
@@ -1363,20 +1366,20 @@
 <wpt lat="52.362370736" lon="7.47421690071">
   <name>aldi Bernard-Krone-Str. 5  48480 Spelle </name>
 </wpt>
+<wpt lat="51.492281994" lon="7.12548696158">
+  <name>aldi Am Dördelmannshof 6 45886 Gelsenkirchen-Ückendorf </name>
+</wpt>
 <wpt lat="51.3357696832" lon="7.28457695367">
   <name>aldi Rathausplatz 10  45549 Sprockhövel Hasslinghausen </name>
 </wpt>
 <wpt lat="51.8866892969" lon="7.63661639631">
   <name>aldi Westfalenstr. 218-224 48165 Münster </name>
 </wpt>
-<wpt lat="51.5320984159" lon="6.97430200641">
-  <name>aldi Gungstr. 1  46240 Bottrop-Boy </name>
-</wpt>
 <wpt lat="51.2285604567" lon="7.20666872295">
   <name>aldi Am Kraftwerk 13  42369 Wuppertal-Ronsdorf </name>
 </wpt>
-<wpt lat="51.3713999692" lon="6.50688859495">
-  <name>aldi Josef-Heinrichs-Straße 25  47839 Krefeld-Hüls </name>
+<wpt lat="51.4327612166" lon="7.03032974246">
+  <name>aldi Schürmannstr. 43 b  45136 Essen </name>
 </wpt>
 <wpt lat="52.6992874722" lon="7.28527842452">
   <name>aldi Grabbestr. 2  49716 Meppen </name>
@@ -1384,8 +1387,8 @@
 <wpt lat="51.2693383318" lon="7.22935860707">
   <name>aldi Rübenstr. 60  42289 Wuppertal Barmen </name>
 </wpt>
-<wpt lat="51.492281994" lon="7.12548696158">
-  <name>aldi Am Dördelmannshof 6 45886 Gelsenkirchen-Ückendorf </name>
+<wpt lat="51.5813701498" lon="7.14600948063">
+  <name>aldi Ewaldstr.  182 45699 Herten </name>
 </wpt>
 <wpt lat="51.1257011969" lon="6.41079608136">
   <name>aldi Beckrather Straße 65  41189 Mönchengladbach-Wickrath </name>
@@ -1546,9 +1549,6 @@
 <wpt lat="51.5916293077" lon="7.18081322678">
   <name>aldi Friedrich-Ebert-Str.  106 45659 Recklinghausen </name>
 </wpt>
-<wpt lat="51.6935527815" lon="7.11908379175">
-  <name>aldi Hammer Str. 109 45772 Marl </name>
-</wpt>
 <wpt lat="51.3258799519" lon="6.94296964166">
   <name>aldi Höseler Straße 65  42579 Heiligenhaus </name>
 </wpt>
@@ -1570,14 +1570,14 @@
 <wpt lat="51.4838989864" lon="7.06309202856">
   <name>aldi Huestraße 89  45309 Essen </name>
 </wpt>
-<wpt lat="51.1730999895" lon="6.3881961294">
-  <name>aldi Helmut-Grashoff-Str. 2  41179 Mönchengladbach-Nordpark </name>
+<wpt lat="51.5577921327" lon="7.54192682442">
+  <name>aldi Kuskestraße 4 44328 Dortmund </name>
 </wpt>
 <wpt lat="52.550120991" lon="7.95046165034">
   <name>aldi Bramscher Str. 46 -48  49593 Bersenbrück </name>
 </wpt>
-<wpt lat="51.9527615736" lon="7.01382719099">
-  <name>aldi Fabrikstraße 46 48712 Gescher </name>
+<wpt lat="51.4916996571" lon="7.30818414583">
+  <name>aldi Werner Hellweg  502 44894 Bochum-Werne </name>
 </wpt>
 <wpt lat="51.3695023331" lon="6.73660231275">
   <name>aldi Mündelheimer Str. 173  47259 Duisburg-Hüttenheim </name>
@@ -1744,8 +1744,8 @@
 <wpt lat="51.5218873727" lon="7.32515434453">
   <name>aldi Provinzialstraße 417 44388 Dortmund </name>
 </wpt>
-<wpt lat="51.7610275595" lon="6.39532774974">
-  <name>aldi Vor dem Delltor 13  46459 Rees </name>
+<wpt lat="51.1477988598" lon="6.36830313548">
+  <name>aldi Geusenstraße 20  41179 Mönchengladbach-Rheindahlen </name>
 </wpt>
 <wpt lat="51.1579017997" lon="6.93779854243">
   <name>aldi Richrather Straße 126  40723 Hilden </name>
@@ -1759,8 +1759,8 @@
 <wpt lat="51.5193020769" lon="6.82899861454">
   <name>aldi Weierstr. 72  46149 Oberhausen-Sterkrade </name>
 </wpt>
-<wpt lat="51.3219009811" lon="6.54760088405">
-  <name>aldi Nauenweg 74  47804 Krefeld-Benrad </name>
+<wpt lat="51.5320984159" lon="6.97430200641">
+  <name>aldi Gungstr. 1  46240 Bottrop-Boy </name>
 </wpt>
 <wpt lat="51.6572977905" lon="6.96486812277">
   <name>aldi Alleestr. 17  46282 Dorsten </name>
@@ -1849,8 +1849,8 @@
 <wpt lat="51.4788583602" lon="6.88641130587">
   <name>aldi Mellinghofer Straße 63  46047 Oberhausen </name>
 </wpt>
-<wpt lat="51.3285998407" lon="6.586100842">
-  <name>aldi Neue Ritterstr. 33  47805 Krefeld </name>
+<wpt lat="51.4910781164" lon="7.24408949497">
+  <name>aldi Castroper Straße 206 44791 Bochum </name>
 </wpt>
 <wpt lat="51.1072294618" lon="6.62232551629">
   <name>aldi Marktplatz 9  41516 Grevenbroich-Wevelinghoven </name>

@@ -124,8 +124,8 @@
 <wpt lat="49.0729425647" lon="0.579981496873">
   <name>aldi ZA du Bois du Cours  27300 Bernay </name>
 </wpt>
-<wpt lat="49.5533081826" lon="2.53448613623">
-  <name>aldi ZI Est  60420 Maignelay-Montigny </name>
+<wpt lat="49.0220498708" lon="1.37863304223">
+  <name>aldi 16 Rue Albert Camus - Rue Branly  27120 Pacy-sur-Eure </name>
 </wpt>
 <wpt lat="49.7332193983" lon="3.06858424477">
   <name>aldi 59 Rue de Paris  80400 Muille-Villette </name>
@@ -1858,9 +1858,6 @@
 <wpt lat="47.9936305777" lon="7.37784559742">
   <name>aldi 2 Rue des Alpes  68127 Niederhergheim </name>
 </wpt>
-<wpt lat="50.0594203655" lon="4.49380214618">
-  <name>aldi Chemin du Try Châlon 19 5660 Couvin </name>
-</wpt>
 <wpt lat="46.9196600456" lon="4.74950625839">
   <name>aldi Rue du 19 Mars 1962  71150 Chagny </name>
 </wpt>
@@ -2200,8 +2197,8 @@
 <wpt lat="49.3715079453" lon="6.71364263215">
   <name>aldi Siemensstraße 1  66763 Dillingen </name>
 </wpt>
-<wpt lat="49.0220498708" lon="1.37863304223">
-  <name>aldi 16 Rue Albert Camus - Rue Branly  27120 Pacy-sur-Eure </name>
+<wpt lat="49.5533081826" lon="2.53448613623">
+  <name>aldi ZI Est  60420 Maignelay-Montigny </name>
 </wpt>
 <wpt lat="43.2547980253" lon="0.0731238397773">
   <name>aldi Route de Bordeaux  65000 Tarbes </name>
@@ -2409,6 +2406,9 @@
 </wpt>
 <wpt lat="45.0494013258" lon="-0.118116899721">
   <name>aldi Rue François Mitterrand - Route de Montendre  33230 Coutras </name>
+</wpt>
+<wpt lat="50.0608117781" lon="4.49517810824">
+  <name>aldi Route Charlemagne 23 5660 Couvin </name>
 </wpt>
 <wpt lat="47.8639102623" lon="-3.5285872462">
   <name>aldi 1 ZAC de Villeneuve Braouic  29300 Quimperlé </name>

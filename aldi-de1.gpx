@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="Locus Android"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
+ xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
+ xmlns:locus="http://www.locusmap.eu">
+<wpt lat="53.9217717044" lon="13.3434594974">
+  <name>aldi Dr.- G.-Kohnert-Str. 22  17126 Jarmen </name>
+</wpt>
+<wpt lat="53.9578484036" lon="14.1548634231">
+  <name>aldi Labahnstr. 18  17424 Heringsdorf </name>
+</wpt>
+<wpt lat="52.4409385111" lon="13.3914113254">
+  <name>aldi Alt-Mariendorf 16 12107 Berlin </name>
+</wpt>
+<wpt lat="53.6245086344" lon="11.4010777133">
+  <name>aldi Wallstr. 68 19053 Schwerin Paulsstadt </name>
+</wpt>
+<wpt lat="52.5316226957" lon="13.8055579182">
+  <name>aldi Am Fuchsbau  4 15345 Petershagen/Eggersdorf </name>
+</wpt>
+<wpt lat="52.2371278631" lon="12.9695485533">
+  <name>aldi Clara-Zetkin-Straße 36a 14547 Beelitz </name>
+</wpt>
+<wpt lat="52.4731010615" lon="13.7133324875">
+  <name>aldi Woltersdorfer Straße 1  15566 Schöneiche </name>
+</wpt>
+<wpt lat="53.6514296295" lon="12.2662700643">
+  <name>aldi Bahnhofsplatz 5  18292 Krakow am See </name>
+</wpt>
+<wpt lat="52.582340375" lon="12.9985966412">
+  <name>aldi Hans-Klakow-Str. 4 14656 Brieselang </name>
+</wpt>
+<wpt lat="52.5172376482" lon="13.5896308006">
+  <name>aldi Gülzower Straße 74  12619 Berlin-Marzahn/Hellersdorf </name>
+</wpt>
+<wpt lat="52.6811192638" lon="13.5572462296">
+  <name>aldi Potsdamer Straße 1  16321 Bernau, OT Schönow </name>
+</wpt>
+<wpt lat="54.2003076331" lon="12.8868829113">
+  <name>aldi Gewerbegebiet  18461 Richtenberg </name>
+</wpt>
+<wpt lat="53.6525276456" lon="11.3317490107">
+  <name>aldi Lärchenallee 32 19057 Schwerin Friedrichsthal </name>
+</wpt>
+<wpt lat="52.4651516611" lon="13.4968298041">
+  <name>aldi Köpenicker Landstraße  296 12437 Berlin </name>
+</wpt>
+<wpt lat="53.1640676783" lon="12.4930340072">
+  <name>aldi Röbeler Str. 1 16909 Wittstock </name>
+</wpt>
+<wpt lat="52.546199916" lon="12.9394932253">
+  <name>aldi Am Markt 3 14641 Wustermark </name>
+</wpt>
+<wpt lat="52.5692073013" lon="13.5101487571">
+  <name>aldi Egon-Erwin-Kisch-Str. 80  13059 Berlin-Hohenschönhausen </name>
+</wpt>
+<wpt lat="52.3646497932" lon="14.5265530429">
+  <name>aldi Eisenwerk  19 15234 Frankfurt/Oder </name>
+</wpt>
+<wpt lat="52.4870186413" lon="13.4216555111">
+  <name>aldi Hasenheide   108 10967 Berlin </name>
+</wpt>
+<wpt lat="53.6299326052" lon="14.0243898446">
+  <name>aldi Ukranen Str. 1  17358 Torgelow </name>
+</wpt>
+<wpt lat="54.0971606107" lon="13.0381218258">
+  <name>aldi Vietlipper Damm  18507 Grimmen </name>
+</wpt>
+<wpt lat="53.0666918137" lon="14.2717482523">
+  <name>aldi Landgrabenpark 2 16303 Schwedt </name>
+</wpt>
+<wpt lat="52.4320182725" lon="13.713854094">
+  <name>aldi Fürstenwalder Allee 326 12589 Berlin </name>
+</wpt>
+<wpt lat="52.5731919079" lon="13.3825979737">
+  <name>aldi Str. vor Schönholz 21 13158 Berlin </name>
+</wpt>
+<wpt lat="52.5807775105" lon="13.3467600077">
+  <name>aldi Roedernallee 15-16 13407 Berlin-Reinickendorf </name>
+</wpt>
+<wpt lat="54.5282017962" lon="13.5471738276">
+  <name>aldi Schulstraße 21  18551 Sagard </name>
+</wpt>
+<wpt lat="53.8772297157" lon="13.9254195018">
+  <name>aldi Bäderstr. 3  17406 Usedom </name>
+</wpt>
+<wpt lat="52.6120897444" lon="13.4339222578">
+  <name>aldi Hauptstraße 37 13127 Berlin </name>
+</wpt>
+<wpt lat="52.4740323239" lon="13.4276989522">
+  <name>aldi Hermannstraße 72 12049 Berlin </name>
+</wpt>
+<wpt lat="52.4902276591" lon="13.5757812479">
+  <name>aldi Chemnitzer Str. 177 12621 Berlin </name>
+</wpt>
+<wpt lat="52.5892414496" lon="13.4018074832">
+  <name>aldi Dietzgenstraße 86 13156 Berlin-Pankow </name>
+</wpt>
+<wpt lat="54.0790888617" lon="13.4137414809">
+  <name>aldi E.-Thälmann-Ring 56  17491 Greifswald </name>
+</wpt>
+<wpt lat="52.4653489069" lon="13.4221771176">
+  <name>aldi Silbersteinstraße 146 12051 Berlin </name>
+</wpt>
+<wpt lat="54.3222995575" lon="13.0557665157">
+  <name>aldi Carl-Loewe-Ring 1  18435 Stralsund </name>
+</wpt>
+<wpt lat="54.1242692893" lon="12.0751732162">
+  <name>aldi Handwerksstr. 1 b  18069 Rostock </name>
+</wpt>
+<wpt lat="52.1814792929" lon="14.2438692825">
+  <name>aldi Fürstenwalder Straße 10 f  15484 Beeskow </name>
+</wpt>
+<wpt lat="53.6596214195" lon="11.3596729466">
+  <name>aldi Am Margaretenhof  19057 Schwerin </name>
+</wpt>
+<wpt lat="53.5529985978" lon="13.3088086359">
+  <name>aldi Markscheiderweg 1 a  17036 Neubrandenburg </name>
+</wpt>
+<wpt lat="52.3825102341" lon="13.1249872997">
+  <name>aldi Großbeerenstraße 215/219 14480 Potsdam </name>
+</wpt>
+<wpt lat="52.4709700399" lon="13.1249783065">
+  <name>aldi Ritterfelddamm 200 14089 Berlin Kladow </name>
+</wpt>
+<wpt lat="53.1163896972" lon="13.4994288435">
+  <name>aldi Vietmannsdorfer Str.  17268 Templin </name>
+</wpt>
+<wpt lat="52.3583395375" lon="13.4348035929">
+  <name>aldi Am Lückefeld  88 15831 Mahlow </name>
+</wpt>
+<wpt lat="52.5369016853" lon="13.6347227859">
+  <name>aldi Mahlsdorfer Str.56  15366 Hönow b. Berlin </name>
+</wpt>
+<wpt lat="53.6875585278" lon="13.2505505823">
+  <name>aldi Grüner Gang 10  17087 Altentreptow </name>
+</wpt>
+<wpt lat="52.5574809473" lon="13.4121586749">
+  <name>aldi Esplanade 9 13187 Berlin Pankow </name>
+</wpt>
+<wpt lat="52.4733420961" lon="13.290246638">
+  <name>aldi Warnemünder Straße 8 14199 Berlin </name>
+</wpt>
+<wpt lat="52.396900943" lon="13.2429693012">
+  <name>aldi Potsdamer Straße 2a 14513 Teltow </name>
+</wpt>
+<wpt lat="54.0949877753" lon="13.3658076393">
+  <name>aldi Grimmer Str. 4  17489 Greifswald </name>
+</wpt>
+<wpt lat="52.5426996368" lon="13.7467422852">
+  <name>aldi Fredersdorfer Chaussee 77 15370 Fredersdorf-Vogelsdorf Fredersdorf </name>
+</wpt>
+<wpt lat="52.6668595861" lon="13.2971624211">
+  <name>aldi Schönfließer Str.  25 h 16540 Hohen Neuendorf </name>
+</wpt>
+<wpt lat="52.439052637" lon="13.2710101488">
+  <name>aldi Sundgauer Straße 83-85 14169 Berlin Zehlendorf </name>
+</wpt>
+<wpt lat="53.5211709733" lon="12.6487425501">
+  <name>aldi Warendorfer Str. 8  17192 Waren </name>
+</wpt>
+<wpt lat="52.4397817781" lon="13.2155399922">
+  <name>aldi Breisgauer Straße 1b 14129 Berlin </name>
+</wpt>
+<wpt lat="52.4309380719" lon="13.4569988502">
+  <name>aldi Johannisthaler Chaussee 300 12351 Berlin </name>
+</wpt>
+<wpt lat="52.3051581308" lon="13.0284541185">
+  <name>aldi Luckenwalder Straße 2 14552 Michendorf </name>
+</wpt>
+<wpt lat="52.973947877" lon="13.7549890643">
+  <name>aldi Töpferstraße 47 16247 Joachimsthal </name>
+</wpt>
+<wpt lat="52.0434909531" lon="13.5052114815">
+  <name>aldi Rudolf-Breitscheid-Str.  27 15837 Baruth </name>
+</wpt>
+<wpt lat="52.3863800506" lon="13.4015017139">
+  <name>aldi Zescher Straße 3-5 12307 Berlin </name>
+</wpt>
+<wpt lat="52.5920223356" lon="13.2865863991">
+  <name>aldi Buddestr. 32 13507 Berlin-Tegel </name>
+</wpt>
+<wpt lat="52.5485788527" lon="13.5030531096">
+  <name>aldi Hauptstr. 9 (Storchenhof)  13055 Berlin </name>
+</wpt>
+<wpt lat="52.6051321904" lon="13.3399161703">
+  <name>aldi Wittenauer Straße 88-100 13435 Berlin-Wittenau </name>
+</wpt>
+<wpt lat="52.5070520033" lon="13.3137818844">
+  <name>aldi Leibnizstr.  73 10625 Berlin-Charlottenburg </name>
+</wpt>
+<wpt lat="52.4192186613" lon="13.1570121421">
+  <name>aldi Königstraße 56/57 14109 Berlin Wannsee </name>
+</wpt>
+<wpt lat="53.7332280397" lon="14.0604166681">
+  <name>aldi Belliner Str.  9 17373 Ueckermünde </name>
+</wpt>
+<wpt lat="53.6345506975" lon="11.3879656043">
+  <name>aldi Lessingstr.  33 b 19059 Schwerin </name>
+</wpt>
+<wpt lat="54.1036520696" lon="11.9061816933">
+  <name>aldi Rostocker Str. 10 b 18209 Bad Doberan </name>
+</wpt>
+<wpt lat="52.7054127003" lon="13.2687888245">
+  <name>aldi Berliner Chaussee 7 16556 Borgsdorf </name>
+</wpt>
+<wpt lat="54.2923288103" lon="12.3535312397">
+  <name>aldi Strandstr. 28 18347 Dierhagen </name>
+</wpt>
+<wpt lat="52.4267979715" lon="13.3036105571">
+  <name>aldi Lausanner Straße  83 12205 Berlin </name>
+</wpt>
+<wpt lat="52.5495303913" lon="13.3884615506">
+  <name>aldi Badstr.  4 13357 Berlin-Wedding </name>
+</wpt>
+<wpt lat="53.6025816499" lon="11.444811723">
+  <name>aldi Pilaer Straße            3 19063 Schwerin </name>
+</wpt>
+<wpt lat="52.4858302596" lon="13.4569898569">
+  <name>aldi Kiefholzstraße 49 12435 Berlin </name>
+</wpt>
+<wpt lat="53.1588697998" lon="12.1770393745">
+  <name>aldi Am Ring  16928 Pritzwalk </name>
+</wpt>
+<wpt lat="52.2426514412" lon="13.6334817221">
+  <name>aldi Hauptstr.  45 15741 Bestsensee </name>
+</wpt>
+<wpt lat="52.5570872811" lon="13.2091188359">
+  <name>aldi Streitstraße 5-19 13587 Berlin-Spandau </name>
+</wpt>
+<wpt lat="53.5855390299" lon="13.2758395059">
+  <name>aldi Eschenhof 5 b 17034 Neubrandenburg </name>
+</wpt>
+<wpt lat="53.506791262" lon="13.7395207327">
+  <name>aldi Wallstraße 1  17335 Strasburg </name>
+</wpt>
+<wpt lat="52.5606082816" lon="13.1283507625">
+  <name>aldi Spandauer Str. 112 14612 Falkensee </name>
+</wpt>
+<wpt lat="52.4973403298" lon="13.7439184153">
+  <name>aldi Frankf. Chaussee 48 (Multicenter)  15370 Fredersdorf-Vogelsdorf </name>
+</wpt>
+<wpt lat="54.2537419037" lon="12.4898234291">
+  <name>aldi An der Mühle 7  18311 Ribnitz/Dam. </name>
+</wpt>
+<wpt lat="52.479071755" lon="13.3349878879">
+  <name>aldi Wexstr.  16-18 10715 Berlin-Wilmersdorf </name>
+</wpt>
+<wpt lat="53.5032503986" lon="11.0854877754">
+  <name>aldi Hagenower Chaussee 29  19243 Wittenburg </name>
+</wpt>
+<wpt lat="52.4863286171" lon="13.3572281112">
+  <name>aldi Kaiser-Wilhelm-Platz  2 10827 Berlin-Schöneberg </name>
+</wpt>
+<wpt lat="52.5040686566" lon="13.409082995">
+  <name>aldi Oranienstraße 140-142 10969 Berlin </name>
+</wpt>
+<wpt lat="53.5664706928" lon="11.3625777554">
+  <name>aldi Ahornstr. 46 19075 Schwerin-Pampow </name>
+</wpt>
+<wpt lat="52.4081873952" lon="13.2675927267">
+  <name>aldi Teltower Damm  281 14167 Berlin </name>
+</wpt>
+<wpt lat="52.5412994469" lon="13.2478885904">
+  <name>aldi Paulsternstr.  20 13599 Berlin-Spandau </name>
+</wpt>
+<wpt lat="52.5270598245" lon="13.237969073">
+  <name>aldi Charlottenburger Ch. 30 13597 Berlin-Spandau </name>
+</wpt>
+<wpt lat="52.5390076336" lon="13.3272717085">
+  <name>aldi Saatwinkler Damm  8 13627 Berlin-Charlottenburg </name>
+</wpt>
+<wpt lat="52.3328696819" lon="13.3943161342">
+  <name>aldi Blankenfelder Dorfstraße 65 15827 Blankenfelde </name>
+</wpt>
+<wpt lat="53.9404306674" lon="12.1044191549">
+  <name>aldi Mühlenteichplatz  18258 Schwaan </name>
+</wpt>
+<wpt lat="52.5112119285" lon="13.4458472623">
+  <name>aldi Rüdersdorfer Straße 65  10243 Berlin </name>
+</wpt>
+<wpt lat="52.492149672" lon="13.4301091341">
+  <name>aldi Liberdastraße 5 12047 Berlin </name>
+</wpt>
+<wpt lat="52.3716180362" lon="13.1344571562">
+  <name>aldi Zum Sterncenter 4  14480 Potsdam </name>
+</wpt>
+<wpt lat="52.5401125323" lon="13.608129846">
+  <name>aldi Tangermünder Straße 125  12627 Berlin-Marzahn/Hellersdorf </name>
+</wpt>
+<wpt lat="52.5281595527" lon="14.366473797">
+  <name>aldi Diedersdorfer Str.  12 b  15306 Seelow </name>
+</wpt>
+<wpt lat="52.8358487476" lon="13.8101984177">
+  <name>aldi Bergerstraße 113 16225 Eberswalde </name>
+</wpt>
+<wpt lat="54.2723414379" lon="13.1136288678">
+  <name>aldi Gustower Weg 3  18439 Stralsund </name>
+</wpt>
+<wpt lat="52.4688005649" lon="13.796393831">
+  <name>aldi Bergstr. 1  15562 Rüdersdorf </name>
+</wpt>
+<wpt lat="52.4530083862" lon="13.4552811459">
+  <name>aldi Späthstr.  14-15 12359 Berlin </name>
+</wpt>
+<wpt lat="53.2734811242" lon="11.562317084">
+  <name>aldi Fliederweg 5  19300 Grabow </name>
+</wpt>
+<wpt lat="54.0364102228" lon="11.6797504993">
+  <name>aldi Kröpeliner Tor 26 a  18233 Neubukow </name>
+</wpt>
+<wpt lat="52.3917094128" lon="13.2915956204">
+  <name>aldi Mahlower Straße 179 14513 Teltow </name>
+</wpt>
+<wpt lat="52.5049281002" lon="13.5907999187">
+  <name>aldi Alt Kaulsdorf  64 12621 Berlin-Marzahn/Hellersdorf </name>
+</wpt>
+<wpt lat="52.5524122242" lon="13.347938119">
+  <name>aldi Müllerstr.  128 13349 Berlin-Wedding </name>
+</wpt>
+<wpt lat="52.6328793603" lon="13.7412024641">
+  <name>aldi Freienwalder Str.  45 b 16356 Werneuchen </name>
+</wpt>
+<wpt lat="52.7373001255" lon="12.5776331907">
+  <name>aldi Klessener Str. 36  14662 Friesack </name>
+</wpt>
+<wpt lat="52.5922627182" lon="13.9097533194">
+  <name>aldi Akazienstr. 1  15344 Strausberg </name>
+</wpt>
+<wpt lat="53.385790713" lon="12.6007277695">
+  <name>aldi Warener Chaussee 5  17207 Röbel </name>
+</wpt>
+<wpt lat="52.509870943" lon="13.5637033587">
+  <name>aldi Dingolfinger Str. 1 12683 Berlin Biesdorf </name>
+</wpt>
+<wpt lat="52.5888316774" lon="13.3356713723">
+  <name>aldi Oranienburger Str. 57-58 13437 Berlin-Wittenau </name>
+</wpt>
+<wpt lat="52.5485679153" lon="13.8644185173">
+  <name>aldi Am Annatal 59  15344 Strausberg </name>
+</wpt>
+<wpt lat="54.0487089122" lon="13.7580467577">
+  <name>aldi Robert-Koch-Str. 1  17438 Wolgast </name>
+</wpt>
+<wpt lat="53.3706621959" lon="11.5945577636">
+  <name>aldi Laascher Str. 30b  19306 Neustadt/Gl. </name>
+</wpt>
+<wpt lat="54.0342923053" lon="12.4387509551">
+  <name>aldi August-Bebel-Str. 9a  18195 Tessin </name>
+</wpt>
+<wpt lat="52.4202607566" lon="12.5447360063">
+  <name>aldi Willi-Sänger-Str. 66  14770 Brandenburg </name>
+</wpt>
+<wpt lat="53.0160979413" lon="14.0148210627">
+  <name>aldi Schwedter Str. 21 16278 Angermünde </name>
+</wpt>
+<wpt lat="53.1000695006" lon="12.898942814">
+  <name>aldi Paulshorster Str. 18  16831 Rheinsberg </name>
+</wpt>
+<wpt lat="52.4148525627" lon="13.3470927567">
+  <name>aldi Hildburghauser Straße 55/59 12279 Berlin </name>
+</wpt>
+<wpt lat="52.4715397833" lon="13.3851340606">
+  <name>aldi Hoeppnerstraße 3-13 12101 Berlin Tempelhof </name>
+</wpt>
+<wpt lat="52.5085572849" lon="13.2716486672">
+  <name>aldi Theodor-Heuss-Platz  7 14052 Berlin-Charlottenburg </name>
+</wpt>
+<wpt lat="52.6657087935" lon="13.3796392056">
+  <name>aldi Hauptstr. 34 16567 Mühlenbeck </name>
+</wpt>
+<wpt lat="53.6730701969" lon="13.5606456652">
+  <name>aldi Ankl./Pasew. Str.  17098 Friedland </name>
+</wpt>
+<wpt lat="52.4417005129" lon="13.5852061383">
+  <name>aldi Müggelheimer Str. 36 12555 Berlin </name>
+</wpt>
+<wpt lat="52.4684992404" lon="13.3742972353">
+  <name>aldi Schöneberger Straße 28 12103 Berlin </name>
+</wpt>
+<wpt lat="52.9525783784" lon="12.3985872522">
+  <name>aldi Pritzwalker Str.  46 b 16866 Kyritz </name>
+</wpt>
+<wpt lat="53.7747878028" lon="12.5692065472">
+  <name>aldi Poggestr. 2 A 17166 Teterow </name>
+</wpt>
+<wpt lat="52.7435724595" lon="13.4535094823">
+  <name>aldi Berliner Weg 7a 16348 Wandlitz </name>
+</wpt>
+<wpt lat="54.3276386916" lon="13.0806867174">
+  <name>aldi Große Parower Straße 54 18435 Stralsund </name>
+</wpt>
+<wpt lat="52.4014224547" lon="13.4119338445">
+  <name>aldi Töpchiner Weg 193 12309 Berlin </name>
+</wpt>
+<wpt lat="52.3517811889" lon="13.1025941917">
+  <name>aldi Arthur-Scheunert-Allee  69 14558 Nuthetal </name>
+</wpt>
+<wpt lat="53.427607561" lon="11.2005110088">
+  <name>aldi R.-Tarnow-Str.  62 19230 Hagenow </name>
+</wpt>
+<wpt lat="53.4794515485" lon="12.4229858473">
+  <name>aldi Friedr.-Ebert-Str. 6  17213 Malchow </name>
+</wpt>
+<wpt lat="52.6852899531" lon="13.4411258238">
+  <name>aldi Hauptstr.  64 16348 Wandlitz, OT Schönwalde </name>
+</wpt>
+<wpt lat="53.2734273451" lon="12.8247577748">
+  <name>aldi Wesenberger Chaussee 4 17252 Mirow </name>
+</wpt>
+<wpt lat="52.5444826264" lon="13.5651512665">
+  <name>aldi Landsberger Allee 494 12685 Berlin-Marzahn/Hellersdorf </name>
+</wpt>
+<wpt lat="52.5228521527" lon="13.4837536679">
+  <name>aldi Josef - Orlopp - Straße 22-24 10367 Berlin </name>
+</wpt>
+<wpt lat="51.9978502491" lon="13.0848505764">
+  <name>aldi Promenade  14913 Jüterbog </name>
+</wpt>
+<wpt lat="52.2963809301" lon="13.6823238785">
+  <name>aldi Iris-Hahs-Hoffstetter-Str. 1 15712 Königs Wusterhausen </name>
+</wpt>
+<wpt lat="54.070667461" lon="13.9093756044">
+  <name>aldi Möskenweg 24 b  17454 Zinnowitz </name>
+</wpt>
+<wpt lat="52.4323198466" lon="13.5473357055">
+  <name>aldi Otto-Franke-Str. 98  12489 Berlin </name>
+</wpt>
+<wpt lat="54.0891015619" lon="12.0971526363">
+  <name>aldi Hans-Sachs-Allee  18057 Rostock </name>
+</wpt>
+<wpt lat="52.5778920757" lon="13.2989700576">
+  <name>aldi Holzhauser Str.  26 - 32 13509 Berlin-Reinickendorf </name>
+</wpt>
+<wpt lat="52.5459920947" lon="13.1776605662">
+  <name>aldi Salchendorfer Weg  1 13583 Berlin-Spandau </name>
+</wpt>
+<wpt lat="52.5263211857" lon="13.4273392236">
+  <name>aldi Weinstrasse  9 10249 Berlin </name>
+</wpt>
+<wpt lat="52.4966011913" lon="13.486586531">
+  <name>aldi Hauptstraße 36 10317 Berlin </name>
+</wpt>
+<wpt lat="54.1447287612" lon="11.7691790398">
+  <name>aldi Gewerbegebiet Fulgengrund 4  18225 Kühlungsborn </name>
+</wpt>
+<wpt lat="54.3582178356" lon="12.7149595999">
+  <name>aldi Blaue Wiese 20  18356 Barth </name>
+</wpt>
+<wpt lat="53.8094886591" lon="12.1913655677">
+  <name>aldi Ebereschenweg 1 e  18273 Güstrow </name>
+</wpt>
+<wpt lat="52.9700810244" lon="13.3248255537">
+  <name>aldi Falkenthaler Chaussee 57  16792 Zehdenick </name>
+</wpt>
+<wpt lat="52.3970326441" lon="13.5414001829">
+  <name>aldi Alexander-Meißner-Str.  1 12526 Berlin </name>
+</wpt>
+<wpt lat="53.9048422295" lon="13.0392369846">
+  <name>aldi Wollweberstr. 5a 17109 Demmin </name>
+</wpt>
+<wpt lat="52.4872376943" lon="13.6050361797">
+  <name>aldi Hultschiner Damm  140/142 12623 Berlin </name>
+</wpt>
+<wpt lat="52.9146398029" lon="12.8065914783">
+  <name>aldi Trenkmannstr. 16 16816 Neuruppin </name>
+</wpt>
+<wpt lat="54.3911096884" lon="12.5390882667">
+  <name>aldi Bäderstraße  18375 Born-Darß </name>
+</wpt>
+<wpt lat="53.1711894751" lon="13.140527577">
+  <name>aldi H.-G.-Bock-Str. 6 16798 Fürstenberg </name>
+</wpt>
+<wpt lat="52.5824223419" lon="12.3360304413">
+  <name>aldi Milower Landstr.  14712 Rathenow </name>
+</wpt>
+<wpt lat="52.4686307277" lon="13.4419082336">
+  <name>aldi Karl-Marx-Straße 231 12055 Berlin </name>
+</wpt>
+<wpt lat="54.122519517" lon="12.0599836743">
+  <name>aldi Bertolt-Brecht-Str. 23 18106 Rostock Evershagen </name>
+</wpt>
+<wpt lat="52.539488979" lon="13.1972298043">
+  <name>aldi Galenstraße  35 13597 Berlin-Spandau </name>
+</wpt>
+<wpt lat="54.1696321493" lon="12.0827275177">
+  <name>aldi Lortzing  Str. 19 a  18119 Rostock </name>
+</wpt>
+<wpt lat="52.5411408289" lon="13.4375285374">
+  <name>aldi Greifswalder Str. 168  10409 Berlin-Prenzlauer Berg </name>
+</wpt>
+<wpt lat="53.464168945" lon="12.2651908784">
+  <name>aldi Quetziner Str. 19 b 19395 Plau </name>
+</wpt>
+<wpt lat="52.5237495313" lon="13.2802102089">
+  <name>aldi Fürstenbrunner Weg 50 14059 Berlin-Charlottenburg </name>
+</wpt>
+<wpt lat="53.3811776213" lon="10.7711928605">
+  <name>aldi Berliner Str. 30  19258 Boizenburg </name>
+</wpt>
+<wpt lat="52.4581981829" lon="13.5802958423">
+  <name>aldi Elcknerplatz 8 12555 Berlin </name>
+</wpt>
+<wpt lat="53.508882479" lon="13.9951978652">
+  <name>aldi Lindenstr.  17309 Pasewalk </name>
+</wpt>
+<wpt lat="53.3771488034" lon="13.0510810501">
+  <name>aldi Penzliner Str. 47 17235 Neustrelitz </name>
+</wpt>
+<wpt lat="52.4581379036" lon="13.3391517469">
+  <name>aldi Bismarckstraße 16 F 12169 Berlin </name>
+</wpt>
+<wpt lat="51.9408710828" lon="13.8767212369">
+  <name>aldi Parkstraße 2 15907 Lübben </name>
+</wpt>
+<wpt lat="52.7231187105" lon="14.1329019895">
+  <name>aldi Heinrich-Lehmpuhl-Str. 25 16269 Wriezen </name>
+</wpt>
+<wpt lat="52.5242912327" lon="13.3639910097">
+  <name>aldi Invalidenstr.  59 10557 Berlin-Tiergarten </name>
+</wpt>
+<wpt lat="54.0829718394" lon="12.1940905122">
+  <name>aldi Timmermansstrat 11  18055 Rostock </name>
+</wpt>
+<wpt lat="52.4090816284" lon="13.4403973733">
+  <name>aldi Karl-Marx-Str. 36  12529 Schönefeld </name>
+</wpt>
+<wpt lat="52.2226906211" lon="13.2189664075">
+  <name>aldi Am Mühlengraben 2  14959 Trebbin </name>
+</wpt>
+<wpt lat="52.5499788103" lon="13.4344528575">
+  <name>aldi Ostseestrasse 25 10409 Berlin </name>
+</wpt>
+<wpt lat="52.5045887041" lon="14.1236839431">
+  <name>aldi Karl-Marx-Str. 42  15374 Müncheberg </name>
+</wpt>
+<wpt lat="52.4949421907" lon="13.5203200844">
+  <name>aldi Sewanstraße 259 10319 Berlin </name>
+</wpt>
+<wpt lat="54.1140911152" lon="12.1911407373">
+  <name>aldi Hansestr. 33  18182 Bentwisch </name>
+</wpt>
+<wpt lat="52.3661489643" lon="14.0695807553">
+  <name>aldi Ehrenfried-Jopp-Str. 60 15517 Fürstenwalde </name>
+</wpt>
+<wpt lat="53.1390322773" lon="11.2623033963">
+  <name>aldi Werderstr. 25 c  19303 Dömitz </name>
+</wpt>
+<wpt lat="52.5423605324" lon="13.3780563996">
+  <name>aldi Gerichtstr.  2-3 13347 Berlin-Wedding </name>
+</wpt>
+<wpt lat="54.2488818461" lon="12.2454597623">
+  <name>aldi Bahnhofstraße 12  18181 Graal-Müritz </name>
+</wpt>
+<wpt lat="52.5497710069" lon="13.4483833492">
+  <name>aldi Börnestraße 25 13086 Berlin </name>
+</wpt>
+<wpt lat="52.6104023387" lon="13.3190698955">
+  <name>aldi Oraniendamm 46 13469 Berlin Waidmannslust </name>
+</wpt>
+<wpt lat="52.9446725091" lon="12.8509190403">
+  <name>aldi Wulkower Chaussee  16827 Altruppin </name>
+</wpt>
+<wpt lat="52.5270324677" lon="13.4587255476">
+  <name>aldi Storkower Str. 176 10369 Berlin </name>
+</wpt>
+<wpt lat="52.3104698019" lon="13.2433739959">
+  <name>aldi Brandenburgische Straße 1 14974 Ludwigsfelde </name>
+</wpt>
+<wpt lat="52.4393706098" lon="13.4346956743">
+  <name>aldi Buckower Damm  50 12349 Berlin </name>
+</wpt>
+<wpt lat="52.454707331" lon="13.3268490274">
+  <name>aldi Albrechtstraße 16-18  12167 Berlin </name>
+</wpt>
+<wpt lat="53.3329301654" lon="13.4301001409">
+  <name>aldi Alter Landweg 7 17258 Feldberg </name>
+</wpt>
+<wpt lat="52.5640797989" lon="13.3667339406">
+  <name>aldi Pankower Allee  17-19 13409 Berlin-Reinickendorf </name>
+</wpt>
+<wpt lat="52.4997602372" lon="13.49586753">
+  <name>aldi Rummelsburger Str. 98 10319 Berlin </name>
+</wpt>
+<wpt lat="52.3245981634" lon="13.6374837033">
+  <name>aldi Friedrich-Engels-Straße 79 15745 Wildau </name>
+</wpt>
+<wpt lat="52.155891087" lon="13.6436710359">
+  <name>aldi Teupitzer Str. 1 15755 Schwerin </name>
+</wpt>
+<wpt lat="51.8558607953" lon="13.7041863868">
+  <name>aldi Berliner Str. 19 15926 Luckau </name>
+</wpt>
+<wpt lat="52.4200194314" lon="13.3140786606">
+  <name>aldi Hildburghauser Straße 248 12207 Berlin </name>
+</wpt>
+<wpt lat="52.4802110246" lon="13.43605365">
+  <name>aldi Karl-Marx-Straße 92-98 12043 Berlin </name>
+</wpt>
+<wpt lat="52.8889491109" lon="12.4575467766">
+  <name>aldi Bahnhofstr. 17 16868 Wusterhausen </name>
+</wpt>
+<wpt lat="52.5993807247" lon="13.3545301464">
+  <name>aldi Senftenberger Ring  15 13439 Berlin-Reinickendorf </name>
+</wpt>
+<wpt lat="53.5228016849" lon="13.2580958906">
+  <name>aldi Platanenstr. 14  17033 Neubrandenburg </name>
+</wpt>
+<wpt lat="52.5375909159" lon="13.3567694572">
+  <name>aldi Friedrich-Krause-Ufer 37 - 38 13353 Berlin-Tiergarten </name>
+</wpt>
+<wpt lat="52.7519123943" lon="13.2008990364">
+  <name>aldi Germendorfer Allee  20 16515 Oranienburg </name>
+</wpt>
+<wpt lat="52.4690799729" lon="13.5138989282">
+  <name>aldi Rummelsburger Str. 16 12459 Berlin </name>
+</wpt>
+<wpt lat="52.3687023803" lon="13.5619856544">
+  <name>aldi Am Pechpfuhl  8 12529 Schönefeld </name>
+</wpt>
+<wpt lat="54.411238293" lon="13.4159358256">
+  <name>aldi Ruschwitzstr. 56  18528 Bergen </name>
+</wpt>
+<wpt lat="52.493540478" lon="13.3326676381">
+  <name>aldi Prager Platz  1 - 3 10779 Berlin-Wilmersdorf </name>
+</wpt>
+<wpt lat="52.392291158" lon="12.9269476889">
+  <name>aldi Adolf-Damaschke-Straße  60 14542 Werder </name>
+</wpt>
+<wpt lat="52.5285480073" lon="13.3171993065">
+  <name>aldi Huttenstraße 41 - 44 10553 Berlin-Tiergarten </name>
+</wpt>
+<wpt lat="52.7551020517" lon="13.6728720084">
+  <name>aldi Bahnhofstr. 77  16359 Biesenthal </name>
+</wpt>
+<wpt lat="52.4089005888" lon="13.0777009697">
+  <name>aldi Berliner Straße 47-48 14467 Potsdam Berliner Vorstadt </name>
+</wpt>
+<wpt lat="52.4194215976" lon="13.4221501379">
+  <name>aldi Marienfelder Chaussee  29 12349 Berlin </name>
+</wpt>
+<wpt lat="51.5848124784" lon="14.0361080051">
+  <name>aldi Birkenweg  15806 Groß Machnow </name>
+</wpt>
+<wpt lat="52.5457186442" lon="13.4643373145">
+  <name>aldi Chopinstraße 28  13088 Berlin-Pankow, OT Weißensee </name>
+</wpt>
+<wpt lat="52.3851395506" lon="13.1064972475">
+  <name>aldi Weidendamm 2  14482 Potsdam </name>
+</wpt>
+<wpt lat="52.4640174807" lon="13.327541505">
+  <name>aldi Schloßstraße/Gutsmuthsstraße 4-5 12163 Berlin </name>
+</wpt>
+<wpt lat="52.5333186061" lon="13.1669406526">
+  <name>aldi Brunsbütteler Damm 201-203 13581 Berlin Staaken </name>
+</wpt>
+<wpt lat="52.7789300001" lon="13.240046506">
+  <name>aldi Granseer Str. 12 16515 Oranienburg </name>
+</wpt>
+<wpt lat="53.5696217532" lon="11.6597765665">
+  <name>aldi Parchimer Str. 64  19089 Crivitz </name>
+</wpt>
+<wpt lat="52.5750611048" lon="13.5187642581">
+  <name>aldi Dorfstr. 22  13059 Berlin </name>
+</wpt>
+<wpt lat="53.977797615" lon="13.1455457916">
+  <name>aldi Goethestr. 66 a  17121 Loitz </name>
+</wpt>
+<wpt lat="52.9170204111" lon="12.7849987666">
+  <name>aldi Neustädter Straße 26  16816 Neuruppin </name>
+</wpt>
+<wpt lat="53.3490008251" lon="13.07742218">
+  <name>aldi Kühlhausberg 15  17235 Neustrelitz </name>
+</wpt>
+<wpt lat="53.063497997" lon="11.8384178103">
+  <name>aldi Schwarzer Weg 9 19348 Perleberg </name>
+</wpt>
+<wpt lat="53.1621913384" lon="11.7456797663">
+  <name>aldi Postliner Str. 19 19357 Karstädt </name>
+</wpt>
+<wpt lat="52.560990982" lon="13.4221681244">
+  <name>aldi Neumannstr. 13  13189 Berlin-Pankow </name>
+</wpt>
+<wpt lat="53.7008706133" lon="11.1123235321">
+  <name>aldi Johann-Stelling-Str. 22 d  19205 Gadebusch </name>
+</wpt>
+<wpt lat="53.7119111249" lon="11.822463845">
+  <name>aldi Goethestr. 14  19406 Sternberg </name>
+</wpt>
+<wpt lat="52.2955394153" lon="13.6240568317">
+  <name>aldi Luckenwalder Straße 6 15711 Königs Wusterhausen </name>
+</wpt>
+<wpt lat="52.5710001458" lon="13.3281080776">
+  <name>aldi Ollenhauerstr. 106 13403 Berlin </name>
+</wpt>
+<wpt lat="52.4344088762" lon="13.3670397099">
+  <name>aldi Haynauer Straße 76-80 12249 Berlin </name>
+</wpt>
+<wpt lat="52.5099092575" lon="13.3795222938">
+  <name>aldi ( Mall of Berlin ) - Leipziger Platz 12 10117 Berlin-Mitte </name>
+</wpt>
+<wpt lat="52.4494897178" lon="13.2531226421">
+  <name>aldi Wilskistraße  47b 14169 Berlin </name>
+</wpt>
+<wpt lat="53.9803097661" lon="11.875577779">
+  <name>aldi Fleckebyer Str.  18239 Satow </name>
+</wpt>
+<wpt lat="52.5642110005" lon="13.4499481688">
+  <name>aldi Rennbahnstraße  65 13086 Berlin-Pankow, OT Weißensee </name>
+</wpt>
+<wpt lat="52.4293698147" lon="13.3306261781">
+  <name>aldi Lankwitzer Straße 20-24 12209 Berlin </name>
+</wpt>
+<wpt lat="52.5493499286" lon="13.5635594673">
+  <name>aldi Jan-Petersen-Str. 16 12679 Berlin </name>
+</wpt>
+<wpt lat="54.374161548" lon="13.6957327637">
+  <name>aldi Mönchguter Tor 1 18586 Sellin </name>
+</wpt>
+<wpt lat="53.3269309766" lon="11.5020085771">
+  <name>aldi Neue Tor Str. 13a 19288 Ludwigslust </name>
+</wpt>
+<wpt lat="52.6267384977" lon="13.3018658731">
+  <name>aldi Am Pfingstberg 25 13465 Berlin-Reinickendorf </name>
+</wpt>
+<wpt lat="52.5669005461" lon="13.5782094162">
+  <name>aldi Havemannstraße 33 12689 Berlin-Marzahn </name>
+</wpt>
+<wpt lat="52.4295781878" lon="13.3794683345">
+  <name>aldi Wilhelm-von-Siemens-Straße  13 12277 Berlin </name>
+</wpt>
+<wpt lat="52.3834324339" lon="13.020773912">
+  <name>aldi Zeppelinstraße 119 14471 Potsdam </name>
+</wpt>
+<wpt lat="53.6006498224" lon="11.3875609096">
+  <name>aldi Grabenstr. 9 19061 Schwerin </name>
+</wpt>
+<wpt lat="52.4462283957" lon="13.6218894666">
+  <name>aldi Müggelseedamm  150 12587 Berlin </name>
+</wpt>
+<wpt lat="53.6877076465" lon="12.9149417454">
+  <name>aldi Werdohler Straße 3 17153 Stavenhagen </name>
+</wpt>
+<wpt lat="53.5194920768" lon="12.7160567723">
+  <name>aldi Fr.-W.-Raiffeisen-Str. 1 b  17192 Waren-Ost </name>
+</wpt>
+<wpt lat="54.0920711449" lon="13.4261970852">
+  <name>aldi Fridtjof-Nansen-Str. 27  17493 Greifswald </name>
+</wpt>
+<wpt lat="52.4769410225" lon="13.5372992764">
+  <name>aldi Verlängerte Waldowallee  44 10318 Berlin </name>
+</wpt>
+<wpt lat="54.4272712853" lon="13.4221141651">
+  <name>aldi Nonnenseestr.   1 18528 Bergen </name>
+</wpt>
+<wpt lat="52.4795920982" lon="13.3110839196">
+  <name>aldi Mecklenburgische Straße 23a-24 14197 Berlin </name>
+</wpt>
+<wpt lat="52.5381926163" lon="13.701992042">
+  <name>aldi Altlandsberger Chaussee/Planstraße 1  15366 Neuenhagen </name>
+</wpt>
+<wpt lat="52.423057838" lon="13.4759205768">
+  <name>aldi Joachim-Gottschalk-Weg 5 12353 Berlin </name>
+</wpt>
+<wpt lat="52.3436725385" lon="14.5273804187">
+  <name>aldi August-Bebel-Str. 1a 15234 Frankfurt/Oder </name>
+</wpt>
+<wpt lat="52.3536707962" lon="14.5472104602">
+  <name>aldi Bergstraße 2 15230 Frankfurt/Oder </name>
+</wpt>
+<wpt lat="54.0897609016" lon="13.3919689048">
+  <name>aldi P.-Warschow-Str. 19 17489 Greifswald </name>
+</wpt>
+<wpt lat="53.0018775029" lon="13.1606543946">
+  <name>aldi Berliner Straße 21  16775 Gransee </name>
+</wpt>
+<wpt lat="52.3429912562" lon="14.5508886855">
+  <name>aldi Karl-Marx-Str. 193 15230 Frankfurt/Oder </name>
+</wpt>
+<wpt lat="52.423929833" lon="13.5265973492">
+  <name>aldi Wegedornstr. 29 12524 Berlin </name>
+</wpt>
+<wpt lat="52.5060721742" lon="13.4601284894">
+  <name>aldi Revaler Str.  33 10245 Berlin </name>
+</wpt>
+<wpt lat="52.5043095215" lon="13.5162731372">
+  <name>aldi Alfred-Kowalke-Straße 2 10315 Berlin </name>
+</wpt>
+<wpt lat="53.5687512295" lon="13.2630691391">
+  <name>aldi Traberallee 11 17034 Neubrandenburg </name>
+</wpt>
+<wpt lat="52.4027502864" lon="12.5687928593">
+  <name>aldi Geschwister-Scholl-Straße 30 14776 Brandenburg Neustadt </name>
+</wpt>
+<wpt lat="52.4186701802" lon="13.3921757488">
+  <name>aldi Richard-Tauber-Damm  6 12277 Berlin </name>
+</wpt>
+<wpt lat="52.4230797752" lon="13.576203929">
+  <name>aldi Regattastraße  51-53 12527 Berlin </name>
+</wpt>
+<wpt lat="53.4638209407" lon="12.0462870063">
+  <name>aldi Am Fuchsberg 1 a  19386 Lübz </name>
+</wpt>
+<wpt lat="52.4302416848" lon="13.4970366481">
+  <name>aldi Kanalstraße 8 12357 Berlin Rudow </name>
+</wpt>
+<wpt lat="52.4695072995" lon="13.3414360238">
+  <name>aldi Dürerplatz  1 12157 Berlin </name>
+</wpt>
+<wpt lat="54.5105219522" lon="13.6129232302">
+  <name>aldi Mukraner Str. 1 b  18546 Saßnitz </name>
+</wpt>
+<wpt lat="52.5834988261" lon="13.3198702917">
+  <name>aldi Eichborndamm  165 13403 Berlin-Reinickendorf </name>
+</wpt>
+<wpt lat="52.5640907324" lon="13.5053014136">
+  <name>aldi Prerower Platz 1 (Linden-Center)  13051 Berlin-Hohenschönhausen </name>
+</wpt>
+<wpt lat="52.4349023333" lon="13.4664057542">
+  <name>aldi Rudower Str.  116 12351 Berlin </name>
+</wpt>
+<wpt lat="52.1582304347" lon="12.7844501804">
+  <name>aldi Im Grund 1a 14822 Linthe </name>
+</wpt>
+<wpt lat="53.5970474219" lon="11.4396676034">
+  <name>aldi Am Grünen Tal 25  19063 Schwerin </name>
+</wpt>
+<wpt lat="52.4251308544" lon="13.0528886865">
+  <name>aldi Georg-Hermann-Allee 145  14469 Potsdam </name>
+</wpt>
+<wpt lat="52.6272297985" lon="13.2244522693">
+  <name>aldi Hennigsdorfer Straße 167 13503 Berlin Heiligensee </name>
+</wpt>
+<wpt lat="52.2510483858" lon="13.9290977272">
+  <name>aldi Goethestraße 1 15859 Storkow </name>
+</wpt>
+<wpt lat="52.5975890407" lon="13.376824329">
+  <name>aldi Hauptstr. 119  13158 Berlin-Pankow, OT Rosenthal </name>
+</wpt>
+<wpt lat="52.3958912217" lon="13.7201223656">
+  <name>aldi Am Müggelpark  41-45 15537 Gosen </name>
+</wpt>
+<wpt lat="52.0918313115" lon="13.1728581888">
+  <name>aldi Beelitzer Str.  15-19 14943 Luckenwalde </name>
+</wpt>
+<wpt lat="52.5069808433" lon="13.4162595814">
+  <name>aldi Heinrich-Heine-Platz  8-12 10179 Berlin </name>
+</wpt>
+<wpt lat="53.3199317521" lon="13.8469716781">
+  <name>aldi Neubrandenburger Str. 21  17291 Prenzlau </name>
+</wpt>
+<wpt lat="52.1477520682" lon="14.6375563087">
+  <name>aldi Karl-Marx-Str. 34  15890 Eisenhüttenstadt </name>
+</wpt>
+<wpt lat="53.644009276" lon="11.424541014">
+  <name>aldi Güstrower Str. 34  19055 Schwerin </name>
+</wpt>
+<wpt lat="52.6414314633" lon="13.515059053">
+  <name>aldi Zepernicker Straße  10 13125 Berlin </name>
+</wpt>
+<wpt lat="52.51434256" lon="13.4765321154">
+  <name>aldi Frankfurter Allee 117(Ring-Center II)  10365 Berlin </name>
+</wpt>
+<wpt lat="52.4281689088" lon="13.2152612025">
+  <name>aldi Potsdamer Chaussee 33 14129 Berlin </name>
+</wpt>
+<wpt lat="52.4423418999" lon="13.5061018098">
+  <name>aldi Winkelmannstr.  38-42 12487 Berlin </name>
+</wpt>
+<wpt lat="54.0120502995" lon="14.0501374221">
+  <name>aldi Bäderstraße  2 a 17459 Ückeritz </name>
+</wpt>
+<wpt lat="52.5177301773" lon="13.1783980099">
+  <name>aldi Heerstrasse  332 13593 Berlin-Spandau </name>
+</wpt>
+<wpt lat="54.2380983549" lon="12.4368623797">
+  <name>aldi Rostocker Landweg  18311 Ribnitz/Dam. </name>
+</wpt>
+<wpt lat="52.1959685183" lon="13.4592471542">
+  <name>aldi Straße der Jugend  173 15806 Zossen </name>
+</wpt>
+<wpt lat="53.4208017217" lon="11.8211778151">
+  <name>aldi J.-Gagarin-Ring 8  19370 Parchim </name>
+</wpt>
+<wpt lat="52.8986717047" lon="13.1579384433">
+  <name>aldi Eberswalder Str.  6 16775 Löwenberg </name>
+</wpt>
+<wpt lat="54.106610066" lon="12.0351803844">
+  <name>aldi Ostsee-Park-Str. 1 a  18069 Rostock </name>
+</wpt>
+<wpt lat="52.3170892534" lon="13.6026259978">
+  <name>aldi Gewerbeparkstraße 4 15745 Wildau </name>
+</wpt>
+<wpt lat="52.3371724583" lon="14.0776116972">
+  <name>aldi ALte Langewahler Chaussee 4 15517 Fürstenwalde </name>
+</wpt>
+<wpt lat="52.6723895126" lon="13.5698277388">
+  <name>aldi Krokusstr. 3  16321 Bernau </name>
+</wpt>
+<wpt lat="53.8586485809" lon="13.6927380227">
+  <name>aldi Silostrasse 3a  17389 Anklam </name>
+</wpt>
+<wpt lat="53.0030573065" lon="11.719653399">
+  <name>aldi Lenzener Chaussee  19322 Wittenberge </name>
+</wpt>
+<wpt lat="54.1201002825" lon="13.3604027165">
+  <name>aldi Marktflecken 18  17498 Neuenkirchen </name>
+</wpt>
+<wpt lat="53.5503004581" lon="13.2733663715">
+  <name>aldi Dr.- W.-Külz-Str. 40  17033 Neubrandenburg </name>
+</wpt>
+<wpt lat="52.4696606978" lon="13.4632221557">
+  <name>aldi Grenzallee 4 L 12057 Berlin </name>
+</wpt>
+<wpt lat="52.5250408489" lon="13.5351588909">
+  <name>aldi Marzahner Chaussee 200 12681 Berlin </name>
+</wpt>
+<wpt lat="52.5001215694" lon="13.2885199405">
+  <name>aldi Heilbronner Str. 26 A 10711 Berlin-Wilmersdorf </name>
+</wpt>
+<wpt lat="52.5972776735" lon="13.4658661612">
+  <name>aldi Treseburger Straße 26  13129 Berlin-Pankow </name>
+</wpt>
+<wpt lat="52.5235689627" lon="13.3089705138">
+  <name>aldi Treseburger Str.  2 10589 Berlin - Charlottenburg </name>
+</wpt>
+<wpt lat="52.4157302051" lon="13.0235708022">
+  <name>aldi Potsdamer Straße  177 14469 Potsdam </name>
+</wpt>
+<wpt lat="52.5718418829" lon="13.417698496">
+  <name>aldi Damerowstr.8 ( FORUM Pankow ) 13187 Berlin-Pankow </name>
+</wpt>
+<wpt lat="52.4907807256" lon="13.3750976315">
+  <name>aldi Kreuzbergstraße 39 10965 Berlin </name>
+</wpt>
+<wpt lat="52.5346479353" lon="13.4963621569">
+  <name>aldi Landsberger Allee 277(Allee-Center)  13055 Berlin </name>
+</wpt>
+<wpt lat="53.8459117075" lon="11.9728214243">
+  <name>aldi Wismarsche Str. 2  18246 Bützow </name>
+</wpt>
+<wpt lat="54.109488769" lon="12.1631808286">
+  <name>aldi Hinrichsdorfer Str. 8 18146 Rostock </name>
+</wpt>
+<wpt lat="52.502021252" lon="13.4321236145">
+  <name>aldi Eisenbahnstraße 42 10997 Berlin </name>
+</wpt>
+<wpt lat="52.4522027346" lon="13.3623362579">
+  <name>aldi Röblingstraße 118-124 12105 Berlin </name>
+</wpt>
+<wpt lat="52.5488413482" lon="13.4007282973">
+  <name>aldi Schwedter Str. 83  10437 Berlin-Prenzlauer Berg </name>
+</wpt>
+<wpt lat="52.4587790513" lon="13.3841897729">
+  <name>aldi Tempelhofer Damm 198 12099 Berlin </name>
+</wpt>
+<wpt lat="54.1388601447" lon="12.0409270495">
+  <name>aldi Lichtenhäger Chaussee 1-3  18107 Rostock </name>
+</wpt>
+<wpt lat="52.4455980283" lon="13.2947612325">
+  <name>aldi Unter den Eichen 97 12203 Berlin </name>
+</wpt>
+<wpt lat="54.1088297429" lon="11.9218928417">
+  <name>aldi Am Handelspark 9  18209 Bad Doberan </name>
+</wpt>
+<wpt lat="53.7736079367" lon="12.1688285683">
+  <name>aldi Goldberger Str. 65  18273 Güstrow </name>
+</wpt>
+<wpt lat="52.7894223492" lon="14.0414679619">
+  <name>aldi Am Polderdamm 2 16259 Bad Freienwalde </name>
+</wpt>
+<wpt lat="52.5536698908" lon="13.3605016418">
+  <name>aldi Oudenarder Str.  14-15 13347 Berlin-Wedding </name>
+</wpt>
+<wpt lat="52.6178177012" lon="12.3517056168">
+  <name>aldi R.-Breitscheid-Str. 36 14712 Rathenow </name>
+</wpt>
+<wpt lat="52.5288926895" lon="13.595098676">
+  <name>aldi Neue Grottkauer Straße 23  12619 Berlin-Hellersdorf </name>
+</wpt>
+<wpt lat="54.0935795906" lon="12.107881543">
+  <name>aldi Werftstraße 50 18057 Rostock </name>
+</wpt>
+<wpt lat="52.6099326932" lon="12.8591568262">
+  <name>aldi Schillerstraße 1 14641 Nauen </name>
+</wpt>
+<wpt lat="53.5947897609" lon="12.0888968639">
+  <name>aldi Güstrower Str. 4 19399 Goldberg </name>
+</wpt>
+<wpt lat="52.5600287575" lon="13.0940776161">
+  <name>aldi Bahnhofstr.  68-72 14612 Falkensee </name>
+</wpt>
+<wpt lat="53.4244620054" lon="11.8527799763">
+  <name>aldi Ostring 6  19370 Parchim </name>
+</wpt>
+<wpt lat="52.5156177357" lon="13.6692207627">
+  <name>aldi Lindenallee 2  15366 Dahlwitz-Hoppegarten </name>
+</wpt>
+<wpt lat="53.494118741" lon="13.3182694992">
+  <name>aldi Dewitzer Chaussee 3 b  17094 Burg Stargard </name>
+</wpt>
+<wpt lat="52.2948573916" lon="13.4585996426">
+  <name>aldi Birkenweg 2 15834 Rangsdorf </name>
+</wpt>
+<wpt lat="52.5122518483" lon="13.4819730112">
+  <name>aldi Frankfurter Allee 144 10365 Berlin </name>
+</wpt>
+<wpt lat="52.6787911372" lon="13.16637408">
+  <name>aldi Rosa-Luxemburg-Str.  22 16727 Velten </name>
+</wpt>
+<wpt lat="52.6046297183" lon="13.5239263641">
+  <name>aldi Bucher Weg 2 16357 Lindenberg </name>
+</wpt>
+<wpt lat="52.3638095762" lon="13.5914204506">
+  <name>aldi Ernst-Thälmann-Str. 124 15732 Schulzendorf </name>
+</wpt>
+<wpt lat="53.1560603109" lon="12.4796521017">
+  <name>aldi Papenbrucher Chaussee 2 16909 Wittstock/Dosse </name>
+</wpt>
+</gpx>
