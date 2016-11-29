@@ -1,0 +1,1537 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="Locus Android"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
+ xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
+ xmlns:locus="http://www.locusmap.eu">
+<wpt lat="52.3592787188" lon="9.77090441791">
+  <name>aldi Lindemannallee  21 30173 Hannover </name>
+</wpt>
+<wpt lat="52.1617999099" lon="11.6077238319">
+  <name>aldi Olvenstedter Graseweg 37 39128 Magdeburg </name>
+</wpt>
+<wpt lat="52.1390320109" lon="8.47997321869">
+  <name>aldi Mühlenburger Straße 5 - 7 32139 Spenge </name>
+</wpt>
+<wpt lat="52.05252834" lon="8.35620857928">
+  <name>aldi Künsebecker Weg 1  33790 Halle </name>
+</wpt>
+<wpt lat="52.148552241" lon="11.6559634429">
+  <name>aldi Rogätzer Str. 27 39106 Magdeburg </name>
+</wpt>
+<wpt lat="52.2601978692" lon="10.493788118">
+  <name>aldi Madamenweg 48  38118 Braunschweig </name>
+</wpt>
+<wpt lat="51.9459990703" lon="8.78199239361">
+  <name>aldi Oerlinghauser Str. 109  32758 Detmold </name>
+</wpt>
+<wpt lat="51.196612065" lon="9.7255426361">
+  <name>aldi Heinrichstr. 19  37235 Hessisch Lichtenau </name>
+</wpt>
+<wpt lat="50.8464183473" lon="9.09645817955">
+  <name>aldi Am Kaufpark 1  35279 Neustadt </name>
+</wpt>
+<wpt lat="52.4460913601" lon="10.7814271404">
+  <name>aldi Jembker Str.  1 38448 Wolfsburg </name>
+</wpt>
+<wpt lat="52.4999190048" lon="8.90665635462">
+  <name>aldi Burgstraße 4 31600 Uchte </name>
+</wpt>
+<wpt lat="51.3819309813" lon="8.99990701194">
+  <name>aldi Bahnhofstr. 96  34454 Bad Arolsen </name>
+</wpt>
+<wpt lat="50.7616776366" lon="8.73834831607">
+  <name>aldi Herborner Str. 1 a  35096 Niederweimar/Lahn </name>
+</wpt>
+<wpt lat="50.8867624452" lon="8.45427960041">
+  <name>aldi Hauptstr. 99  35236 Breidenbach </name>
+</wpt>
+<wpt lat="52.1768194633" lon="11.4952456787">
+  <name>aldi Irxleber Str. 7 39326 Hohenwarsleben </name>
+</wpt>
+<wpt lat="52.3091226993" lon="11.0506120835">
+  <name>aldi Wilhelm-Suder-Str. 1 39356 Weferlingen </name>
+</wpt>
+<wpt lat="51.7121792634" lon="8.74633429193">
+  <name>aldi Borchener Str. 25  33098 Paderborn </name>
+</wpt>
+<wpt lat="51.661359168" lon="9.62954005467">
+  <name>aldi Wiesenstr. 26  37170 Uslar </name>
+</wpt>
+<wpt lat="50.5077909869" lon="8.82784880229">
+  <name>aldi Carl-Benz-Ring 2  35423 Lich </name>
+</wpt>
+<wpt lat="51.7831091813" lon="10.1965623272">
+  <name>aldi Teichhütter Straße 2a 37539 Bad Grund Gittelde </name>
+</wpt>
+<wpt lat="51.8066702813" lon="10.9402563292">
+  <name>aldi Lerchenbreite   5 a 38889 Blankenburg </name>
+</wpt>
+<wpt lat="50.9962892075" lon="9.72401378937">
+  <name>aldi Borngasse 8  36199 Rotenburg/Fulda </name>
+</wpt>
+<wpt lat="51.9401226248" lon="9.81604136931">
+  <name>aldi Dr. - Jasper- Str. 10 c  31073 Delligsen </name>
+</wpt>
+<wpt lat="52.1606799972" lon="10.0130107874">
+  <name>aldi Alte Heerstr. 8  31135 Hildesheim Einum </name>
+</wpt>
+<wpt lat="51.2449176056" lon="9.00619326996">
+  <name>aldi Niederwerberstr.  6 34513 Sachsenhausen </name>
+</wpt>
+<wpt lat="51.8630978404" lon="11.5635761343">
+  <name>aldi Löderburger Str. 97a  39418 Staßfurt </name>
+</wpt>
+<wpt lat="51.9473294794" lon="8.65792198485">
+  <name>aldi Am Kalkofen 7  33813 Oerlinghausen </name>
+</wpt>
+<wpt lat="52.0335609948" lon="9.00416080313">
+  <name>aldi Lemgoer Straße 2 a 32694 Dörentrup </name>
+</wpt>
+<wpt lat="52.1940721759" lon="10.4585526974">
+  <name>aldi Schäferwiese 8a  38239 Salzgitter </name>
+</wpt>
+<wpt lat="52.1621419466" lon="8.85151894696">
+  <name>aldi Meyrastraße 1 32602 Vlotho </name>
+</wpt>
+<wpt lat="52.2379594726" lon="8.91362609706">
+  <name>aldi Fähranger 10 32457 Porta Westfalica </name>
+</wpt>
+<wpt lat="50.9046302781" lon="8.53419331831">
+  <name>aldi Am Seewasem 3  35216 Biedenkopf </name>
+</wpt>
+<wpt lat="50.8386611063" lon="8.47508090915">
+  <name>aldi Kaufpark Steffenberg 2  35239 Niedereisenhausen </name>
+</wpt>
+<wpt lat="52.0889303763" lon="8.73136058719">
+  <name>aldi Herforder Straße 93 + 95 32105 Bad Salzuflen </name>
+</wpt>
+<wpt lat="52.4282785819" lon="10.9946293135">
+  <name>aldi Niendorfer Str. 2 a 39646 Oebisfelde </name>
+</wpt>
+<wpt lat="50.5275475353" lon="9.73305197151">
+  <name>aldi In den Gründen 4  36093 Künzell-Pilgerzell </name>
+</wpt>
+<wpt lat="50.6400219656" lon="8.69772595913">
+  <name>aldi Auweg 6  35457 Lollar </name>
+</wpt>
+<wpt lat="50.7247381289" lon="8.28886737743">
+  <name>aldi Rolfesstraße 3  35683 Dillenburg </name>
+</wpt>
+<wpt lat="50.9831390092" lon="8.97237877758">
+  <name>aldi Ellnröder Straße  27 35285 Gemünden </name>
+</wpt>
+<wpt lat="51.9538811684" lon="12.1018740747">
+  <name>aldi Rosslauer Straße 29 39261 Zerbst </name>
+</wpt>
+<wpt lat="52.3681477799" lon="9.70349127033">
+  <name>aldi Bardowicker Str.  10 30449 Hannover </name>
+</wpt>
+<wpt lat="52.2607207971" lon="9.02509701012">
+  <name>aldi Weinberg 10a 31675 Bückeburg </name>
+</wpt>
+<wpt lat="51.2497982853" lon="9.26853437562">
+  <name>aldi Industriestr. 2  34308 Bad Emstal </name>
+</wpt>
+<wpt lat="51.880388719" lon="8.23796577454">
+  <name>aldi Clarholzer Str. 34-36  33442 Herzebrock </name>
+</wpt>
+<wpt lat="50.4319818854" lon="8.37604761391">
+  <name>aldi Weilstraße 96  35789 Weilmünster </name>
+</wpt>
+<wpt lat="52.4439699942" lon="10.0258800796">
+  <name>aldi Ostlandring  6-8 31303 Burgdorf </name>
+</wpt>
+<wpt lat="52.3859189839" lon="10.2566370105">
+  <name>aldi Wöhrbergweg  5 31234 Edemissen </name>
+</wpt>
+<wpt lat="52.2488020147" lon="10.4799115856">
+  <name>aldi Elbestr. 22  38120 Braunschweig-Weststadt </name>
+</wpt>
+<wpt lat="52.3026890316" lon="10.5406877397">
+  <name>aldi Bienroder Weg 53 38108 Braunschweig </name>
+</wpt>
+<wpt lat="51.9503504702" lon="8.57113744988">
+  <name>aldi Hansestraße 1  33689 Bielefeld Sennestadt </name>
+</wpt>
+<wpt lat="52.4201620328" lon="9.45342590458">
+  <name>aldi Industriestraße 12 31515 Wunstorf </name>
+</wpt>
+<wpt lat="52.3148187392" lon="9.72130683134">
+  <name>aldi Alfred-Bentz-Str. 2 30966 Hemmingen </name>
+</wpt>
+<wpt lat="51.9875778568" lon="9.8046109917">
+  <name>aldi Neue Wiese 13  31061 Alfeld </name>
+</wpt>
+<wpt lat="52.4187085741" lon="10.7845208067">
+  <name>aldi Porschestr.  102 38440 Wolfsburg </name>
+</wpt>
+<wpt lat="52.3570323396" lon="9.85312039912">
+  <name>aldi Ohefeldweg  15 30559 Hannover </name>
+</wpt>
+<wpt lat="52.0076275983" lon="8.51968726081">
+  <name>aldi An der Tonkuhle 2  33617 Bielefeld </name>
+</wpt>
+<wpt lat="51.9879212309" lon="8.67491016999">
+  <name>aldi Hauptstr. 260 c  33818 Leopoldshöhe-Asemissen </name>
+</wpt>
+<wpt lat="52.8786381749" lon="11.4924937545">
+  <name>aldi Bahnhofstr. 25 A  39619 Arendsee </name>
+</wpt>
+<wpt lat="50.7581676164" lon="9.80806438666">
+  <name>aldi Eisenacher Str. 5  36132 Eiterfeld </name>
+</wpt>
+<wpt lat="51.7204088111" lon="9.01552822823">
+  <name>aldi Am Siedlerplatz 18  33014 Bad Driburg </name>
+</wpt>
+<wpt lat="50.6749024937" lon="8.30635018945">
+  <name>aldi Konrad-Adenauer-Str. 25 35745 Herborn </name>
+</wpt>
+<wpt lat="50.7426623522" lon="9.25662735756">
+  <name>aldi Grünberger Str. 82  36304 Alsfeld </name>
+</wpt>
+<wpt lat="52.1000192195" lon="8.2960169842">
+  <name>aldi Bahnhofstr. 19  33829 Borgholzhausen </name>
+</wpt>
+<wpt lat="52.1451307115" lon="10.3153806978">
+  <name>aldi Leibnizstr.  2 38228 Salzgitter </name>
+</wpt>
+<wpt lat="52.0460187295" lon="10.375077666">
+  <name>aldi Hinter dem Salze 11 38259 Salzgitter </name>
+</wpt>
+<wpt lat="52.1606082777" lon="9.90234926383">
+  <name>aldi Runde Wiese 6  31137 Hildesheim Himmelsthür </name>
+</wpt>
+<wpt lat="52.4091694049" lon="12.150959048">
+  <name>aldi Bergzower Str. 6 39307 Genthin </name>
+</wpt>
+<wpt lat="52.0711504316" lon="9.1165939903">
+  <name>aldi Bruchweg 5 32699 Extertal-Bösingfeld </name>
+</wpt>
+<wpt lat="52.3127515353" lon="8.88447908382">
+  <name>aldi Stiftsallee 128 32425 Minden </name>
+</wpt>
+<wpt lat="52.0962016977" lon="10.6927360436">
+  <name>aldi An der alten Mühle 6  38327 Semmenstedt </name>
+</wpt>
+<wpt lat="52.0756610289" lon="9.32945442121">
+  <name>aldi Werkstraße 17 / Multimarkt 31789 Hameln </name>
+</wpt>
+<wpt lat="51.1348778639" lon="9.42808302173">
+  <name>aldi Zum Haintor 3  34587 Felsberg </name>
+</wpt>
+<wpt lat="51.7297676137" lon="8.69256385311">
+  <name>aldi Wewerstraße 27  33106 Paderborn </name>
+</wpt>
+<wpt lat="51.3858373932" lon="10.1328993507">
+  <name>aldi Brüsseler Str.  1 a 37308 Heilbad Heiligenstadt </name>
+</wpt>
+<wpt lat="52.2629775731" lon="11.8628793579">
+  <name>aldi Zerbster Chaussee  39288 Burg </name>
+</wpt>
+<wpt lat="51.7171717743" lon="10.2739939175">
+  <name>aldi Herzberger Str. 59  37520 Osterode </name>
+</wpt>
+<wpt lat="50.539631835" lon="8.73273654925">
+  <name>aldi Neue Mitte 1  35415 Pohlheim (Watzenborn-St.) </name>
+</wpt>
+<wpt lat="50.49239173" lon="8.65523301325">
+  <name>aldi Am Lindenbaum 6  35428 Langgöns </name>
+</wpt>
+<wpt lat="52.4247414858" lon="9.84234652628">
+  <name>aldi Krendelstr.  4 30916 Isernhagen </name>
+</wpt>
+<wpt lat="51.3678179748" lon="9.39918781853">
+  <name>aldi Heckershäuser Str. 27  34292 Ahnatal </name>
+</wpt>
+<wpt lat="52.4352422671" lon="9.75493246618">
+  <name>aldi Erich-Ollenhauer-Str. 13 30851 Langenhagen </name>
+</wpt>
+<wpt lat="51.157839756" lon="10.00054619">
+  <name>aldi Landstr. 123  37287 Wehretal </name>
+</wpt>
+<wpt lat="51.0201685427" lon="8.66626768936">
+  <name>aldi Ringstraße 11  35108 Allendorf/Eder </name>
+</wpt>
+<wpt lat="52.2518687234" lon="10.824531625">
+  <name>aldi Rottorfer Str. 4 a  38154 Königslutter </name>
+</wpt>
+<wpt lat="52.3337599458" lon="9.66537802067">
+  <name>aldi Ronnenberger Str. 20 30952 Ronnenberg </name>
+</wpt>
+<wpt lat="52.335738246" lon="9.40463770746">
+  <name>aldi Piepmühle 5 31542 Bad Nenndorf </name>
+</wpt>
+<wpt lat="50.7443297702" lon="8.20773957536">
+  <name>aldi Lohwiese  5 35708 Haiger </name>
+</wpt>
+<wpt lat="50.6019020143" lon="8.62344199448">
+  <name>aldi Auf dem langen Furt 9-11  35452 Heuchelheim </name>
+</wpt>
+<wpt lat="51.9810477097" lon="8.51653963519">
+  <name>aldi Briloner Str. 3  33647 Bielefeld </name>
+</wpt>
+<wpt lat="51.9976675263" lon="8.48722175083">
+  <name>aldi Carl-Severing-Str. 85  33649 Bielefeld </name>
+</wpt>
+<wpt lat="51.4294812003" lon="9.64706783277">
+  <name>aldi Göttinger Str. 27  34346 Hann.Münden </name>
+</wpt>
+<wpt lat="52.1499704432" lon="11.5868505774">
+  <name>aldi Olvenstedter Scheid 52 39130 Magdeburg </name>
+</wpt>
+<wpt lat="52.2512520952" lon="10.6428236945">
+  <name>aldi Im Moorbusche 4  38162 Cremlingen </name>
+</wpt>
+<wpt lat="50.4997487621" lon="9.6898125887">
+  <name>aldi Fuldaer Straße 23  36124 Eichenzell </name>
+</wpt>
+<wpt lat="51.9439479457" lon="11.4286419205">
+  <name>aldi Am Busbahnhof 1 39435 Egeln </name>
+</wpt>
+<wpt lat="51.5940093695" lon="10.5591957784">
+  <name>aldi Marktstr. 43/44 Aldi Passage  37441 Bad Sachsa </name>
+</wpt>
+<wpt lat="50.839172238" lon="9.99023097116">
+  <name>aldi Ulsterstr. 6 36269 Philippsthal </name>
+</wpt>
+<wpt lat="51.2916483959" lon="9.45785056689">
+  <name>aldi Glockenbruchweg 84  34134 Kassel </name>
+</wpt>
+<wpt lat="51.5403774709" lon="9.89726809675">
+  <name>aldi Industriestr. 9  37079 Göttingen </name>
+</wpt>
+<wpt lat="52.2124478541" lon="9.56822430758">
+  <name>aldi Osttangente 6 31832 Springe </name>
+</wpt>
+<wpt lat="52.2633573607" lon="10.5446177751">
+  <name>aldi Kastanienallee  21/22 38102 Braunschweig </name>
+</wpt>
+<wpt lat="52.06493103" lon="9.58499665553">
+  <name>aldi An der Kalkröse 2 31020 Salzhemmendorf </name>
+</wpt>
+<wpt lat="52.2126572511" lon="10.193972281">
+  <name>aldi Marktstr. 4  31185 Söhlde Hoheneggelsen </name>
+</wpt>
+<wpt lat="51.8657302143" lon="9.08731207881">
+  <name>aldi Anton-Spilker-Straße  33 32839 Steinheim </name>
+</wpt>
+<wpt lat="52.1979199024" lon="9.08552242882">
+  <name>aldi Große Tonkuhle 3 31737 Rinteln </name>
+</wpt>
+<wpt lat="52.4303897366" lon="9.46419977742">
+  <name>aldi Nienburger Straße 36 31515 Wunstorf </name>
+</wpt>
+<wpt lat="52.2763672489" lon="10.5247427676">
+  <name>aldi Mittelweg 3  38106 Braunschweig </name>
+</wpt>
+<wpt lat="52.2373591733" lon="9.87464116515">
+  <name>aldi Moorberg  5 31157 Sarstedt </name>
+</wpt>
+<wpt lat="52.3760323353" lon="8.63057361482">
+  <name>aldi Gerhard-Wetzel-Straße 11 32339 Espelkamp </name>
+</wpt>
+<wpt lat="52.2176384056" lon="8.80408872546">
+  <name>aldi Werrestraße 15 32549 Bad Oeynhausen </name>
+</wpt>
+<wpt lat="51.9029778865" lon="10.5514706058">
+  <name>aldi Schlewecker Str. 2 38667 Bad Harzburg </name>
+</wpt>
+<wpt lat="52.0955110836" lon="11.6218162015">
+  <name>aldi Leipziger Chaussee 23 39120 Magdeburg </name>
+</wpt>
+<wpt lat="51.3833790867" lon="10.3304623211">
+  <name>aldi Birkunger Str. 27  37327 Leinefelde </name>
+</wpt>
+<wpt lat="50.6241010439" lon="9.45095277017">
+  <name>aldi Am Sportplatz 1  36367 Wartenberg-Angersbach </name>
+</wpt>
+<wpt lat="52.544198228" lon="9.73531826196">
+  <name>aldi Burgweg  2 30900 Mellendorf </name>
+</wpt>
+<wpt lat="51.917047361" lon="10.4170040392">
+  <name>aldi Hildesheimer Str.  29 38640 Goslar </name>
+</wpt>
+<wpt lat="50.8281987143" lon="8.76906014891">
+  <name>aldi Afföllerstr. 90  35039 Marburg </name>
+</wpt>
+<wpt lat="52.0110596833" lon="8.70071170686">
+  <name>aldi Bürgermeister Brinkmann Weg 4  33818 Leopoldshöhe </name>
+</wpt>
+<wpt lat="52.0496525032" lon="11.5768231415">
+  <name>aldi Bahnhofstraße 46 39171 Sülzetal </name>
+</wpt>
+<wpt lat="52.0304681506" lon="11.2267801929">
+  <name>aldi Lüneburger Str. 4 39387 Oschersleben </name>
+</wpt>
+<wpt lat="50.5387401949" lon="8.5343012369">
+  <name>aldi Elsa-Brandström-Straße 1  35578 Wetzlar </name>
+</wpt>
+<wpt lat="51.77406192" lon="9.35895216988">
+  <name>aldi Pfennigbreite 38 37671 Höxter </name>
+</wpt>
+<wpt lat="51.8794282891" lon="8.50462362391">
+  <name>aldi Westfalenweg  8  33415 Verl </name>
+</wpt>
+<wpt lat="52.3850901494" lon="9.67107072643">
+  <name>aldi Am Bahndamm  17 30453 Hannover </name>
+</wpt>
+<wpt lat="52.2336305265" lon="10.9931364396">
+  <name>aldi Bruchweg 5 38350 Helmstedt </name>
+</wpt>
+<wpt lat="51.880338755" lon="8.95217102109">
+  <name>aldi Kampstr.49  32805 Horn-Bad Meinb. </name>
+</wpt>
+<wpt lat="51.9931988917" lon="9.84517938934">
+  <name>aldi August-Wegener-Str.  13 31061 Alfeld </name>
+</wpt>
+<wpt lat="52.3037393779" lon="8.60292846865">
+  <name>aldi Strubbergstraße 9 32312 Lübbecke </name>
+</wpt>
+<wpt lat="52.4473904407" lon="10.0115359">
+  <name>aldi Marktstr.  35 31303 Burgdorf </name>
+</wpt>
+<wpt lat="51.3299878209" lon="9.17425849167">
+  <name>aldi Schützeberger Str. 91 B  34466 Wolfhagen </name>
+</wpt>
+<wpt lat="51.7345576796" lon="8.78869233957">
+  <name>aldi Senefelder Str. 13  33100 Paderborn </name>
+</wpt>
+<wpt lat="50.5587694534" lon="10.008622098">
+  <name>aldi Krautacker 3  36115 Hilders </name>
+</wpt>
+<wpt lat="50.8114608278" lon="10.2213476307">
+  <name>aldi Clara-Zetkin-Str. 9 36433 Bad Salzungen </name>
+</wpt>
+<wpt lat="50.5831074017" lon="8.66701412629">
+  <name>aldi Bahnhofstraße 66  35390 Gießen </name>
+</wpt>
+<wpt lat="51.8073876004" lon="9.13127991213">
+  <name>aldi Alersfelde 28  33039 Nieheim </name>
+</wpt>
+<wpt lat="50.5539014977" lon="9.71234059493">
+  <name>aldi Alte Ziegelei 1  36100 Petersberg </name>
+</wpt>
+<wpt lat="52.0092108186" lon="8.41354033166">
+  <name>aldi Bahnhofstr. 25  33803 Steinhagen </name>
+</wpt>
+<wpt lat="52.4640887103" lon="10.1970029948">
+  <name>aldi Burgdorfer Str. 23 31311 Uetze </name>
+</wpt>
+<wpt lat="52.1476582538" lon="9.96308944509">
+  <name>aldi Gravelottestraße 1 31134 Hildesheim </name>
+</wpt>
+<wpt lat="52.278122521" lon="10.5061807697">
+  <name>aldi Celler Str. 81 38114 Braunschweig </name>
+</wpt>
+<wpt lat="52.4992784563" lon="10.5420187357">
+  <name>aldi Hamburger Str.  71 38518 Gifhorn </name>
+</wpt>
+<wpt lat="52.3388813632" lon="8.7448594045">
+  <name>aldi Brennhorster Straße 16 32479 Hille </name>
+</wpt>
+<wpt lat="51.8978005866" lon="10.1826228423">
+  <name>aldi Braunschweiger Straße 36 38723 Seesen </name>
+</wpt>
+<wpt lat="51.9028613622" lon="8.19187554223">
+  <name>aldi Beelener Str. 86  33442 Herzebrock-Clarholz </name>
+</wpt>
+<wpt lat="51.7559118527" lon="8.95325020702">
+  <name>aldi Hüttenstr. 67  33184 Altenbeken </name>
+</wpt>
+<wpt lat="50.5476386933" lon="9.68730348142">
+  <name>aldi Am Emaillierwerk 1  36043 Fulda </name>
+</wpt>
+<wpt lat="52.4093723875" lon="9.69342786156">
+  <name>aldi Am Fuhrenkampe  14 30419 Hannover </name>
+</wpt>
+<wpt lat="52.1696219626" lon="11.625458454">
+  <name>aldi Hanns-Eisler-Platz 11 39128 Magdeburg </name>
+</wpt>
+<wpt lat="52.3808579112" lon="10.5354357015">
+  <name>aldi Bahnhofstraße 15 38527 Meine </name>
+</wpt>
+<wpt lat="51.9497407453" lon="8.85418993213">
+  <name>aldi Klingenbergstr. 20  32758 Detmold </name>
+</wpt>
+<wpt lat="52.4636722896" lon="10.8516101985">
+  <name>aldi Alte Schulstraße 30 38448 Wolfsburg </name>
+</wpt>
+<wpt lat="51.1936420092" lon="10.0312490296">
+  <name>aldi Niederhoner Str.  58 a 37269 Eschwege </name>
+</wpt>
+<wpt lat="50.5950575791" lon="8.66077283434">
+  <name>aldi Krofdorfer Str. 89  35398 Gießen </name>
+</wpt>
+<wpt lat="52.115098274" lon="11.0236504217">
+  <name>aldi Warslebener Str. 6 39393 Hötensleben </name>
+</wpt>
+<wpt lat="51.9946607989" lon="9.11914806366">
+  <name>aldi Alverdisser Straße 5 32683 Barntrup </name>
+</wpt>
+<wpt lat="50.8811227282" lon="9.7234112439">
+  <name>aldi Friedloser Str. 29 36251 Bad Hersfeld </name>
+</wpt>
+<wpt lat="52.3039978363" lon="9.48796884747">
+  <name>aldi Reihekamp 12 30890 Barsinghausen </name>
+</wpt>
+<wpt lat="51.3456797509" lon="9.85618708579">
+  <name>aldi Laubenweg 6  37213 Witzenhausen </name>
+</wpt>
+<wpt lat="52.3381395637" lon="9.71851893436">
+  <name>aldi Tillystr. 30 30459 Hannover </name>
+</wpt>
+<wpt lat="52.2729005199" lon="8.88741986547">
+  <name>aldi Mindener Straße 123 32429 Minden </name>
+</wpt>
+<wpt lat="51.6896392425" lon="9.98610308499">
+  <name>aldi Über dem Hellewege  37154 Northeim </name>
+</wpt>
+<wpt lat="52.2411425758" lon="10.4931406064">
+  <name>aldi Neckarstr. 1  38120 Braunschweig-Weststadt </name>
+</wpt>
+<wpt lat="51.7126584792" lon="9.17986126528">
+  <name>aldi Am Sudheimer Weg 5  33034 Brakel </name>
+</wpt>
+<wpt lat="51.9827204929" lon="8.4817179026">
+  <name>aldi Gütersloher Str. 243  33649 Bielefeld </name>
+</wpt>
+<wpt lat="51.3522515731" lon="9.46659197289">
+  <name>aldi Zum Feldlager 119  34246 Vellmar </name>
+</wpt>
+<wpt lat="51.1335009158" lon="9.27813913037">
+  <name>aldi Am Hospital 21  34560 Fritzlar </name>
+</wpt>
+<wpt lat="51.411798698" lon="9.39445738688">
+  <name>aldi Görlitzer Str.  1 34379 Calden </name>
+</wpt>
+<wpt lat="51.6730391779" lon="9.37524787738">
+  <name>aldi Blankenauer Str. 1a  37688 Beverungen </name>
+</wpt>
+<wpt lat="52.0692874662" lon="8.60791071035">
+  <name>aldi Braker Straße 34  33729 Bielefeld </name>
+</wpt>
+<wpt lat="50.5432782389" lon="8.97137153738">
+  <name>aldi Philipp-Reis-Str. 18  35321 Laubach </name>
+</wpt>
+<wpt lat="52.1678127525" lon="9.93412229616">
+  <name>aldi Ernst - Morsch -  Str. 9 31137 Hildesheim </name>
+</wpt>
+<wpt lat="51.4286008823" lon="9.46841759575">
+  <name>aldi Auf dem Mühlanger  34376 Immenhausen </name>
+</wpt>
+<wpt lat="52.1065596261" lon="11.6399105522">
+  <name>aldi Schönebecker Str. 6 39104 Magdeburg </name>
+</wpt>
+<wpt lat="52.0168106032" lon="11.7127376158">
+  <name>aldi Magdeburger Str. 238 39218 Schönebeck </name>
+</wpt>
+<wpt lat="52.4687896076" lon="10.5414611563">
+  <name>aldi Braunschweiger Str.  106 38518 Gifhorn </name>
+</wpt>
+<wpt lat="52.2300502903" lon="10.5347162442">
+  <name>aldi Jenastieg 16 38124 Braunschweig Heidberg </name>
+</wpt>
+<wpt lat="52.4254379597" lon="9.78172325682">
+  <name>aldi Zur Stadtgärtnerei  1 30657 Hannover </name>
+</wpt>
+<wpt lat="52.5120493396" lon="9.47645753091">
+  <name>aldi Rudolf-Diesel-Ring 34 31535 Neustadt </name>
+</wpt>
+<wpt lat="50.9103408663" lon="9.2424810287">
+  <name>aldi Ernst-Ihle-Str. 10  34613 Ziegenhain </name>
+</wpt>
+<wpt lat="50.9045678944" lon="8.72180979174">
+  <name>aldi Am Untertor 8 35083 Wetter </name>
+</wpt>
+<wpt lat="50.7234514648" lon="8.7958779192">
+  <name>aldi Hachborner Str. 2 b  35085 Hachborn </name>
+</wpt>
+<wpt lat="52.4314480176" lon="9.67992904425">
+  <name>aldi Desbrocksriede  2 A 30855 Langenhagen </name>
+</wpt>
+<wpt lat="52.1079681186" lon="11.5933706591">
+  <name>aldi Bergstraße 27 39116 Magdeburg </name>
+</wpt>
+<wpt lat="51.703948218" lon="8.77174912051">
+  <name>aldi Pohlweg 110  33100 Paderborn </name>
+</wpt>
+<wpt lat="50.7689926509" lon="8.58701946944">
+  <name>aldi Kirchbergstrasse 6 35075 Gladenbach </name>
+</wpt>
+<wpt lat="51.8381381728" lon="10.7698978374">
+  <name>aldi Ilsenburger Str. 66  38855 Wernigerode </name>
+</wpt>
+<wpt lat="52.329489813" lon="10.2065537902">
+  <name>aldi Vöhrumer Str. 36-40 31228 Peine </name>
+</wpt>
+<wpt lat="52.3649078959" lon="9.66857061237">
+  <name>aldi Davenstedter Str. 234 - 240 30455 Hannover </name>
+</wpt>
+<wpt lat="51.6657715983" lon="8.72418400078">
+  <name>aldi Sperenberger Str. 1  33178 Borchen </name>
+</wpt>
+<wpt lat="51.6025787936" lon="10.2051598418">
+  <name>aldi Ludwig-Erhard-Str. 6  37434 Gieboldehausen </name>
+</wpt>
+<wpt lat="51.9043373144" lon="8.37541808879">
+  <name>aldi Blessenstätte 20  33330 Gütersloh </name>
+</wpt>
+<wpt lat="51.9035716009" lon="11.0396223735">
+  <name>aldi Wolfsburger Straße  1 38820 Halberstadt </name>
+</wpt>
+<wpt lat="51.9672420946" lon="9.25500857867">
+  <name>aldi Siemensstraße 39 32676 Lügde </name>
+</wpt>
+<wpt lat="50.5385287137" lon="8.65570066049">
+  <name>aldi Carl-Benz-Str. 1  35440 Linden </name>
+</wpt>
+<wpt lat="51.6881673967" lon="8.68071978756">
+  <name>aldi Wewersches Bruch 100  33106 Paderbron-Wewer </name>
+</wpt>
+<wpt lat="50.564842266" lon="9.68924601609">
+  <name>aldi Leipziger Straße 126 a  36037 Fulda </name>
+</wpt>
+<wpt lat="50.5971698129" lon="8.95761191681">
+  <name>aldi Londorfer Strasse 47  35305 Grünberg </name>
+</wpt>
+<wpt lat="51.5580716972" lon="9.93050702331">
+  <name>aldi Werner-von-Siemens-Str.  5 37077 Göttingen </name>
+</wpt>
+<wpt lat="52.2626197992" lon="10.0739937855">
+  <name>aldi Meierkamp  2 31249 Hohenhameln </name>
+</wpt>
+<wpt lat="52.0399285922" lon="8.14639684862">
+  <name>aldi Wirusstr. 10  33775 Versmold </name>
+</wpt>
+<wpt lat="51.2745596104" lon="9.43927957572">
+  <name>aldi Mattenbergstr. 62  34132 Kassel </name>
+</wpt>
+<wpt lat="52.2925912375" lon="8.88554927653">
+  <name>aldi Gesellenweg 21a 32427 Minden </name>
+</wpt>
+<wpt lat="51.2643978259" lon="9.97395325009">
+  <name>aldi Werrastr. 6  37242 Bad Sooden-Allendorf </name>
+</wpt>
+<wpt lat="51.2643584347" lon="8.86484689316">
+  <name>aldi Strother Str. 37  34497 Korbach </name>
+</wpt>
+<wpt lat="51.4016224106" lon="9.65819244104">
+  <name>aldi Quedlinburger Str. 8  34346 Hann.Münden </name>
+</wpt>
+<wpt lat="50.8225178233" lon="10.340157008">
+  <name>aldi J.-C.-v.-Weiß-Str. 5 36448 Schweina </name>
+</wpt>
+<wpt lat="52.6162724826" lon="11.8683112604">
+  <name>aldi Arneburger Str. 30 39576 Stendal </name>
+</wpt>
+<wpt lat="51.2110482044" lon="9.44907318801">
+  <name>aldi Zur Mühle 10  34287 Edermünde </name>
+</wpt>
+<wpt lat="52.2022688656" lon="11.6194509857">
+  <name>aldi Breiteweg 51 39179 Barleben </name>
+</wpt>
+<wpt lat="52.1393024687" lon="10.3398062726">
+  <name>aldi Watenstedter Weg 8 38229 Salzgitter </name>
+</wpt>
+<wpt lat="50.5599692244" lon="8.48516230436">
+  <name>aldi Altenberger Str. 34  35576 Wetzlar </name>
+</wpt>
+<wpt lat="51.745077333" lon="8.75752185271">
+  <name>aldi Ingolstädter Weg 13  33102 Paderborn </name>
+</wpt>
+<wpt lat="52.1368186108" lon="8.55262941123">
+  <name>aldi Ringstraße 32 32130 Enger </name>
+</wpt>
+<wpt lat="50.6720927145" lon="9.76815249379">
+  <name>aldi Josefstraße 3 36088 Hünfeld </name>
+</wpt>
+<wpt lat="50.7005873613" lon="8.29518061511">
+  <name>aldi Bürgermeisterwiese 8  35745 Herborn </name>
+</wpt>
+<wpt lat="51.8455614119" lon="10.8058707016">
+  <name>aldi Theodor-Fontane-Str. 34  38855 Wernigerode </name>
+</wpt>
+<wpt lat="52.377657389" lon="9.74368195289">
+  <name>aldi Rundestraße 6 30161 Hannover </name>
+</wpt>
+<wpt lat="52.6019424869" lon="11.8368979568">
+  <name>aldi Dr.-Kurt-Schumacher-Str. 16 39576 Stendal </name>
+</wpt>
+<wpt lat="51.6449384762" lon="9.44929801841">
+  <name>aldi Am rechten Weserufer 1  34385 Bad Karlshafen </name>
+</wpt>
+<wpt lat="51.3398373398" lon="9.49358061429">
+  <name>aldi Philippinenhöfer Weg 33  34127 Kassel </name>
+</wpt>
+<wpt lat="51.914778568" lon="8.91191738601">
+  <name>aldi Remmighauser Str. 109 a  32760 Detmold </name>
+</wpt>
+<wpt lat="51.0456979025" lon="9.27926328238">
+  <name>aldi Gellenweg 12-14  34582 Borken (Hessen) </name>
+</wpt>
+<wpt lat="50.7536901097" lon="9.27847187937">
+  <name>aldi An der Au  14 36304 Alsfeld </name>
+</wpt>
+<wpt lat="51.9591794654" lon="8.52165677512">
+  <name>aldi Windelsbleicher Str. 239a  33659 Bielefeld </name>
+</wpt>
+<wpt lat="52.1962000429" lon="10.3203899191">
+  <name>aldi Am Bahnhof 28 38268 Lengede Broistedt </name>
+</wpt>
+<wpt lat="51.2552525498" lon="9.41123872805">
+  <name>aldi Friedrich-Ebert-Allee 3  34225 Baunatal </name>
+</wpt>
+<wpt lat="52.0803314491" lon="8.42345984897">
+  <name>aldi Engerstraße 61  33824 Werther </name>
+</wpt>
+<wpt lat="50.5515416153" lon="8.46869572575">
+  <name>aldi Alte Straße 4  35578 Wetzlar </name>
+</wpt>
+<wpt lat="51.8829423636" lon="9.61915289012">
+  <name>aldi Deenser Straße 26 32676 Stadtoldendorf </name>
+</wpt>
+<wpt lat="51.8217704971" lon="10.3413890786">
+  <name>aldi Goslarsche Str. 69 A 38678 Clausthal-Zellerfeld </name>
+</wpt>
+<wpt lat="51.7203419556" lon="10.6156192159">
+  <name>aldi Am Buchholzplatz 8  38700 Braunlage </name>
+</wpt>
+<wpt lat="52.582411413" lon="9.58752374924">
+  <name>aldi Abbenser Str.  10 31535 Neustadt </name>
+</wpt>
+<wpt lat="51.7721921491" lon="8.31984001354">
+  <name>aldi Benteler Str. 32  33449 Langenberg </name>
+</wpt>
+<wpt lat="52.3573179492" lon="10.1179885985">
+  <name>aldi Hermesstr.  3 31275 Lehrte </name>
+</wpt>
+<wpt lat="51.6253687176" lon="9.02231810635">
+  <name>aldi Am Sportplatz 4  34439 Willebadessen </name>
+</wpt>
+<wpt lat="51.2846404004" lon="9.54682944657">
+  <name>aldi Faustmühlenweg 30 34253 Lohfelden </name>
+</wpt>
+<wpt lat="52.0257980485" lon="8.5241658824">
+  <name>aldi Große-Kurfürsten-Str. 82  33615 Bielefeld Innenstadt </name>
+</wpt>
+<wpt lat="51.8163892626" lon="9.83806575544">
+  <name>aldi Hansestr.  37574 Einbeck </name>
+</wpt>
+<wpt lat="52.0190078241" lon="10.5497529015">
+  <name>aldi Herrmann-Müller-Str. 2  38315 Schladen </name>
+</wpt>
+<wpt lat="51.4140872093" lon="10.3666600157">
+  <name>aldi Hausener Weg  45 37339 Worbis </name>
+</wpt>
+<wpt lat="52.1922474213" lon="8.59333270712">
+  <name>aldi Haßkampstraße 94 32257 Bünde </name>
+</wpt>
+<wpt lat="50.6720186206" lon="8.52044269096">
+  <name>aldi Gewerbestrasse 4 35644 Erda </name>
+</wpt>
+<wpt lat="52.4210395696" lon="10.7183307365">
+  <name>aldi Mühlenkamp  15 38442 Wolfsburg </name>
+</wpt>
+<wpt lat="51.6168315151" lon="8.90696212396">
+  <name>aldi Torfbruchstr. 4 b  33165 Lichtenau </name>
+</wpt>
+<wpt lat="51.5749374374" lon="9.24302062166">
+  <name>aldi Emmerkertor Str. 28  34434 Borgentreich </name>
+</wpt>
+<wpt lat="52.265707568" lon="9.77102132971">
+  <name>aldi Johann-Koch-Straße 2 30982 Pattensen </name>
+</wpt>
+<wpt lat="50.8261423116" lon="8.91635104153">
+  <name>aldi Frankfurter Str. 7  35274 Kirchhain </name>
+</wpt>
+<wpt lat="52.3043497772" lon="9.80238966733">
+  <name>aldi Hildesheimer Str. 207 30880 Laatzen </name>
+</wpt>
+<wpt lat="52.3823510429" lon="9.00231719384">
+  <name>aldi Industriestraße 1 32469 Petershagen </name>
+</wpt>
+<wpt lat="52.3238726142" lon="10.6597759068">
+  <name>aldi Berliner Straße 4 a 38165 Lehre </name>
+</wpt>
+<wpt lat="52.4586804138" lon="9.57770315731">
+  <name>aldi Hauptstr.  223 30826 Garbsen </name>
+</wpt>
+<wpt lat="51.2647579718" lon="8.86526957431">
+  <name>aldi Südring 30 34497 Korbach </name>
+</wpt>
+<wpt lat="52.3933393776" lon="10.7123232682">
+  <name>aldi Mörser Straße 53 38442 Wolfsburg </name>
+</wpt>
+<wpt lat="52.1262082184" lon="8.68351667776">
+  <name>aldi Waltgeristraße 93 32049 Herford </name>
+</wpt>
+<wpt lat="52.2646398078" lon="10.3641778881">
+  <name>aldi Bodelschwinghstr. 8 38159 Vechelde </name>
+</wpt>
+<wpt lat="51.1280378645" lon="9.54791762572">
+  <name>aldi Bahnhofstr. 4  34212 Melsungen </name>
+</wpt>
+<wpt lat="52.3635404837" lon="10.7488896847">
+  <name>aldi Plantage 86 f 38444 Wolfsburg </name>
+</wpt>
+<wpt lat="51.9027392888" lon="8.63634725953">
+  <name>aldi Holter Str. 137 - 147  33758 Schloß Holte </name>
+</wpt>
+<wpt lat="52.2512025444" lon="10.5351569118">
+  <name>aldi Berliner Platz  1 D 38102 Braunschweig </name>
+</wpt>
+<wpt lat="52.2731976787" lon="10.4935902672">
+  <name>aldi Hannoversche Str. 59 38114 Braunschweig </name>
+</wpt>
+<wpt lat="52.0927706215" lon="10.2190183877">
+  <name>aldi Heinrich-Nordhoff-Str. 3  38271 Baddeckenstedt </name>
+</wpt>
+<wpt lat="52.0397017864" lon="9.2553593141">
+  <name>aldi Blankschmiede 2 31855 Aerzen </name>
+</wpt>
+<wpt lat="52.5293303772" lon="11.4115727964">
+  <name>aldi Stendaler Straße 89 39638 Gardelegen </name>
+</wpt>
+<wpt lat="52.2005491744" lon="8.7268280063">
+  <name>aldi Albert-Schweitzer-Straße 37 32584 Löhne </name>
+</wpt>
+<wpt lat="50.7510216079" lon="8.27659163751">
+  <name>aldi Kasseler Strasse 34  35683 Dillenburg </name>
+</wpt>
+<wpt lat="51.5453218097" lon="9.93137037205">
+  <name>aldi Weender Landstr. 59  37075 Göttingen </name>
+</wpt>
+<wpt lat="51.11940741" lon="9.13554269654">
+  <name>aldi Bahnhof 3 34537 Bad Wildungen </name>
+</wpt>
+<wpt lat="52.1459419689" lon="11.7223423706">
+  <name>aldi Heyrothsberger Str. 62 39175 Biederitz </name>
+</wpt>
+<wpt lat="52.0634493026" lon="11.4495781275">
+  <name>aldi Bucher Weg 10 39164 Wanzleben </name>
+</wpt>
+<wpt lat="51.3256326813" lon="9.51793424338">
+  <name>aldi Fuldatalstr.  14 34127 Kassel </name>
+</wpt>
+<wpt lat="51.7591906477" lon="8.66363267705">
+  <name>aldi Weisgutstraße 20  33106 Paderborn-Sande </name>
+</wpt>
+<wpt lat="51.8118525162" lon="8.42676935248">
+  <name>aldi Wiedenbrücker Str. 21  33397 Rietberg </name>
+</wpt>
+<wpt lat="52.216580508" lon="11.0301165441">
+  <name>aldi Magdeburger Berg 5 38350 Helmstedt </name>
+</wpt>
+<wpt lat="50.8926907877" lon="10.0138471565">
+  <name>aldi Im langen Roth 1  36266 Heringen </name>
+</wpt>
+<wpt lat="52.4021522184" lon="10.7486828407">
+  <name>aldi Suhler Str.  6 38444 Wolfsburg </name>
+</wpt>
+<wpt lat="51.9019513525" lon="10.4852715424">
+  <name>aldi Hüttenstr. 8  38642 Goslar-Oker </name>
+</wpt>
+<wpt lat="51.9874504754" lon="8.7995201717">
+  <name>aldi Lange Str. 136 - 140  32791 Lage </name>
+</wpt>
+<wpt lat="52.0899415808" lon="9.78748790832">
+  <name>aldi Bethelner Landstr. 24 31028 Gronau </name>
+</wpt>
+<wpt lat="51.6508423524" lon="9.83570053961">
+  <name>aldi Göttinger Str. 18  37181 Hardegsen </name>
+</wpt>
+<wpt lat="52.2659717522" lon="9.07037785298">
+  <name>aldi Kreuzbreite 19 31675 Bückeburg </name>
+</wpt>
+<wpt lat="50.855542528" lon="8.54625322105">
+  <name>aldi Gladenbacher Str. 38  35232 Dautphe </name>
+</wpt>
+<wpt lat="50.9108285305" lon="9.1797623399">
+  <name>aldi Wierastrasse 3  34613 Treysa </name>
+</wpt>
+<wpt lat="51.7886612761" lon="8.82561848471">
+  <name>aldi Detmolder Str. 221-225  33175 Bad Lippspringe </name>
+</wpt>
+<wpt lat="52.1978592675" lon="8.81068974605">
+  <name>aldi Weserstraße 17 32545 Bad Oeynhausen </name>
+</wpt>
+<wpt lat="52.4302800687" lon="11.7970939825">
+  <name>aldi Str. d. Jugend 19 39517 Tangerhütte </name>
+</wpt>
+<wpt lat="51.187667503" lon="10.1675681986">
+  <name>aldi In der Werraaue 1  37281 Wanfried </name>
+</wpt>
+<wpt lat="51.8421777669" lon="9.46523399727">
+  <name>aldi Kopernikusstraße 13 37603 Holzminden </name>
+</wpt>
+<wpt lat="52.1378673677" lon="8.65097022884">
+  <name>aldi Alter Kamp  8 32120 Hiddenhausen </name>
+</wpt>
+<wpt lat="51.7229325362" lon="8.73879797687">
+  <name>aldi Rathenaustr. 9/Ecke Neuhäuser Str.  33102 Paderborn </name>
+</wpt>
+<wpt lat="52.129912758" lon="11.6042704369">
+  <name>aldi Große Diesdorfer Str. 41 39110 Magdeburg </name>
+</wpt>
+<wpt lat="52.0980801139" lon="8.67261689989">
+  <name>aldi Lockhauser Straße  113 32052 Herford </name>
+</wpt>
+<wpt lat="52.0252391529" lon="8.54982352782">
+  <name>aldi Werner-Bock-Str. 38  33602 Bielefeld </name>
+</wpt>
+<wpt lat="51.3117777776" lon="9.46420877064">
+  <name>aldi Wittrockstr.  3 34121 Kassel </name>
+</wpt>
+<wpt lat="52.3697895965" lon="9.97299996919">
+  <name>aldi Iltener Str.  11-15 31275 Lehrte </name>
+</wpt>
+<wpt lat="52.6609689538" lon="11.5477660604">
+  <name>aldi Döllnitzer Str. 7 A 39629 Bismark </name>
+</wpt>
+<wpt lat="51.7886612761" lon="10.959852547">
+  <name>aldi Schnappelberg  8 38889 Blankenburg </name>
+</wpt>
+<wpt lat="50.8319079631" lon="9.5733324543">
+  <name>aldi Stockäcker 4 36275 Kirchheim </name>
+</wpt>
+<wpt lat="52.2133295192" lon="10.5229081516">
+  <name>aldi Stöckheimer Markt 15  38124 Braunschweig-Stöckheim </name>
+</wpt>
+<wpt lat="51.9018625701" lon="8.39839575582">
+  <name>aldi Kampstr. 20  33332 Gütersloh Innenstadt </name>
+</wpt>
+<wpt lat="50.5459528511" lon="9.67402949452">
+  <name>aldi Kothenbachweg 2-4  36041 Fulda </name>
+</wpt>
+<wpt lat="52.6518914626" lon="9.21715613228">
+  <name>aldi Verdener Landstraße 39 a 31582 Nienburg </name>
+</wpt>
+<wpt lat="52.2030019188" lon="8.46134826823">
+  <name>aldi Bruchstraße 193 32289 Rödinghausen </name>
+</wpt>
+<wpt lat="52.2902479562" lon="10.5942783142">
+  <name>aldi Ziegelkamp 57  38104 Braunschweig-Volkmarode </name>
+</wpt>
+<wpt lat="50.4570208004" lon="9.6162300949">
+  <name>aldi Fuldaer Straße 21  36119 Neuhof </name>
+</wpt>
+<wpt lat="51.9692699915" lon="10.7166490051">
+  <name>aldi Bahnhofstr./Teichdamm  38835 Osterwieck </name>
+</wpt>
+<wpt lat="51.8879215534" lon="8.35781836496">
+  <name>aldi Hans-Böckler-Str. 32  33334 Gütersloh </name>
+</wpt>
+<wpt lat="52.392132002" lon="9.61187737833">
+  <name>aldi Hannoversche Straße 77 30926 Seelze </name>
+</wpt>
+<wpt lat="52.1681878387" lon="10.573791768">
+  <name>aldi Schweigerstr. 7 38300 Wolfenbüttel Stadtgebiet </name>
+</wpt>
+<wpt lat="52.4678691918" lon="10.5752306826">
+  <name>aldi Adam-Riese-Str.  2 38518 Gifhorn </name>
+</wpt>
+<wpt lat="52.2644416639" lon="10.2168600158">
+  <name>aldi Eichstr.  18-20 31241 Ilsede </name>
+</wpt>
+<wpt lat="52.6693792252" lon="9.15695554398">
+  <name>aldi Lemker Nordfeld 4 31608 Marklohe </name>
+</wpt>
+<wpt lat="51.9343673971" lon="10.3463713203">
+  <name>aldi Lange Str. 62  38685 Langelsheim </name>
+</wpt>
+<wpt lat="52.3800783886" lon="9.73739569487">
+  <name>aldi Bürgerstr. 2-3 30161 Hannover </name>
+</wpt>
+<wpt lat="50.5847519443" lon="8.48015308301">
+  <name>aldi Walbergraben 6  35614 Aßlar </name>
+</wpt>
+<wpt lat="52.5126404436" lon="9.45188806464">
+  <name>aldi Erika-Najork-Straße 2 31535 Neustadt </name>
+</wpt>
+<wpt lat="51.0300788166" lon="9.42365835943">
+  <name>aldi August-Vilmar-Str. 22  34576 Homberg (Efze) </name>
+</wpt>
+<wpt lat="52.0073784851" lon="10.3806174871">
+  <name>aldi Am Mühlenwege 1  38704 Liebenburg Othfresen </name>
+</wpt>
+<wpt lat="52.2818914441" lon="9.57451955882">
+  <name>aldi Degerser Straße 34 30974 Wennigsen </name>
+</wpt>
+<wpt lat="52.2670725025" lon="9.37031959498">
+  <name>aldi Zum Mineralbad 1 31867 Lauenau </name>
+</wpt>
+<wpt lat="52.2660488056" lon="8.67812074812">
+  <name>aldi Lusmühlenstraße 3 32609 Hüllhorst </name>
+</wpt>
+<wpt lat="52.1627598127" lon="9.796382199">
+  <name>aldi Böttcherstraße 1 31171 Nordstemmen </name>
+</wpt>
+<wpt lat="50.5299372025" lon="9.69043312061">
+  <name>aldi Keltenstraße 20  36043 Fulda-Kohlhaus </name>
+</wpt>
+<wpt lat="51.8236604476" lon="8.65885727932">
+  <name>aldi Westfalenweg 14  33161 Hövelhof </name>
+</wpt>
+<wpt lat="52.0515826526" lon="8.59363847646">
+  <name>aldi Rabenhof 78  33609 Bielefeld </name>
+</wpt>
+<wpt lat="50.5219502097" lon="8.59165996893">
+  <name>aldi Budenweisgraben 4  35625 Hüttenberg-Rechtenbach </name>
+</wpt>
+<wpt lat="51.5121385859" lon="9.93984198158">
+  <name>aldi Reinhäuser Landstr. 177  37083 Göttingen </name>
+</wpt>
+<wpt lat="52.2623005524" lon="11.6401084029">
+  <name>aldi Rogätzer Str. 33 39326 Wolmirstedt </name>
+</wpt>
+<wpt lat="51.4652010652" lon="8.8583717776">
+  <name>aldi Bahnstraße 7  34431 Marsberg </name>
+</wpt>
+<wpt lat="51.9302695356" lon="10.4106818084">
+  <name>aldi Carl-Zeiss-Str. 4 38644 Goslar Baßgeige </name>
+</wpt>
+<wpt lat="52.408757951" lon="9.8000784108">
+  <name>aldi Adolf-Emmelmann-Str.  5 30659 Hannover </name>
+</wpt>
+<wpt lat="52.1687394303" lon="9.06633989896">
+  <name>aldi Braasstraße 1 c 31737 Rinteln </name>
+</wpt>
+<wpt lat="50.5617402591" lon="8.60532066412">
+  <name>aldi Wellergasse 31  35582 Wetzlar-Dutenhofen </name>
+</wpt>
+<wpt lat="50.7581221039" lon="8.4788580599">
+  <name>aldi Am Bewegungsbad 10  35080 Bad Endbach </name>
+</wpt>
+<wpt lat="52.0085188586" lon="10.1219186339">
+  <name>aldi Hachumer Str. 2  31167 Bockenem </name>
+</wpt>
+<wpt lat="52.5473976037" lon="11.965941614">
+  <name>aldi Kirschallee 11 39590 Tangermünde </name>
+</wpt>
+<wpt lat="51.627199903" lon="10.4611877097">
+  <name>aldi Lutterstr. 1  37431 Bad Lauterberg </name>
+</wpt>
+<wpt lat="51.9911886913" lon="9.23493572043">
+  <name>aldi Auf der Schanze 31 31812 Bad Pyrmont </name>
+</wpt>
+<wpt lat="51.3155777538" lon="9.54126264583">
+  <name>aldi Hannoversche Str.  13 34266 Niestetal </name>
+</wpt>
+<wpt lat="51.9817622506" lon="9.50449837858">
+  <name>aldi Ernst-Reuter-Straße 6 37619 Bodenwerder </name>
+</wpt>
+<wpt lat="52.0685411526" lon="8.75377168161">
+  <name>aldi Uferstraße 18 32108 Bad Salzuflen Schötmar </name>
+</wpt>
+<wpt lat="50.5954914511" lon="8.71305939251">
+  <name>aldi Oberlachweg 7  35394 Gießen </name>
+</wpt>
+<wpt lat="52.387379012" lon="8.62920664598">
+  <name>aldi General-Bishop-Straße 21 32339 Espelkamp </name>
+</wpt>
+<wpt lat="52.2734122922" lon="9.13206232193">
+  <name>aldi Neumarktstraße 47 31683 Obernkirchen </name>
+</wpt>
+<wpt lat="51.4049493072" lon="9.11260999559">
+  <name>aldi Arolser Straße 19d  34471 Volkmarsen </name>
+</wpt>
+<wpt lat="50.8601919373" lon="8.69957856164">
+  <name>aldi Wittgensteiner Str. 1 a  35094 Lahntal/Sterzhausen </name>
+</wpt>
+<wpt lat="51.9568019598" lon="10.0021469824">
+  <name>aldi Im Kleinen Maser 3  31195 Lamspringe </name>
+</wpt>
+<wpt lat="52.2883501375" lon="10.5627121258">
+  <name>aldi Bevenroder Str. 149  38108 Braunschweig-Querum </name>
+</wpt>
+<wpt lat="51.9094694772" lon="8.73529062261">
+  <name>aldi Rosenstrasse 8  32832 Augustdorf </name>
+</wpt>
+<wpt lat="52.4075400248" lon="10.9316498214">
+  <name>aldi An der Bascheriede 4 38458 Velpke </name>
+</wpt>
+<wpt lat="51.9429223482" lon="8.8718705949">
+  <name>aldi Arminstraße 27  32756 Detmold </name>
+</wpt>
+<wpt lat="52.3274013097" lon="9.78290136813">
+  <name>aldi Hildesheimer Str. 401 30519 Hannover </name>
+</wpt>
+<wpt lat="52.0539274782" lon="10.0019131588">
+  <name>aldi Bodenburger Straße  9 a 31162 Bad Salzdetfurth </name>
+</wpt>
+<wpt lat="51.767200149" lon="8.56265684714">
+  <name>aldi Brenkenkamp 10  33129 Delbrück </name>
+</wpt>
+<wpt lat="50.8330326082" lon="8.31445307712">
+  <name>aldi Rudolf-Loh-Str. 2  35716 Ewersbach </name>
+</wpt>
+<wpt lat="51.9924291562" lon="8.60729017844">
+  <name>aldi Oerlinghauser Str. 10  33699 Bielefeld </name>
+</wpt>
+<wpt lat="51.5272981121" lon="9.9245085482">
+  <name>aldi Leinestr. 49  37073 Göttingen </name>
+</wpt>
+<wpt lat="51.3250313586" lon="9.499354259">
+  <name>aldi Westring 40 34127 Kassel </name>
+</wpt>
+<wpt lat="50.6437290378" lon="9.38859381001">
+  <name>aldi An der Gall 1  36341 Lauterbach </name>
+</wpt>
+<wpt lat="52.3384912331" lon="9.83275975796">
+  <name>aldi Wülferoder Str.  51 30539 Hannover </name>
+</wpt>
+<wpt lat="51.9279293169" lon="8.59934017544">
+  <name>aldi Am Beckhof 80  33689 Bielefeld </name>
+</wpt>
+<wpt lat="51.5297374906" lon="9.88057668775">
+  <name>aldi Am Kauf Park 2  37079 Göttingen </name>
+</wpt>
+<wpt lat="50.5588608656" lon="9.66661009127">
+  <name>aldi Gartau 14  36039 Fulda-Horas </name>
+</wpt>
+<wpt lat="52.1568676692" lon="10.34843976">
+  <name>aldi Schlosserstr.  1 38229 Salzgitter-Lebenstedt </name>
+</wpt>
+<wpt lat="52.3935095051" lon="9.84598877878">
+  <name>aldi Buchholzer Str.  40 30629 Hannover </name>
+</wpt>
+<wpt lat="52.3166879362" lon="9.97265822698">
+  <name>aldi Bachstr. 9 31319 Sehnde </name>
+</wpt>
+<wpt lat="51.7359500454" lon="10.2381199786">
+  <name>aldi Lindenstr. 26 37520 Osterode </name>
+</wpt>
+<wpt lat="50.482269648" lon="8.29602597741">
+  <name>aldi Viehweg 12  35781 Weilburg </name>
+</wpt>
+<wpt lat="51.8677182764" lon="10.0177322259">
+  <name>aldi Neue Straße 37 37581 Bad Gandersheim </name>
+</wpt>
+<wpt lat="51.6813093023" lon="10.1090133689">
+  <name>aldi Albrechtshäuser Weg 1+3  37191 Katlenburg </name>
+</wpt>
+<wpt lat="52.1030022942" lon="9.3781706726">
+  <name>aldi Tunnelstraße 1 31785 Hameln </name>
+</wpt>
+<wpt lat="52.2865292554" lon="11.4202602432">
+  <name>aldi Magdeburger Str. 81 39340 Haldensleben </name>
+</wpt>
+<wpt lat="50.3555979153" lon="9.53490444208">
+  <name>aldi Am Reitstück 1  36381 Schlüchtern </name>
+</wpt>
+<wpt lat="52.2857975807" lon="9.82146427859">
+  <name>aldi Hildesheimer Str.  350 30880 Laatzen </name>
+</wpt>
+<wpt lat="52.5885421028" lon="11.8729607531">
+  <name>aldi Heerener Str. 53 39576 Stendal </name>
+</wpt>
+<wpt lat="50.6527103463" lon="8.32733136252">
+  <name>aldi In der Au 6  35764 Sinn </name>
+</wpt>
+<wpt lat="51.5459090541" lon="8.56482421221">
+  <name>aldi Fürstenberger Str. 26  33142 Büren </name>
+</wpt>
+<wpt lat="52.4531179975" lon="9.74075915768">
+  <name>aldi Am Pferdemarkt  9 30853 Langenhagen </name>
+</wpt>
+<wpt lat="52.3527589609" lon="9.29024399919">
+  <name>aldi Gewerbestraße 3 31698 Lindhorst </name>
+</wpt>
+<wpt lat="50.5437583087" lon="8.41074344147">
+  <name>aldi Solmser Gewerbepark 2  35606 Solms </name>
+</wpt>
+<wpt lat="51.9695581006" lon="8.22249744291">
+  <name>aldi Prozessionsweg 43  33428 Harsewinkel </name>
+</wpt>
+<wpt lat="52.2074606064" lon="8.59283808023">
+  <name>aldi Dünner Straße 4 32257 Bünde </name>
+</wpt>
+<wpt lat="51.5218482026" lon="9.96300850615">
+  <name>aldi Alfred-Delp-Weg 5  37085 Göttingen </name>
+</wpt>
+<wpt lat="51.2716902311" lon="9.49867976779">
+  <name>aldi Ostring 40-44 34277 Fuldabrück </name>
+</wpt>
+<wpt lat="50.6100124372" lon="8.79673227473">
+  <name>aldi Beuerner Weg 23  35418 Großen Buseck </name>
+</wpt>
+<wpt lat="52.0487897161" lon="9.38863877609">
+  <name>aldi Zum Distelflecken 2 31860 Emmerthal </name>
+</wpt>
+<wpt lat="52.1376520986" lon="10.97700261">
+  <name>aldi Hötensleber Str. 22 38364 Schöningen </name>
+</wpt>
+<wpt lat="52.5943987879" lon="10.9361104566">
+  <name>aldi Braunschweiger Str.  50 38465 Brome </name>
+</wpt>
+<wpt lat="52.4254215077" lon="9.41918873105">
+  <name>aldi In den Ellern 5 31515 Wunstorf </name>
+</wpt>
+<wpt lat="52.1425975065" lon="10.7676855063">
+  <name>aldi Neue Str. 1 d  38170 Schöppenstedt </name>
+</wpt>
+<wpt lat="52.4324185432" lon="10.847842041">
+  <name>aldi Neuhäuser Str.  9 38448 Wolfsburg </name>
+</wpt>
+<wpt lat="52.2800978068" lon="8.90235759734">
+  <name>aldi Wankelstraße  2 32427 Minden </name>
+</wpt>
+<wpt lat="52.1518190046" lon="10.5656529075">
+  <name>aldi Wendessener Str. 11 a  38300 Wolfenbüttel-Linden </name>
+</wpt>
+<wpt lat="52.3077315666" lon="8.48572887697">
+  <name>aldi Osnabrücker Straße 18 32361 Pr. Oldendorf </name>
+</wpt>
+<wpt lat="52.3992001677" lon="10.8353774435">
+  <name>aldi Hehlinger Str. 21 38446 Wolfsburg </name>
+</wpt>
+<wpt lat="52.6289274729" lon="11.1567769991">
+  <name>aldi Poppauerstr. 1 38486 Klötze </name>
+</wpt>
+<wpt lat="51.2801178196" lon="9.357000642">
+  <name>aldi Pfingstweide 2 34270 Schauenburg </name>
+</wpt>
+<wpt lat="52.1437123552" lon="11.9568584658">
+  <name>aldi Burger Str. 23 b 39291 Möckern </name>
+</wpt>
+<wpt lat="51.9883199846" lon="8.51349093494">
+  <name>aldi Hauptstr. 53  33647 Bielefeld </name>
+</wpt>
+<wpt lat="52.8879289802" lon="11.7331432231">
+  <name>aldi Arendseerstr. 49 39615 Seehausen </name>
+</wpt>
+<wpt lat="51.6447375746" lon="10.3163699515">
+  <name>aldi Northeimer Str. 99  37412 Herzberg </name>
+</wpt>
+<wpt lat="51.5081198219" lon="9.90938195878">
+  <name>aldi Rischenweg 15  37124 Rosdorf </name>
+</wpt>
+<wpt lat="52.1190411856" lon="8.65528697255">
+  <name>aldi Westring 64 32051 Herford </name>
+</wpt>
+<wpt lat="51.8389216713" lon="8.30054057188">
+  <name>aldi Hauptstr. 77  33378 Rheda-Wiedenbr. </name>
+</wpt>
+<wpt lat="50.679079806" lon="8.85045774746">
+  <name>aldi An der Mühle 9  35466 Rabenau-Londorf </name>
+</wpt>
+<wpt lat="51.8515280086" lon="11.5979302196">
+  <name>aldi An der  Salzrinne 2 39418 Staßfurt </name>
+</wpt>
+<wpt lat="52.1728375417" lon="9.23391948701">
+  <name>aldi Welseder Straße 6 31840 Hess.-Oldendorf </name>
+</wpt>
+<wpt lat="52.4206501648" lon="9.59607629771">
+  <name>aldi Planetenring 33 30823 Garbsen </name>
+</wpt>
+<wpt lat="50.7144096606" lon="10.1235374128">
+  <name>aldi An der Zehnt 4 36466 Dermbach </name>
+</wpt>
+<wpt lat="52.1163408258" lon="9.3427194149">
+  <name>aldi Fischbecker Landstraße 86 31787 Hameln </name>
+</wpt>
+<wpt lat="51.9406382305" lon="11.2327067222">
+  <name>aldi Magdeburger Str.  20 39397 Gröningen </name>
+</wpt>
+<wpt lat="51.9140796014" lon="10.4447121379">
+  <name>aldi Liebigstr. 6  38640 Goslar </name>
+</wpt>
+<wpt lat="52.0229094238" lon="8.88888575968">
+  <name>aldi Steinweg 66 32657 Lemgo </name>
+</wpt>
+<wpt lat="52.3198379042" lon="10.3984600277">
+  <name>aldi Büssingstr. 1 38176 Wendeburg </name>
+</wpt>
+<wpt lat="52.3748519378" lon="9.86524325437">
+  <name>aldi Anderter Str.  101 M 30559 Hannover </name>
+</wpt>
+<wpt lat="51.8584213871" lon="8.28179870961">
+  <name>aldi Herzebrocker Str. 20  33378 Rheda-Wiedenbr. </name>
+</wpt>
+<wpt lat="52.8364898142" lon="12.0814414878">
+  <name>aldi Pritzwalker Str. 70  39539 Havelberg </name>
+</wpt>
+<wpt lat="51.3668690924" lon="9.2903069517">
+  <name>aldi Vor Brakens Höhe 2  34289 Zierenberg </name>
+</wpt>
+<wpt lat="51.6731674517" lon="8.60500590156">
+  <name>aldi Am Wallgraben 14  33154 Salzkotten </name>
+</wpt>
+<wpt lat="52.4744486466" lon="10.3674244391">
+  <name>aldi Gifhorner Str.  10 38536 Meinersen </name>
+</wpt>
+<wpt lat="51.508701949" lon="10.2512500741">
+  <name>aldi Zur Feilenfabrik (ehemals Industriestraße) 2 37115 Duderstadt </name>
+</wpt>
+<wpt lat="52.2857920794" lon="8.95152350954">
+  <name>aldi Gneisenaustraße 4 32423 Minden </name>
+</wpt>
+<wpt lat="52.0202807238" lon="8.91100907119">
+  <name>aldi Lemgoer Straße 94 32657 Lemgo </name>
+</wpt>
+<wpt lat="52.0592581805" lon="8.51530756459">
+  <name>aldi Babenhauser Str. 20  33613 Bielefeld </name>
+</wpt>
+<wpt lat="51.0608821595" lon="8.78090421446">
+  <name>aldi Ruhrstr. 15  35066 Frankenberg </name>
+</wpt>
+<wpt lat="50.8428011121" lon="8.7668118449">
+  <name>aldi Industriestr. 9  35041 Marburg-Wehrda </name>
+</wpt>
+<wpt lat="52.0508305126" lon="10.3744661273">
+  <name>aldi Breslauer Straße  13 38259 Salzgitter </name>
+</wpt>
+<wpt lat="52.3106402487" lon="9.19194814766">
+  <name>aldi Jahnstraße 28 31655 Stadthagen </name>
+</wpt>
+<wpt lat="52.442999723" lon="9.61009672155">
+  <name>aldi Siemensstr.  1-3 30827 Garbsen </name>
+</wpt>
+<wpt lat="52.0931187137" lon="11.5706897682">
+  <name>aldi Halberstädter Chaussee  51 39116 Magdeburg </name>
+</wpt>
+<wpt lat="52.4397708137" lon="10.5651582806">
+  <name>aldi Reuteranger  4 38550 Isenbüttel </name>
+</wpt>
+<wpt lat="50.4287794769" lon="8.68499156519">
+  <name>aldi Am Keltenhof 1  35510 Butzbach </name>
+</wpt>
+<wpt lat="52.3985087666" lon="9.74931170615">
+  <name>aldi Wöhlerstr.  48 30163 Hannover </name>
+</wpt>
+<wpt lat="51.2838810429" lon="9.60085169544">
+  <name>aldi Im Feldhof 10  34260 Kaufungen </name>
+</wpt>
+<wpt lat="51.7489303993" lon="8.71860820682">
+  <name>aldi Hatzfelder Str. 22-24  33104 Paderborn </name>
+</wpt>
+<wpt lat="51.7834207398" lon="9.38255936204">
+  <name>aldi Küsterweg 1 37671 Höxter </name>
+</wpt>
+<wpt lat="52.634522236" lon="9.2247823795">
+  <name>aldi Ziegelkampstraße  30 31582 Nienburg </name>
+</wpt>
+<wpt lat="50.781731469" lon="8.76816982052">
+  <name>aldi Marburger Straße 100  35043 Marburg </name>
+</wpt>
+<wpt lat="52.4358782655" lon="9.35575058497">
+  <name>aldi Bergmannstraße 1 31558 Hagenburg </name>
+</wpt>
+<wpt lat="52.2904294824" lon="9.50954357279">
+  <name>aldi Egestorfer Warte 1 30890 Barsinghausen </name>
+</wpt>
+<wpt lat="52.1262579087" lon="11.6664135599">
+  <name>aldi Friedrich-Ebert-Str. 73 39114 Magdeburg </name>
+</wpt>
+<wpt lat="50.8640178434" lon="9.70842854594">
+  <name>aldi Heinrich-von-Stephan-Str. 2c  36251 Bad Hersfeld </name>
+</wpt>
+<wpt lat="52.1152584271" lon="11.6190642774">
+  <name>aldi Ackerstraße 2 39122 Magdeburg </name>
+</wpt>
+<wpt lat="52.2664725969" lon="10.5282771015">
+  <name>aldi Wilhelmstr. 98  38100 Braunschweig </name>
+</wpt>
+<wpt lat="52.4619627318" lon="9.14565107139">
+  <name>aldi Leeser Straße 33 31547 Rehburg-Loccum </name>
+</wpt>
+<wpt lat="52.2079125127" lon="8.65070942557">
+  <name>aldi In der Mark 90  32278 Kirchlengern </name>
+</wpt>
+<wpt lat="51.8826703519" lon="11.0580494732">
+  <name>aldi Rudolf-Diesel-Straße 14 38820 Halberstadt </name>
+</wpt>
+<wpt lat="52.0387226356" lon="8.5437081409">
+  <name>aldi Beckhausstr. 64  33611 Bielefeld </name>
+</wpt>
+<wpt lat="52.4915582924" lon="9.84424409487">
+  <name>aldi In der Meineworth 25 30938 Großburgwedel </name>
+</wpt>
+<wpt lat="52.320118257" lon="9.59372906832">
+  <name>aldi Everloher Straße 1 30989 Gehrden </name>
+</wpt>
+<wpt lat="52.3720023833" lon="9.78911568043">
+  <name>aldi Kirchröder Str. 91 - 92 30625 Hannover </name>
+</wpt>
+<wpt lat="52.162798429" lon="9.9648880883">
+  <name>aldi Drispenstedter Str. 4  31135 Hildesheim-Drispenstedt </name>
+</wpt>
+<wpt lat="52.7751218865" lon="11.7555723039">
+  <name>aldi Stendaler Chaussee 35 39606 Osterburg </name>
+</wpt>
+<wpt lat="50.7091192825" lon="8.69661080034">
+  <name>aldi Im Boden 2-4  35112 Fronhausen </name>
+</wpt>
+<wpt lat="51.4931778822" lon="9.13698161111">
+  <name>aldi Papenheimer Str. 65-67 34414 Warburg </name>
+</wpt>
+<wpt lat="51.8153607511" lon="9.8790928071">
+  <name>aldi Grimsehlstr.  40 37574 Einbeck </name>
+</wpt>
+<wpt lat="52.424971817" lon="9.7325393582">
+  <name>aldi Vahrenwalder Str. 252 30179 Hannover </name>
+</wpt>
+<wpt lat="52.1153191747" lon="9.72725134715">
+  <name>aldi Sehlder Str. 19 31008 Elze </name>
+</wpt>
+<wpt lat="51.9546127697" lon="10.5680361097">
+  <name>aldi Wiedelaher Str. 10 a  38690 Vienenburg </name>
+</wpt>
+<wpt lat="52.1201621458" lon="9.9903119101">
+  <name>aldi In der Schratwanne 36  31141 Hildesheim Itzum </name>
+</wpt>
+<wpt lat="51.3439102531" lon="9.51859974137">
+  <name>aldi Ziegelei 3  34233 Fuldatal </name>
+</wpt>
+<wpt lat="52.0801601168" lon="11.8143969302">
+  <name>aldi Am Gewerbepark 2 39245 Gommern </name>
+</wpt>
+<wpt lat="52.3403978922" lon="10.256699963">
+  <name>aldi Caroline-Herschel- Str. 1 31228 Peine </name>
+</wpt>
+<wpt lat="52.1040684188" lon="8.93421156862">
+  <name>aldi Fassensteg 4 32689 Kalletal Hohenhausen </name>
+</wpt>
+<wpt lat="52.309001733" lon="10.2325711643">
+  <name>aldi Ilseder Str.  58 31226 Peine </name>
+</wpt>
+<wpt lat="52.0822879059" lon="11.6049269417">
+  <name>aldi Salbker Chaussee 79 39116 Magdeburg </name>
+</wpt>
+<wpt lat="51.7085013917" lon="10.0058971535">
+  <name>aldi Nordhäuser Weg 3 37154 Northeim </name>
+</wpt>
+<wpt lat="51.9112226007" lon="8.42518654646">
+  <name>aldi Osnabr. Landstr. 1  33335 Gütersloh </name>
+</wpt>
+<wpt lat="52.0321390876" lon="8.60935861813">
+  <name>aldi Amtmann-Bullrich-Str. 23  33719 Bielefeld </name>
+</wpt>
+<wpt lat="52.1641003319" lon="10.513977888">
+  <name>aldi Grauhofstr. 1  38304 Wolfenbüttel </name>
+</wpt>
+<wpt lat="52.1340917273" lon="9.94345725443">
+  <name>aldi Theodor-Storm-Str. 20  31139 Hildesheim Ochtersum </name>
+</wpt>
+<wpt lat="52.1469408437" lon="11.226618315">
+  <name>aldi Ovelgünner Str. 34 39365 Eilsleben </name>
+</wpt>
+<wpt lat="52.4629983372" lon="10.7195268343">
+  <name>aldi Laischeweg  2 38554 Weyhausen </name>
+</wpt>
+<wpt lat="51.9375888631" lon="9.09935399512">
+  <name>aldi Schmuckenberger Weg 2a 32825 Blomberg </name>
+</wpt>
+<wpt lat="52.4302197512" lon="8.62290240152">
+  <name>aldi Eisenbahnstraße 14 32369 Rahden </name>
+</wpt>
+<wpt lat="51.2997012079" lon="9.53619047198">
+  <name>aldi Leipziger Str. 212  34123 Kassel </name>
+</wpt>
+<wpt lat="50.8724291917" lon="9.33568671994">
+  <name>aldi Niederrheinische Str.  40 34626 Neukirchen </name>
+</wpt>
+<wpt lat="51.8985109053" lon="11.0652980053">
+  <name>aldi Magdeburger Straße 47 38820 Halberstadt </name>
+</wpt>
+<wpt lat="51.5896011285" lon="9.92760221452">
+  <name>aldi Göttinger Str. 23 37120 Bovenden </name>
+</wpt>
+<wpt lat="51.4914196849" lon="9.38372848013">
+  <name>aldi Garnisons-Galerie 3  34369 Hofgeismar </name>
+</wpt>
+<wpt lat="52.1923521676" lon="9.45646561161">
+  <name>aldi Süntelstraße 42 31848 Bad Münder </name>
+</wpt>
+<wpt lat="50.5706172818" lon="8.69181741618">
+  <name>aldi Schiffenberger Weg 106  35394 Gießen </name>
+</wpt>
+<wpt lat="52.3567192655" lon="9.75222550815">
+  <name>aldi Mozartstr.  14-16 30173 Hannover </name>
+</wpt>
+<wpt lat="51.7133605769" lon="8.79412424207">
+  <name>aldi Hardehauser Weg 2  33100 Paderborn </name>
+</wpt>
+<wpt lat="52.3269396272" lon="9.19843225644">
+  <name>aldi Bahnhofstraße 26 31655 Stadthagen </name>
+</wpt>
+<wpt lat="51.9791089756" lon="10.9805099643">
+  <name>aldi Bahnchaussee 119 f 38838 Dingelstedt </name>
+</wpt>
+<wpt lat="51.9121989942" lon="11.774556983">
+  <name>aldi Ziegeleistraße 16 39240 Calbe </name>
+</wpt>
+<wpt lat="51.529032546" lon="9.03525934426">
+  <name>aldi Kasseler Tor 40  34414 Scherfede </name>
+</wpt>
+<wpt lat="52.0168216726" lon="11.7329363791">
+  <name>aldi Schillerstraße 11 39218 Schönebeck </name>
+</wpt>
+<wpt lat="52.2591574996" lon="11.8443623261">
+  <name>aldi Zibbeklebener Str. 7 39288 Burg </name>
+</wpt>
+<wpt lat="51.822837773" lon="10.807426528">
+  <name>aldi Mühlental 42  38855 Wernigerode </name>
+</wpt>
+<wpt lat="52.1152473821" lon="9.41628392226">
+  <name>aldi Carl-Wilhelm-Niemeyer-Straße 2 31789 Hameln </name>
+</wpt>
+<wpt lat="51.9165703138" lon="8.37209059884">
+  <name>aldi Brockhäger Str. 24  33330 Gütersloh </name>
+</wpt>
+<wpt lat="51.6355007221" lon="9.55970773197">
+  <name>aldi Uslarer Str. 9a  37194 Bodenfelde </name>
+</wpt>
+<wpt lat="52.0640077206" lon="8.69230304985">
+  <name>aldi Am Bexterholz  2 32107 Bad Salzuflen </name>
+</wpt>
+<wpt lat="50.5753978423" lon="8.50920117088">
+  <name>aldi Naunheimer Str. 36a  35576 Wetzlar </name>
+</wpt>
+<wpt lat="51.3165501824" lon="9.4966113281">
+  <name>aldi Mauerstr. 11 (Kurfürstengalerie)  34117 Kassel </name>
+</wpt>
+<wpt lat="51.9445910111" lon="8.41561776457">
+  <name>aldi Isselhorster Str. 416  33334 Gütersloh </name>
+</wpt>
+<wpt lat="52.125937681" lon="9.90636023819">
+  <name>aldi Robert-Bosch-Straße 101 31139 Hildesheim Neuhof </name>
+</wpt>
+<wpt lat="52.0975221221" lon="8.51260060655">
+  <name>aldi Beckendorfstr. 3  33739 Bielefeld </name>
+</wpt>
+<wpt lat="51.3313982355" lon="9.4561238694">
+  <name>aldi Wolfhager Str. 274 34130 Kassel </name>
+</wpt>
+<wpt lat="51.5230904365" lon="8.70617958223">
+  <name>aldi Zinsdorfer Weg 31  33181 Bad Wünnenberg </name>
+</wpt>
+<wpt lat="50.8267615142" lon="9.01265039909">
+  <name>aldi Herrenwaldstrasse 6b 35260 Stadtallendorf </name>
+</wpt>
+<wpt lat="52.0231584505" lon="8.5627467793">
+  <name>aldi Heeper Str. 174  33607 Bielefeld </name>
+</wpt>
+<wpt lat="50.7626674488" lon="8.91579346213">
+  <name>aldi Homberger Strasse 15 35287 Amöneburg </name>
+</wpt>
+<wpt lat="51.1850801888" lon="10.0638494378">
+  <name>aldi Dünzebacher Str. 2c  37269 Eschwege </name>
+</wpt>
+<wpt lat="50.9700190647" lon="9.79522207413">
+  <name>aldi Bismarckstraße 10 36179 Bebra </name>
+</wpt>
+<wpt lat="52.3043222819" lon="10.518348591">
+  <name>aldi Osterbergstr. 15  38112 Braunschweig-Rühme </name>
+</wpt>
+<wpt lat="52.0118124925" lon="8.5982519963">
+  <name>aldi Oldentruper Str.266  33719 Bielefeld </name>
+</wpt>
+<wpt lat="50.8081079842" lon="8.77182106624">
+  <name>aldi Erlenring 9  35037 Marburg </name>
+</wpt>
+</gpx>
