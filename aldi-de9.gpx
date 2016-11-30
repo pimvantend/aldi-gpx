@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="Locus Android"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
+ xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
+ xmlns:locus="http://www.locusmap.eu">
+<wpt lat="49.0653125704" lon="10.3418477326">
+  <name>aldi Wassertrüdinger Straße 53  91550 Dinkelsbühl </name>
+</wpt>
+<wpt lat="48.890179224" lon="12.5765989708">
+  <name>aldi Chamer Straße 42  94315 Straubing </name>
+</wpt>
+<wpt lat="49.4804306345" lon="10.8687692548">
+  <name>aldi Am Seukenbach 4  90556 Seukendorf </name>
+</wpt>
+<wpt lat="50.4937304977" lon="11.3781989717">
+  <name>aldi Lauensteiner Straße 80  96337 Ludwigsstadt </name>
+</wpt>
+<wpt lat="49.4605605339" lon="11.0241720283">
+  <name>aldi Fürther Straße 301-303  90429 Nürnberg </name>
+</wpt>
+<wpt lat="50.1684111995" lon="12.1093924033">
+  <name>aldi Weißenbacher Straße 90  95100 Selb </name>
+</wpt>
+<wpt lat="51.2391918574" lon="10.4565921763">
+  <name>aldi Am langen Rasen 4 99974 Mühlhausen </name>
+</wpt>
+<wpt lat="50.6941503722" lon="10.5606077133">
+  <name>aldi Bahnhofstr. 16 98587 Steinbach-Hallenberg </name>
+</wpt>
+<wpt lat="50.3217209864" lon="11.7207415781">
+  <name>aldi Selbitzer Berg 24  95119 Naila </name>
+</wpt>
+<wpt lat="49.5327380809" lon="12.1359223907">
+  <name>aldi Klaus-Conrad-Straße 1  92533 Wernberg-Köblitz </name>
+</wpt>
+<wpt lat="51.4826724853" lon="10.809342083">
+  <name>aldi Uthleber Weg 21 99734 Nordhausen </name>
+</wpt>
+<wpt lat="49.8934671245" lon="9.82291218638">
+  <name>aldi Würzburger Straße 74  97225 Zellingen </name>
+</wpt>
+<wpt lat="49.4966596927" lon="10.4075072031">
+  <name>aldi Illesheimer Straße 5  91438 Bad Windsheim </name>
+</wpt>
+<wpt lat="50.2983627249" lon="11.2859465613">
+  <name>aldi Industriestraße 16  96342 Stockheim </name>
+</wpt>
+<wpt lat="49.1974195656" lon="12.0584818072">
+  <name>aldi Regensburger Straße 62  93133 Burglengenfeld </name>
+</wpt>
+<wpt lat="49.7621582241" lon="9.84382141371">
+  <name>aldi Landwehrstr. 19  97249 Eisingen </name>
+</wpt>
+<wpt lat="50.9942911608" lon="11.3080159135">
+  <name>aldi Marcel-Paul-Str. 156a 99427 Weimar </name>
+</wpt>
+<wpt lat="49.4252420063" lon="11.084849257">
+  <name>aldi Katzwanger Straße 140  90461 Nürnberg </name>
+</wpt>
+<wpt lat="49.7316092419" lon="10.1708866954">
+  <name>aldi Marktbreiter Straße 7  97318 Kitzingen </name>
+</wpt>
+<wpt lat="49.829910883" lon="10.9869760866">
+  <name>aldi Löserstraße 2  96114 Hirschaid </name>
+</wpt>
+<wpt lat="51.5151888038" lon="10.8035234723">
+  <name>aldi Stolberger Straße 134 99734 Nordhausen </name>
+</wpt>
+<wpt lat="49.4264703953" lon="11.0658286051">
+  <name>aldi Dianastraße 27  90441 Nürnberg </name>
+</wpt>
+<wpt lat="49.6633406811" lon="12.1596015286">
+  <name>aldi Untere Bauscherstraße 5  92637 Weiden </name>
+</wpt>
+<wpt lat="48.6219021122" lon="13.4778181453">
+  <name>aldi Jägeröd 5  94121 Salzweg </name>
+</wpt>
+<wpt lat="49.5934722159" lon="11.0185063021">
+  <name>aldi Henkestraße 92  91052 Erlangen </name>
+</wpt>
+<wpt lat="50.0414380682" lon="10.2069404985">
+  <name>aldi Oskar-von-Miller-Straße 6  97424 Schweinfurt </name>
+</wpt>
+<wpt lat="49.4481610153" lon="11.0810271402">
+  <name>aldi Königstraße 83 - 87  90402 Nürnberg </name>
+</wpt>
+<wpt lat="49.4443312043" lon="11.8383728442">
+  <name>aldi Rammertshofer Weg 2  92224 Amberg </name>
+</wpt>
+<wpt lat="49.9844901467" lon="12.0681405213">
+  <name>aldi Ludwig-Hüttner-Straße 2  95679 Waldershof </name>
+</wpt>
+<wpt lat="50.9847525574" lon="11.3291769509">
+  <name>aldi Friedensstr. 1 99423 Weimar </name>
+</wpt>
+<wpt lat="49.4008023756" lon="11.1167931605">
+  <name>aldi Zollhausstraße 22  90469 Nürnberg </name>
+</wpt>
+<wpt lat="50.4162885872" lon="10.9133306403">
+  <name>aldi Coburger Str. 76 98673 Eisfeld </name>
+</wpt>
+<wpt lat="49.9590226533" lon="11.6047470774">
+  <name>aldi Theodor-Schmidt-Straße 12  95448 Bayreuth </name>
+</wpt>
+<wpt lat="49.3137226591" lon="12.0999405333">
+  <name>aldi Regensburger Straße 68  92421 Schwandorf </name>
+</wpt>
+<wpt lat="50.9934307856" lon="10.2927537662">
+  <name>aldi An der Karlskuppe 3 99817 Eisenach </name>
+</wpt>
+<wpt lat="49.3434382326" lon="11.0482019016">
+  <name>aldi Katzwanger Straße 24  91126 Schwabach-Limbach </name>
+</wpt>
+<wpt lat="49.4353723711" lon="11.0409893423">
+  <name>aldi Konstanzenstraße 111  90439 Nürnberg </name>
+</wpt>
+<wpt lat="50.8305390403" lon="10.9692414646">
+  <name>aldi Stadtilmer Str. 100  99310 Arnstadt </name>
+</wpt>
+<wpt lat="49.3490628305" lon="11.1018464354">
+  <name>aldi Heinrich-Wich-Straße 1  90530 Wendelstein </name>
+</wpt>
+<wpt lat="49.7233018463" lon="11.9041222468">
+  <name>aldi Pressather Straße 9  92655 Grafenwöhr </name>
+</wpt>
+<wpt lat="48.7835416095" lon="12.8831866995">
+  <name>aldi Leitenweg 72  94447 Plattling </name>
+</wpt>
+<wpt lat="49.6954509499" lon="12.1607526603">
+  <name>aldi Neustädter Straße 47  92637 Weiden </name>
+</wpt>
+<wpt lat="50.1125309697" lon="11.4566557886">
+  <name>aldi Albert-Ruckdeschel-Str. 29  95326 Kulmbach </name>
+</wpt>
+<wpt lat="48.5712929594" lon="13.4148386533">
+  <name>aldi Graneckerstraße 2  94036 Passau </name>
+</wpt>
+<wpt lat="48.967137769" lon="13.1368583449">
+  <name>aldi Rinchnacher Straße 9  94209 Regen </name>
+</wpt>
+<wpt lat="48.9670492093" lon="10.9087171205">
+  <name>aldi Ansbacher Straße 48  91757 Treuchtlingen </name>
+</wpt>
+<wpt lat="49.7713708602" lon="11.3435660966">
+  <name>aldi Balthasar-Neumann-Str. 36a  91327 Gößweinstein </name>
+</wpt>
+<wpt lat="49.6956196503" lon="10.2610256999">
+  <name>aldi Bahnhofstr. 69  97346 Iphofen </name>
+</wpt>
+<wpt lat="49.4454012427" lon="11.0713324533">
+  <name>aldi Zeltnerstraße 19  90443 Nürnberg </name>
+</wpt>
+<wpt lat="50.6955403809" lon="10.9237807574">
+  <name>aldi Ziolkowskistraße 25 98693 Ilmenau </name>
+</wpt>
+<wpt lat="50.9870397365" lon="11.0414030302">
+  <name>aldi Schlachthofstr. 23  99085 Erfurt </name>
+</wpt>
+<wpt lat="49.6630205192" lon="11.4698398433">
+  <name>aldi Gewerbepark Schönthal 2  91287 Plech </name>
+</wpt>
+<wpt lat="49.5066409869" lon="11.4822594747">
+  <name>aldi Happurger Straße 12  91224 Hohenstadt </name>
+</wpt>
+<wpt lat="49.6078222411" lon="11.1223599612">
+  <name>aldi Zum Neuntagwerk 14  91077 Neunkirchen </name>
+</wpt>
+<wpt lat="50.5589522776" lon="10.4131729292">
+  <name>aldi Steinweg 28 98617 Meiningen </name>
+</wpt>
+<wpt lat="50.1296795095" lon="10.5180877878">
+  <name>aldi Hans-Elbe-Straße 1  97461 Hofheim </name>
+</wpt>
+<wpt lat="49.706409441" lon="10.8010593311">
+  <name>aldi Rothenburger Straße 15  91315 Höchstadt/Aisch </name>
+</wpt>
+<wpt lat="49.6725022416" lon="11.0453870249">
+  <name>aldi Am Kreuzbach 14  91083 Baiersdorf </name>
+</wpt>
+<wpt lat="50.8473495838" lon="10.95502319">
+  <name>aldi Ichtershäuser Str. 47-49 99310 Arnstadt </name>
+</wpt>
+<wpt lat="50.1052810681" lon="11.0032897806">
+  <name>aldi Bischof-von-Dinkel-Str. 1  96231 Bad Staffelstein </name>
+</wpt>
+<wpt lat="49.3975775656" lon="11.0391007669">
+  <name>aldi Eibacher Hauptstraße 127  90451 Nürnberg </name>
+</wpt>
+<wpt lat="49.9291015328" lon="11.3010101982">
+  <name>aldi Südstraße 4  96142 Hollfeld </name>
+</wpt>
+<wpt lat="49.3145024092" lon="11.0552885558">
+  <name>aldi Penzendorfer Straße 1-3  91126 Rednitzhembach </name>
+</wpt>
+<wpt lat="49.2499700924" lon="10.4221931249">
+  <name>aldi Lange Mähder 6  91589 Aurach </name>
+</wpt>
+<wpt lat="49.0129905354" lon="12.0452887593">
+  <name>aldi Rennweg 18  93049 Regensburg </name>
+</wpt>
+<wpt lat="49.9403082142" lon="11.7386110984">
+  <name>aldi Winter-Ring 6  95466 Weidenberg </name>
+</wpt>
+<wpt lat="49.4741607349" lon="11.1041936648">
+  <name>aldi Bessemer Straße 6  90411 Nürnberg </name>
+</wpt>
+<wpt lat="50.2223389079" lon="11.0566465315">
+  <name>aldi Frankenring 2  96237 Ebersdorf </name>
+</wpt>
+<wpt lat="50.00382903" lon="10.1157492877">
+  <name>aldi Am Eschenbach 5  97440 Werneck </name>
+</wpt>
+<wpt lat="49.4834805656" lon="11.05829229">
+  <name>aldi Staffelsteiner Straße 3  90425 Nürnberg </name>
+</wpt>
+<wpt lat="48.5525983571" lon="12.8057820889">
+  <name>aldi Bürgermeister-Haberl-Str.1  94424 Arnstorf </name>
+</wpt>
+<wpt lat="49.0789396835" lon="12.8781415053">
+  <name>aldi Schmidstraße 24 c  94234 Viechtach </name>
+</wpt>
+<wpt lat="49.19318819" lon="11.3373697707">
+  <name>aldi Appianistraße 6  92342 Freystadt </name>
+</wpt>
+<wpt lat="49.6606396123" lon="10.0754776662">
+  <name>aldi Pestalozzistraße 2  97199 Ochsenfurt </name>
+</wpt>
+<wpt lat="49.4416179968" lon="11.0744530993">
+  <name>aldi Peter-Henlein-Str. 27-31  90443 Nürnberg </name>
+</wpt>
+<wpt lat="49.000767257" lon="12.1970492803">
+  <name>aldi Bischof-Sailer-Straße 1  93092 Barbing </name>
+</wpt>
+<wpt lat="50.3395119694" lon="10.7911398137">
+  <name>aldi Kantstraße 35  96476 Bad Rodach </name>
+</wpt>
+<wpt lat="50.0376605831" lon="11.4904972606">
+  <name>aldi An der Autobahn 6  95512 Neudrossenfeld </name>
+</wpt>
+<wpt lat="50.3323194506" lon="10.228937905">
+  <name>aldi Borsigstraße 13  97616 Bad Neustadt/Saale </name>
+</wpt>
+<wpt lat="49.0097521307" lon="12.0842743509">
+  <name>aldi Balwinusstraße 2  93051 Regensburg </name>
+</wpt>
+<wpt lat="50.8275284051" lon="10.7269192579">
+  <name>aldi Weststr. 1 - 3 99885 Ohrdruf </name>
+</wpt>
+<wpt lat="49.9735713731" lon="10.873148951">
+  <name>aldi Gewerbepark 1  96149 Breitengüßbach </name>
+</wpt>
+<wpt lat="49.6581014023" lon="9.94703655442">
+  <name>aldi Langenwiesengraben 3  97232 Giebelstadt </name>
+</wpt>
+<wpt lat="49.2880895685" lon="11.4425993919">
+  <name>aldi Nürnberger Straße 39  92318 Neumarkt i.d. Oberpfalz </name>
+</wpt>
+<wpt lat="49.9934118595" lon="9.5607329586">
+  <name>aldi Rechtenbacher Str. 35  97816 Lohr/Main </name>
+</wpt>
+<wpt lat="49.9141687491" lon="10.8247384689">
+  <name>aldi Hauptstraße 132  96120 Bischberg </name>
+</wpt>
+<wpt lat="49.9157091416" lon="10.8676630892">
+  <name>aldi Emil-Kemmer-Straße 9 A  96103 Hallstadt </name>
+</wpt>
+<wpt lat="50.3179311461" lon="10.2039187779">
+  <name>aldi Saalestraße 13  97616 Bad Neustadt/Saale </name>
+</wpt>
+<wpt lat="49.1235477586" lon="10.7719932568">
+  <name>aldi Breslauer Straße 1  91710 Gunzenhausen </name>
+</wpt>
+<wpt lat="49.2933275202" lon="10.6033794489">
+  <name>aldi Windsbacher Str. 24  91522 Ansbach-Eyb </name>
+</wpt>
+<wpt lat="49.4109026784" lon="11.1395909632">
+  <name>aldi Lübener Straße 18  90471 Nürnberg </name>
+</wpt>
+<wpt lat="48.6521517761" lon="13.616286693">
+  <name>aldi Steinbergstraße 4  94051 Hauzenberg </name>
+</wpt>
+<wpt lat="50.3199524319" lon="11.9277923915">
+  <name>aldi Christoph-Klauß-Straße 15  95028 Hof </name>
+</wpt>
+<wpt lat="50.1408798277" lon="11.2407466574">
+  <name>aldi Seewiese 1  96224 Burgkunstadt </name>
+</wpt>
+<wpt lat="49.797668933" lon="9.95610171621">
+  <name>aldi Innere Aumühlstr. 1  97076 Würzburg-Grombühl </name>
+</wpt>
+<wpt lat="51.0173002771" lon="10.9843320811">
+  <name>aldi Scheidemantelweg 9  99091 Erfurt-Gispersleben </name>
+</wpt>
+<wpt lat="48.6163494184" lon="13.1770760071">
+  <name>aldi Aidenbacher Straße 74 a  94474 Vilshofen </name>
+</wpt>
+<wpt lat="50.9454679643" lon="10.6857842876">
+  <name>aldi Coburger Platz 2  99867 Gotha </name>
+</wpt>
+<wpt lat="48.8563508879" lon="13.3821573061">
+  <name>aldi Frauenberg 27  94481 Grafenau </name>
+</wpt>
+<wpt lat="48.8552798852" lon="12.9624529059">
+  <name>aldi Graflinger Straße 157  94469 Deggendorf </name>
+</wpt>
+<wpt lat="49.2057284638" lon="12.5268215199">
+  <name>aldi Kagerstraße 2  93426 Roding </name>
+</wpt>
+<wpt lat="48.3931614041" lon="13.3086197784">
+  <name>aldi Bürgm.-Schönbauer-Str. 10  94060 Pocking </name>
+</wpt>
+<wpt lat="50.0374006535" lon="11.6788961438">
+  <name>aldi Maintalstraße 161  95460 Bad Berneck </name>
+</wpt>
+<wpt lat="49.4545979321" lon="11.0013382527">
+  <name>aldi Magazinstraße 61  90763 Fürth </name>
+</wpt>
+<wpt lat="49.2959023003" lon="10.9757705394">
+  <name>aldi Am Markt 2  91126 Kammerstein </name>
+</wpt>
+<wpt lat="50.100308743" lon="11.3907804809">
+  <name>aldi Tiefe Äcker 2  95336 Mainleus </name>
+</wpt>
+<wpt lat="49.0211711403" lon="10.9670830927">
+  <name>aldi Adolph-Kolping-Straße 1a  91781 Weißenburg </name>
+</wpt>
+<wpt lat="49.3348184605" lon="10.7799702394">
+  <name>aldi Ansbacher Straße 44  91560 Heilsbronn </name>
+</wpt>
+<wpt lat="48.8633680513" lon="12.5748902598">
+  <name>aldi Landshuter Straße 149  94315 Straubing </name>
+</wpt>
+<wpt lat="49.3819889746" lon="11.3423789921">
+  <name>aldi Prackenfelser Straße 12  90518 Altdorf </name>
+</wpt>
+<wpt lat="49.2634291144" lon="11.4746062478">
+  <name>aldi Gutenbergstraße 3  92318 Neumarkt i.d. Opf. </name>
+</wpt>
+<wpt lat="49.5830480231" lon="10.9662017575">
+  <name>aldi Gundstraße 2  91056 Erlangen </name>
+</wpt>
+<wpt lat="49.3122686561" lon="11.4723129777">
+  <name>aldi Karl-Schiller-Straße 2  92348 Berg </name>
+</wpt>
+<wpt lat="51.2115101763" lon="10.4624917261">
+  <name>aldi Kreuzgraben 5 99974 Mühlhausen </name>
+</wpt>
+<wpt lat="50.0438118402" lon="9.71010128413">
+  <name>aldi Wernfelder Straße 28  97737 Gemünden/Main </name>
+</wpt>
+<wpt lat="49.579660264" lon="10.6026060323">
+  <name>aldi Am alten Gleis 2  91413 Neustadt/Aisch </name>
+</wpt>
+<wpt lat="49.8528721982" lon="9.60042002107">
+  <name>aldi Georg-Mayr-Straße 26  97828 Marktheidenfeld </name>
+</wpt>
+<wpt lat="49.4342728715" lon="11.8853623981">
+  <name>aldi Am Bergsteig 2  92224 Amberg </name>
+</wpt>
+<wpt lat="50.0364302371" lon="10.2485521092">
+  <name>aldi August-Borsig-Str. 2  97526 Sennfeld </name>
+</wpt>
+<wpt lat="51.1805196235" lon="11.2527436076">
+  <name>aldi Weimarische Straße 1 A 99625 Kölleda </name>
+</wpt>
+<wpt lat="49.0338787858" lon="11.9346092492">
+  <name>aldi An der Steinbuchse 2  93152 Nittendorf </name>
+</wpt>
+<wpt lat="49.4839421287" lon="10.9595377844">
+  <name>aldi Würzburger Straße 171  90766 Fürth </name>
+</wpt>
+<wpt lat="51.0055990834" lon="11.0138478162">
+  <name>aldi Mainzer Str. 36 99089 Erfurt </name>
+</wpt>
+<wpt lat="49.8286926254" lon="9.6218868278">
+  <name>aldi In der Röthe 4  97837 Erlenbach </name>
+</wpt>
+<wpt lat="49.4809623411" lon="9.90859055577">
+  <name>aldi Industriestraße 18  97990 Weikersheim </name>
+</wpt>
+<wpt lat="49.5920089988" lon="11.0289744056">
+  <name>aldi Allee am Röthelheimpark 15  91052 Erlangen </name>
+</wpt>
+<wpt lat="48.9944892723" lon="12.1115237955">
+  <name>aldi Johann-Hösl-Straße 1  93053 Regensburg </name>
+</wpt>
+<wpt lat="50.2300313194" lon="10.9784415246">
+  <name>aldi Fabrikweg 11  96450 Coburg </name>
+</wpt>
+<wpt lat="50.5152085246" lon="10.7531704555">
+  <name>aldi Suhler Str. 32-40 98553 Schleusingen </name>
+</wpt>
+<wpt lat="49.5461198435" lon="9.73215264991">
+  <name>aldi Hauptstr. 88  97922 Lauda-Königshofen </name>
+</wpt>
+<wpt lat="49.2514200631" lon="10.8394873433">
+  <name>aldi Fohlenhof 27  91575 Windsbach </name>
+</wpt>
+<wpt lat="49.4679075661" lon="10.9954926623">
+  <name>aldi Karolinenstraße 90  90763 Fürth </name>
+</wpt>
+<wpt lat="51.2371479812" lon="10.9444471679">
+  <name>aldi Am Weinberg 77 99718 Greußen </name>
+</wpt>
+<wpt lat="50.0558117422" lon="10.2259701437">
+  <name>aldi Heckenweg 5  97422 Schweinfurt </name>
+</wpt>
+<wpt lat="49.5753683759" lon="11.0005018836">
+  <name>aldi Cumianastraße 5  91058 Erlangen </name>
+</wpt>
+<wpt lat="49.9566389051" lon="9.77264910182">
+  <name>aldi Würzburger Straße 1 h  97753 Karlstadt </name>
+</wpt>
+<wpt lat="49.2470406693" lon="11.1203994401">
+  <name>aldi Bortenmacherstraße 4  91154 Roth </name>
+</wpt>
+<wpt lat="49.5047722044" lon="11.4400273321">
+  <name>aldi Happurger Straße 23  91217 Hersbruck </name>
+</wpt>
+<wpt lat="50.287469385" lon="10.9838824203">
+  <name>aldi Niorter Straße 3d  96450 Coburg </name>
+</wpt>
+<wpt lat="49.6638820411" lon="10.4587595414">
+  <name>aldi Geiselwinder Straße 1  91443 Scheinfeld </name>
+</wpt>
+<wpt lat="49.1562717245" lon="10.3296799113">
+  <name>aldi Schopflocher Straße 4  91555 Feuchtwangen </name>
+</wpt>
+<wpt lat="49.5412122611" lon="10.2393880221">
+  <name>aldi Nürnberger Straße 4  97215 Uffenheim </name>
+</wpt>
+<wpt lat="49.4559074284" lon="11.1220002326">
+  <name>aldi Ostendstraße 144  90482 Nürnberg </name>
+</wpt>
+<wpt lat="49.4955790911" lon="10.8129573559">
+  <name>aldi Am Galgenberg 8  90579 Langenzenn </name>
+</wpt>
+<wpt lat="49.494527672" lon="9.77434881966">
+  <name>aldi Johann-Hammer-Str. 23  97980 Bad Mergentheim </name>
+</wpt>
+<wpt lat="50.0546915704" lon="11.614801493">
+  <name>aldi Kulmbacher Straße 3  95502 Himmelkron </name>
+</wpt>
+<wpt lat="49.3108497893" lon="10.5584223618">
+  <name>aldi Rothenburger Straße 9  91522 Ansbach </name>
+</wpt>
+<wpt lat="50.0586871152" lon="10.1881536702">
+  <name>aldi Schweinfurter Straße 122  97464 Niederwerrn </name>
+</wpt>
+<wpt lat="49.7390027326" lon="12.1779027233">
+  <name>aldi Tirschenreuther Straße 40  92660 Neustadt an der Waldnaab </name>
+</wpt>
+<wpt lat="49.1929707345" lon="12.100264289">
+  <name>aldi Nordgaustraße 2  93142 Maxhütte-Haidhof </name>
+</wpt>
+<wpt lat="49.1979602153" lon="12.6625381435">
+  <name>aldi Am Taschinger Berg 3  93413 Cham </name>
+</wpt>
+<wpt lat="49.3146782909" lon="12.1483330289">
+  <name>aldi Am Brunnfeld 1  92421 Schwandorf </name>
+</wpt>
+<wpt lat="49.1763178593" lon="11.0116444783">
+  <name>aldi Pleinfelder Straße 66e  91166 Georgensgmünd </name>
+</wpt>
+<wpt lat="50.0031989767" lon="12.2971887411">
+  <name>aldi An der Tongrube 2  95652 Waldsassen </name>
+</wpt>
+<wpt lat="50.0430899025" lon="12.0189566227">
+  <name>aldi Egerstraße 131  95632 Wunsiedel </name>
+</wpt>
+<wpt lat="49.6350185752" lon="9.65431636491">
+  <name>aldi Zur Altenau 6  97941 Tauberbischofsheim </name>
+</wpt>
+<wpt lat="50.093501243" lon="10.7805727849">
+  <name>aldi Alte Ziegelei 2  96106 Ebern </name>
+</wpt>
+<wpt lat="49.78731167" lon="9.98947554101">
+  <name>aldi Oberer Kirschberg 8  97218 Gerbrunn </name>
+</wpt>
+<wpt lat="49.7514795992" lon="11.5387368715">
+  <name>aldi Nürnberger Straße 20c  91257 Pegnitz </name>
+</wpt>
+<wpt lat="49.2961075731" lon="10.5786840776">
+  <name>aldi Feuerbachstraße 24  91522 Ansbach </name>
+</wpt>
+<wpt lat="50.1825279849" lon="10.0770964451">
+  <name>aldi Im Lindes 2  97688 Bad Kissingen </name>
+</wpt>
+<wpt lat="49.1325693042" lon="12.1224415598">
+  <name>aldi Schwandorfer Straße 25  93128 Regenstauf </name>
+</wpt>
+<wpt lat="49.8742925347" lon="12.3406529543">
+  <name>aldi Äußere Regensburger Str. 81  95643 Tirschenreuth </name>
+</wpt>
+<wpt lat="48.3487489059" lon="13.3007507144">
+  <name>aldi Hofgartenweg 6  94072 Bad Füssing </name>
+</wpt>
+<wpt lat="50.4209873818" lon="10.7305615104">
+  <name>aldi Coburger Str. 26 98646 Hildburghausen </name>
+</wpt>
+<wpt lat="50.0542700556" lon="9.49092761555">
+  <name>aldi Gewerbestraße 18  97833 Frammersbach </name>
+</wpt>
+<wpt lat="50.6444818229" lon="10.6883473542">
+  <name>aldi Industriestraße 4-6 98544 Zella-Mehlis </name>
+</wpt>
+<wpt lat="49.5782607767" lon="10.8839857763">
+  <name>aldi Ohmstraße 5  91074 Herzogenaurach </name>
+</wpt>
+<wpt lat="48.8290894039" lon="12.9608700998">
+  <name>aldi Werftstraße 32  94469 Deggendorf </name>
+</wpt>
+<wpt lat="50.8568085303" lon="11.3432603273">
+  <name>aldi August-Bebel-Str. 12 99444 Blankenhain </name>
+</wpt>
+<wpt lat="49.2509328307" lon="11.0871425271">
+  <name>aldi Von-Vollmar-Straße 1  91154 Roth </name>
+</wpt>
+<wpt lat="49.4347582919" lon="10.970590447">
+  <name>aldi Kurt-Schumacher-Straße 2  90522 Oberasbach </name>
+</wpt>
+<wpt lat="49.027829054" lon="12.1182777008">
+  <name>aldi Weichser Weg 32  93059 Regensburg </name>
+</wpt>
+<wpt lat="49.9104102166" lon="10.907404111">
+  <name>aldi Memmelsdorfer Straße 145  96052 Bamberg </name>
+</wpt>
+<wpt lat="50.9511225515" lon="10.396679371">
+  <name>aldi Am Rotberg 50 99848 Wutha-Farnroda </name>
+</wpt>
+<wpt lat="49.706752581" lon="11.0603787161">
+  <name>aldi Hafenstraße 2 a  91301 Forchheim </name>
+</wpt>
+<wpt lat="50.0415016013" lon="10.3144813762">
+  <name>aldi Tiefer Graben 3  97453 Schonungen </name>
+</wpt>
+<wpt lat="50.6025983898" lon="10.6759187296">
+  <name>aldi Würzburger Straße 35 98529 Suhl </name>
+</wpt>
+<wpt lat="50.7180880861" lon="10.4667095444">
+  <name>aldi Näherstiller Straße 37 98574 Schmalkalden </name>
+</wpt>
+<wpt lat="49.8988721827" lon="10.9038787703">
+  <name>aldi Pödeldorfer Straße 1  96052 Bamberg </name>
+</wpt>
+<wpt lat="50.2387981198" lon="12.0294786854">
+  <name>aldi Pilgramsreuther Straße 74  95111 Rehau </name>
+</wpt>
+<wpt lat="50.1108123174" lon="9.89579320932">
+  <name>aldi Am Sportzentrum 2  97762 Hammelburg </name>
+</wpt>
+<wpt lat="50.98138952" lon="11.3115412542">
+  <name>aldi Jean-Sibelius-Str. 24 99427 Weimar </name>
+</wpt>
+<wpt lat="51.1502923649" lon="11.114859619">
+  <name>aldi Erfurter Str. 46  99610 Sömmerda </name>
+</wpt>
+<wpt lat="48.9178270471" lon="11.8920263712">
+  <name>aldi Kelheimwinzerstraße 125  93309 Kelheim </name>
+</wpt>
+<wpt lat="49.0716994563" lon="13.0914965631">
+  <name>aldi Kötztinger Straße 37  94249 Bodenmais </name>
+</wpt>
+<wpt lat="50.3163576994" lon="9.80141839999">
+  <name>aldi Kissinger Str. 40 - 42  97769 Bad Brückenau </name>
+</wpt>
+<wpt lat="49.8414016034" lon="10.0169318296">
+  <name>aldi Wachtelberg 1  97273 Kürnach </name>
+</wpt>
+<wpt lat="49.8361119188" lon="12.0537064095">
+  <name>aldi Tirschenreuther Straße 18  92681 Erbendorf </name>
+</wpt>
+<wpt lat="49.3718417332" lon="11.08180955">
+  <name>aldi An der Radrunde 148  90455 Nürnberg-Herpersdorf </name>
+</wpt>
+<wpt lat="49.93879176" lon="12.2333099274">
+  <name>aldi Carl-Zeiss-Straße 1  95666 Mitterteich </name>
+</wpt>
+<wpt lat="50.3560110394" lon="11.1712021176">
+  <name>aldi Robert-Hartwig-Straße 6  96515 Sonneberg </name>
+</wpt>
+<wpt lat="49.7164176649" lon="11.075235509">
+  <name>aldi Bayreuther Straße 10  91301 Forchheim </name>
+</wpt>
+<wpt lat="49.7827709608" lon="11.1906634372">
+  <name>aldi Oberes Tor 8  91320 Ebermannstadt </name>
+</wpt>
+<wpt lat="49.4661308192" lon="11.0764855661">
+  <name>aldi Grolandstraße 43  90408 Nürnberg </name>
+</wpt>
+<wpt lat="51.1152976407" lon="10.64367805">
+  <name>aldi Goethestr. 7 99947 Bad Langensalza </name>
+</wpt>
+<wpt lat="49.4809973985" lon="11.0097109368">
+  <name>aldi Hans-Vogel-Straße 50  90765 Fürth </name>
+</wpt>
+<wpt lat="48.884472777" lon="12.6106562801">
+  <name>aldi Ittlinger Straße 198  94315 Straubing </name>
+</wpt>
+<wpt lat="49.6194180787" lon="12.346759348">
+  <name>aldi Waidhauser Straße 26  92648 Vohenstrauß </name>
+</wpt>
+<wpt lat="49.454767467" lon="11.0525006589">
+  <name>aldi Reutersbrunnenstraße 55  90429 Nürnberg </name>
+</wpt>
+<wpt lat="49.9264210364" lon="11.5978672671">
+  <name>aldi Nürnberger Straße 96  95448 Bayreuth </name>
+</wpt>
+<wpt lat="48.9807209592" lon="12.0675559622">
+  <name>aldi Hohengebrachinger Straße 30  93080 Pentling </name>
+</wpt>
+<wpt lat="50.2929221122" lon="10.472186413">
+  <name>aldi Kapelleinsweg 13  97631 Bad Königshofen </name>
+</wpt>
+<wpt lat="49.0363079058" lon="11.4683379762">
+  <name>aldi Eichstätter Straße 14  92339 Beilngries </name>
+</wpt>
+<wpt lat="49.522219183" lon="11.006554318">
+  <name>aldi Wiesbadener Straße 41  90427 Nürnberg </name>
+</wpt>
+<wpt lat="51.2447824929" lon="10.6601626151">
+  <name>aldi Oststraße 2 99994 Schlotheim </name>
+</wpt>
+<wpt lat="49.465797672" lon="11.123268276">
+  <name>aldi Äußere Sulzbacher Str. 164  90491 Nürnberg </name>
+</wpt>
+<wpt lat="49.4542471682" lon="11.0389928483">
+  <name>aldi Adam-Klein-Straße 125  90431 Nürnberg </name>
+</wpt>
+<wpt lat="50.9523123068" lon="10.7155068667">
+  <name>aldi Oststr. 54-56 99867 Gotha </name>
+</wpt>
+<wpt lat="50.5904502971" lon="10.4141711762">
+  <name>aldi Jerusalemer Str. 8 98617 Meiningen </name>
+</wpt>
+<wpt lat="49.4634714231" lon="11.1455984315">
+  <name>aldi Laufamholzstraße 112  90482 Nürnberg </name>
+</wpt>
+<wpt lat="50.2028290271" lon="10.0858108714">
+  <name>aldi Spitzwiese 5  97688 Bad Kissingen </name>
+</wpt>
+<wpt lat="49.4801326425" lon="11.2265913353">
+  <name>aldi Am Gewerbepark 1  90552 Röthenbach an der Pegnitz </name>
+</wpt>
+<wpt lat="49.7407114451" lon="10.1494558615">
+  <name>aldi Siegfried-Wilke-Straße 10  97318 Kitzingen </name>
+</wpt>
+<wpt lat="49.2430072916" lon="12.6715043799">
+  <name>aldi Chamer Straße 1  93497 Willmering </name>
+</wpt>
+<wpt lat="49.5265624429" lon="11.15082349">
+  <name>aldi Hauptstraße 110  90562 Heroldsberg </name>
+</wpt>
+<wpt lat="48.723781139" lon="13.613579735">
+  <name>aldi Bannholzstraße 7  94065 Waldkirchen </name>
+</wpt>
+<wpt lat="48.813267864" lon="11.7567594084">
+  <name>aldi Donaustraße 6  93333 Neustadt/Donau </name>
+</wpt>
+<wpt lat="49.4353782194" lon="11.1225218391">
+  <name>aldi Regensburger Straße 266  90480 Nürnberg </name>
+</wpt>
+<wpt lat="49.6954916708" lon="11.6276078326">
+  <name>aldi Novettaweg 7  91275 Auerbach </name>
+</wpt>
+<wpt lat="49.3704889997" lon="10.1927761832">
+  <name>aldi Erlbacher Straße 80  91541 Rothenburg ob der Tauber </name>
+</wpt>
+<wpt lat="48.7995680146" lon="13.5509060123">
+  <name>aldi Am Bahnhof 22  94078 Freyung </name>
+</wpt>
+<wpt lat="48.913861408" lon="12.7260842082">
+  <name>aldi Bärndorf 29 f  94327 Bogen </name>
+</wpt>
+<wpt lat="49.042020587" lon="10.5852131524">
+  <name>aldi Ulmenweg 17  91717 Wassertrüdingen </name>
+</wpt>
+<wpt lat="49.9860282918" lon="10.6679597334">
+  <name>aldi An der Lohwiese 6  97500 Ebelsbach </name>
+</wpt>
+<wpt lat="50.2017410734" lon="11.7804925056">
+  <name>aldi August-Horch-Straße 24  95213 Münchberg </name>
+</wpt>
+<wpt lat="49.4964377332" lon="11.733224162">
+  <name>aldi Dieselstraße 30  92237 Sulzbach-Rosenberg </name>
+</wpt>
+<wpt lat="49.0574279943" lon="12.0918826117">
+  <name>aldi Regendorfer Straße 3  93138 Lappersdorf </name>
+</wpt>
+<wpt lat="49.806358268" lon="9.89062211009">
+  <name>aldi Alfred-Nobel-Straße 14  97080 Würzburg-Dürrbachau </name>
+</wpt>
+<wpt lat="49.8568903219" lon="10.2310782904">
+  <name>aldi Im Seelein 24  97332 Volkach </name>
+</wpt>
+<wpt lat="49.8661197245" lon="11.8764231413">
+  <name>aldi Röntgenstraße 30  95478 Kemnath </name>
+</wpt>
+<wpt lat="49.4942005593" lon="10.9894672075">
+  <name>aldi Erlanger Straße 200  90765 Fürth </name>
+</wpt>
+<wpt lat="48.936569443" lon="12.0570608791">
+  <name>aldi Gutenbergring 5  93077 Bad Abbach </name>
+</wpt>
+<wpt lat="49.9074275055" lon="10.3547889705">
+  <name>aldi Spielsee 1  97447 Gerolzhofen </name>
+</wpt>
+<wpt lat="48.8114615698" lon="11.858553621">
+  <name>aldi Straubinger Straße 47  93326 Abensberg </name>
+</wpt>
+<wpt lat="49.1677511731" lon="12.8696878822">
+  <name>aldi Arnbrucker Straße 23  93444 Bad Kötzting </name>
+</wpt>
+<wpt lat="49.7943715694" lon="9.8965126666">
+  <name>aldi Frankfurter Straße 94  97082 Würzburg-Zellerau </name>
+</wpt>
+<wpt lat="50.0314218836" lon="10.5332683365">
+  <name>aldi Am Sterzelbach 3  97437 Haßfurt </name>
+</wpt>
+<wpt lat="51.5075992597" lon="10.7797274226">
+  <name>aldi Wilhelm-Raabe-Straße 1 99734 Nordhausen </name>
+</wpt>
+<wpt lat="48.7090183336" lon="13.0077427419">
+  <name>aldi Industriestraße 2  94486 Osterhofen </name>
+</wpt>
+<wpt lat="50.3231679367" lon="11.8929796521">
+  <name>aldi Kornhausacker 7  95030 Hof </name>
+</wpt>
+<wpt lat="48.7306270467" lon="13.3765725189">
+  <name>aldi Dreiburgenstraße 18  94104 Tittling </name>
+</wpt>
+<wpt lat="49.6278480936" lon="10.9254804752">
+  <name>aldi Im Gewerbepark 1  91093 Heßdorf </name>
+</wpt>
+<wpt lat="49.971037956" lon="11.0251792685">
+  <name>aldi Bamberger Straße 20  96110 Scheßlitz </name>
+</wpt>
+<wpt lat="50.402762626" lon="10.0172465922">
+  <name>aldi Bahnhofstraße 20  97653 Bischofsheim/Rhön </name>
+</wpt>
+<wpt lat="49.367127501" lon="11.2033888379">
+  <name>aldi Gugelhammerweg 1  90537 Feucht </name>
+</wpt>
+<wpt lat="50.8981419277" lon="10.5652212331">
+  <name>aldi Ohrdrufer Str. 10 99880 Waltershausen </name>
+</wpt>
+<wpt lat="50.9737679986" lon="11.0335969187">
+  <name>aldi Augustmauer 4  99084 Erfurt </name>
+</wpt>
+<wpt lat="49.0008675567" lon="13.2196139191">
+  <name>aldi Bärnzeller Straße 2  94227 Zwiesel </name>
+</wpt>
+<wpt lat="49.9296515083" lon="11.5610130677">
+  <name>aldi Karl-von-Linde-Straße 15  95447 Bayreuth </name>
+</wpt>
+<wpt lat="50.971191347" lon="11.0594973809">
+  <name>aldi Hermsdorfer Str. 4 99099 Erfurt </name>
+</wpt>
+<wpt lat="49.7027103541" lon="10.8791923922">
+  <name>aldi Holzäckerstraße 1 a  91325 Adelsdorf </name>
+</wpt>
+<wpt lat="50.2323094619" lon="11.3497714157">
+  <name>aldi Industriestraße 29  96317 Kronach </name>
+</wpt>
+<wpt lat="49.0441015142" lon="11.3614356169">
+  <name>aldi Kindinger Straße 40  91171 Greding </name>
+</wpt>
+<wpt lat="48.6700909406" lon="12.6853089666">
+  <name>aldi Alte Umgehungsstraße 25  94405 Landau/Isar </name>
+</wpt>
+<wpt lat="49.5828381172" lon="11.1879025198">
+  <name>aldi Orchideenstraße 35  90542 Eckental </name>
+</wpt>
+<wpt lat="50.2864293314" lon="11.0179307363">
+  <name>aldi Coburger Straße 15  96472 Rödental </name>
+</wpt>
+<wpt lat="49.4088312909" lon="11.0014821441">
+  <name>aldi Spitzleitenweg 19  90547 Stein </name>
+</wpt>
+<wpt lat="49.2596729315" lon="10.2415374007">
+  <name>aldi Am Kreisel 3  91637 Wörnitz </name>
+</wpt>
+<wpt lat="50.1498013133" lon="11.0631486267">
+  <name>aldi Mainau 4  96215 Lichtenfels </name>
+</wpt>
+<wpt lat="48.5599020375" lon="13.4230044935">
+  <name>aldi Neuburger Straße 137  94036 Passau </name>
+</wpt>
+<wpt lat="49.8847992293" lon="10.9151562632">
+  <name>aldi Münchner Ring 11  96050 Bamberg </name>
+</wpt>
+<wpt lat="49.3397291615" lon="12.3898188665">
+  <name>aldi Heinz-Flessner-Straße 5  92431 Neunburg v. Wald </name>
+</wpt>
+<wpt lat="48.8208002978" lon="12.3789730479">
+  <name>aldi Landshuter Straße 90  94333 Geiselhöring </name>
+</wpt>
+<wpt lat="49.7595381698" lon="9.49664730096">
+  <name>aldi Willy-Brandt-Straße 23  97877 Wertheim </name>
+</wpt>
+<wpt lat="49.3045523415" lon="12.8247128087">
+  <name>aldi Waldmünchener Straße 24  93437 Furth im Wald </name>
+</wpt>
+<wpt lat="50.943802053" lon="10.7325580043">
+  <name>aldi Bertha-Schneyer-Straße 14 99867 Gotha </name>
+</wpt>
+<wpt lat="49.1824905987" lon="11.1847818739">
+  <name>aldi Siemensstraße 4  91161 Hilpoltstein </name>
+</wpt>
+<wpt lat="51.0388673208" lon="11.5122788299">
+  <name>aldi Am Weimarer Berg  1 99510 Apolda </name>
+</wpt>
+<wpt lat="48.4376783643" lon="13.1913842139">
+  <name>aldi Weghofstraße 2  94086 Bad Griesbach </name>
+</wpt>
+<wpt lat="49.3652182548" lon="11.0303143948">
+  <name>aldi Wolkersdorfer Hauptstr. 61  91126 Schwabach-Wolkersdorf </name>
+</wpt>
+<wpt lat="50.6767717872" lon="10.9281874333">
+  <name>aldi Joh.-Fr.-Böttger-Str. 17 98693 Ilmenau </name>
+</wpt>
+<wpt lat="49.3186589135" lon="11.3387457328">
+  <name>aldi Espenpark 11  90559 Burgthann </name>
+</wpt>
+<wpt lat="51.3754476224" lon="10.8576176668">
+  <name>aldi Nordhäuser Str. 1 99706 Sondershausen </name>
+</wpt>
+<wpt lat="50.006701737" lon="12.1070991332">
+  <name>aldi Wölsauer Straße 35  95615 Marktredwitz </name>
+</wpt>
+<wpt lat="50.4358886449" lon="10.3074127083">
+  <name>aldi Thüringer Straße 29  97638 Mellrichstadt </name>
+</wpt>
+<wpt lat="49.5211274696" lon="11.3363715238">
+  <name>aldi Seeäckerstraße 2  91233 Neunkirchen am Sand </name>
+</wpt>
+<wpt lat="50.3389781646" lon="11.1428105345">
+  <name>aldi Am Lerchenfeld 6  96465 Neustadt bei Coburg </name>
+</wpt>
+<wpt lat="50.9760274062" lon="10.3377108533">
+  <name>aldi Altstadtstr. 2-4 99817 Eisenach </name>
+</wpt>
+<wpt lat="49.1766294541" lon="11.7291412419">
+  <name>aldi Steinmühler Straße 1  92331 Parsberg </name>
+</wpt>
+<wpt lat="50.2658419355" lon="10.9608777736">
+  <name>aldi Callenberger Straße 16  96450 Coburg </name>
+</wpt>
+<wpt lat="50.2869522341" lon="11.9176120709">
+  <name>aldi Schaumbergstraße 6 A  95032 Hof </name>
+</wpt>
+<wpt lat="49.1978074236" lon="10.7044542041">
+  <name>aldi Am Wiesengrund 99  91732 Merkendorf </name>
+</wpt>
+<wpt lat="49.7957126018" lon="9.93390645898">
+  <name>aldi Eichhornstraße 22  97070 Würzburg-Innenstadt </name>
+</wpt>
+<wpt lat="49.7701685537" lon="9.52548854487">
+  <name>aldi Lengfurter Str. 47  97892 Kreuzwertheim </name>
+</wpt>
+<wpt lat="49.6289315971" lon="11.0091893303">
+  <name>aldi Bruckwiesen 8  91088 Bubenreuth </name>
+</wpt>
+<wpt lat="50.2564016328" lon="11.3956997701">
+  <name>aldi Im Gries 1  96364 Marktrodach </name>
+</wpt>
+<wpt lat="50.949371856" lon="11.0744261196">
+  <name>aldi Am Drosselberg 47 99097 Erfurt </name>
+</wpt>
+<wpt lat="49.9547005762" lon="11.550203222">
+  <name>aldi Himmelkronstraße 1  95445 Bayreuth </name>
+</wpt>
+<wpt lat="49.7571387499" lon="9.94262987856">
+  <name>aldi Stuttgarter Straße 28  97084 Würzburg-Heidingsfeld </name>
+</wpt>
+<wpt lat="50.4930496761" lon="11.1591781877">
+  <name>aldi Sonneberger Str. 246 98724 Neuhaus/Rennw. </name>
+</wpt>
+<wpt lat="49.4964903027" lon="11.2625012471">
+  <name>aldi Karl-Büttner-Ring 11  91207 Lauf a. d. Pegnitz </name>
+</wpt>
+</gpx>

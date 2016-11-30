@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="Locus Android"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
+ xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
+ xmlns:locus="http://www.locusmap.eu">
+<wpt lat="48.7218885616" lon="9.27068375426">
+  <name>aldi Bonhoeffer Strasse 2/6  73760 Ostfildern Scharn.Park </name>
+</wpt>
+<wpt lat="47.8783584647" lon="7.64721939804">
+  <name>aldi Uhlandstraße 10  79423 Heitersheim </name>
+</wpt>
+<wpt lat="48.2951622509" lon="8.55280927555">
+  <name>aldi Friedrich-List-Str. 2  78727 Oberndorf </name>
+</wpt>
+<wpt lat="49.1334519505" lon="9.22804691692">
+  <name>aldi Stuttgarter Straße 2  74074 Heilbronn </name>
+</wpt>
+<wpt lat="49.1091086939" lon="9.79523106735">
+  <name>aldi Daimlerstraße 65  74545 Michelfeld </name>
+</wpt>
+<wpt lat="49.0311193503" lon="9.15440147062">
+  <name>aldi Mühläckerweg 1  74376 Gemmrigheim </name>
+</wpt>
+<wpt lat="48.6798478774" lon="9.42900032977">
+  <name>aldi Kranzhaldenstrasse 13  73249 Wernau </name>
+</wpt>
+<wpt lat="48.8116510857" lon="9.16773841003">
+  <name>aldi Stuttgarter Straße 9  70469 Stuttgart-Feuerbach </name>
+</wpt>
+<wpt lat="48.6134123077" lon="9.33269197899">
+  <name>aldi Robert-Bosch-Str. 1  72622 Nürtingen </name>
+</wpt>
+<wpt lat="48.5237304698" lon="9.03113145809">
+  <name>aldi Rosentalstrasse 2-8/1  72070 Tübingen </name>
+</wpt>
+<wpt lat="49.1425599417" lon="10.0264466522">
+  <name>aldi Hofwiesenstraße 13/1  74564 Crailsheim-Roßfeld </name>
+</wpt>
+<wpt lat="48.0818386661" lon="8.5002529209">
+  <name>aldi Neuer Markt 1  78052 Villingen-Schwenningen </name>
+</wpt>
+<wpt lat="48.9282685876" lon="9.14752166033">
+  <name>aldi Stuttgarter Straße 262  71732 Tamm </name>
+</wpt>
+<wpt lat="48.6771223013" lon="9.366407546">
+  <name>aldi Christian-Eisele-Straße 20  73257 Köngen </name>
+</wpt>
+<wpt lat="48.4046793831" lon="8.00113842283">
+  <name>aldi Kinzigstraße 11  77791 Berghaupten </name>
+</wpt>
+<wpt lat="48.9208291397" lon="8.49900286387">
+  <name>aldi Benzstrasse 15  76307 Karlsbad-Langensteinbach </name>
+</wpt>
+<wpt lat="48.8128177771" lon="9.37677672411">
+  <name>aldi Großheppacher Str. 60/1  71384 Weinstadt </name>
+</wpt>
+<wpt lat="49.3471997537" lon="8.98309869112">
+  <name>aldi Im oberen Tal 20  74858 Aglasterhausen </name>
+</wpt>
+<wpt lat="47.9694611279" lon="7.96019231012">
+  <name>aldi Gerwigstraße 3  79199 Kirchzarten </name>
+</wpt>
+<wpt lat="48.6839983079" lon="9.73238647352">
+  <name>aldi Postweg 11  73084 Salach </name>
+</wpt>
+<wpt lat="48.0634085723" lon="8.55823218484">
+  <name>aldi Rottweiler Str. 110  78056 Villingen-Schwenningen </name>
+</wpt>
+<wpt lat="48.3564704048" lon="8.96351146654">
+  <name>aldi Eitel-Fritz-Straße 7  72379 Hechingen </name>
+</wpt>
+<wpt lat="48.5025514145" lon="9.20819888908">
+  <name>aldi Föhrstraße 8  72760 Reutlingen </name>
+</wpt>
+<wpt lat="49.004891179" lon="8.53423828439">
+  <name>aldi Wöschbacher Straße 29  76327 Pfinztal/Berghausen </name>
+</wpt>
+<wpt lat="48.5437575292" lon="8.72892342564">
+  <name>aldi Haiterbacher Straße 70  72202 Nagold </name>
+</wpt>
+<wpt lat="48.8570017623" lon="10.1025292601">
+  <name>aldi Auguste-Kessler-Straße 3  73433 Aalen-Wasseralfingen </name>
+</wpt>
+<wpt lat="47.55017179" lon="7.93215146244">
+  <name>aldi Glarner Straße 3  79713 Bad Säckingen </name>
+</wpt>
+<wpt lat="48.0767796107" lon="8.73449022638">
+  <name>aldi Europastraße 6  78549 Spaichingen </name>
+</wpt>
+<wpt lat="48.8114023459" lon="8.95469811481">
+  <name>aldi Dieselstrasse 5  71277 Rutesheim </name>
+</wpt>
+<wpt lat="48.5832524511" lon="8.00463678388">
+  <name>aldi Vogesenstr. 1  77871 Renchen </name>
+</wpt>
+<wpt lat="49.0477090343" lon="8.26424395186">
+  <name>aldi Im Bödel 1  76744 Wörth am Rhein </name>
+</wpt>
+<wpt lat="48.5634195709" lon="8.77412332955">
+  <name>aldi Gutmeisterweg 2  71131 Jettingen </name>
+</wpt>
+<wpt lat="49.3017610365" lon="9.9767591335">
+  <name>aldi Schrozberger Straße 2  74572 Blaufelden </name>
+</wpt>
+<wpt lat="48.1710773117" lon="8.57398829937">
+  <name>aldi Raiffeisenstraße 5  78658 Zimmern </name>
+</wpt>
+<wpt lat="47.9857820146" lon="7.84772315008">
+  <name>aldi Günterstalstraße 43  79102 Freiburg </name>
+</wpt>
+<wpt lat="48.4746387411" lon="7.93594659962">
+  <name>aldi Freiburgerstr. 15  77652 Offenburg </name>
+</wpt>
+<wpt lat="48.8515992481" lon="8.57745068756">
+  <name>aldi Erwin-Herbstreith-Str. 3  75305 Neuenbürg </name>
+</wpt>
+<wpt lat="48.089642575" lon="9.21163429762">
+  <name>aldi In den Burgwiesen 14  72488 Sigmaringen </name>
+</wpt>
+<wpt lat="48.0445209463" lon="8.46564702551">
+  <name>aldi Niederwiesenstr. 33  78050 Villingen-Schwenningen </name>
+</wpt>
+<wpt lat="48.2614721193" lon="7.8047805434">
+  <name>aldi Tullastraße 4  77955 Ettenheim </name>
+</wpt>
+<wpt lat="48.6758574414" lon="9.22220132649">
+  <name>aldi Karlstraße 42-48  70794 Filderstadt </name>
+</wpt>
+<wpt lat="48.279142907" lon="8.092176749">
+  <name>aldi Schwarzwaldstraße 28  77716 Haslach </name>
+</wpt>
+<wpt lat="48.8177211377" lon="9.21506970615">
+  <name>aldi Bottroper Strasse 18  70376 Stuttgart-Bad Cannstatt </name>
+</wpt>
+<wpt lat="49.139018144" lon="8.59157003677">
+  <name>aldi Stegwiesenstrasse 4  76646 Bruchsal </name>
+</wpt>
+<wpt lat="48.9274886498" lon="9.48024367487">
+  <name>aldi Welzheimer Straße 35  71554 Weissach im Tal </name>
+</wpt>
+<wpt lat="48.5944001948" lon="8.86047619015">
+  <name>aldi Kalkofenstraße 50  71083 Herrenberg </name>
+</wpt>
+<wpt lat="49.1882922718" lon="9.49567603363">
+  <name>aldi Steinsfeldle 20  74613 Öhringen </name>
+</wpt>
+<wpt lat="48.8921778048" lon="8.67078228382">
+  <name>aldi Kurze Steig 4  75179 Pforzheim </name>
+</wpt>
+<wpt lat="49.5753392178" lon="9.36834108745">
+  <name>aldi Otto-Hahn-Str. 6  74731 Walldürn </name>
+</wpt>
+<wpt lat="48.8827577589" lon="8.65938787907">
+  <name>aldi Adolf-Richter-Str. 4-6  75179 Pforzheim </name>
+</wpt>
+<wpt lat="48.3409724372" lon="7.88521586783">
+  <name>aldi Geroldsecker Vorstadt 30  77933 Lahr </name>
+</wpt>
+<wpt lat="48.7313507364" lon="9.24286773699">
+  <name>aldi Senefelderstr. 12/1  73760 Ostfildern-Ruit </name>
+</wpt>
+<wpt lat="49.1286795893" lon="8.41808190577">
+  <name>aldi Durlacher Weg 2  76351 Linkenheim-Hochstetten </name>
+</wpt>
+<wpt lat="48.0227813857" lon="7.85105064002">
+  <name>aldi Tullastraße 51  79108 Freiburg </name>
+</wpt>
+<wpt lat="49.3020894336" lon="8.91535279455">
+  <name>aldi Neidensteiner Straße 14  74915 Waibstadt </name>
+</wpt>
+<wpt lat="47.5573884283" lon="7.7826032726">
+  <name>aldi Güterstraße 14  79618 Rheinfelden </name>
+</wpt>
+<wpt lat="47.9735794628" lon="8.79353968303">
+  <name>aldi Dornierstr. 11  78532 Tuttlingen </name>
+</wpt>
+<wpt lat="48.2861688187" lon="8.18760376461">
+  <name>aldi In den Brachfeldern 5  77756 Hausach </name>
+</wpt>
+<wpt lat="49.0768189777" lon="8.20257746934">
+  <name>aldi Lauterburger Straße 13  76870 Kandel </name>
+</wpt>
+<wpt lat="47.9988903728" lon="8.82980033018">
+  <name>aldi Nendinger Allee 97/1  78532 Tuttlingen </name>
+</wpt>
+<wpt lat="48.500918681" lon="9.05499945351">
+  <name>aldi Wohlboldstraße 3  72072 Tübingen </name>
+</wpt>
+<wpt lat="48.2308929774" lon="8.3828195056">
+  <name>aldi Bahnhofstraße 31  78713 Schramberg </name>
+</wpt>
+<wpt lat="49.1485780639" lon="9.11913907045">
+  <name>aldi Dieselstraße 3  74211 Leingarten </name>
+</wpt>
+<wpt lat="49.1338991519" lon="8.90260041417">
+  <name>aldi Frauenbrunner Straße 11  75031 Eppingen </name>
+</wpt>
+<wpt lat="48.7180023253" lon="9.53887944358">
+  <name>aldi Hauptstrasse 119-121  73061 Ebersbach a.d.Fils </name>
+</wpt>
+<wpt lat="49.1200399175" lon="8.57445594661">
+  <name>aldi Karl-Benz-Weg 3  76646 Bruchsal </name>
+</wpt>
+<wpt lat="47.9887313846" lon="7.80004111853">
+  <name>aldi Heckerstraße 4  79114 Freiburg </name>
+</wpt>
+<wpt lat="49.5149795591" lon="9.32190911293">
+  <name>aldi F.-X.-Schmerbeck-Str. 2  74722 Buchen </name>
+</wpt>
+<wpt lat="49.2009395593" lon="8.12418360496">
+  <name>aldi Maximilianstraße 34  76829 Landau i. d. Pfalz </name>
+</wpt>
+<wpt lat="48.7049708595" lon="9.64471161016">
+  <name>aldi Schaufflerstraße 12  73033 Göppingen </name>
+</wpt>
+<wpt lat="48.8654919398" lon="9.04098802289">
+  <name>aldi August-Blessing-Straße 1  71282 Hemmingen </name>
+</wpt>
+<wpt lat="48.6335881206" lon="9.2332989551">
+  <name>aldi Riedstraße 6  72631 Aichtal </name>
+</wpt>
+<wpt lat="47.646867312" lon="7.81770379487">
+  <name>aldi Bismarckstraße 6  79650 Schopfheim </name>
+</wpt>
+<wpt lat="49.3431921417" lon="9.13223319303">
+  <name>aldi Pfalzgraf-Otto-Straße 42  74821 Mosbach </name>
+</wpt>
+<wpt lat="47.7361024469" lon="8.84769683013">
+  <name>aldi Werner-von-Siemens-Str. 3  78239 Rielasingen-Worblingen </name>
+</wpt>
+<wpt lat="48.9537693837" lon="9.13106407494">
+  <name>aldi Wobachstraße 11  74321 Bietigheim </name>
+</wpt>
+<wpt lat="48.7013978919" lon="9.14367256386">
+  <name>aldi Leinfelden Maybachstrasse 1  70771 Leinfelden-Echterdingen </name>
+</wpt>
+<wpt lat="48.0333907154" lon="7.59347593887">
+  <name>aldi Zum Kaiserstuhl 12  79206 Breisach </name>
+</wpt>
+<wpt lat="48.3343725662" lon="7.84850555988">
+  <name>aldi Im Götzmann 2/1  77933 Lahr-Mietersheim </name>
+</wpt>
+<wpt lat="47.9234989558" lon="8.19002293973">
+  <name>aldi Freiburger Str. 9  79822 Titisee-Neustadt </name>
+</wpt>
+<wpt lat="48.5655502082" lon="9.19488892931">
+  <name>aldi Jusistrasse 1  72124 Pliezhausen </name>
+</wpt>
+<wpt lat="48.8295571054" lon="9.79578864674">
+  <name>aldi In der Breite 16  73557 Mutlangen </name>
+</wpt>
+<wpt lat="48.3145199797" lon="8.89912003956">
+  <name>aldi Balinger Straße 40  72406 Bisingen </name>
+</wpt>
+<wpt lat="49.0746628339" lon="9.06090799646">
+  <name>aldi Maulbronner Straße 24  74336 Brackenheim </name>
+</wpt>
+<wpt lat="48.2573827841" lon="8.84828138918">
+  <name>aldi Lange Straße 52  72336 Balingen </name>
+</wpt>
+<wpt lat="48.8610074122" lon="9.19878299187">
+  <name>aldi Kimry-Platz 4 - 12  70806 Kornwestheim </name>
+</wpt>
+<wpt lat="47.5890776681" lon="7.86029566613">
+  <name>aldi Im Steinfacht 1  79739 Schwörstadt </name>
+</wpt>
+<wpt lat="48.8036078751" lon="9.80648158064">
+  <name>aldi Aalener Straße 5  73529 Schwäbisch Gmünd </name>
+</wpt>
+<wpt lat="48.9531374853" lon="9.06067417285">
+  <name>aldi Südring 1  74343 Sachsenheim </name>
+</wpt>
+<wpt lat="47.8189170924" lon="8.34687362101">
+  <name>aldi Donaueschinger Str. 17  79848 Bonndorf </name>
+</wpt>
+<wpt lat="48.1741300267" lon="8.9523418922">
+  <name>aldi Am Hartheimer Weg 3  72469 Meßstetten </name>
+</wpt>
+<wpt lat="49.0062303478" lon="8.36039941797">
+  <name>aldi Kohlenstraße 1  76185 Karlsruhe-Grünwinkel </name>
+</wpt>
+<wpt lat="48.0707585663" lon="8.62873000552">
+  <name>aldi In Grubäcker 3  78647 Trossingen </name>
+</wpt>
+<wpt lat="48.7079619861" lon="8.13187280469">
+  <name>aldi Am Froschbächle 4  77815 Bühl </name>
+</wpt>
+<wpt lat="48.7994613863" lon="9.2308887732">
+  <name>aldi Deckerstraße 75  70372 Stuttgart </name>
+</wpt>
+<wpt lat="49.2815897462" lon="9.68101722339">
+  <name>aldi Hellas-Straße 8  74653 Künzelsau </name>
+</wpt>
+<wpt lat="49.1205872983" lon="10.092870546">
+  <name>aldi Sulzbrunnenstraße 20  74564 Crailsheim </name>
+</wpt>
+<wpt lat="48.8087608905" lon="9.3253625079">
+  <name>aldi Karlstraße 59  71394 Kernen-Rommelshausen </name>
+</wpt>
+<wpt lat="49.238380537" lon="9.09459658382">
+  <name>aldi Riemenstraße 2/1  74906 Bad Rappenau </name>
+</wpt>
+<wpt lat="48.7987682969" lon="8.99978110691">
+  <name>aldi Schweizer Mühle 9  71229 Leonberg </name>
+</wpt>
+<wpt lat="48.9007506917" lon="9.09326558785">
+  <name>aldi Im Sträßle 14  71706 Markgröningen </name>
+</wpt>
+<wpt lat="48.9370479556" lon="8.41985356933">
+  <name>aldi Pforzheimer Straße 72-74  76275 Ettlingen </name>
+</wpt>
+<wpt lat="48.8905872248" lon="9.18184876603">
+  <name>aldi Martin-Luther-Straße 82  71636 Ludwigsburg </name>
+</wpt>
+<wpt lat="48.6219615596" lon="9.52966139712">
+  <name>aldi Kirchheimer Straße 84/1  73235 Weilheim/Teck </name>
+</wpt>
+<wpt lat="49.2519014205" lon="8.86869598963">
+  <name>aldi Breite Seite 4  74889 Sinsheim </name>
+</wpt>
+<wpt lat="48.5367313929" lon="8.0641179149">
+  <name>aldi Im Steinhof 2  77704 Oberkirch </name>
+</wpt>
+<wpt lat="48.7774792726" lon="8.93182836637">
+  <name>aldi Benzstraße 11  71272 Renningen </name>
+</wpt>
+<wpt lat="47.6305607715" lon="8.26815600085">
+  <name>aldi Porschestr. 24  79761 Waldshut-Tiengen </name>
+</wpt>
+<wpt lat="47.7602116523" lon="7.57777378363">
+  <name>aldi Freiburger Straße 23  79418 Schliengen </name>
+</wpt>
+<wpt lat="49.3187878827" lon="9.36396139123">
+  <name>aldi Daimlerstr. 12  74219 Möckmühl </name>
+</wpt>
+<wpt lat="48.6495375901" lon="9.29969586927">
+  <name>aldi Nürtinger Strasse 66  72649 Wolfschlugen </name>
+</wpt>
+<wpt lat="48.8206877933" lon="9.099848622">
+  <name>aldi Heimsheimer Straße 34  70499 Stuttgart-Weilimdorf </name>
+</wpt>
+<wpt lat="47.5911701937" lon="8.30787004296">
+  <name>aldi Zwischen den Rainen 8  79790 Küssaberg/Rheinheim </name>
+</wpt>
+<wpt lat="49.1495898368" lon="8.23351413259">
+  <name>aldi Im Riegel 5  76863 Herxheim </name>
+</wpt>
+<wpt lat="48.9578794808" lon="8.84940554118">
+  <name>aldi Vetterstraße 36  75417 Mühlacker </name>
+</wpt>
+<wpt lat="48.9983010002" lon="8.35966197425">
+  <name>aldi Herrmann-Leichtlin-Str. 11  76185 Karlsruhe </name>
+</wpt>
+<wpt lat="48.468169487" lon="8.41303671156">
+  <name>aldi Hindenburgstraße 8  72250 Freudenstadt </name>
+</wpt>
+<wpt lat="48.7773607445" lon="8.21402583339">
+  <name>aldi Schwarzwaldstraße 42  76532 Baden-Baden </name>
+</wpt>
+<wpt lat="48.6447009888" lon="9.64943304859">
+  <name>aldi Kreuzäcker 1  73108 Gammelshausen </name>
+</wpt>
+<wpt lat="48.9577200437" lon="9.2466269013">
+  <name>aldi Im Langen Feld 7  71711 Murr </name>
+</wpt>
+<wpt lat="47.7358121251" lon="8.78701060817">
+  <name>aldi Kornblumenweg 39  78244 Gottmadingen </name>
+</wpt>
+<wpt lat="48.7894017649" lon="9.7674869958">
+  <name>aldi Lorcher Straße 169  73529 Schwäbisch Gmünd </name>
+</wpt>
+<wpt lat="48.8128000105" lon="9.26659184095">
+  <name>aldi Stuttgarter Str. 70  70736 Fellbach </name>
+</wpt>
+<wpt lat="48.1483471651" lon="7.70127761977">
+  <name>aldi Maria-Theresia-Straße 1  79346 Endingen </name>
+</wpt>
+<wpt lat="48.0321578839" lon="8.52761927737">
+  <name>aldi Carl-Friedrich-Benz-Str. 22  78073 Bad Dürrheim </name>
+</wpt>
+<wpt lat="48.8278520458" lon="10.1153805658">
+  <name>aldi Kochertalstraße 49  73431 Aalen </name>
+</wpt>
+<wpt lat="47.6197172263" lon="7.906367912">
+  <name>aldi Öflinger Straße 39  79664 Wehr </name>
+</wpt>
+<wpt lat="48.0694905719" lon="8.44617671274">
+  <name>aldi Am Krebsgraben 14  78048 Villingen-Schwenningen </name>
+</wpt>
+<wpt lat="48.5855428767" lon="8.61642728596">
+  <name>aldi Wilhelmstr. 64  72213 Altensteig </name>
+</wpt>
+<wpt lat="48.6789987486" lon="9.76260367948">
+  <name>aldi Bühlstraße 25  73079 Süssen </name>
+</wpt>
+<wpt lat="49.0094984763" lon="8.43874831627">
+  <name>aldi Theodor-Rehbock-Straße 17  76131 Karlsruhe-Oststadt </name>
+</wpt>
+<wpt lat="48.7789312186" lon="9.20710171672">
+  <name>aldi Gablenberger Hauptstr. 32  70186 Stuttgart </name>
+</wpt>
+<wpt lat="48.6545816593" lon="9.20209249538">
+  <name>aldi Schulstraße 29  70794 Filderstadt </name>
+</wpt>
+<wpt lat="48.4781085449" lon="9.20018593357">
+  <name>aldi Ringelbachstrasse 183  72762 Reutlingen </name>
+</wpt>
+<wpt lat="48.7889218386" lon="9.02965657066">
+  <name>aldi Ulmer Str. 34  71229 Leonberg </name>
+</wpt>
+<wpt lat="49.2372413964" lon="8.76716258032">
+  <name>aldi Wusseldornstraße 1  74918 Angelbachtal </name>
+</wpt>
+<wpt lat="48.7068225303" lon="9.42110428607">
+  <name>aldi Ulmer Strasse 4  73207 Plochingen </name>
+</wpt>
+<wpt lat="48.8169394747" lon="9.23839810861">
+  <name>aldi Sophie-Tschorn-Straße 1  70372 Stuttgart-Bad-Cannstatt </name>
+</wpt>
+<wpt lat="49.1501486559" lon="9.2168863358">
+  <name>aldi Gaswerkstraße 41  74076 Heilbronn </name>
+</wpt>
+<wpt lat="48.8196811634" lon="9.29821198862">
+  <name>aldi Düsseldorfer Straße 3  71332 Waiblingen </name>
+</wpt>
+<wpt lat="48.0073085399" lon="7.82959282651">
+  <name>aldi Breisacher Straße 141  79110 Freiburg </name>
+</wpt>
+<wpt lat="49.213941971" lon="9.21393656093">
+  <name>aldi Bergrat-Bilfinger-Straße 9  74177 Bad Friedrichshall </name>
+</wpt>
+<wpt lat="48.9071587033" lon="9.21665251218">
+  <name>aldi Marbacher Str. 193  71642 Ludwigsburg </name>
+</wpt>
+<wpt lat="49.1191805763" lon="9.19353994691">
+  <name>aldi Friedrich-Ackermann-Str.22  74081 Heilbronn </name>
+</wpt>
+<wpt lat="48.0431921797" lon="7.76738675102">
+  <name>aldi Am Gansacker 38  79224 Umkirch </name>
+</wpt>
+<wpt lat="47.6032809375" lon="7.65684213922">
+  <name>aldi Küpferstraße 1  79540 Lörrach </name>
+</wpt>
+<wpt lat="47.9726221598" lon="7.82754237324">
+  <name>aldi Freiburger Tor 2  79249 Merzhausen </name>
+</wpt>
+<wpt lat="48.5485204567" lon="9.2742360746">
+  <name>aldi Gutenbergstraße 46  72555 Metzingen </name>
+</wpt>
+<wpt lat="48.6949516644" lon="9.16933920249">
+  <name>aldi Echterd. Karlsruher Str. 7  70771 Leinfelden-Echterdingen </name>
+</wpt>
+<wpt lat="48.9639318089" lon="8.28059361866">
+  <name>aldi Hertzstraße 2  76287 Rheinstetten-Mörsch </name>
+</wpt>
+<wpt lat="47.8545273312" lon="8.76921303359">
+  <name>aldi Hegaustraße 4  78234 Engen </name>
+</wpt>
+<wpt lat="47.9843794999" lon="7.81874700794">
+  <name>aldi Basler Straße 113  79115 Freiburg </name>
+</wpt>
+<wpt lat="49.0367324001" lon="8.39192963347">
+  <name>aldi Lorbeerweg 3  76149 Karlsruhe-Neureut </name>
+</wpt>
+<wpt lat="48.7759028265" lon="9.23719301766">
+  <name>aldi Ulmer Straße 269  70327 Stuttgart-Wangen </name>
+</wpt>
+<wpt lat="48.7569697547" lon="8.86833626099">
+  <name>aldi Siemensstrasse 10  71263 Weil der Stadt </name>
+</wpt>
+<wpt lat="48.9932796073" lon="8.38519371464">
+  <name>aldi Hohenzollernstraße 69  76135 Karlsruhe </name>
+</wpt>
+<wpt lat="48.8684202732" lon="9.25939726811">
+  <name>aldi Neckarstraße 72  71686 Remseck-Aldingen </name>
+</wpt>
+<wpt lat="48.8657404111" lon="8.21900807508">
+  <name>aldi Biblisweg 2  76437 Rastatt </name>
+</wpt>
+<wpt lat="48.5514494345" lon="7.83685035186">
+  <name>aldi Daimlerstraße 2  77694 Kehl-Sundheim </name>
+</wpt>
+<wpt lat="49.1976017417" lon="8.30700669422">
+  <name>aldi Waldstückerring 30  76756 Bellheim </name>
+</wpt>
+<wpt lat="49.0783211537" lon="9.14832205656">
+  <name>aldi Im Brühl 6  74348 Lauffen </name>
+</wpt>
+<wpt lat="48.4715025974" lon="9.22159878101">
+  <name>aldi Bismarckstr. 50  72793 Pfullingen </name>
+</wpt>
+<wpt lat="47.9942625036" lon="7.811840218">
+  <name>aldi Krozinger Straße 11  79114 Freiburg </name>
+</wpt>
+<wpt lat="48.7388776777" lon="8.73490391432">
+  <name>aldi Liebenzeller Strasse 44  75365 Calw-Hirsau </name>
+</wpt>
+<wpt lat="48.0112614152" lon="7.85471987217">
+  <name>aldi Habsburgerstraße 5  79104 Freiburg </name>
+</wpt>
+<wpt lat="47.6539494669" lon="8.57477970239">
+  <name>aldi Schaffhauser Straße 29  79798 Jestetten </name>
+</wpt>
+<wpt lat="49.0052097511" lon="8.47941563929">
+  <name>aldi Tiengener Straße 2  76227 Karlsruhe-Durlach </name>
+</wpt>
+<wpt lat="47.639620589" lon="7.74618974077">
+  <name>aldi Gewerbestraße 5  79585 Steinen-Höllstein </name>
+</wpt>
+<wpt lat="48.4802487351" lon="9.25410026385">
+  <name>aldi Reutlinger Strasse 29  72800 Eningen u. Achalm </name>
+</wpt>
+<wpt lat="49.3967288962" lon="9.39410665146">
+  <name>aldi Untere Austraße 44  74740 Adelsheim </name>
+</wpt>
+<wpt lat="48.5358679445" lon="8.56889813908">
+  <name>aldi Porschestr. 11  72285 Pfalzgrafenweiler </name>
+</wpt>
+<wpt lat="48.8876779289" lon="9.27214065526">
+  <name>aldi Neckaraue 8  71686 Remseck-Hochberg </name>
+</wpt>
+<wpt lat="48.9964600783" lon="8.45140177127">
+  <name>aldi Killisfeldstraße 46  76227 Karlsruhe-Durlach </name>
+</wpt>
+<wpt lat="48.2039818739" lon="9.04553859022">
+  <name>aldi Sigmaringer Str. 136  72458 Albstadt-Ebingen </name>
+</wpt>
+<wpt lat="47.5652412351" lon="8.07467595055">
+  <name>aldi Laufenpark 9  79725 Laufenburg </name>
+</wpt>
+<wpt lat="48.5129901312" lon="9.21829827072">
+  <name>aldi Heubergstrasse 7  72766 Reutlingen </name>
+</wpt>
+<wpt lat="48.9023823298" lon="8.66297617228">
+  <name>aldi Mannheimer Straße 3  75179 Pforzheim </name>
+</wpt>
+<wpt lat="49.122741448" lon="8.27590815309">
+  <name>aldi Neun Morgen 15  76764 Rheinzabern </name>
+</wpt>
+<wpt lat="48.9684425298" lon="10.1256328321">
+  <name>aldi Siemensstraße 3  73479 Ellwangen </name>
+</wpt>
+<wpt lat="47.7507374075" lon="8.85152794017">
+  <name>aldi Industriestr. 5  78224 Singen </name>
+</wpt>
+<wpt lat="47.8853428315" lon="7.72082887149">
+  <name>aldi Innere Neumatten 5  79219 Staufen </name>
+</wpt>
+<wpt lat="49.1636113509" lon="8.49166439957">
+  <name>aldi Heidelberger Straße 11  76676 Graben-Neudorf </name>
+</wpt>
+<wpt lat="48.55911041" lon="8.72420198721">
+  <name>aldi Calwer Straße 75  72202 Nagold </name>
+</wpt>
+<wpt lat="49.1356996852" lon="9.3794027432">
+  <name>aldi Willsbacher Straße 15  74182 Obersulm-Affaltrach </name>
+</wpt>
+<wpt lat="48.8885176211" lon="9.1417390224">
+  <name>aldi Robert-Bosch-Straße 1  71696 Möglingen </name>
+</wpt>
+<wpt lat="48.7719022243" lon="9.17364695298">
+  <name>aldi Sophienstraße 21  70178 Stuttgart </name>
+</wpt>
+<wpt lat="48.7694127998" lon="9.14299807265">
+  <name>aldi Am Stellwerk 1  70197 Stuttgart-West </name>
+</wpt>
+<wpt lat="49.2390088146" lon="9.33289882296">
+  <name>aldi Bahnweg 2  74196 Neuenstadt a. K. </name>
+</wpt>
+<wpt lat="48.8730106085" lon="9.62713886598">
+  <name>aldi Hundsberger Str. 11  73642 Welzheim </name>
+</wpt>
+<wpt lat="47.572922981" lon="8.44823615922">
+  <name>aldi Hauptstr. 66  79801 Hohentengen </name>
+</wpt>
+<wpt lat="48.9051075196" lon="8.73830334999">
+  <name>aldi Eutinger Straße 164  75175 Pforzheim </name>
+</wpt>
+<wpt lat="48.8501375696" lon="8.20971808289">
+  <name>aldi Lützowerstraße 11  76437 Rastatt </name>
+</wpt>
+<wpt lat="48.7975420383" lon="9.67696128295">
+  <name>aldi Maierhofstraße 22  73547 Lorch </name>
+</wpt>
+<wpt lat="49.0367029214" lon="8.69960554129">
+  <name>aldi Wilhelmstraße 43  75015 Bretten </name>
+</wpt>
+<wpt lat="49.154507229" lon="9.27579190098">
+  <name>aldi Heilbronner Straße 69  74189 Weinsberg </name>
+</wpt>
+<wpt lat="48.6435125636" lon="9.36039108445">
+  <name>aldi Nürtinger Str.84  72644 Oberboihingen </name>
+</wpt>
+<wpt lat="48.8845082595" lon="9.39211015749">
+  <name>aldi Winnender Str. 36  71397 Leutenbach </name>
+</wpt>
+<wpt lat="48.8066286724" lon="9.52984126144">
+  <name>aldi Karlstraße 13  73614 Schorndorf </name>
+</wpt>
+<wpt lat="49.0763889346" lon="9.29011809417">
+  <name>aldi Rauheckstraße 9  74232 Abstatt </name>
+</wpt>
+<wpt lat="48.1674186122" lon="8.06135699757">
+  <name>aldi Freiburger Straße 49  79215 Elzach </name>
+</wpt>
+<wpt lat="48.5035286458" lon="8.8249439935">
+  <name>aldi Mercedesstrasse 36  72108 Rottenburg-Ergenzingen </name>
+</wpt>
+<wpt lat="49.2003871895" lon="9.52737712024">
+  <name>aldi Haller Straße 117  74613 Öhringen-Cappel </name>
+</wpt>
+<wpt lat="48.7075584318" lon="8.76011189893">
+  <name>aldi Schützenstrasse 7  75365 Calw </name>
+</wpt>
+<wpt lat="48.9088492409" lon="8.7114855797">
+  <name>aldi Bauschlotter Straße 37  75177 Pforzheim </name>
+</wpt>
+<wpt lat="48.2020218623" lon="7.76761158143">
+  <name>aldi Industriestraße 26  79341 Kenzingen </name>
+</wpt>
+<wpt lat="47.9333574589" lon="8.49491994378">
+  <name>aldi Bregstraße 2  78183 Hüfingen </name>
+</wpt>
+<wpt lat="49.000360156" lon="9.14759360606">
+  <name>aldi Robert-Bosch-Straße 10  74354 Besigheim </name>
+</wpt>
+<wpt lat="48.7687785695" lon="8.33899556375">
+  <name>aldi Schwarzwaldstraße 20  76593 Gernsbach </name>
+</wpt>
+<wpt lat="48.4413416068" lon="8.68482069409">
+  <name>aldi Bahnhofplatz-West  72160 Horb </name>
+</wpt>
+<wpt lat="48.9977404703" lon="8.34851937955">
+  <name>aldi Durmersheimer Str. 143  76189 Karlsruhe </name>
+</wpt>
+<wpt lat="48.7205773612" lon="7.99632705224">
+  <name>aldi Im Gewerbegebiet 20  77839 Lichtenau </name>
+</wpt>
+<wpt lat="48.2891309024" lon="9.12092872044">
+  <name>aldi Fehlabrücke 4  72393 Burladingen </name>
+</wpt>
+<wpt lat="48.4110015195" lon="9.50500199868">
+  <name>aldi Gewerbestraße 18  72525 Münsingen </name>
+</wpt>
+<wpt lat="48.6774013976" lon="9.01238959583">
+  <name>aldi Rudolf-Diesel-Str. 10  71032 Böblingen </name>
+</wpt>
+<wpt lat="48.8462020693" lon="8.52370722839">
+  <name>aldi Max-Planck-Straße 8  75334 Straubenhardt-Conweiler </name>
+</wpt>
+<wpt lat="47.6971788443" lon="8.74474249269">
+  <name>aldi Auf der Höhe 2  78262 Gailingen </name>
+</wpt>
+<wpt lat="48.2808904983" lon="8.58975340712">
+  <name>aldi Austr. 42  78727 Oberndorf </name>
+</wpt>
+<wpt lat="48.9740921636" lon="9.07115126956">
+  <name>aldi Zwischen den Wegen 2  74343 Sachsenheim </name>
+</wpt>
+<wpt lat="48.0681504302" lon="8.46588084912">
+  <name>aldi Milanstraße 6  78048 Villingen-Schwenningen </name>
+</wpt>
+<wpt lat="48.9813170944" lon="9.58046407464">
+  <name>aldi Fritz-Schweizer-Straße 6  71540 Murrhardt </name>
+</wpt>
+<wpt lat="47.6445104196" lon="7.76604676183">
+  <name>aldi In der Teichmatt 10  79689 Maulburg </name>
+</wpt>
+<wpt lat="47.7069170098" lon="7.85284928323">
+  <name>aldi Teichstraße 2a  79669 Zell </name>
+</wpt>
+<wpt lat="49.1959797632" lon="8.10318444546">
+  <name>aldi Annweiler Straße 17  76829 Landau i. d. Pfalz </name>
+</wpt>
+<wpt lat="47.7397676207" lon="8.9587810349">
+  <name>aldi Eisenbahn Str. 1/2  78315 Radolfzell </name>
+</wpt>
+<wpt lat="48.2137987849" lon="8.98666000468">
+  <name>aldi Silberdistelstr. 170  72458 Albstadt Ebingen </name>
+</wpt>
+<wpt lat="48.8158972384" lon="9.95909645716">
+  <name>aldi Heubacher Straße 39  73563 Mögglingen </name>
+</wpt>
+<wpt lat="48.4735178603" lon="8.9464603289">
+  <name>aldi Gartenstraße 85  72108 Rottenburg </name>
+</wpt>
+<wpt lat="48.8081804623" lon="8.30903016784">
+  <name>aldi Rindeschwenderstraße 40  76571 Gaggenau </name>
+</wpt>
+<wpt lat="48.8965826786" lon="10.0087929691">
+  <name>aldi Osteren 14  73453 Abtsgmünd </name>
+</wpt>
+<wpt lat="48.9985901132" lon="8.80046445939">
+  <name>aldi August-Kienzle-Straße 7  75433 Maulbronn </name>
+</wpt>
+<wpt lat="49.1803684389" lon="10.0723839999">
+  <name>aldi Industriestraße 23  74589 Satteldorf </name>
+</wpt>
+<wpt lat="49.1091204681" lon="9.79523106735">
+  <name>aldi Raiffeisenstraße 32  74523 Schwäbisch Hall </name>
+</wpt>
+<wpt lat="47.6302577404" lon="8.31582903918">
+  <name>aldi Riedstraße 18  79787 Lauchringen </name>
+</wpt>
+<wpt lat="49.1068774158" lon="8.01252383437">
+  <name>aldi Im Weidfeld 2  76889 Pleisweiler-Oberhofen </name>
+</wpt>
+<wpt lat="47.9884424741" lon="7.86882123496">
+  <name>aldi Schwarzwaldstraße 78  79117 Freiburg </name>
+</wpt>
+<wpt lat="49.0806715261" lon="8.46614165239">
+  <name>aldi Am Hasenbiel 10  76297 Stutensee/Blankenloch </name>
+</wpt>
+<wpt lat="49.3243977132" lon="8.81319885333">
+  <name>aldi Brühlweg 13  74909 Meckesheim </name>
+</wpt>
+<wpt lat="49.0368621059" lon="9.31644123757">
+  <name>aldi Forstbergweg 6  71717 Beilstein </name>
+</wpt>
+<wpt lat="48.9385897982" lon="8.36778284835">
+  <name>aldi Rudolf-Plank-Straße 4  76275 Ettlingen </name>
+</wpt>
+<wpt lat="48.6187988618" lon="9.03410821261">
+  <name>aldi Karl-Benz-Straße 23  71093 Weil im Schönbuch </name>
+</wpt>
+<wpt lat="48.7977316068" lon="8.19891723041">
+  <name>aldi Wilhelm-Drapp-Straße 21  76532 Baden-Baden </name>
+</wpt>
+<wpt lat="47.6261424045" lon="7.59908770569">
+  <name>aldi Im Rebacker 10  79591 Eimeldingen </name>
+</wpt>
+<wpt lat="48.469022164" lon="7.93298783154">
+  <name>aldi Heinrich-Hertz-Straße 2  77656 Offenburg </name>
+</wpt>
+<wpt lat="48.9463809872" lon="8.28139401489">
+  <name>aldi Auf den Heilberg 13  76448 Durmersheim </name>
+</wpt>
+<wpt lat="47.6748026209" lon="9.15811566885">
+  <name>aldi Oberlohnstraße 7  78467 Konstanz </name>
+</wpt>
+<wpt lat="48.5665976394" lon="9.45570118825">
+  <name>aldi Im Gänsacker 12  73252 Lenningen </name>
+</wpt>
+<wpt lat="49.0107490391" lon="8.39850367441">
+  <name>aldi Waldstraße 14-18  76133 Karlsruhe-Innenstadt </name>
+</wpt>
+<wpt lat="48.948058385" lon="9.44618636566">
+  <name>aldi Eugen-Adolff-Straße 129  71522 Backnang </name>
+</wpt>
+<wpt lat="49.2036014248" lon="8.640196356">
+  <name>aldi Am Landgraben 8  76669 Bad Schönborn </name>
+</wpt>
+<wpt lat="49.1683979891" lon="9.05859673994">
+  <name>aldi Massenbachhausener Str. 78  74193 Schwaigern-Massenbach </name>
+</wpt>
+<wpt lat="49.0887703285" lon="8.6426065379">
+  <name>aldi Mergelgrube 16-20  76646 Bruchsal-Helmsheim </name>
+</wpt>
+<wpt lat="48.7570290428" lon="9.27279716004">
+  <name>aldi Augsburger Straße 740  70329 Stuttgart-Obertürkheim </name>
+</wpt>
+<wpt lat="47.9606995425" lon="8.5044527528">
+  <name>aldi Dürrheimer Str. 38  78166 Donaueschingen </name>
+</wpt>
+<wpt lat="48.6422409177" lon="8.91466031691">
+  <name>aldi Max-Planck-Strasse 36  71116 Gärtringen </name>
+</wpt>
+<wpt lat="48.9988792245" lon="9.77273903398">
+  <name>aldi Schillerstraße 1  74405 Gaildorf </name>
+</wpt>
+<wpt lat="48.7973998614" lon="8.11108048916">
+  <name>aldi Wagnerstr. 4  76549 Hügelsheim </name>
+</wpt>
+<wpt lat="48.6525498334" lon="9.45965820331">
+  <name>aldi Schlierbacher Straße 49  73230 Kirchheim/Teck </name>
+</wpt>
+<wpt lat="48.668398279" lon="9.3956984507">
+  <name>aldi Erlenaustrasse 1  73240 Wendlingen </name>
+</wpt>
+<wpt lat="49.0210826767" lon="8.35419409889">
+  <name>aldi Borsigstraße 11  76185 Karlsruhe-Mühlburg </name>
+</wpt>
+<wpt lat="48.6961507489" lon="9.68120608093">
+  <name>aldi Esslinger Strasse 10  73037 Göppingen </name>
+</wpt>
+<wpt lat="48.7266999589" lon="9.64050278505">
+  <name>aldi Bahnhofstrasse 36  73098 Rechberghausen </name>
+</wpt>
+<wpt lat="48.9554406278" lon="8.58567048703">
+  <name>aldi Raiffeisenstraße 22  75196 Remchingen/Wilferdingen </name>
+</wpt>
+<wpt lat="48.5146522627" lon="8.378673633">
+  <name>aldi Max-Himmelheber-Str. 4  72270 Baiersbronn </name>
+</wpt>
+<wpt lat="47.6250816983" lon="7.67578185224">
+  <name>aldi Robert-Bosch-Straße 4  79539 Lörrach </name>
+</wpt>
+<wpt lat="49.1556482766" lon="8.63108622813">
+  <name>aldi Unteröwisheimer Straße 19  76698 Ubstadt-Weiher </name>
+</wpt>
+<wpt lat="48.9291312319" lon="8.96985168387">
+  <name>aldi Einsteinstraße 23  71665 Vaihingen a. d. Enz </name>
+</wpt>
+<wpt lat="48.7183523955" lon="9.3828201653">
+  <name>aldi Kieswiesen 18  73776 Altbach </name>
+</wpt>
+<wpt lat="48.8802797497" lon="9.2187928976">
+  <name>aldi Aldinger Straße 170  71638 Ludwigsburg </name>
+</wpt>
+<wpt lat="48.6594410742" lon="9.12419325787">
+  <name>aldi Zeppelinstraße 3  71144 Steinenbronn </name>
+</wpt>
+<wpt lat="48.8892508619" lon="8.32925591075">
+  <name>aldi Sezanner Straße 3  76316 Malsch </name>
+</wpt>
+<wpt lat="48.0864887128" lon="7.94897776969">
+  <name>aldi Rudolf-Blessing-Straße 6  79183 Waldkirch </name>
+</wpt>
+<wpt lat="48.0483988249" lon="8.21295564068">
+  <name>aldi Joseph-Koepfer-Straße 6  78120 Furtwangen </name>
+</wpt>
+<wpt lat="48.9909014972" lon="8.37479755688">
+  <name>aldi Ortenbergstraße 6  76135 Karlsruhe </name>
+</wpt>
+<wpt lat="47.8041986255" lon="7.62593245563">
+  <name>aldi Unterer Brühl 6  79379 Müllheim </name>
+</wpt>
+<wpt lat="49.0677872916" lon="8.39919615205">
+  <name>aldi Hagsfelder Weg 23  76344 Eggenstein-Leopoldshafen </name>
+</wpt>
+<wpt lat="48.8632793075" lon="10.3437992605">
+  <name>aldi Aalener Straße 50  73441 Bopfingen </name>
+</wpt>
+<wpt lat="48.8317179483" lon="9.15947364447">
+  <name>aldi Schwieberdinger Straße 62  70435 Stuttgart-Zuffenhausen </name>
+</wpt>
+<wpt lat="48.7050895584" lon="9.00062646922">
+  <name>aldi Mercedesstraße 15, 19  71063 Sindelfingen </name>
+</wpt>
+<wpt lat="48.8772693059" lon="9.17719927333">
+  <name>aldi Solitudeallee 127  70806 Kornwestheim </name>
+</wpt>
+<wpt lat="49.0828980921" lon="8.77483379362">
+  <name>aldi Attenbergstraße 20  75038 Oberderdingen/Flehingen </name>
+</wpt>
+<wpt lat="49.6071112507" lon="9.46795894174">
+  <name>aldi Ignaz-Schwinn-Str. 2  74736 Hardheim </name>
+</wpt>
+<wpt lat="49.1403184015" lon="8.55344779389">
+  <name>aldi Erich-Keßler-Straße 1  76689 Karlsdorf-Neuthard </name>
+</wpt>
+<wpt lat="49.1827022218" lon="9.22723752748">
+  <name>aldi Am Wildacker 12  74172 Neckarsulm </name>
+</wpt>
+<wpt lat="48.6859991802" lon="8.99329699813">
+  <name>aldi Otto-Lilienthal-Straße 3  71034 Böblingen </name>
+</wpt>
+<wpt lat="48.4641980894" lon="8.4400523326">
+  <name>aldi Planckstraße 10  72250 Freudenstadt-Wittlensweiler </name>
+</wpt>
+<wpt lat="48.754811619" lon="9.14014722316">
+  <name>aldi Böblinger Strasse 253  70199 Stuttgart-Heslach </name>
+</wpt>
+<wpt lat="47.5922497829" lon="7.60953782275">
+  <name>aldi Hauptstraße 339  79576 Weil am Rhein </name>
+</wpt>
+<wpt lat="48.5271611795" lon="9.1425214322">
+  <name>aldi Wannweiler Strasse 50  72138 Kirchentellinsfurt </name>
+</wpt>
+<wpt lat="47.8377907258" lon="8.54076735925">
+  <name>aldi Leo Wohleb-Str. 6a  78176 Blumberg </name>
+</wpt>
+<wpt lat="48.67487166" lon="7.92611701447">
+  <name>aldi Am Glockenloch 1  77866 Rheinau-Freistett </name>
+</wpt>
+<wpt lat="48.4953884485" lon="9.15869123468">
+  <name>aldi Karl-Henschel-Straße 2  72770 Reutlingen-Betzingen </name>
+</wpt>
+<wpt lat="48.7994673101" lon="9.17210911304">
+  <name>aldi Am Kochenhof 10  70192 Stuttgart </name>
+</wpt>
+<wpt lat="48.0612989362" lon="8.53255655299">
+  <name>aldi Bärenstraße 10  78054 Villingen-Schwenningen </name>
+</wpt>
+<wpt lat="47.9970007599" lon="7.85112258575">
+  <name>aldi Schiffstraße 7  79098 Freiburg </name>
+</wpt>
+<wpt lat="48.9303129121" lon="8.47455930262">
+  <name>aldi Talstraße 10  76337 Waldbronn/Reichenbach </name>
+</wpt>
+<wpt lat="48.1281581459" lon="8.35301598758">
+  <name>aldi Industriestr. 35  78112 St. Georgen </name>
+</wpt>
+<wpt lat="48.6388180106" lon="9.45240067795">
+  <name>aldi Beim Südbahnhof 9  73230 Kirchheim/Teck </name>
+</wpt>
+<wpt lat="48.7417007315" lon="9.26939772436">
+  <name>aldi Weilstraße 227  73733 Esslingen </name>
+</wpt>
+<wpt lat="48.371198966" lon="7.8730480465">
+  <name>aldi Adlerstraße 26 /B 3  77948 Friesenheim </name>
+</wpt>
+<wpt lat="48.2834519283" lon="8.84959439872">
+  <name>aldi Albrechtstrasse 45  72336 Balingen </name>
+</wpt>
+<wpt lat="48.2302879176" lon="9.02768705634">
+  <name>aldi Rudolf-Diesel-Str. 11  72461 Albstadt-Truchtelfingen </name>
+</wpt>
+<wpt lat="48.3494003779" lon="7.81977223457">
+  <name>aldi Dr.-Georg-Schaeffler-Str. 9  77933 Lahr </name>
+</wpt>
+<wpt lat="48.7309117783" lon="9.10859902123">
+  <name>aldi Schwabenplatz 1  70563 Stuttgart-Vaihingen </name>
+</wpt>
+<wpt lat="47.6575780177" lon="9.17648880926">
+  <name>aldi Bodanstr. 1  78462 Konstanz </name>
+</wpt>
+<wpt lat="48.8589898354" lon="8.23935072981">
+  <name>aldi Im Baisert 3  76437 Rastatt </name>
+</wpt>
+<wpt lat="48.9442310004" lon="9.42023194411">
+  <name>aldi Schlachthofstraße 15  71522 Backnang </name>
+</wpt>
+<wpt lat="48.8135106724" lon="9.52385177954">
+  <name>aldi Waiblinger Str. 16  73614 Schorndorf </name>
+</wpt>
+<wpt lat="49.2092478661" lon="7.97791793897">
+  <name>aldi Landauer Straße 69  76855 Annweiler a. Trifels </name>
+</wpt>
+<wpt lat="48.4936005287" lon="9.39089607332">
+  <name>aldi Im Unterwässer 3  72574 Bad Urach </name>
+</wpt>
+<wpt lat="47.5616608896" lon="7.63774054831">
+  <name>aldi Hörnle 30  79639 Grenzach-Wyhlen </name>
+</wpt>
+<wpt lat="47.5991695421" lon="7.5995373665">
+  <name>aldi Alte Straße 46  79576 Weil-Friedlingen </name>
+</wpt>
+<wpt lat="48.721550382" lon="9.11979557522">
+  <name>aldi Galileistr. 7  70565 Stuttgart-Möhringen </name>
+</wpt>
+<wpt lat="48.773028352" lon="8.17291784278">
+  <name>aldi Industriestraße 16  76547 Sinzheim </name>
+</wpt>
+<wpt lat="48.6309491976" lon="8.06129404505">
+  <name>aldi Güterhallenstraße 17  77855 Achern </name>
+</wpt>
+<wpt lat="48.5785998906" lon="7.818000571">
+  <name>aldi Allensteiner Straße 21  77694 Kehl </name>
+</wpt>
+<wpt lat="49.2554292746" lon="9.68323854776">
+  <name>aldi Robert-Bosch-Straße 10  74653 Künzelsau-Gaisbach </name>
+</wpt>
+<wpt lat="48.369161719" lon="8.64174318916">
+  <name>aldi Bahnhofstr. 68  72172 Sulz </name>
+</wpt>
+<wpt lat="48.8256673534" lon="10.0730225182">
+  <name>aldi Carl-Zeiss-Straße 21  73431 Aalen </name>
+</wpt>
+<wpt lat="48.8211792582" lon="9.08357989415">
+  <name>aldi Zeiss-Straße 2  71254 Ditzingen </name>
+</wpt>
+<wpt lat="49.3512890563" lon="9.14057889753">
+  <name>aldi Eisenbahnstraße 24  74821 Mosbach </name>
+</wpt>
+<wpt lat="48.6114323371" lon="9.80771365124">
+  <name>aldi Neuwiesenstraße 27  73312 Geislingen </name>
+</wpt>
+<wpt lat="47.7530713638" lon="8.16779170963">
+  <name>aldi Höchenschwander Straße 1a  79837 Häusern </name>
+</wpt>
+<wpt lat="49.2916676249" lon="9.56236073071">
+  <name>aldi Teslastraße 10  74670 Forchtenberg </name>
+</wpt>
+<wpt lat="48.5860009493" lon="9.22829872697">
+  <name>aldi Robert-Bosch-Straße 2  72654 Neckartenzlingen </name>
+</wpt>
+<wpt lat="48.7748893708" lon="8.57059785692">
+  <name>aldi Wildbader Str. 49  75323 Bad Wildbad/Calmbach </name>
+</wpt>
+<wpt lat="48.1487371839" lon="8.63766026907">
+  <name>aldi Saline 21  78628 Rottweil </name>
+</wpt>
+<wpt lat="49.1226413939" lon="9.73753958633">
+  <name>aldi Auwiesenstr. 17  74523 Schwäbisch Hall </name>
+</wpt>
+<wpt lat="48.4752289822" lon="7.94708919432">
+  <name>aldi Carl-Blos-Straße 2  77654 Offenburg </name>
+</wpt>
+<wpt lat="48.8354118858" lon="9.20199357">
+  <name>aldi Adalbert-Stifter-Straße 103  70437 Stuttgart-Freiberg </name>
+</wpt>
+<wpt lat="48.8288525913" lon="8.26431589759">
+  <name>aldi Teichäckerstraße 1  76456 Kuppenheim </name>
+</wpt>
+<wpt lat="47.6138429528" lon="8.18479788119">
+  <name>aldi Schnötstraße 1  79804 Dogern </name>
+</wpt>
+<wpt lat="48.8721115038" lon="8.82589727441">
+  <name>aldi Wiernsheimer Straße 42  75449 Wurmberg </name>
+</wpt>
+<wpt lat="48.5313718198" lon="9.33119910512">
+  <name>aldi Im Schwöllbogen 11  72581 Dettingen/Erms </name>
+</wpt>
+<wpt lat="48.3901217513" lon="9.29097244969">
+  <name>aldi Keltenstrasse 2  72829 Engstingen </name>
+</wpt>
+<wpt lat="49.229777614" lon="9.18784724114">
+  <name>aldi Brühlstraße 1  74206 Bad Wimpfen </name>
+</wpt>
+<wpt lat="48.0407810721" lon="7.8602237204">
+  <name>aldi Industriestr. 22  79194 Gundelfingen </name>
+</wpt>
+<wpt lat="48.4060883503" lon="9.03784939049">
+  <name>aldi Siemensstr.2  72116 Mössingen </name>
+</wpt>
+<wpt lat="48.9291371403" lon="9.18096743085">
+  <name>aldi Weidengasse 5  71691 Freiberg </name>
+</wpt>
+<wpt lat="47.8482027" lon="9.01096866769">
+  <name>aldi Weißmühlenstr. 15  78333 Stockach </name>
+</wpt>
+<wpt lat="49.2278571666" lon="8.37381729633">
+  <name>aldi Speyerer Straße 2  76726 Germersheim </name>
+</wpt>
+<wpt lat="48.5314015968" lon="8.96430286956">
+  <name>aldi Nagolder Strasse 15  72119 Ammerbuch-Pfäffingen </name>
+</wpt>
+<wpt lat="47.9214197529" lon="7.70535154665">
+  <name>aldi Breisgauer Straße 3  79189 Bad Krozingen </name>
+</wpt>
+<wpt lat="47.8178301099" lon="7.55719730529">
+  <name>aldi Colmarer Straße 5  79395 Neuenburg </name>
+</wpt>
+<wpt lat="48.8813620457" lon="8.73028140126">
+  <name>aldi Strietweg 70  75181 Pforzheim </name>
+</wpt>
+<wpt lat="48.2246982654" lon="7.7640682543">
+  <name>aldi Seeweg 5  79336 Herbolzheim </name>
+</wpt>
+<wpt lat="48.7328692644" lon="9.3154519838">
+  <name>aldi Dammstraße 5  73728 Esslingen </name>
+</wpt>
+</gpx>

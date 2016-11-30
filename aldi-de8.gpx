@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="Locus Android"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
+ xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
+ xmlns:locus="http://www.locusmap.eu">
+<wpt lat="48.1022981297" lon="11.5257956336">
+  <name>aldi Zielstattstraße 73  81379 München </name>
+</wpt>
+<wpt lat="47.7936328213" lon="11.8382109663">
+  <name>aldi Am Windfeld 17  83714 Miesbach </name>
+</wpt>
+<wpt lat="48.500138049" lon="10.1330522354">
+  <name>aldi Benzstraße 2  89129 Langenau </name>
+</wpt>
+<wpt lat="48.1654991901" lon="11.7294110384">
+  <name>aldi Ludwig-Thoma-Straße 2  85609 Aschheim </name>
+</wpt>
+<wpt lat="47.8501279318" lon="12.0936003159">
+  <name>aldi Grubholzer Straße 2  83026 Rosenheim </name>
+</wpt>
+<wpt lat="48.4906920446" lon="9.69226773668">
+  <name>aldi Geislinger Strasse 3  89150 Laichingen </name>
+</wpt>
+<wpt lat="47.6026017912" lon="9.88420095382">
+  <name>aldi Sedanstraße 15  88161 Lindenberg im Allgäu </name>
+</wpt>
+<wpt lat="48.1485991776" lon="11.6169238919">
+  <name>aldi Richard-Strauss-Str. 80+82  81679 München-Bogenhausen </name>
+</wpt>
+<wpt lat="47.9376473697" lon="12.9203466683">
+  <name>aldi Tittmoninger Straße 55  83410 Laufen </name>
+</wpt>
+<wpt lat="48.1742979508" lon="12.8242991208">
+  <name>aldi Klausenstraße 37  84489 Burghausen </name>
+</wpt>
+<wpt lat="48.2307791548" lon="11.6857939405">
+  <name>aldi Osterfeldstraße 41  85737 Ismaning </name>
+</wpt>
+<wpt lat="48.7382193377" lon="11.2120313185">
+  <name>aldi Nördliche Grünauer Straße 2  86633 Neuburg a. d. Donau </name>
+</wpt>
+<wpt lat="48.4118670955" lon="10.9543217191">
+  <name>aldi Winterbruckenweg 62  86316 Derching </name>
+</wpt>
+<wpt lat="48.4102971088" lon="10.0674557175">
+  <name>aldi Adenauerstraße 7  89233 Neu-Ulm/Burlafingen </name>
+</wpt>
+<wpt lat="47.6704606671" lon="9.49207874721">
+  <name>aldi Gutenbergstr. 4  88046 Friedrichshafen </name>
+</wpt>
+<wpt lat="47.8517996268" lon="12.1374962035">
+  <name>aldi Chiemseestraße 25  83022 Rosenheim </name>
+</wpt>
+<wpt lat="48.3933823541" lon="10.9247070587">
+  <name>aldi Steinerne Furt 57 a  86167 Augsburg-Lechhausen </name>
+</wpt>
+<wpt lat="48.120768325" lon="11.6023728684">
+  <name>aldi St.-Martin-Straße 57  81669 München-Ramersdorf </name>
+</wpt>
+<wpt lat="48.2369970905" lon="11.3522985094">
+  <name>aldi Gadastr. 3  85232 Bergkirchen </name>
+</wpt>
+<wpt lat="48.1787117569" lon="11.6357376999">
+  <name>aldi Feringastraße 15  85774 Unterföhring </name>
+</wpt>
+<wpt lat="48.2444001209" lon="9.63596121094">
+  <name>aldi Carl-Benz-Straße 7  89597 Munderkingen </name>
+</wpt>
+<wpt lat="48.2134092608" lon="11.562649833">
+  <name>aldi Schleißheimer Strasse 506  80933 München (EZN) - Hasenbergl </name>
+</wpt>
+<wpt lat="48.3727880815" lon="10.911109316">
+  <name>aldi Lechhauser Str. 15a  86153 Augsburg </name>
+</wpt>
+<wpt lat="47.8512685527" lon="11.1510573136">
+  <name>aldi Münchener Straße 62  82362 Weilheim in Oberbayern </name>
+</wpt>
+<wpt lat="47.6804581249" lon="9.82468384994">
+  <name>aldi Spinnereistraße 10  88239 Wangen im Allgäu </name>
+</wpt>
+<wpt lat="48.0763229493" lon="11.955203714">
+  <name>aldi Münchener Straße 34  85560 Ebersberg </name>
+</wpt>
+<wpt lat="48.0902973527" lon="11.5061994158">
+  <name>aldi Meglingerstraße 33  81477 München-Forstenried </name>
+</wpt>
+<wpt lat="48.1928981302" lon="11.2557023757">
+  <name>aldi Maisacher Straße 123  82256 Fürstenfeldbruck </name>
+</wpt>
+<wpt lat="48.2494726146" lon="11.6245321527">
+  <name>aldi Schleißheimer Straße 108a  85748 Garching </name>
+</wpt>
+<wpt lat="48.0551017558" lon="9.3423866659">
+  <name>aldi Saarstr. 11-13  88512 Mengen </name>
+</wpt>
+<wpt lat="48.1490971986" lon="11.4617999081">
+  <name>aldi Pasinger Bahnhofsplatz 5  81241 München </name>
+</wpt>
+<wpt lat="48.3901993872" lon="11.0610262277">
+  <name>aldi Messerschmittstraße 8  86453 Dasing </name>
+</wpt>
+<wpt lat="48.424872839" lon="12.9412019363">
+  <name>aldi Äußere Simbacher Straße 2  84347 Pfarrkirchen </name>
+</wpt>
+<wpt lat="47.9190993842" lon="12.2930968278">
+  <name>aldi Im Gewerbegebiet 18  83093 Bad Endorf </name>
+</wpt>
+<wpt lat="48.1981975259" lon="11.3292039306">
+  <name>aldi Johann-G.-Gutenberg-Str. 31  82140 Olching </name>
+</wpt>
+<wpt lat="48.694340239" lon="12.0276800422">
+  <name>aldi Landshuter Straße 55  84056 Rottenburg </name>
+</wpt>
+<wpt lat="48.0420678119" lon="10.707817667">
+  <name>aldi Rudolf-Diesel-Straße 1  86807 Buchloe </name>
+</wpt>
+<wpt lat="48.1911175542" lon="11.8515029396">
+  <name>aldi Burgerfeld 10  85570 Markt Schwaben </name>
+</wpt>
+<wpt lat="48.3514085326" lon="9.97970890837">
+  <name>aldi Wiblinger Ring 100  89079 Ulm-Wiblingen </name>
+</wpt>
+<wpt lat="48.4091927165" lon="10.4349994646">
+  <name>aldi Messerschmitt-Straße 1  89343 Jettingen-Scheppach </name>
+</wpt>
+<wpt lat="48.145208906" lon="11.519608301">
+  <name>aldi Friedenheimer Brücke 23  80639 München-Nymphenburg </name>
+</wpt>
+<wpt lat="48.5287215991" lon="12.1418758997">
+  <name>aldi Wittstraße 16  84036 Landshut </name>
+</wpt>
+<wpt lat="48.6110220632" lon="11.6179311321">
+  <name>aldi Hopfenstraße 60  85283 Wolnzach </name>
+</wpt>
+<wpt lat="48.4514290735" lon="11.7646194793">
+  <name>aldi Weinmoos 1  85406 Zolling </name>
+</wpt>
+<wpt lat="48.5316279012" lon="11.5307778753">
+  <name>aldi Max-Weinberger-Straße 3  85276 Pfaffenhofen </name>
+</wpt>
+<wpt lat="48.1051987981" lon="11.5972017691">
+  <name>aldi Schwanseestraße 61  81549 München-Giesing </name>
+</wpt>
+<wpt lat="48.1825975108" lon="11.5304001602">
+  <name>aldi Pelkovenstraße 143-147  80992 München-Moosach </name>
+</wpt>
+<wpt lat="48.1378995587" lon="11.3732976689">
+  <name>aldi Münchener Straße 1  82110 Germering </name>
+</wpt>
+<wpt lat="48.0809013964" lon="11.2661974589">
+  <name>aldi Argelsrieder Straße 40  82234 Weßling-Oberpfaffenhofen </name>
+</wpt>
+<wpt lat="48.1224012608" lon="10.9989100844">
+  <name>aldi Mühlweg 3  82269 Geltendorf/Kaltenberg </name>
+</wpt>
+<wpt lat="48.4544113824" lon="12.3353289704">
+  <name>aldi Ohmstraße 4  84137 Vilsbiburg </name>
+</wpt>
+<wpt lat="47.8079012834" lon="10.8723125819">
+  <name>aldi Am Lerchenfeld 3  86956 Schongau </name>
+</wpt>
+<wpt lat="48.1627998812" lon="11.2224004966">
+  <name>aldi Industriestrasse 1  82256 Fürstenfeldbruck </name>
+</wpt>
+<wpt lat="48.1282001646" lon="11.6027685699">
+  <name>aldi Orleansplatz 2  81667 München-Haidhausen </name>
+</wpt>
+<wpt lat="48.0162005794" lon="11.4769984433">
+  <name>aldi Schorner Straße 5  82065 Baierbrunn </name>
+</wpt>
+<wpt lat="47.4951616107" lon="11.0936895884">
+  <name>aldi Von-Brug-Str. 7  82467 Garmisch-Partenkirchen </name>
+</wpt>
+<wpt lat="47.7794813067" lon="12.4717020987">
+  <name>aldi Eichelreuth 26  83224 Grassau </name>
+</wpt>
+<wpt lat="48.2571073559" lon="10.8690930105">
+  <name>aldi Messerschmittring 20 1/3  86343 Königsbrunn-Süd </name>
+</wpt>
+<wpt lat="48.0074709928" lon="9.50647688612">
+  <name>aldi Schwarzenbacher Str. 1  88348 Bad Saulgau </name>
+</wpt>
+<wpt lat="48.575279771" lon="10.4498742439">
+  <name>aldi Werner-von-Siemens-Str. 10  89415 Lauingen a. d. Donau </name>
+</wpt>
+<wpt lat="48.226651418" lon="11.4691293792">
+  <name>aldi An der Wögerwiese 1  85757 Karlsfeld </name>
+</wpt>
+<wpt lat="48.0881828114" lon="10.076511886">
+  <name>aldi Zeppelinstraße 5  88453 Erolzheim </name>
+</wpt>
+<wpt lat="48.371688849" lon="10.8611430075">
+  <name>aldi Luther-King-Straße 2  86156 Augsburg-Pfersee </name>
+</wpt>
+<wpt lat="47.9112394922" lon="9.89198907893">
+  <name>aldi Oberriedstraße 1  88410 Bad Wurzach </name>
+</wpt>
+<wpt lat="48.3139398332" lon="10.8903529733">
+  <name>aldi Unterer Talweg 111  86179 Augsburg-Haunstetten </name>
+</wpt>
+<wpt lat="48.7766673498" lon="11.4509271099">
+  <name>aldi Despag-Straße 2  85055 Ingolstadt </name>
+</wpt>
+<wpt lat="48.0930004748" lon="11.5310027057">
+  <name>aldi Baierbrunner Straße 75  81379 München </name>
+</wpt>
+<wpt lat="47.6836004793" lon="11.2007987917">
+  <name>aldi Kemmelallee 1  82418 Murnau </name>
+</wpt>
+<wpt lat="48.2632981443" lon="11.4727986114">
+  <name>aldi Fraunhoferstraße 3  85221 Dachau </name>
+</wpt>
+<wpt lat="48.2010987727" lon="11.5867876249">
+  <name>aldi Heidemannstraße 9  80939 München-Am Hart </name>
+</wpt>
+<wpt lat="48.692559346" lon="11.6121664806">
+  <name>aldi Nöttinger Straße 23  85290 Geisenfeld </name>
+</wpt>
+<wpt lat="47.7332777888" lon="12.8837982382">
+  <name>aldi Bahnhofplatz 10  83435 Bad Reichenhall </name>
+</wpt>
+<wpt lat="48.0806971174" lon="11.8558016969">
+  <name>aldi Westring 11  85614 Kirchseeon-Eglharting </name>
+</wpt>
+<wpt lat="48.8585993273" lon="10.5035367642">
+  <name>aldi Hofer Straße 8  86720 Nördlingen </name>
+</wpt>
+<wpt lat="47.9039029177" lon="11.2736078689">
+  <name>aldi Lindemannstraße 9  82327 Tutzing </name>
+</wpt>
+<wpt lat="48.1721988607" lon="11.8071034319">
+  <name>aldi Bürgerstraße 2  85586 Poing </name>
+</wpt>
+<wpt lat="48.242297913" lon="11.4481032401">
+  <name>aldi Wettersteinring 8  85221 Dachau </name>
+</wpt>
+<wpt lat="47.9130418275" lon="9.74332222425">
+  <name>aldi Im Ballenmoos 12  88339 Bad Waldsee </name>
+</wpt>
+<wpt lat="48.0432102174" lon="10.5109201946">
+  <name>aldi Heimenegger Weg 10  87719 Mindelheim </name>
+</wpt>
+<wpt lat="48.5494194089" lon="12.1598623319">
+  <name>aldi Alte Regensburger Straße 59  84030 Landshut </name>
+</wpt>
+<wpt lat="47.9929023487" lon="11.3306878112">
+  <name>aldi Emslander Str. 3  82319 Starnberg </name>
+</wpt>
+<wpt lat="48.2144220173" lon="11.5437460929">
+  <name>aldi Dülferstraße 69  80995 München-Feldmoching </name>
+</wpt>
+<wpt lat="48.08779834" lon="11.4598933463">
+  <name>aldi Hainbuchenring 6  82061 Neuried </name>
+</wpt>
+<wpt lat="48.6185372765" lon="10.2510432301">
+  <name>aldi Gerschweiler Straße 8  89537 Giengen/Brenz </name>
+</wpt>
+<wpt lat="47.7835905977" lon="10.9257412785">
+  <name>aldi Grasweg 3  86971 Peiting </name>
+</wpt>
+<wpt lat="47.7494978286" lon="12.6563957769">
+  <name>aldi Seehauser Straße 39 a  83324 Ruhpolding </name>
+</wpt>
+<wpt lat="48.3753986636" lon="10.9330977292">
+  <name>aldi Donaustraße 11  86165 Augsburg-Lechhausen </name>
+</wpt>
+<wpt lat="48.1769007031" lon="11.2520960961">
+  <name>aldi Schöngeisinger Str. 40-48  82256 Fürstenfeldbruck </name>
+</wpt>
+<wpt lat="48.6533875259" lon="11.4808025737">
+  <name>aldi Wackerstraße 5  85084 Reichertshofen </name>
+</wpt>
+<wpt lat="47.6572993733" lon="13.0386883984">
+  <name>aldi Gartenau 2  83471 Berchtesgaden </name>
+</wpt>
+<wpt lat="48.1004423368" lon="9.77135407871">
+  <name>aldi Gaisentalstraße 72  88400 Biberach </name>
+</wpt>
+<wpt lat="47.9725378682" lon="10.1845383973">
+  <name>aldi Oberbrühlstraße 2  87700 Memmingen </name>
+</wpt>
+<wpt lat="47.7788104945" lon="9.6067062791">
+  <name>aldi Ziegelstraße 20  88214 Ravensburg </name>
+</wpt>
+<wpt lat="48.02291973" lon="10.5972820484">
+  <name>aldi Zeppelinstraße 8  86825 Bad Wörishofen </name>
+</wpt>
+<wpt lat="48.7477911078" lon="11.4710179546">
+  <name>aldi Eriagstraße 10  85053 Ingolstadt </name>
+</wpt>
+<wpt lat="48.9335623886" lon="11.46242044">
+  <name>aldi Mühlweg 10  85095 Denkendorf </name>
+</wpt>
+<wpt lat="48.149601215" lon="11.4424914733">
+  <name>aldi Stockacher Straße  6  81243 München </name>
+</wpt>
+<wpt lat="47.9135119916" lon="10.6330390754">
+  <name>aldi Bürgerstraße 7  87600 Kaufbeuren </name>
+</wpt>
+<wpt lat="47.8808012907" lon="11.4619977589">
+  <name>aldi Banater Straße 2  82538 Geretsried </name>
+</wpt>
+<wpt lat="48.435751178" lon="10.8659723646">
+  <name>aldi Senefelder Straße 22  86368 Gersthofen </name>
+</wpt>
+<wpt lat="48.1978378557" lon="10.7608686485">
+  <name>aldi Robert-Bosch-Straße 5  86830 Schwabmünchen </name>
+</wpt>
+<wpt lat="47.964469314" lon="12.5876156605">
+  <name>aldi Traunring 3  83301 Traunreut </name>
+</wpt>
+<wpt lat="47.4967900308" lon="11.2764317387">
+  <name>aldi Am Stausee 6  82494 Krün </name>
+</wpt>
+<wpt lat="48.2551014755" lon="10.9878844015">
+  <name>aldi Wallbergstraße 20  86415 Mering </name>
+</wpt>
+<wpt lat="47.7809921132" lon="9.20201155643">
+  <name>aldi Heiligenbreite 3  88662 Überlingen </name>
+</wpt>
+<wpt lat="48.4657306325" lon="9.94698259513">
+  <name>aldi Lerchenbergstrasse 8  89160 Dornstadt </name>
+</wpt>
+<wpt lat="48.2875571298" lon="9.725371765">
+  <name>aldi Adolffstraße 44  89584 Ehingen </name>
+</wpt>
+<wpt lat="47.9075020082" lon="11.4284980291">
+  <name>aldi Hans-Urmiller-Ring 4  82515 Wolfratshausen </name>
+</wpt>
+<wpt lat="48.3467286922" lon="11.3831182608">
+  <name>aldi Gewerbestraße 7  85229 Markt Indersdorf </name>
+</wpt>
+<wpt lat="48.0002082467" lon="10.1683955745">
+  <name>aldi Rudolf-Diesel-Straße 10  87700 Memmingen-Amendingen </name>
+</wpt>
+<wpt lat="47.5605988756" lon="11.1264878474">
+  <name>aldi Ettaler Straße 1  82496 Oberau </name>
+</wpt>
+<wpt lat="48.3929285098" lon="10.0221658814">
+  <name>aldi Pfaffenweg 28  89231 Neu-Ulm </name>
+</wpt>
+<wpt lat="48.1319997124" lon="11.6271042125">
+  <name>aldi Neumarkter Straße 81 a  81673 München-Berg am Laim </name>
+</wpt>
+<wpt lat="48.2091183068" lon="12.4184172936">
+  <name>aldi Bahnhofstraße 10  84478 Waldkraiburg </name>
+</wpt>
+<wpt lat="47.5558772045" lon="10.2298821927">
+  <name>aldi Sonthofener Straße 51 1/2  87509 Immenstadt im Allgäu </name>
+</wpt>
+<wpt lat="47.6783388965" lon="9.48090917286">
+  <name>aldi Siemensstraße 6/2  88048 Friedrichshafen-Ailingen </name>
+</wpt>
+<wpt lat="47.8577014259" lon="12.6280041938">
+  <name>aldi Hochstraße 16  83278 Traunstein-Haslach </name>
+</wpt>
+<wpt lat="48.2683986948" lon="12.1585043562">
+  <name>aldi Haager Straße 61  84405 Dorfen </name>
+</wpt>
+<wpt lat="48.3517611468" lon="12.1305894136">
+  <name>aldi Landshuter Straße 43  84416 Taufkirchen / Vils </name>
+</wpt>
+<wpt lat="47.68490217" lon="11.4013025437">
+  <name>aldi Am Schwaigbach 4  82431 Kochel am See </name>
+</wpt>
+<wpt lat="47.8805781237" lon="12.6351987667">
+  <name>aldi Gewerbepark Kaserne 6  83278 Traunstein </name>
+</wpt>
+<wpt lat="48.0511221836" lon="11.6713958016">
+  <name>aldi Carl-Zeiss-Straße 49  85521 Hohenbrunn-Riemerling </name>
+</wpt>
+<wpt lat="47.8842512093" lon="11.9142216284">
+  <name>aldi Kirchdorfer Straße 15  83052 Bruckmühl </name>
+</wpt>
+<wpt lat="48.0942018168" lon="11.3128003045">
+  <name>aldi Dornierstr. 2b  82205 Gilching </name>
+</wpt>
+<wpt lat="48.2616217959" lon="10.8225531174">
+  <name>aldi Lindauer Straße 41  86399 Bobingen </name>
+</wpt>
+<wpt lat="47.5823628253" lon="10.7005511484">
+  <name>aldi Abt-Hafner-Straße 15  87629 Füssen </name>
+</wpt>
+<wpt lat="48.4402915838" lon="10.4112393878">
+  <name>aldi Robert-Bosch-Straße 5  89331 Burgau </name>
+</wpt>
+<wpt lat="48.6900600533" lon="10.9304896966">
+  <name>aldi Erlenweg 5  86641 Rain/Lech </name>
+</wpt>
+<wpt lat="48.715878118" lon="11.5037982271">
+  <name>aldi Geisenfelder Straße 70  85077 Manching </name>
+</wpt>
+<wpt lat="48.1686901898" lon="11.6330397351">
+  <name>aldi Hochstiftsweg 4  81927 München-Bogenhausen </name>
+</wpt>
+<wpt lat="48.0540978746" lon="12.2364035937">
+  <name>aldi Eiselfinger Straße 10  83512 Wasserburg </name>
+</wpt>
+<wpt lat="47.6890976308" lon="11.7466959997">
+  <name>aldi Wiesseer Straße 41  83700 Kreuth-Weißach </name>
+</wpt>
+<wpt lat="47.7075221807" lon="10.3245987442">
+  <name>aldi Magnusstraße 35  87437 Kempten (Allgäu) </name>
+</wpt>
+<wpt lat="48.6282923046" lon="10.18893608">
+  <name>aldi Zeppelinweg 6  89542 Herbrechtingen </name>
+</wpt>
+<wpt lat="47.7908112854" lon="11.056295796">
+  <name>aldi An der Grube 1  82380 Peißenberg </name>
+</wpt>
+<wpt lat="48.1374194338" lon="11.5623440637">
+  <name>aldi Schwanthalerstraße 14  80336 München-Ludwigsvorstadt </name>
+</wpt>
+<wpt lat="48.3776507058" lon="10.0063558076">
+  <name>aldi Wegenerstraße 3  89231 Neu-Ulm </name>
+</wpt>
+<wpt lat="47.6631627065" lon="9.50665675044">
+  <name>aldi Adelheidstr. 38  88048 Friedrichshafen </name>
+</wpt>
+<wpt lat="48.063071998" lon="10.8672224216">
+  <name>aldi Augsburger Straße 62  86899 Landsberg/Lech </name>
+</wpt>
+<wpt lat="47.9973798916" lon="9.12064993075">
+  <name>aldi Trettenfurt 14  88605 Meßkirch </name>
+</wpt>
+<wpt lat="47.8789978327" lon="12.1114968159">
+  <name>aldi Möslstraße 28  83024 Rosenheim-Westerndorf </name>
+</wpt>
+<wpt lat="48.1291425747" lon="9.79853157764">
+  <name>aldi Bahnhofstraße 2  88447 Warthausen </name>
+</wpt>
+<wpt lat="48.1931019633" lon="11.4658018893">
+  <name>aldi Georg-Reismüller-Straße 16  80999 München-Allach </name>
+</wpt>
+<wpt lat="47.7427975449" lon="11.5685943488">
+  <name>aldi Moser-Säge 7  83674 Gaißach </name>
+</wpt>
+<wpt lat="48.7660578087" lon="11.439235929">
+  <name>aldi Frühlingstraße 35  85055 Ingolstadt </name>
+</wpt>
+<wpt lat="47.6612426585" lon="9.59253297059">
+  <name>aldi Schäferhofstraße 1  88069 Tettnang </name>
+</wpt>
+<wpt lat="48.1321017501" lon="11.380213452">
+  <name>aldi Industriestraße 24  82110 Germering </name>
+</wpt>
+<wpt lat="48.402452419" lon="9.79220035353">
+  <name>aldi Unter dem Kühnenbuch 6  89143 Blaubeuren </name>
+</wpt>
+<wpt lat="48.3070493406" lon="11.8840224089">
+  <name>aldi Am Kletthamer Feld 1  85435 Erding </name>
+</wpt>
+<wpt lat="47.8951724257" lon="10.6400627772">
+  <name>aldi Innovapark 35  87600 Kaufbeuren </name>
+</wpt>
+<wpt lat="48.2345890779" lon="9.88088245709">
+  <name>aldi Ulmer Straße 61  88471 Laupheim </name>
+</wpt>
+<wpt lat="47.8830027513" lon="11.7114875588">
+  <name>aldi Rudolf-Diesel-Ring 4  83607 Holzkirchen </name>
+</wpt>
+<wpt lat="48.5576818778" lon="12.1066404792">
+  <name>aldi Am Aicher Feld 2  84032 Altdorf </name>
+</wpt>
+<wpt lat="48.4509697824" lon="10.2589932331">
+  <name>aldi Violastraße 8  89312 Günzburg </name>
+</wpt>
+<wpt lat="48.3886287316" lon="10.8830414886">
+  <name>aldi Weiherstr. 10 A  86154 Augsburg-Oberhausen </name>
+</wpt>
+<wpt lat="48.5402207655" lon="12.0983667205">
+  <name>aldi Ludwig-Erhard-Straße 9  84034 Landshut </name>
+</wpt>
+<wpt lat="48.2404471797" lon="12.7104000394">
+  <name>aldi Simbacher Straße 55  84524 Neuötting </name>
+</wpt>
+<wpt lat="47.996898454" lon="9.66401105183">
+  <name>aldi Sägmühleweg 2  88427 Bad Schussenried </name>
+</wpt>
+<wpt lat="47.4795979298" lon="11.0539036006">
+  <name>aldi An der Zugspitze 5  82491 Grainau </name>
+</wpt>
+<wpt lat="47.5086613883" lon="10.2759094725">
+  <name>aldi Oberstdorfer Str.12  87527 Sonthofen </name>
+</wpt>
+<wpt lat="48.3117029176" lon="11.6484271278">
+  <name>aldi Philipp-Reis-Straße 4  85375 Neufahrn </name>
+</wpt>
+<wpt lat="48.8161518777" lon="11.414801361">
+  <name>aldi Ziegelberg 3  85139 Wettstetten </name>
+</wpt>
+<wpt lat="47.5191392451" lon="10.2848577225">
+  <name>aldi Östliche Alpenstraße 26  87527 Sonthofen </name>
+</wpt>
+<wpt lat="47.7036913305" lon="10.0492084821">
+  <name>aldi Am Bühlberg 5  88316 Isny im Allgäu </name>
+</wpt>
+<wpt lat="48.1452989161" lon="11.4849034802">
+  <name>aldi Landsberger Straße 388  80687 München </name>
+</wpt>
+<wpt lat="47.8216706796" lon="10.0255023645">
+  <name>aldi Künkelinstraße 9  88299 Leutkirch im Allgäu </name>
+</wpt>
+<wpt lat="48.8088615763" lon="11.4848765005">
+  <name>aldi Ingolstädter Straße 141  85092 Kösching </name>
+</wpt>
+<wpt lat="47.6970880511" lon="9.82362265044">
+  <name>aldi Siemensstraße 4  88239 Wangen </name>
+</wpt>
+<wpt lat="47.7421020689" lon="10.3247876018">
+  <name>aldi Bleicherstraße 26  87437 Kempten (Allgäu) </name>
+</wpt>
+<wpt lat="48.7352122158" lon="11.4398924338">
+  <name>aldi Münchener Straße 180  85051 Ingolstadt </name>
+</wpt>
+<wpt lat="48.4629815631" lon="11.1258313426">
+  <name>aldi Donauwörther Straße 31  86551 Aichach </name>
+</wpt>
+<wpt lat="48.1463970267" lon="11.7885144544">
+  <name>aldi Am Lerchenfeld  85599 Parsdorf </name>
+</wpt>
+<wpt lat="47.6213114716" lon="10.5016302024">
+  <name>aldi Hauptstraße 1  87484 Nesselwang </name>
+</wpt>
+<wpt lat="48.1856015723" lon="11.385789246">
+  <name>aldi Olchinger Straße 70  82194 Gröbenzell </name>
+</wpt>
+<wpt lat="48.1097206315" lon="11.718403342">
+  <name>aldi Hans-Stießberger-Straße 5  85540 Haar </name>
+</wpt>
+<wpt lat="48.0684629327" lon="11.6189203859">
+  <name>aldi Biberger Straße 66  82008 Unterhaching </name>
+</wpt>
+<wpt lat="48.0753314997" lon="9.94559763986">
+  <name>aldi Am Güterbahnhof 9  88416 Ochsenhausen </name>
+</wpt>
+<wpt lat="47.8247984808" lon="12.3839013303">
+  <name>aldi Chiemseestraße 87  83233 Bernau </name>
+</wpt>
+<wpt lat="48.1430786208" lon="11.5563365954">
+  <name>aldi Rundfunkplatz 4  80335 München-Maxvorstadt </name>
+</wpt>
+<wpt lat="48.2298326205" lon="10.1019986603">
+  <name>aldi Saumweg 36  89257 Illertissen </name>
+</wpt>
+<wpt lat="47.7486028948" lon="11.3705907109">
+  <name>aldi Sindelsdorfer Str. 6 a  82377 Penzberg </name>
+</wpt>
+<wpt lat="48.1225993708" lon="11.669498233">
+  <name>aldi Bognerhofweg 5  81825 München-Trudering </name>
+</wpt>
+<wpt lat="47.5508091278" lon="9.72192736325">
+  <name>aldi Von-Behring-Straße 4  88131 Lindau-Reutin </name>
+</wpt>
+<wpt lat="48.6474699107" lon="12.485533665">
+  <name>aldi Gewerbehof 1  84130 Dingolfing </name>
+</wpt>
+<wpt lat="48.06795812" lon="11.0951015233">
+  <name>aldi Aumühle 4  86938 Schondorf </name>
+</wpt>
+<wpt lat="48.3781823405" lon="10.8469966787">
+  <name>aldi Benzstraße 9  86391 Stadtbergen </name>
+</wpt>
+<wpt lat="47.7605622932" lon="9.29741159239">
+  <name>aldi Alte Neufracher Str. 52  88682 Salem </name>
+</wpt>
+<wpt lat="48.0206580546" lon="12.5344207875">
+  <name>aldi Sonnenleite 14  83308 Trostberg </name>
+</wpt>
+<wpt lat="48.129868879" lon="11.591410138">
+  <name>aldi Rosenheimer Straße 30  81669 München-Haidhausen </name>
+</wpt>
+<wpt lat="47.8060409271" lon="10.2986623091">
+  <name>aldi Welserstraße 10  87463 Dietmannsried </name>
+</wpt>
+<wpt lat="48.8781210019" lon="11.2124719861">
+  <name>aldi Sollnau 34  85072 Eichstätt </name>
+</wpt>
+<wpt lat="48.0883029581" lon="11.6394968643">
+  <name>aldi Maximilian-Kolbe-Allee 1  81739 München-Neuperlach </name>
+</wpt>
+<wpt lat="48.2455799548" lon="11.5505809371">
+  <name>aldi Sonnenstraße 11  85764 Oberschleißheim </name>
+</wpt>
+<wpt lat="48.2697515723" lon="13.0175003814">
+  <name>aldi Simon-Breu-Straße 61  84359 Simbach am Inn </name>
+</wpt>
+<wpt lat="47.8424024319" lon="12.0643094112">
+  <name>aldi Am Rothbachl 2 a  83059 Kolbermoor </name>
+</wpt>
+<wpt lat="48.6794381597" lon="10.1213340749">
+  <name>aldi Steinheimer Straße 19  89518 Heidenheim </name>
+</wpt>
+<wpt lat="48.4108403416" lon="11.7482428328">
+  <name>aldi Weinmiller-Straße 5  85356 Freising </name>
+</wpt>
+<wpt lat="48.4711925499" lon="11.9642418961">
+  <name>aldi Degernpoint A 1  85368 Moosburg </name>
+</wpt>
+<wpt lat="48.1874902634" lon="11.5922734867">
+  <name>aldi Frankfurter Ring  80807 München </name>
+</wpt>
+<wpt lat="47.8126424745" lon="9.63397371019">
+  <name>aldi Ettishofer Straße 9  88250 Weingarten </name>
+</wpt>
+<wpt lat="48.5642170825" lon="11.2551627827">
+  <name>aldi Pöttmeser Straße 6  86529 Schrobenhausen </name>
+</wpt>
+<wpt lat="48.4154784777" lon="11.4799032521">
+  <name>aldi Gewerbering 1  85238 Petershausen </name>
+</wpt>
+<wpt lat="48.3599423073" lon="10.787155819">
+  <name>aldi Am Straßfeld 1  86420 Diedorf </name>
+</wpt>
+<wpt lat="48.1881977551" lon="11.5033036003">
+  <name>aldi Dachauer Straße 507  80993 München-Moosach </name>
+</wpt>
+<wpt lat="47.9975002503" lon="11.5113974947">
+  <name>aldi Gewerbestraße 2  82064 Straßlach </name>
+</wpt>
+<wpt lat="47.8878697581" lon="10.6282007252">
+  <name>aldi Neugablonzer Straße 65  87600 Kaufbeuren </name>
+</wpt>
+<wpt lat="48.3483424788" lon="10.9973632512">
+  <name>aldi Marquardtstr. 2  86316 Friedberg </name>
+</wpt>
+<wpt lat="48.2521074777" lon="12.5274420519">
+  <name>aldi Bürgermeister-Hess-Straße 2  84453 Mühldorf </name>
+</wpt>
+<wpt lat="47.8687790627" lon="12.0014917971">
+  <name>aldi Ebersberger Straße 3  83043 Bad Aibling </name>
+</wpt>
+<wpt lat="48.1783579468" lon="11.6024628005">
+  <name>aldi Ungererstraße 175  80805 München-Schwabing </name>
+</wpt>
+<wpt lat="48.3977294994" lon="10.8239470659">
+  <name>aldi Lohwaldstraße 62  86356 Neusäss </name>
+</wpt>
+<wpt lat="48.8384426054" lon="10.8454318591">
+  <name>aldi Wemdinger Straße 5/7  86653 Monheim </name>
+</wpt>
+<wpt lat="48.3881509561" lon="11.7330532909">
+  <name>aldi Angerstraße 50  85354 Freising </name>
+</wpt>
+<wpt lat="48.187430306" lon="11.5704379581">
+  <name>aldi Frankfurter Ring 19  80807 München-Milbertshofen </name>
+</wpt>
+<wpt lat="48.1730385071" lon="10.8325985398">
+  <name>aldi Lagerlechfelder Straße 32  86836 Untermeitingen </name>
+</wpt>
+<wpt lat="48.4125416376" lon="9.92124401077">
+  <name>aldi Max-Hilsenbeck-Straße 1  89134 Blaustein-Ehrenstein </name>
+</wpt>
+<wpt lat="48.7114514092" lon="10.756102244">
+  <name>aldi Kaiser-Karl-Straße 4  86609 Donauwörth </name>
+</wpt>
+<wpt lat="47.7757705796" lon="10.6147198943">
+  <name>aldi Bahnhofstraße 14  87616 Marktoberdorf </name>
+</wpt>
+<wpt lat="47.7067415089" lon="10.3124938754">
+  <name>aldi Im Moos 1  87435 Kempten </name>
+</wpt>
+<wpt lat="48.0528895845" lon="10.8965043331">
+  <name>aldi Am Penzinger Feld 7  86899 Landsberg/Lech </name>
+</wpt>
+<wpt lat="48.5867505138" lon="12.1894859856">
+  <name>aldi Daimlerstraße 1  84051 Essenbach-Altheim </name>
+</wpt>
+<wpt lat="48.2911713491" lon="10.0768896011">
+  <name>aldi Adalbert-Stifter-Straße 36  89269 Vöhringen </name>
+</wpt>
+<wpt lat="48.0806911092" lon="11.6915855717">
+  <name>aldi Innstraße 3  85640 Putzbrunn-Oedenstockach </name>
+</wpt>
+<wpt lat="48.2268011965" lon="12.6576008679">
+  <name>aldi Mühldorfer Straße 112  84503 Altötting </name>
+</wpt>
+<wpt lat="48.2019918921" lon="11.5421632868">
+  <name>aldi Lerchenauerstrasse 240  80935 München-Feldmoching </name>
+</wpt>
+<wpt lat="48.7683695757" lon="11.4022558246">
+  <name>aldi Neuburger Straße 59  85057 Ingolstadt </name>
+</wpt>
+<wpt lat="48.1565609349" lon="9.50268174894">
+  <name>aldi Robert-Bosch-Straße 8  88499 Riedlingen </name>
+</wpt>
+<wpt lat="48.3972577805" lon="10.6075523011">
+  <name>aldi Melanderstraße 2  86441 Zusmarshausen </name>
+</wpt>
+<wpt lat="48.2909379883" lon="10.888923052">
+  <name>aldi Hunnenstraße 4  86343 Königsbrunn </name>
+</wpt>
+<wpt lat="48.1467570578" lon="11.5028989055">
+  <name>aldi Wotanstraße 9c  80639 München-Nymphenburg </name>
+</wpt>
+<wpt lat="48.429658879" lon="11.5819492747">
+  <name>aldi Mühlenstraße 2  85391 Allershausen </name>
+</wpt>
+<wpt lat="47.7573580728" lon="12.8983942279">
+  <name>aldi Reichenhaller Straße 25  83451 Piding </name>
+</wpt>
+<wpt lat="48.719930648" lon="11.1700329995">
+  <name>aldi Am Südpark 5  86633 Neuburg an der Donau </name>
+</wpt>
+<wpt lat="48.3462505234" lon="10.8820882077">
+  <name>aldi Edisonstraße 4  86199 Augsburg-Göggingen </name>
+</wpt>
+<wpt lat="48.1234998611" lon="11.5488992057">
+  <name>aldi Implerstraße 9a  81371 München </name>
+</wpt>
+<wpt lat="48.1266994759" lon="12.5736312095">
+  <name>aldi Am Binderfeld 6  84518 Garching a. d. Alz </name>
+</wpt>
+<wpt lat="47.8431026028" lon="12.12319699">
+  <name>aldi Kufsteiner Straße 100  83026 Rosenheim </name>
+</wpt>
+<wpt lat="47.9318390344" lon="9.24106909378">
+  <name>aldi Otterswanger Str. 5/4  88630 Pfullendorf </name>
+</wpt>
+<wpt lat="48.6887480234" lon="10.1637640682">
+  <name>aldi Nördlinger Straße 64  89520 Heidenheim </name>
+</wpt>
+<wpt lat="48.7353605002" lon="11.4164830924">
+  <name>aldi Fauststraße 74  85051 Ingolstadt </name>
+</wpt>
+<wpt lat="48.1124887821" lon="11.7806633767">
+  <name>aldi Baldhamer Straße 97  85591 Vaterstetten </name>
+</wpt>
+<wpt lat="48.0814000741" lon="10.8593623508">
+  <name>aldi Viktor-Frankl-Str. 2  86916 Kaufering </name>
+</wpt>
+<wpt lat="48.4009717025" lon="9.97218158653">
+  <name>aldi Blaubeurer Straße 47  89077 Ulm </name>
+</wpt>
+<wpt lat="48.1646174315" lon="12.1658338273">
+  <name>aldi Gerberstraße 5  83527 Haag i. OB </name>
+</wpt>
+<wpt lat="48.2755278365" lon="11.8978539752">
+  <name>aldi Berghamer Straße 7  85435 Erding-Aufhausen </name>
+</wpt>
+<wpt lat="48.2747018408" lon="10.9750960482">
+  <name>aldi Holzgartenstraße 17  86415 Mering </name>
+</wpt>
+<wpt lat="48.1130892289" lon="11.4510260353">
+  <name>aldi Lochhamer Straße 31  82152 Martinsried </name>
+</wpt>
+<wpt lat="48.0599826237" lon="11.6325810811">
+  <name>aldi Kirchlandweg 1 - 3  82008 Unterhaching </name>
+</wpt>
+<wpt lat="48.3105904044" lon="11.9181426706">
+  <name>aldi Alte Römer Straße 11  85435 Erding </name>
+</wpt>
+<wpt lat="47.7911375522" lon="12.1124231172">
+  <name>aldi Friedrich-Fuckel-Straße 20  83064 Raubling </name>
+</wpt>
+<wpt lat="48.3050214925" lon="10.9630721184">
+  <name>aldi Grünzweigstraße 3  86438 Kissing </name>
+</wpt>
+<wpt lat="48.1629018577" lon="11.3276031381">
+  <name>aldi Hauptstraße 110  82223 Eichenau </name>
+</wpt>
+<wpt lat="48.3276821511" lon="9.89485791485">
+  <name>aldi Ehinger Straße 5  89155 Erbach </name>
+</wpt>
+<wpt lat="48.5394288301" lon="12.156705713">
+  <name>aldi Am Alten Viehmarkt 5  84034 Landshut </name>
+</wpt>
+<wpt lat="47.7129502492" lon="9.39754205999">
+  <name>aldi Rudolf-Diesel-Str. 1  88677 Markdorf </name>
+</wpt>
+<wpt lat="48.5861020817" lon="10.5137890305">
+  <name>aldi Rudolf-Diesel-Straße 9a  89407 Dillingen </name>
+</wpt>
+<wpt lat="48.4985827081" lon="12.1600601826">
+  <name>aldi Ziegelfeldstraße 2  84036 Kumhausen </name>
+</wpt>
+<wpt lat="48.6478026464" lon="11.7850700526">
+  <name>aldi Köglmühle 1  84048 Mainburg </name>
+</wpt>
+<wpt lat="48.0859720617" lon="9.7976142696">
+  <name>aldi Waldseer Straße 119  88400 Biberach </name>
+</wpt>
+<wpt lat="48.2836015405" lon="10.4579861248">
+  <name>aldi Rudolf-Diesel-Straße 10  86470 Thannhausen </name>
+</wpt>
+<wpt lat="47.9914699343" lon="10.1880457516">
+  <name>aldi Hans-Grässel-Straße 6  87700 Memmingen </name>
+</wpt>
+<wpt lat="48.1204981652" lon="11.4819986714">
+  <name>aldi Großhaderner Straße 44  81375 München-Großhadern </name>
+</wpt>
+<wpt lat="47.7726398253" lon="9.89127861486">
+  <name>aldi Siemensstraße 5  88353 Kißlegg </name>
+</wpt>
+<wpt lat="48.3617707873" lon="10.9569837111">
+  <name>aldi Lechhauser Straße 42  86316 Friedberg </name>
+</wpt>
+<wpt lat="47.8421972076" lon="12.9717968573">
+  <name>aldi Schillerstraße 2  83395 Freilassing </name>
+</wpt>
+<wpt lat="48.5217708108" lon="11.4971972065">
+  <name>aldi Martin-Binder-Ring 20  85276 Pfaffenhofen/Ilm </name>
+</wpt>
+<wpt lat="48.0413522923" lon="11.9587920072">
+  <name>aldi Glonner Straße 37  85567 Grafing </name>
+</wpt>
+<wpt lat="48.2362423525" lon="10.3737017039">
+  <name>aldi Erwin-Bosch-Ring 2  86381 Krumbach </name>
+</wpt>
+<wpt lat="48.0604213983" lon="12.1748360366">
+  <name>aldi Staudhamer Feld 1  83512 Wasserburg-Staudham </name>
+</wpt>
+<wpt lat="48.0567307668" lon="11.6030473596">
+  <name>aldi Grünwalder Weg 30  82008 Unterhaching </name>
+</wpt>
+<wpt lat="48.7860184826" lon="11.3841614739">
+  <name>aldi Lilienthalstraße 54  85080 Gaimersheim </name>
+</wpt>
+<wpt lat="48.2079016721" lon="11.5636300936">
+  <name>aldi Schleißheimer Str. 468  80935 München-Hasenbergl </name>
+</wpt>
+<wpt lat="48.0982981819" lon="11.6586883873">
+  <name>aldi Oskar-Maria-Graf-Ring 14  81737 München-Neuperlach </name>
+</wpt>
+<wpt lat="48.2193716514" lon="9.87712329278">
+  <name>aldi Berblingerstraße 13  88471 Laupheim </name>
+</wpt>
+<wpt lat="48.2817882103" lon="11.5690709893">
+  <name>aldi Carl-von-Linde-Straße 36  85716 Unterschleißheim </name>
+</wpt>
+<wpt lat="48.2052225764" lon="11.1753210106">
+  <name>aldi Aicher Straße 1  82291 Mammendorf </name>
+</wpt>
+<wpt lat="48.1063998551" lon="11.6452974886">
+  <name>aldi Albert-Schweitzer-Straße 78  81735 München-Neuperlach </name>
+</wpt>
+<wpt lat="48.3329795494" lon="10.0417800856">
+  <name>aldi Danziger Straße 9  89250 Senden </name>
+</wpt>
+<wpt lat="48.1815481464" lon="11.5087714756">
+  <name>aldi Breslauer Straße 3  80992 München-Moosach </name>
+</wpt>
+<wpt lat="48.1977779105" lon="11.6255933522">
+  <name>aldi Freisinger Landstraße 64  80939 München-Freimann </name>
+</wpt>
+<wpt lat="48.1164816216" lon="11.5729380722">
+  <name>aldi Pilgersheimer Straße 38  81543 München-Giesing </name>
+</wpt>
+<wpt lat="48.5595389618" lon="10.6940760328">
+  <name>aldi Donauwörther Straße 1b  86637 Wertingen </name>
+</wpt>
+<wpt lat="48.1342985123" lon="11.5455986954">
+  <name>aldi Theresienhöhe 12  80339 München </name>
+</wpt>
+<wpt lat="48.3990371532" lon="12.7477398724">
+  <name>aldi Lauterbachstraße 49  84307 Eggenfelden </name>
+</wpt>
+<wpt lat="48.3545520921" lon="10.9116668954">
+  <name>aldi Hofrat-Röhrer-Straße 9  86161 Augsburg </name>
+</wpt>
+<wpt lat="47.6687891911" lon="12.9437560097">
+  <name>aldi Reichenhaller Straße 10  83484 Bischofswiesen </name>
+</wpt>
+<wpt lat="47.7588030193" lon="11.5879027837">
+  <name>aldi Gewerbering 15  83646 Bad Tölz </name>
+</wpt>
+<wpt lat="48.5579497307" lon="10.8508277887">
+  <name>aldi Am Oberfeld 3  86707 Westendorf/Meitingen </name>
+</wpt>
+<wpt lat="48.385738121" lon="11.7653659162">
+  <name>aldi Erdinger Straße 100  85356 Freising </name>
+</wpt>
+</gpx>

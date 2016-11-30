@@ -1,0 +1,1105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="Locus Android"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
+ xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
+ xmlns:locus="http://www.locusmap.eu">
+<wpt lat="50.1362397669" lon="8.51348194173">
+  <name>aldi Friedrich-Uhde-Straße 8  65812 Bad Soden </name>
+</wpt>
+<wpt lat="50.0489517229" lon="8.80180444858">
+  <name>aldi W.-v.-Siemens-Straße 15-19  63150 Heusenstamm </name>
+</wpt>
+<wpt lat="49.3253003849" lon="6.74862624262">
+  <name>aldi Bahnhofsallee 4  66740 Saarlouis </name>
+</wpt>
+<wpt lat="49.9949208126" lon="8.6774372637">
+  <name>aldi An der Winkelwiese 1  63225 Langen </name>
+</wpt>
+<wpt lat="50.2901010216" lon="8.97379970572">
+  <name>aldi Altenstädter Straße 58  63674 Altenstadt-Lindheim </name>
+</wpt>
+<wpt lat="49.9915675193" lon="8.86202302332">
+  <name>aldi Borsigstraße 52  63110 Rodgau/Nieder-Roden </name>
+</wpt>
+<wpt lat="50.0084125635" lon="8.43531290774">
+  <name>aldi Flörsheimer Strasse 2  65479 Raunheim </name>
+</wpt>
+<wpt lat="50.2041011533" lon="9.13720644151">
+  <name>aldi Grasweg 5  63584 Gründau-Lieblos </name>
+</wpt>
+<wpt lat="49.4786894008" lon="8.44846098962">
+  <name>aldi Otto-Stabel-Straße 3  67059 Ludwigshafen </name>
+</wpt>
+<wpt lat="50.0667002976" lon="8.38269360058">
+  <name>aldi Hessenstraße 14a  65719 Hofheim-Wallau </name>
+</wpt>
+<wpt lat="50.3167481947" lon="8.75933848235">
+  <name>aldi Pfingstweide 47  61169 Friedberg </name>
+</wpt>
+<wpt lat="50.0990107774" lon="8.58647088326">
+  <name>aldi Lärchenstraße 141 a  65933 Frankfurt-Griesheim </name>
+</wpt>
+<wpt lat="49.9978518619" lon="9.19025742304">
+  <name>aldi Erlengrund 3  63773 Goldbach </name>
+</wpt>
+<wpt lat="49.6367018252" lon="7.8316073069">
+  <name>aldi An der Linde 14  67806 Rockenhausen </name>
+</wpt>
+<wpt lat="50.1155990144" lon="8.89679978982">
+  <name>aldi Otto-Hahn-Straße 13  63456 Hanau-Steinheim </name>
+</wpt>
+<wpt lat="49.3512011809" lon="7.2212017601">
+  <name>aldi Untere Bliesstraße 63a  66538 Neunkirchen </name>
+</wpt>
+<wpt lat="50.0433093727" lon="8.16682044229">
+  <name>aldi Martinsthaler Straße 1b  65396 Walluf </name>
+</wpt>
+<wpt lat="50.0162896712" lon="8.42437715701">
+  <name>aldi Wickerer Strasse 50  65439 Flörsheim </name>
+</wpt>
+<wpt lat="50.0355002363" lon="8.87779712428">
+  <name>aldi Hans-Sachs-Straße 7  63110 Rodgau-Hainhausen </name>
+</wpt>
+<wpt lat="49.4106276687" lon="8.62892785628">
+  <name>aldi Seestraße 71  69214 Eppelheim </name>
+</wpt>
+<wpt lat="49.6267004855" lon="8.34880716247">
+  <name>aldi Am Wolfsgraben 60  67547 Worms </name>
+</wpt>
+<wpt lat="49.404898925" lon="8.66800338005">
+  <name>aldi Eppelheimer Straße 5 - 7  69115 Heidelberg </name>
+</wpt>
+<wpt lat="50.222730175" lon="8.41122907513">
+  <name>aldi Dornsweg 2  61479 Glashütten </name>
+</wpt>
+<wpt lat="50.1664814087" lon="8.64468397081">
+  <name>aldi Olof-Palme-Straße 7  60439 Frankfurt-Heddernheim </name>
+</wpt>
+<wpt lat="49.26990199" lon="7.13269952086">
+  <name>aldi Oststraße 82  66386 St. Ingbert </name>
+</wpt>
+<wpt lat="49.9681515489" lon="9.14943721535">
+  <name>aldi Südbahnhofstraße 9  63739 Aschaffenburg </name>
+</wpt>
+<wpt lat="49.4887094116" lon="8.46496354109">
+  <name>aldi E 2, 16  68159 Mannheim </name>
+</wpt>
+<wpt lat="49.2273990672" lon="7.35580322486">
+  <name>aldi Etzelweg 245  66482 Zweibrücken </name>
+</wpt>
+<wpt lat="49.3773108472" lon="8.56103806825">
+  <name>aldi Hockenheimer Landstraße 4/4  68723 Schwetzingen </name>
+</wpt>
+<wpt lat="49.4098026304" lon="8.19450156132">
+  <name>aldi Buochser Straße 2  67146 Deidesheim </name>
+</wpt>
+<wpt lat="50.1900022596" lon="9.18139910523">
+  <name>aldi Lützelhäuser Weg 2  63571 Gelnhausen </name>
+</wpt>
+<wpt lat="49.5586987428" lon="7.85900064302">
+  <name>aldi Industriestraße  67722 Winnweiler </name>
+</wpt>
+<wpt lat="50.1093704474" lon="8.69545067547">
+  <name>aldi Oskar-von-Miller-Straße 5  60314 Frankfurt am Main </name>
+</wpt>
+<wpt lat="49.4082988014" lon="8.53879784493">
+  <name>aldi Mannheimer Landstraße 5c  68782 Brühl </name>
+</wpt>
+<wpt lat="50.2067028623" lon="8.25935164233">
+  <name>aldi Richard-Klinger-Str. 2  65510 Idstein </name>
+</wpt>
+<wpt lat="50.0680280011" lon="8.22482668587">
+  <name>aldi Schiersteiner Str. 80  65187 Wiesbaden </name>
+</wpt>
+<wpt lat="49.7002790399" lon="8.33438204391">
+  <name>aldi Wonnegaustr. 5  67574 Osthofen </name>
+</wpt>
+<wpt lat="49.5501984223" lon="8.45230109288">
+  <name>aldi Viernheimer Weg 56-60  68307 Mannheim-Sandhofen </name>
+</wpt>
+<wpt lat="49.8812006686" lon="8.81979987392">
+  <name>aldi Waldstraße 71  64846 Groß-Zimmern </name>
+</wpt>
+<wpt lat="49.3424011271" lon="7.17728788608">
+  <name>aldi Irrgartenstraße 15-17  66538 Neunkirchen </name>
+</wpt>
+<wpt lat="49.9576514339" lon="8.67058443306">
+  <name>aldi Kurt-Schumacher-Ring 13  63329 Egelsbach </name>
+</wpt>
+<wpt lat="49.4674984524" lon="8.66529642202">
+  <name>aldi Robert-Bosch-Straße 1a  69198 Schriesheim </name>
+</wpt>
+<wpt lat="49.548109579" lon="8.66454998509">
+  <name>aldi Bergstraße 21  69469 Weinheim </name>
+</wpt>
+<wpt lat="50.3052272353" lon="8.51279845731">
+  <name>aldi Rudolf-Diesel-Straße 2  61267 Neu-Anspach </name>
+</wpt>
+<wpt lat="49.2488077369" lon="6.86068171472">
+  <name>aldi Im Betzen 1  66333 Völklingen </name>
+</wpt>
+<wpt lat="49.2798883876" lon="6.78727908525">
+  <name>aldi Kantstraße 8  66359 Bous </name>
+</wpt>
+<wpt lat="49.4129622765" lon="7.55028152214">
+  <name>aldi Torfstraße 12  66849 Landstuhl </name>
+</wpt>
+<wpt lat="50.3597404694" lon="8.1839075528">
+  <name>aldi Kapellenstr. 86  65611 Brechen </name>
+</wpt>
+<wpt lat="49.3877028289" lon="7.0416611947">
+  <name>aldi Illinger Straße 110  66557 Illingen-Hosterhof </name>
+</wpt>
+<wpt lat="49.6770998332" lon="8.61579776083">
+  <name>aldi Wormser Straße 16  64625 Bensheim </name>
+</wpt>
+<wpt lat="50.1700183389" lon="8.2212024198">
+  <name>aldi Auf dem kleinen Feld 36-38  65232 Taunusstein-Neuhof </name>
+</wpt>
+<wpt lat="50.1388912853" lon="8.69733025762">
+  <name>aldi Friedberger Landstrasse 295  60389 Frankfurt </name>
+</wpt>
+<wpt lat="49.9524612753" lon="8.95176632637">
+  <name>aldi Hint.d.Altdörfer Kirche 36  64832 Babenhausen </name>
+</wpt>
+<wpt lat="49.8088190922" lon="8.82525875607">
+  <name>aldi Am Schaubacher Berg 20  64401 Groß-Bieberau </name>
+</wpt>
+<wpt lat="50.0790811492" lon="8.24082561724">
+  <name>aldi Luisenstraße 28  65185 Wiesbaden-Innenstadt </name>
+</wpt>
+<wpt lat="50.0774016966" lon="8.99639965767">
+  <name>aldi Marie-Curie-Straße 2  63538 Großkrotzenburg </name>
+</wpt>
+<wpt lat="50.2736997615" lon="9.11079336595">
+  <name>aldi Industriestraße 29 A  63654 Büdingen </name>
+</wpt>
+<wpt lat="49.8333218411" lon="8.7371881912">
+  <name>aldi Gräfenbergweg 2  64372 Ober-Ramstadt </name>
+</wpt>
+<wpt lat="49.6790027598" lon="9.00038365239">
+  <name>aldi Marktstrasse 5  64720 Michelstadt </name>
+</wpt>
+<wpt lat="50.2492022886" lon="8.64012441027">
+  <name>aldi Industriestraße 12  61381 Friedrichsdorf </name>
+</wpt>
+<wpt lat="49.3657980644" lon="8.24780435291">
+  <name>aldi Moltkestraße 55-63  67454 Haßloch </name>
+</wpt>
+<wpt lat="49.8061028923" lon="8.60853124226">
+  <name>aldi Eberstädter Straße 111  64319 Pfungstadt </name>
+</wpt>
+<wpt lat="49.1951981386" lon="7.5887904733">
+  <name>aldi Waisenhausstraße 49  66954 Pirmasens </name>
+</wpt>
+<wpt lat="49.4183624599" lon="8.67516198004">
+  <name>aldi Berliner Straße 49  69120 Heidelberg-Neuenheim </name>
+</wpt>
+<wpt lat="50.3839918264" lon="8.05800252798">
+  <name>aldi Joseph-Schneider-Straße 1  65549 Limburg </name>
+</wpt>
+<wpt lat="49.5198022019" lon="8.35129828331">
+  <name>aldi Daniel-Bechtel-Straße 1  67227 Frankenthal </name>
+</wpt>
+<wpt lat="49.8056791978" lon="8.64207593816">
+  <name>aldi Stresemannstraße 2  64297 Darmstadt-Eberstadt </name>
+</wpt>
+<wpt lat="50.093599324" lon="9.05730171683">
+  <name>aldi Emmy-Noether-Straße 2  63755 Alzenau </name>
+</wpt>
+<wpt lat="49.4246394996" lon="8.63927904796">
+  <name>aldi Im Schuhmachergewann 8  69123 Heidelberg-Wieblingen </name>
+</wpt>
+<wpt lat="49.6255004198" lon="8.35959902174">
+  <name>aldi Schönauer Straße 8  67547 Worms </name>
+</wpt>
+<wpt lat="49.8327591656" lon="9.1257760639">
+  <name>aldi Im Weidig 12  63785 Obernburg </name>
+</wpt>
+<wpt lat="50.4424125584" lon="8.04024991948">
+  <name>aldi Mainzer Landstraße 15  65589 Hadamar </name>
+</wpt>
+<wpt lat="49.9821018767" lon="9.1457679832">
+  <name>aldi Lange Straße 15  63741 Aschaffenburg </name>
+</wpt>
+<wpt lat="50.0629421201" lon="8.251887273">
+  <name>aldi Mainzer Straße 101  65185 Wiesbaden </name>
+</wpt>
+<wpt lat="49.3142503109" lon="7.33036141663">
+  <name>aldi Am Stadtbad 15  66424 Homburg </name>
+</wpt>
+<wpt lat="50.1506311343" lon="8.08128596435">
+  <name>aldi Bahnhofstr. 41  65307 Bad Schwalbach </name>
+</wpt>
+<wpt lat="49.5263581315" lon="8.5619104102">
+  <name>aldi Rhein-Neckar-Zentrum  68519 Viernheim </name>
+</wpt>
+<wpt lat="50.399237218" lon="8.08220327239">
+  <name>aldi Am Eckert 4  65553 Limburg </name>
+</wpt>
+<wpt lat="49.2490014647" lon="6.6973739043">
+  <name>aldi Langwies 1  66802 Überherrn </name>
+</wpt>
+<wpt lat="49.3169998713" lon="8.35690105692">
+  <name>aldi An den Gewerbewiesen 27  67374 Hanhofen </name>
+</wpt>
+<wpt lat="49.6390606072" lon="8.61833384776">
+  <name>aldi Tierg.str/In d. Lahrbach 23  64646 Heppenheim </name>
+</wpt>
+<wpt lat="50.3007295132" lon="8.06282289178">
+  <name>aldi Jahnstraße 35  65623 Hahnstätten </name>
+</wpt>
+<wpt lat="49.2166618804" lon="7.19094858128">
+  <name>aldi Saar-Pfalz-Straße 63  66440 Blieskastel-Aßweiler </name>
+</wpt>
+<wpt lat="49.4427875012" lon="7.72519058127">
+  <name>aldi Merkurstraße 25  67663 Kaiserslautern </name>
+</wpt>
+<wpt lat="50.2324590331" lon="8.75381664769">
+  <name>aldi Bahnhofstr. 194  61184 Karben-Kloppenheim </name>
+</wpt>
+<wpt lat="49.4446118723" lon="7.76610971434">
+  <name>aldi Fackelrondell 1  67655 Kaiserslautern </name>
+</wpt>
+<wpt lat="49.2547014185" lon="7.36809695121">
+  <name>aldi Saarlandstraße 23  66482 Zweibrücken </name>
+</wpt>
+<wpt lat="50.0755086348" lon="8.47285059157">
+  <name>aldi Hattersheimer Strasse 1  65830 Kriftel </name>
+</wpt>
+<wpt lat="50.1834493763" lon="8.46883062399">
+  <name>aldi Klosterstraße 15  61462 Königstein </name>
+</wpt>
+<wpt lat="49.4773980433" lon="7.64281272217">
+  <name>aldi Danziger Straße 22  67683 Weilerbach </name>
+</wpt>
+<wpt lat="50.0598822497" lon="8.33807825571">
+  <name>aldi Siemensstraße 8  65205 Wiesbaden-Nordenstadt </name>
+</wpt>
+<wpt lat="50.3737605044" lon="8.0404297838">
+  <name>aldi Industriestraße 10  65582 Diez </name>
+</wpt>
+<wpt lat="49.97689122" lon="8.346082218">
+  <name>aldi Dresdener Straße 20  65474 Bischofsheim </name>
+</wpt>
+<wpt lat="49.4339979928" lon="7.76321389877">
+  <name>aldi Zollamtstraße 30  67663 Kaiserslautern </name>
+</wpt>
+<wpt lat="50.4188901725" lon="9.19427739062">
+  <name>aldi Am Alten Bahnhof 10  63688 Gedern </name>
+</wpt>
+<wpt lat="49.525838593" lon="8.48601665988">
+  <name>aldi Alte Frankfurter Straße 31  68305 Mannheim-Waldhof </name>
+</wpt>
+<wpt lat="49.3715079453" lon="6.71364263215">
+  <name>aldi Siemensstraße 1  66763 Dillingen </name>
+</wpt>
+<wpt lat="50.1042774153" lon="8.55453597304">
+  <name>aldi Kurmainzer Straße 4  65929 Frankfurt-Höchst </name>
+</wpt>
+<wpt lat="49.3261678719" lon="6.72346322409">
+  <name>aldi Hauptstraße 1  66798 Wallerfangen </name>
+</wpt>
+<wpt lat="50.1474788904" lon="9.10815835364">
+  <name>aldi Auf der Wehrweide 8  63579 Freigericht-Somborn </name>
+</wpt>
+<wpt lat="49.5948013152" lon="7.60380015091">
+  <name>aldi Pfingstweide 13  67752 Wolfstein </name>
+</wpt>
+<wpt lat="50.4959388092" lon="9.11249308378">
+  <name>aldi Vogelsbergstraße 24  63679 Schotten </name>
+</wpt>
+<wpt lat="49.5555018157" lon="8.18159629628">
+  <name>aldi Daimler Straße 20  67269 Grünstadt </name>
+</wpt>
+<wpt lat="49.4044015051" lon="7.15580309292">
+  <name>aldi Brunnenweg 8  66564 Ottweiler </name>
+</wpt>
+<wpt lat="49.648302437" lon="8.62769578568">
+  <name>aldi Dieselstraße 1  64646 Heppenheim </name>
+</wpt>
+<wpt lat="49.308527919" lon="8.53735893036">
+  <name>aldi Lußheimer Straße 10  68766 Hockenheim </name>
+</wpt>
+<wpt lat="49.8361873241" lon="8.83453076182">
+  <name>aldi Darmstädter Straße 65  64354 Reinheim </name>
+</wpt>
+<wpt lat="49.3326500953" lon="8.41833371582">
+  <name>aldi Iggelheimer Straße 18  67346 Speyer </name>
+</wpt>
+<wpt lat="49.9666301865" lon="8.56414072779">
+  <name>aldi Opelstraße 8  64546 Mörfelden-Walldorf </name>
+</wpt>
+<wpt lat="50.1170983632" lon="8.92959804878">
+  <name>aldi Röderseestraße 1  63457 Hanau </name>
+</wpt>
+<wpt lat="49.7114283491" lon="8.70029801892">
+  <name>aldi Nibelungenstraße 349-351  64686 Lautertal </name>
+</wpt>
+<wpt lat="49.1372000798" lon="7.79951051879">
+  <name>aldi Industriestraße 10  66994 Dahn-Reichenbach </name>
+</wpt>
+<wpt lat="49.3407604637" lon="8.66705009915">
+  <name>aldi Gottlieb-Daimler-Straße 9  69207 Sandhausen </name>
+</wpt>
+<wpt lat="50.095739748" lon="8.45996331296">
+  <name>aldi Niederhofheimer Straße 63  65719 Hofheim </name>
+</wpt>
+<wpt lat="50.0884815345" lon="8.77288226574">
+  <name>aldi Hartmannstr. 18  63071 Offenbach </name>
+</wpt>
+<wpt lat="49.4369981817" lon="6.63180436601">
+  <name>aldi Rieffstraße 9  66663 Merzig </name>
+</wpt>
+<wpt lat="49.2477627677" lon="8.50083747995">
+  <name>aldi Mannheimer Straße 187  68753 Waghäusel-Wiesental </name>
+</wpt>
+<wpt lat="49.4608995621" lon="8.41531199522">
+  <name>aldi Maudacher Str. 135  67065 Ludwigshafen </name>
+</wpt>
+<wpt lat="49.3353986285" lon="8.43829865547">
+  <name>aldi Tullastraße 53  67346 Speyer </name>
+</wpt>
+<wpt lat="49.5677983383" lon="8.70799621187">
+  <name>aldi Hauptstraße 160  69488 Birkenau </name>
+</wpt>
+<wpt lat="49.4106803302" lon="6.89446023424">
+  <name>aldi Auf dem Graben 1  66822 Lebach </name>
+</wpt>
+<wpt lat="49.8602587943" lon="8.59085057948">
+  <name>aldi Flughafenstraße 13  64347 Griesheim </name>
+</wpt>
+<wpt lat="50.0923127159" lon="8.67994637098">
+  <name>aldi Ziegelhüttenweg 37  60598 Frankfurt-Sachsenhausen </name>
+</wpt>
+<wpt lat="49.6605988622" lon="8.02039289842">
+  <name>aldi Woogmorgen 14  67292 Kirchheimbolanden </name>
+</wpt>
+<wpt lat="50.0580289125" lon="8.52028980628">
+  <name>aldi Am-Graf-de-Chardonnet-Pl. 3  65451 Kelsterbach </name>
+</wpt>
+<wpt lat="50.1938310766" lon="8.5873881913">
+  <name>aldi Pfeiffstraße 7  61440 Oberursel </name>
+</wpt>
+<wpt lat="50.141888477" lon="8.58012167272">
+  <name>aldi Ginnheimer Straße 7 + 9  65760 Eschborn </name>
+</wpt>
+<wpt lat="49.3027520852" lon="6.80253157968">
+  <name>aldi Zur Langelänge 1  66773 Schwalbach </name>
+</wpt>
+<wpt lat="49.4666977487" lon="7.16340236049">
+  <name>aldi Eisenbahnstraße 6  66606 St. Wendel </name>
+</wpt>
+<wpt lat="49.493499596" lon="6.60658738818">
+  <name>aldi Britter Straße 20h  66693 Mettlach </name>
+</wpt>
+<wpt lat="50.1209906843" lon="8.47875913452">
+  <name>aldi Höchster Straße 1  65835 Liederbach </name>
+</wpt>
+<wpt lat="49.6543811719" lon="8.55540831499">
+  <name>aldi In der Dieterswiese 2  64653 Lorsch </name>
+</wpt>
+<wpt lat="49.4611216826" lon="8.47747310463">
+  <name>aldi Steubenstraße 44-46  68163 Mannheim </name>
+</wpt>
+<wpt lat="49.4545277795" lon="6.63428649365">
+  <name>aldi Im Kieselgarten 2  66663 Merzig </name>
+</wpt>
+<wpt lat="50.1405224725" lon="8.15726065362">
+  <name>aldi Gottfried-Keller-Str. 15  65232 Taunusstein </name>
+</wpt>
+<wpt lat="49.2813316128" lon="7.62943081668">
+  <name>aldi In der Schorbach 11  67714 Waldfischbach-Burgalben </name>
+</wpt>
+<wpt lat="49.3399928488" lon="7.33739411159">
+  <name>aldi Berliner Straße 120  66424 Homburg-Erbach </name>
+</wpt>
+<wpt lat="49.4643014039" lon="8.48788724882">
+  <name>aldi Neckarauerstraße 126 - 134  68163 Mannheim </name>
+</wpt>
+<wpt lat="50.2096612706" lon="8.70170096063">
+  <name>aldi Alt-Erlenbach 107  60437 Frankfurt/Nieder-Erlenbach </name>
+</wpt>
+<wpt lat="50.1403610855" lon="8.6619779253">
+  <name>aldi Raimundstraße 101  60320 Frankfurt-Ginnheim </name>
+</wpt>
+<wpt lat="49.5588387494" lon="8.66949625392">
+  <name>aldi Bergstraße 97-99  69469 Weinheim </name>
+</wpt>
+<wpt lat="50.2036003656" lon="8.59666919027">
+  <name>aldi An den drei Hasen 7  61440 Oberursel </name>
+</wpt>
+<wpt lat="50.24186957" lon="8.99431323155">
+  <name>aldi Wechmarer Ring 21-27  63546 Hammersbach </name>
+</wpt>
+<wpt lat="49.8655110556" lon="8.92251139453">
+  <name>aldi Habitzheimer Straße 5  64823 Groß-Umstadt </name>
+</wpt>
+<wpt lat="49.8855119559" lon="8.65537690471">
+  <name>aldi Bad Nauheimer Straße 19-21  64289 Darmstadt </name>
+</wpt>
+<wpt lat="50.0378280925" lon="8.98829677">
+  <name>aldi Aschaffenburger Straße 86  63500 Seligenstadt </name>
+</wpt>
+<wpt lat="49.9024983883" lon="8.60839634401">
+  <name>aldi Rudolf-Diesel-Straße 26  64331 Weiterstadt </name>
+</wpt>
+<wpt lat="49.3832008824" lon="8.6784984632">
+  <name>aldi Felix-Wankel-Straße 18  69126 Heidelberg-Rohrbach </name>
+</wpt>
+<wpt lat="49.2363488555" lon="7.26768769391">
+  <name>aldi Bliestalstraße 114  66440 Blieskastel-Webenheim </name>
+</wpt>
+<wpt lat="49.4705024358" lon="7.17056995369">
+  <name>aldi Jahnstraße 12  66606 St. Wendel </name>
+</wpt>
+<wpt lat="49.2365074001" lon="6.94035261579">
+  <name>aldi Hauptstraße 10  66128 Saarbrücken-Gersweiler </name>
+</wpt>
+<wpt lat="49.2898023754" lon="8.14129769512">
+  <name>aldi Staatsstraße 1  67489 Kirrweiler </name>
+</wpt>
+<wpt lat="49.3029983782" lon="7.26429725146">
+  <name>aldi Konrad-Zuse-Straße 4  66459 Kirkel-Limbach </name>
+</wpt>
+<wpt lat="49.7049786955" lon="9.24625817944">
+  <name>aldi Bischoffstraße 60  63897 Miltenberg </name>
+</wpt>
+<wpt lat="48.9293084857" lon="7.8952792766">
+  <name>aldi 2 Rue des Cerisiers - ZA du Roesselbach  67250 Soultz-sous-Forêts </name>
+</wpt>
+<wpt lat="49.8706004506" lon="8.65339839717">
+  <name>aldi Ludwigsplatz 6  64283 Darmstadt </name>
+</wpt>
+<wpt lat="49.3518924633" lon="6.72536978589">
+  <name>aldi Schubertstraße 7  66763 Dillingen </name>
+</wpt>
+<wpt lat="49.5097710378" lon="8.49607107544">
+  <name>aldi Boveristraße 50  68309 Mannheim-Käfertal </name>
+</wpt>
+<wpt lat="49.7156326666" lon="9.21696727474">
+  <name>aldi Im Mittelgewann 7  63924 Kleinheubach </name>
+</wpt>
+<wpt lat="49.581601986" lon="8.35080365643">
+  <name>aldi Südring 4  67240 Bobenheim-Roxheim </name>
+</wpt>
+<wpt lat="50.1037005938" lon="8.69019863729">
+  <name>aldi Darmstädter Landstraße 10  60594 Frankfurt-Sachsenhausen </name>
+</wpt>
+<wpt lat="50.1157201174" lon="8.68615169006">
+  <name>aldi Große Friedberger Str.23-27  60313 Frankfurt-Innenstadt </name>
+</wpt>
+<wpt lat="48.9330779346" lon="7.74729590635">
+  <name>aldi Rue de la Sauer - Direction Haguenau  67360 Woerth </name>
+</wpt>
+<wpt lat="49.5639078855" lon="8.17417689303">
+  <name>aldi Carl-Zeiss-Straße 5  67269 Grünstadt </name>
+</wpt>
+<wpt lat="50.005331876" lon="8.70113438802">
+  <name>aldi Industriestraße 7  63303 Dreieich </name>
+</wpt>
+<wpt lat="50.4082021314" lon="9.00739836091">
+  <name>aldi Unter der Stadt 6  63667 Nidda </name>
+</wpt>
+<wpt lat="49.2842590007" lon="7.04176911329">
+  <name>aldi Sulzbachtalstraße 157  66125 Saarbrücken-Dudweiler </name>
+</wpt>
+<wpt lat="49.2999724071" lon="6.8942713767">
+  <name>aldi Fresagrandinaria Straße 7  66346 Püttlingen-Köllerbach </name>
+</wpt>
+<wpt lat="49.5696472155" lon="8.83049280781">
+  <name>aldi Am Bahndamm 8  69483 Wald-Michelbach </name>
+</wpt>
+<wpt lat="49.7087822918" lon="8.84786770124">
+  <name>aldi Bahnhofstraße 28  64385 Reichelsheim/Odw. </name>
+</wpt>
+<wpt lat="50.0311792512" lon="8.69833749782">
+  <name>aldi Benzstraße 56  63303 Dreieich </name>
+</wpt>
+<wpt lat="49.4530019362" lon="7.78540016279">
+  <name>aldi Mainzer Str. 69  67657 Kaiserslautern </name>
+</wpt>
+<wpt lat="49.4508972467" lon="8.41999746079">
+  <name>aldi In der Mörschgewanne 32  67065 Ludwigshafen-Rheingönheim </name>
+</wpt>
+<wpt lat="50.1786579471" lon="8.91250194506">
+  <name>aldi Römerstraße 5-9  63486 Bruchköbel </name>
+</wpt>
+<wpt lat="50.1264624642" lon="8.6860617579">
+  <name>aldi Glauburgstraße 49  60318 Frankfurt-Nordend </name>
+</wpt>
+<wpt lat="50.1936698694" lon="8.65766118159">
+  <name>aldi Berner Str. 40  60437 Frankfurt/Nieder-Eschbach </name>
+</wpt>
+<wpt lat="50.0636810784" lon="8.48213159054">
+  <name>aldi Im Boden 17  65795 Hattersheim </name>
+</wpt>
+<wpt lat="50.2426977924" lon="8.86878592179">
+  <name>aldi Siemensstraße 3 - 7  61130 Nidderau-Heldenbergen </name>
+</wpt>
+<wpt lat="49.5974011154" lon="8.48381332195">
+  <name>aldi Otto-Hahn-Straße 19  68623 Lampertheim </name>
+</wpt>
+<wpt lat="50.2528020966" lon="9.29170090019">
+  <name>aldi Main-Kinzig-Straße 35  63607 Wächtersbach </name>
+</wpt>
+<wpt lat="50.1473693937" lon="8.90840103853">
+  <name>aldi Heldenbergener Str. 1  63452 Hanau </name>
+</wpt>
+<wpt lat="50.1169080639" lon="8.96250422635">
+  <name>aldi Grashüpferweg 5  63457 Hanau-Wolfgang </name>
+</wpt>
+<wpt lat="50.134712195" lon="8.40044620908">
+  <name>aldi Lorsbacher Straße 18 - 20  65817 Eppstein </name>
+</wpt>
+<wpt lat="49.2758811631" lon="7.09249085186">
+  <name>aldi Dudweilerstraße 103  66386 St. Ingbert </name>
+</wpt>
+<wpt lat="49.9755089422" lon="8.80175048929">
+  <name>aldi Ober-Rodener Straße 24  63322 Rödermark </name>
+</wpt>
+<wpt lat="50.0914011071" lon="9.25300309149">
+  <name>aldi Industriestraße 17  63825 Schöllkrippen </name>
+</wpt>
+<wpt lat="49.4102005229" lon="7.38120006701">
+  <name>aldi Festwiesenstraße 1  66901 Schönenberg-Kübelberg </name>
+</wpt>
+<wpt lat="50.0924107993" lon="8.50259115708">
+  <name>aldi West-Höchster Straße 50  65931 Frankfurt-Sindlingen </name>
+</wpt>
+<wpt lat="49.5583020552" lon="8.08619626032">
+  <name>aldi Am Gielbrunnen 2  67304 Eisenberg </name>
+</wpt>
+<wpt lat="49.9058520962" lon="8.84649173918">
+  <name>aldi Frankfurter Straße 64  64807 Dieburg </name>
+</wpt>
+<wpt lat="49.3829022992" lon="8.3914979591">
+  <name>aldi Waldspitzweg 4  67105 Schifferstadt </name>
+</wpt>
+<wpt lat="49.9811708241" lon="7.93841973404">
+  <name>aldi Europastraße 5  65385 Rüdesheim </name>
+</wpt>
+<wpt lat="50.1444013622" lon="8.74760233539">
+  <name>aldi Victor-Slotosch-Straße 16  60388 Frankfurt/Bergen-Enkheim </name>
+</wpt>
+<wpt lat="49.7426002581" lon="8.3836019154">
+  <name>aldi In der Hochgewann 3  67575 Eich </name>
+</wpt>
+<wpt lat="49.4743009838" lon="8.53590202936">
+  <name>aldi Seckenheimer Landstraße 238  68163 Mannheim-Neuostheim </name>
+</wpt>
+<wpt lat="49.2345989588" lon="6.97590279887">
+  <name>aldi Hohenzollernstraße 93  66117 Saarbrücken-Altsaarbrücken </name>
+</wpt>
+<wpt lat="49.8210981278" lon="8.68881368202">
+  <name>aldi Rheinstrasse 39  64367 Mühltal </name>
+</wpt>
+<wpt lat="50.1348505432" lon="8.45531382026">
+  <name>aldi Wilhelm-Dichmann-Str. 2-4  65779 Kelkheim </name>
+</wpt>
+<wpt lat="49.5936004639" lon="8.64659952583">
+  <name>aldi Berliner Straße 5  69502 Hemsbach </name>
+</wpt>
+<wpt lat="50.3629877037" lon="8.75705420547">
+  <name>aldi Hubert-Vergölst-Str. 1-5  61231 Bad Nauheim </name>
+</wpt>
+<wpt lat="49.2886996162" lon="8.67869631395">
+  <name>aldi Neues Sträßel 6  69168 Wiesloch </name>
+</wpt>
+<wpt lat="50.1228012265" lon="8.59719979002">
+  <name>aldi Westerbachstraße 49  60489 Frankfurt-Rödelheim </name>
+</wpt>
+<wpt lat="49.3572114979" lon="6.79173972041">
+  <name>aldi Werner-von-Siemens Straße 5  66793 Saarwellingen </name>
+</wpt>
+<wpt lat="49.2587279717" lon="7.3364498239">
+  <name>aldi Homburger Straße 196-198  66482 Zweibrücken </name>
+</wpt>
+<wpt lat="49.4156712185" lon="7.57332214168">
+  <name>aldi Bahnstraße 44-48  66849 Landstuhl </name>
+</wpt>
+<wpt lat="49.7031989289" lon="8.60958344853">
+  <name>aldi Berliner Ring 159  64625 Bensheim-Auerbach </name>
+</wpt>
+<wpt lat="49.1533308638" lon="7.0369577427">
+  <name>aldi Elsässer Straße 72  66271 Kleinblittersdorf </name>
+</wpt>
+<wpt lat="49.5176011273" lon="7.15868092206">
+  <name>aldi Allerburg 17  66640 Namborn-Eisweiler </name>
+</wpt>
+<wpt lat="50.0062682409" lon="8.0342694308">
+  <name>aldi Europaallee 4  65375 Oestrich-Winkel </name>
+</wpt>
+<wpt lat="49.4344600221" lon="6.84714692455">
+  <name>aldi Hoher Staden 2a  66839 Schmelz </name>
+</wpt>
+<wpt lat="50.0262281258" lon="8.1102081472">
+  <name>aldi H.J.-Müller-Str. 2  65343 Eltville </name>
+</wpt>
+<wpt lat="49.8425499453" lon="9.15789083845">
+  <name>aldi Bahnhofstraße 11 a  63820 Elsenfeld </name>
+</wpt>
+<wpt lat="49.9133985344" lon="8.49572034001">
+  <name>aldi Helvetiastrasse 5  64521 Groß-Gerau </name>
+</wpt>
+<wpt lat="49.4144016034" lon="8.77430319387">
+  <name>aldi Kleingemünder Straße 76-82  69118 Heidelberg-Ziegelhausen </name>
+</wpt>
+<wpt lat="49.5425019351" lon="7.42841445132">
+  <name>aldi Industriestraße 33  66869 Kusel </name>
+</wpt>
+<wpt lat="49.3662021701" lon="7.18199133808">
+  <name>aldi Schillerstraße 47  66540 Neunkirchen-Wiebelskirchen </name>
+</wpt>
+<wpt lat="49.4381327082" lon="7.75661287818">
+  <name>aldi Königstr. 115  67663 Kaiserslautern </name>
+</wpt>
+<wpt lat="50.422580282" lon="8.85543099594">
+  <name>aldi Benzstr. 2  61200 Wölfersheim-Berstadt </name>
+</wpt>
+<wpt lat="50.1358477909" lon="8.55812426624">
+  <name>aldi Elly-Beinhorn-Straße 21  65760 Eschborn </name>
+</wpt>
+<wpt lat="50.188499437" lon="8.73278151533">
+  <name>aldi Homburger Str. 74  61118 Bad Vilbel </name>
+</wpt>
+<wpt lat="49.4367408627" lon="8.68065683505">
+  <name>aldi Fritz-Frey-Straße 17  69121 Heidelberg-Handschuhsheim </name>
+</wpt>
+<wpt lat="49.5038027453" lon="8.50039681236">
+  <name>aldi Friedrich-Ebert-Straße 100  68167 Mannheim </name>
+</wpt>
+<wpt lat="49.4580995872" lon="8.50310377039">
+  <name>aldi Floßwörthstraße 49-55  68199 Mannheim-Neckarau </name>
+</wpt>
+<wpt lat="50.041871247" lon="8.69173647724">
+  <name>aldi Rathenaustraße 11-13  63263 Neu-Isenburg </name>
+</wpt>
+<wpt lat="50.0379205113" lon="8.24546611673">
+  <name>aldi Glarusstraße 14  65203 Wiesbaden-Biebrich </name>
+</wpt>
+<wpt lat="49.4844971671" lon="7.73010087724">
+  <name>aldi Im Brühl 7  67731 Otterbach </name>
+</wpt>
+<wpt lat="50.17713173" lon="8.62998006256">
+  <name>aldi Riedbergplatz 2  60438 Frankfurt-Riedberg </name>
+</wpt>
+<wpt lat="49.510798772" lon="6.75400418583">
+  <name>aldi Haagstraße 50  66679 Losheim </name>
+</wpt>
+<wpt lat="49.406999737" lon="8.68920039031">
+  <name>aldi Poststraße 11  69115 Heidelberg </name>
+</wpt>
+<wpt lat="49.9804305955" lon="9.10759178103">
+  <name>aldi Hauptstraße 206  63814 Mainaschaff </name>
+</wpt>
+<wpt lat="49.9765326413" lon="8.43447653865">
+  <name>aldi Stahlstraße 9  65428 Rüsselsheim </name>
+</wpt>
+<wpt lat="49.4562991013" lon="8.59540114681">
+  <name>aldi Treidlerstraße  68535 Edingen-Neckarhausen </name>
+</wpt>
+<wpt lat="49.2679009469" lon="8.61389119903">
+  <name>aldi Im Schiff 9  68789 St. Leon-Rot </name>
+</wpt>
+<wpt lat="49.4770006957" lon="6.38750365177">
+  <name>aldi Trierer Straße 41  66706 Perl </name>
+</wpt>
+<wpt lat="50.1512880658" lon="8.3278799487">
+  <name>aldi Frankfurter Straße 11-13  65527 Niedernhausen </name>
+</wpt>
+<wpt lat="49.5244025366" lon="8.39749643421">
+  <name>aldi Kurt-Schumacher-Straße 72  67069 Ludwigshafen-Oppau </name>
+</wpt>
+<wpt lat="50.0485994563" lon="9.04220210706">
+  <name>aldi Industriegebiet Süd C 1  63755 Alzenau-Hörstein </name>
+</wpt>
+<wpt lat="49.2276516097" lon="7.03852256229">
+  <name>aldi Breslauer Straße 1a  66121 Saarbrücken </name>
+</wpt>
+<wpt lat="49.6593006648" lon="8.78749624183">
+  <name>aldi Industriestraße 1  64658 Fürth </name>
+</wpt>
+<wpt lat="49.4687024056" lon="8.19729845152">
+  <name>aldi Bruchstraße 1 c  67098 Bad Dürkheim </name>
+</wpt>
+<wpt lat="49.3184009742" lon="7.15469692734">
+  <name>aldi Hauptstraße 80 a  66583 Spiesen-Elversberg/Spiesen </name>
+</wpt>
+<wpt lat="49.5113418274" lon="8.4704583961">
+  <name>aldi Untermühlaustraße 111  68169 Mannheim </name>
+</wpt>
+<wpt lat="49.7902321315" lon="9.16449185903">
+  <name>aldi Presentstraße 12  63939 Wörth/Main </name>
+</wpt>
+<wpt lat="49.9406496992" lon="8.44505256073">
+  <name>aldi Mainzer Landstraße 18  64569 Nauheim </name>
+</wpt>
+<wpt lat="50.1338302162" lon="8.63010596758">
+  <name>aldi Große Nelkenstraße 39  60488 Frankfurt-Hausen </name>
+</wpt>
+<wpt lat="49.7472493305" lon="9.00330644761">
+  <name>aldi Frankfurter Strasse 72  64732 Bad König </name>
+</wpt>
+<wpt lat="50.0160007319" lon="8.79348572373">
+  <name>aldi Otto-Hahn-Straße 4  63128 Dietzenbach </name>
+</wpt>
+<wpt lat="50.1161007248" lon="8.72510130881">
+  <name>aldi Hanauer Landstraße 285  60314 Frankfurt-Ost </name>
+</wpt>
+<wpt lat="50.1084476279" lon="8.52804195853">
+  <name>aldi Schmalkaldener Straße 4  65929 Frankfurt-Unterliederbach </name>
+</wpt>
+<wpt lat="49.6703895316" lon="8.99258653406">
+  <name>aldi Carl-Benz-Straße 25  64711 Erbach </name>
+</wpt>
+<wpt lat="49.4840180817" lon="7.03765022033">
+  <name>aldi St. Wendeler Straße 2  66636 Tholey </name>
+</wpt>
+<wpt lat="49.6448027444" lon="8.36380784685">
+  <name>aldi Petrus-Dorn-Str. 30  67547 Worms </name>
+</wpt>
+<wpt lat="50.1165274629" lon="8.76299872129">
+  <name>aldi Ferdinand-Porsche-Straße 53  60386 Frankfurt-Fechenheim </name>
+</wpt>
+<wpt lat="49.2135013668" lon="7.59590410721">
+  <name>aldi Zweibrücker Straße 143  66953 Pirmasens </name>
+</wpt>
+<wpt lat="49.5178988912" lon="8.55610079263">
+  <name>aldi Spreewaldallee 44 - 50  68309 Mannheim-Vogelstang </name>
+</wpt>
+<wpt lat="50.0025226718" lon="8.42640962384">
+  <name>aldi Rugbyring 87  65428 Rüsselsheim </name>
+</wpt>
+<wpt lat="49.9963025326" lon="9.24210331363">
+  <name>aldi Am Beetacker 13  63856 Bessenbach </name>
+</wpt>
+<wpt lat="49.2193287736" lon="6.96708944713">
+  <name>aldi Hirtenwiesstraße 4  66117 Saarbrücken-Altsaarbrücken </name>
+</wpt>
+<wpt lat="48.9323807853" lon="7.1905708662">
+  <name>aldi 34 Rue des Vosges  67430 Diemeringen </name>
+</wpt>
+<wpt lat="49.3966996315" lon="8.80289262773">
+  <name>aldi Neckarsteinacher Straße 25  69151 Neckargemünd-Kleingemünd </name>
+</wpt>
+<wpt lat="50.1625927875" lon="8.53432821655">
+  <name>aldi Am Kronberger Hang 9  65824 Schwalbach </name>
+</wpt>
+<wpt lat="49.354997256" lon="8.68140327198">
+  <name>aldi Stralsunder Ring 10  69181 Leimen </name>
+</wpt>
+<wpt lat="50.2185526582" lon="8.61435884626">
+  <name>aldi Justus-von-Liebig-Str. 4  61352 Bad Homburg </name>
+</wpt>
+<wpt lat="49.5369111563" lon="8.59050883727">
+  <name>aldi Heidelberger Str. 61  68519 Viernheim </name>
+</wpt>
+<wpt lat="50.047790966" lon="8.21734433011">
+  <name>aldi Hagenauer Straße 40  65203 Wiesbaden-Biebrich </name>
+</wpt>
+<wpt lat="49.4525926981" lon="7.5521611043">
+  <name>aldi August-Süßdorf-Straße 5  66877 Ramstein-Miesenbach </name>
+</wpt>
+<wpt lat="49.5023017979" lon="8.41419683643">
+  <name>aldi Eschenbachstraße 71  67063 Ludwigshafen </name>
+</wpt>
+<wpt lat="49.9275673576" lon="9.08089092255">
+  <name>aldi Aschaffenburger Straße 37  63762 Großostheim </name>
+</wpt>
+<wpt lat="50.124899986" lon="8.70506442343">
+  <name>aldi Berger Straße 159  60385 Frankfurt-Bornheim </name>
+</wpt>
+<wpt lat="49.654200684" lon="8.45268780117">
+  <name>aldi Mainstraße 133  68642 Bürstadt </name>
+</wpt>
+<wpt lat="49.3897926691" lon="8.57842195489">
+  <name>aldi Schubertstraße 17  68723 Schwetzingen </name>
+</wpt>
+<wpt lat="49.801012509" lon="8.34522786247">
+  <name>aldi Kurzer Flurweg 1  67583 Guntersblum </name>
+</wpt>
+<wpt lat="49.4343021138" lon="8.31841009219">
+  <name>aldi Riedstraße 1 A  67125 Dannstadt </name>
+</wpt>
+<wpt lat="49.3720818248" lon="6.68607842493">
+  <name>aldi In Dürrfeldslach 1  66780 Rehlingen-Siersburg </name>
+</wpt>
+<wpt lat="49.232402692" lon="6.83049148841">
+  <name>aldi Am Hammergraben 5  66333 Völklingen-Geislautern </name>
+</wpt>
+<wpt lat="49.4730796366" lon="8.98576068307">
+  <name>aldi Neuer Weg - Nord 42  69412 Eberbach </name>
+</wpt>
+<wpt lat="49.5505601682" lon="7.24042026282">
+  <name>aldi Bahnhofstraße 41  66629 Freisen </name>
+</wpt>
+<wpt lat="50.1530225519" lon="8.81079766464">
+  <name>aldi Schillerstraße 7 a  63477 Maintal-Bischofsheim </name>
+</wpt>
+<wpt lat="48.9327293612" lon="7.08955906343">
+  <name>aldi 6 Route de Sarrebourg  67260 Sarre-Union </name>
+</wpt>
+<wpt lat="49.3509024032" lon="7.11122372091">
+  <name>aldi Am Bergwerk Reden 9  66578 Landsweiler </name>
+</wpt>
+<wpt lat="49.4754813956" lon="8.60633689754">
+  <name>aldi Wallstadter Straße 51c  68526 Ladenburg </name>
+</wpt>
+<wpt lat="49.424118881" lon="8.36262074233">
+  <name>aldi An der Fohlenweide 10  67112 Mutterstadt </name>
+</wpt>
+<wpt lat="49.8533998496" lon="8.64498974016">
+  <name>aldi Rüdesheimer Straße 123 D  64285 Darmstadt </name>
+</wpt>
+<wpt lat="50.297150562" lon="8.69184439583">
+  <name>aldi Raiffeisenstraße 18  61191 Rosbach v.d.H. </name>
+</wpt>
+<wpt lat="50.2961911505" lon="8.25406363128">
+  <name>aldi Beuerbacher Landstr. 2  65520 Bad Camberg </name>
+</wpt>
+<wpt lat="50.1035506191" lon="8.76396998862">
+  <name>aldi Geleitsstraße 6  63065 Offenbach </name>
+</wpt>
+<wpt lat="49.8558582816" lon="8.48568391089">
+  <name>aldi Lise-Meitner-Straße 4  64560 Riedstadt </name>
+</wpt>
+<wpt lat="49.7535597334" lon="8.49074709153">
+  <name>aldi Bensheimer Strasse 2  64579 Gernsheim </name>
+</wpt>
+<wpt lat="49.5449994876" lon="8.35190082879">
+  <name>aldi Wormser Straße 99  67227 Frankenthal </name>
+</wpt>
+<wpt lat="50.1024315621" lon="8.6192511558">
+  <name>aldi Schmidtstraße 12  60326 Frankfurt-Rebstock </name>
+</wpt>
+<wpt lat="49.4901406744" lon="7.90100795523">
+  <name>aldi Rosenhofstraße 1A  67677 Enkenbach-Alsenborn </name>
+</wpt>
+<wpt lat="49.6056018188" lon="8.74913118212">
+  <name>aldi Groß-Breitenbach 4  69509 Mörlenbach </name>
+</wpt>
+<wpt lat="50.0941820365" lon="8.95229692612">
+  <name>aldi Philipp-Heck-Straße 2  63457 Hanau </name>
+</wpt>
+<wpt lat="50.123550794" lon="8.64437820147">
+  <name>aldi Juliusstraße 5  60487 Frankfurt-Bockenheim </name>
+</wpt>
+<wpt lat="50.1336976298" lon="8.86651063813">
+  <name>aldi Marie-Curie-Ring 6  63477 Maintal-Dörnigheim </name>
+</wpt>
+<wpt lat="49.9196525537" lon="9.14822313118">
+  <name>aldi Bahnhofstraße 84  63834 Sulzbach </name>
+</wpt>
+<wpt lat="49.890297961" lon="8.63360432863">
+  <name>aldi Otto-Röhm-Straße 79 a  64293 Darmstadt-Innenstadt </name>
+</wpt>
+<wpt lat="49.2644091964" lon="6.80602094751">
+  <name>aldi Provinzialstraße 9  66787 Wadgassen </name>
+</wpt>
+<wpt lat="50.335890015" lon="8.76107417305">
+  <name>aldi Fauerbacher Str. 16-20  61169 Friedberg </name>
+</wpt>
+<wpt lat="50.0884180636" lon="8.28990159728">
+  <name>aldi Rostocker Str. 6-8  65191 Wiesbaden-Bierstadt </name>
+</wpt>
+<wpt lat="50.1085399106" lon="8.78701960138">
+  <name>aldi Kettelerstraße 98  63075 Offenbach </name>
+</wpt>
+<wpt lat="50.1633014043" lon="8.97710021601">
+  <name>aldi Auf dem Hessel 16  63526 Erlensee-Langendiebach </name>
+</wpt>
+<wpt lat="50.1955985622" lon="9.19659764037">
+  <name>aldi Kleinbahnweg 1  63589 Linsengericht-Altenhasslau </name>
+</wpt>
+<wpt lat="50.3338005212" lon="8.52921107661">
+  <name>aldi Am Riedborn 43  61250 Usingen </name>
+</wpt>
+<wpt lat="49.3461803044" lon="6.93537936731">
+  <name>aldi Trierer Straße 155  66265 Heusweiler </name>
+</wpt>
+<wpt lat="50.1704906779" lon="8.58234299709">
+  <name>aldi Industriestraße 1 B  61449 Steinbach </name>
+</wpt>
+<wpt lat="49.6576298395" lon="7.59172226174">
+  <name>aldi Saarbrücker Straße 1e  67742 Lauterecken </name>
+</wpt>
+<wpt lat="49.9619674609" lon="9.17573337911">
+  <name>aldi Würzburger Straße 188 a  63743 Aschaffenburg-Schweinheim </name>
+</wpt>
+<wpt lat="49.360298383" lon="8.79620167498">
+  <name>aldi Wiesenbacher Landstraße 22  69245 Bammental </name>
+</wpt>
+<wpt lat="50.1730020602" lon="9.04490007188">
+  <name>aldi Kinzigstraße 13 a  63505 Langenselbold </name>
+</wpt>
+<wpt lat="49.4981024047" lon="8.55571408434">
+  <name>aldi Gotenstraße 12-16  68259 Mannheim-Wallstadt </name>
+</wpt>
+<wpt lat="49.6307024328" lon="8.20130043266">
+  <name>aldi Robert-Bosch-Straße 9  67590 Monsheim </name>
+</wpt>
+<wpt lat="48.8646222805" lon="7.46755292761">
+  <name>aldi Rue de l'Industrie  67340 Ingwiller </name>
+</wpt>
+<wpt lat="49.1911017535" lon="7.6118041132">
+  <name>aldi Simter Straße 24  66955 Pirmasens </name>
+</wpt>
+<wpt lat="49.2491012636" lon="6.90660107592">
+  <name>aldi Parkstraße 4  66333 Völklingen-Luisenthal </name>
+</wpt>
+<wpt lat="49.2731997197" lon="8.69509994004">
+  <name>aldi Frankenäcker 6  69231 Rauenberg </name>
+</wpt>
+<wpt lat="50.2036982211" lon="8.83670712011">
+  <name>aldi Uferstraße 14-16  61137 Schöneck-Kilianstädten </name>
+</wpt>
+<wpt lat="49.3459986762" lon="8.15600160337">
+  <name>aldi Speyerdorfer Straße 10  67433 Neustadt a. d. Weinstraße </name>
+</wpt>
+<wpt lat="49.7436928301" lon="8.60896291663">
+  <name>aldi Neue Bergstraße 9  64665 Alsbach-Hähnlein </name>
+</wpt>
+<wpt lat="50.1170406968" lon="8.84089795879">
+  <name>aldi Ernst-Abbe-Straße 3-5  63165 Mühlheim/Main </name>
+</wpt>
+<wpt lat="49.5365026192" lon="6.89349796012">
+  <name>aldi Poststraße 40  66687 Wadern </name>
+</wpt>
+<wpt lat="49.2860188697" lon="7.1473944359">
+  <name>aldi Obere Kaiserstraße 3  66386 St. Ingbert-Rohrbach </name>
+</wpt>
+<wpt lat="49.3475981534" lon="7.27489125997">
+  <name>aldi Kleinottweilerstraße 75  66450 Bexbach </name>
+</wpt>
+<wpt lat="49.2500581485" lon="6.9799497461">
+  <name>aldi Am Torhaus 43  66113 Saarbrücken-Malstatt </name>
+</wpt>
+<wpt lat="49.4079008935" lon="6.96910392753">
+  <name>aldi Europaplatz 4  66571 Eppelborn </name>
+</wpt>
+<wpt lat="49.3554014504" lon="8.15340256393">
+  <name>aldi Martin-Luther-Straße 58  67433 Neustadt a. d. Weinstraße </name>
+</wpt>
+<wpt lat="49.2503692788" lon="6.96401376724">
+  <name>aldi Rastpfuhl 2a  66113 Saarbrücken </name>
+</wpt>
+<wpt lat="49.8603225669" lon="8.63720161505">
+  <name>aldi Eschollbrücker Straße 30  64295 Darmstadt </name>
+</wpt>
+<wpt lat="49.2995618928" lon="8.6458530889">
+  <name>aldi Bahnhofstraße 32  69190 Walldorf </name>
+</wpt>
+<wpt lat="49.4676971652" lon="8.28599854151">
+  <name>aldi Am Weisenheimer Weg 3 - 5  67136 Fußgönheim </name>
+</wpt>
+<wpt lat="49.2327021887" lon="7.00790066161">
+  <name>aldi Halbergstraße 5-7  66121 Saarbrücken </name>
+</wpt>
+<wpt lat="49.2093007434" lon="7.03159778593">
+  <name>aldi Bühlerstraße 18  66130 Saarbrücken-Güdingen </name>
+</wpt>
+<wpt lat="50.3754926435" lon="8.74806998263">
+  <name>aldi Am Taubenbaum 15  61231 Bad Nauheim </name>
+</wpt>
+<wpt lat="50.1608010349" lon="8.68741074031">
+  <name>aldi Homburger Landstr. 268  60433 Frankfurt-Preungesheim </name>
+</wpt>
+<wpt lat="50.0879622244" lon="8.5763535152">
+  <name>aldi Nürburgstraße 5  60529 Frankfurt-Schwanheim </name>
+</wpt>
+<wpt lat="49.4208020013" lon="8.41279389473">
+  <name>aldi Industriestraße 10  67141 Neuhofen </name>
+</wpt>
+<wpt lat="49.8021676144" lon="9.00202041771">
+  <name>aldi Otto-Hahn-Strasse 14  64739 Höchst/Odw. </name>
+</wpt>
+<wpt lat="50.0846788997" lon="8.63289386456">
+  <name>aldi Goldsteinstraße 126 a  60528 Frankfurt-Niederrad </name>
+</wpt>
+<wpt lat="49.9622972218" lon="9.08220393209">
+  <name>aldi Taunusstraße 7  63811 Stockstadt </name>
+</wpt>
+<wpt lat="50.2716995016" lon="9.37477123693">
+  <name>aldi Am Palmusacker 4  63628 Bad Soden-Salmünster </name>
+</wpt>
+<wpt lat="49.244921279" lon="6.94281675699">
+  <name>aldi Jakobstraße 40  66115 Saarbrücken-Burbach </name>
+</wpt>
+<wpt lat="50.0839402649" lon="8.74494933666">
+  <name>aldi Sprendlinger Landstraße 179  63069 Offenbach </name>
+</wpt>
+<wpt lat="50.0502972417" lon="8.97399755647">
+  <name>aldi Steinheimer Straße 66  63500 Seligenstadt </name>
+</wpt>
+<wpt lat="50.0826014603" lon="8.87221233711">
+  <name>aldi Feldstraße 33-35  63179 Obertshausen </name>
+</wpt>
+<wpt lat="49.2504984267" lon="7.00629087593">
+  <name>aldi Dudweiler Landstraße 141  66123 Saarbrücken </name>
+</wpt>
+<wpt lat="49.9968401787" lon="8.65022379191">
+  <name>aldi Ampèrestrasse 19  63225 Langen </name>
+</wpt>
+<wpt lat="49.2057284638" lon="6.84357661778">
+  <name>aldi Am Mühlenbach 3  66352 Großrosseln </name>
+</wpt>
+<wpt lat="49.3033384951" lon="7.06151821575">
+  <name>aldi Mellinweg 12  66280 Sulzbach </name>
+</wpt>
+<wpt lat="50.3226224646" lon="8.8683992135">
+  <name>aldi Freiherr-vom-Stein-Straße 2  61197 Florstadt </name>
+</wpt>
+<wpt lat="50.014602241" lon="8.36272866093">
+  <name>aldi Frankfurter Straße 71  65239 Hochheim </name>
+</wpt>
+<wpt lat="49.9701009049" lon="8.82630196913">
+  <name>aldi Senefelder Straße 32  63322 Rödermark/Ober-Roden </name>
+</wpt>
+<wpt lat="50.1359284921" lon="8.71430944954">
+  <name>aldi Seckbacher Landstr. 76  60385 Frankfurt am Main </name>
+</wpt>
+<wpt lat="50.4100705634" lon="8.06636621891">
+  <name>aldi Müschener-Straße 1  65555 Limburg-Offheim </name>
+</wpt>
+<wpt lat="50.0812914731" lon="8.45695058558">
+  <name>aldi Oberweidstraße  65830 Kriftel </name>
+</wpt>
+<wpt lat="49.4433020743" lon="7.81639977855">
+  <name>aldi Mannheimer Straße 234  67657 Kaiserslautern </name>
+</wpt>
+<wpt lat="49.3782008381" lon="8.66470286976">
+  <name>aldi Pleikartsförster Straße 13  69124 Heidelberg </name>
+</wpt>
+<wpt lat="50.0792600565" lon="8.20261344221">
+  <name>aldi Flachstraße  65199 Wiesbaden-Dotzheim </name>
+</wpt>
+<wpt lat="50.0038579313" lon="8.56701855693">
+  <name>aldi Okrifteler Straße 16  64546 Mörfelden-Walldorf/Walldorf </name>
+</wpt>
+<wpt lat="50.1306711" lon="8.91200731817">
+  <name>aldi Am Steinheimer Tor 7  63450 Hanau </name>
+</wpt>
+<wpt lat="49.4865010956" lon="8.41610339824">
+  <name>aldi Industriestraße 13  67063 Ludwigshafen </name>
+</wpt>
+<wpt lat="49.8692904753" lon="8.55581300972">
+  <name>aldi Nordring 21  64347 Griesheim </name>
+</wpt>
+<wpt lat="49.3582072884" lon="8.52716062335">
+  <name>aldi Hockenheimer Straße 112  68775 Ketsch </name>
+</wpt>
+<wpt lat="49.9065297602" lon="8.64945936854">
+  <name>aldi Schorlemmerstraße 45  64291 Darmstadt-Arheilgen </name>
+</wpt>
+<wpt lat="50.4636276729" lon="8.13449882378">
+  <name>aldi Hauptstrasse 75  65614 Beselich </name>
+</wpt>
+<wpt lat="49.487599424" lon="8.47439742473">
+  <name>aldi S 6, 29-33  68161 Mannheim </name>
+</wpt>
+</gpx>
