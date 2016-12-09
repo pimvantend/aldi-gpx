@@ -36,11 +36,12 @@ def verwerkpostcodech(postcode):
 	    regel=lon+' '+lat+' '+winkel+' '+straat+', '+plaats
 	    regel=regel.replace('&#39;',"'")
 	    regel=regel.replace('&#220;','Ue')
-	    regel=regel.replace('&#223;','ss')
+	    regel=regel.replace('&#223;','ss') # ringeles
 	    regel=regel.replace('&#226;','a')
 	    regel=regel.replace('&#228;','ae')
 	    regel=regel.replace('&#232;','e')
 	    regel=regel.replace('&#233;','e')
+	    regel=regel.replace('&#234;','e') # dakje
 	    regel=regel.replace('&#246;','oe')
 	    regel=regel.replace('&#252;','ue')
 #	print regel
