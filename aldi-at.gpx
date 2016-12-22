@@ -1,0 +1,1306 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="Locus Android"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
+ xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
+ xmlns:locus="http://www.locusmap.eu">
+<wpt lat="46.95303" lon="15.86901">
+  <name>Hofer Gnaser Strasse 26, 8330 Feldbach  </name>
+</wpt>
+<wpt lat="47.22236" lon="11.87904">
+  <name>Hofer Talstrasse 40b, 6280 Zell am Ziller  </name>
+</wpt>
+<wpt lat="47.3564" lon="11.71442">
+  <name>Hofer Dr.-Karl-Psenner-Strasse 56, 6130 Schwaz  </name>
+</wpt>
+<wpt lat="46.76619" lon="14.37788">
+  <name>Hofer Voelkermarkter Strasse 43, 9300 St. Veit an der Glan  </name>
+</wpt>
+<wpt lat="48.23687" lon="16.37152">
+  <name>Hofer Stromstrasse 3, 1200 Wien 20., Brigittenau  </name>
+</wpt>
+<wpt lat="48.56698" lon="14.95515">
+  <name>Hofer Kreuzberg 418, 3920 Gross Gerungs  </name>
+</wpt>
+<wpt lat="46.5448" lon="14.93418">
+  <name>Hofer Pri Brančurniku 9, 2391 Prevalje  </name>
+</wpt>
+<wpt lat="48.04167" lon="14.42668">
+  <name>Hofer Pachergasse 19, 4400 Steyr  </name>
+</wpt>
+<wpt lat="46.60561" lon="14.03499">
+  <name>Hofer Rosentaler Strasse 78, 9220 Velden  </name>
+</wpt>
+<wpt lat="47.26299" lon="11.43226">
+  <name>Hofer DEZ-Amraser-See-Strasse 56a, 6020 Innsbruck  </name>
+</wpt>
+<wpt lat="48.14862" lon="16.33884">
+  <name>Hofer Klingerstrasse 4, 1230 Wien 23., Liesing  </name>
+</wpt>
+<wpt lat="47.05308" lon="15.13021">
+  <name>Hofer Packerstrasse 18 A, 8572 Baernbach  </name>
+</wpt>
+<wpt lat="47.82228" lon="13.03945">
+  <name>Hofer Schillerstrasse 25, 5020 Salzburg  </name>
+</wpt>
+<wpt lat="47.84652" lon="16.24621">
+  <name>Hofer Grazerstrasse 68, 2604 Theresienfeld  </name>
+</wpt>
+<wpt lat="46.79743" lon="15.55717">
+  <name>Hofer Leopold-Figl-Strasse 2, 8430 Leibnitz  </name>
+</wpt>
+<wpt lat="46.83233" lon="12.77781">
+  <name>Hofer Kaerntner Strasse 57, 9900 Lienz  </name>
+</wpt>
+<wpt lat="48.20603" lon="16.5481">
+  <name>Hofer Wiener Strasse 12, Top 01, 2301 Gross Enzersdorf  </name>
+</wpt>
+<wpt lat="47.10474" lon="15.41439">
+  <name>Hofer Weinzoettlstrasse 36, 8045 Graz  </name>
+</wpt>
+<wpt lat="47.22736" lon="15.64411">
+  <name>Hofer Oberfladnitz 78, 8160 Thannhausen bei Weiz  </name>
+</wpt>
+<wpt lat="48.25746" lon="16.00457">
+  <name>Hofer Hofer Str. 1, 3443 Sieghartskirchen  </name>
+</wpt>
+<wpt lat="48.41371" lon="15.77373">
+  <name>Hofer Gewerbering 2, 3484 Grafenwoerth  </name>
+</wpt>
+<wpt lat="48.16492" lon="16.33482">
+  <name>Hofer Gutheil Schoder-Gasse 4, 1100 Wien 10., Favoriten  </name>
+</wpt>
+<wpt lat="48.24031" lon="14.53093">
+  <name>Hofer Wienerbergerstrasse 1, 4310 Mauthausen  </name>
+</wpt>
+<wpt lat="47.63826" lon="13.13737">
+  <name>Hofer Garnei 208, 5431 Kuchl  </name>
+</wpt>
+<wpt lat="48.17777" lon="16.36534">
+  <name>Hofer Erlachgasse 134-140, 1100 Wien 10., Favoriten  </name>
+</wpt>
+<wpt lat="47.06875" lon="16.32163">
+  <name>Hofer Wiener Strasse 33, 7540 Guessing  </name>
+</wpt>
+<wpt lat="46.78916" lon="15.54251">
+  <name>Hofer Sailergasse 10, 8430 Leibnitz  </name>
+</wpt>
+<wpt lat="47.46968" lon="15.346">
+  <name>Hofer Dr. Reinhard Machold-Str. 1, 8642 St. Lorenzen im Muerztal  </name>
+</wpt>
+<wpt lat="47.37694" lon="13.47607">
+  <name>Hofer Forstauer Strasse 2c, 5550 Radstadt  </name>
+</wpt>
+<wpt lat="48.14326" lon="13.97107">
+  <name>Hofer Malvenstrasse 3, 4600 Wels-West  </name>
+</wpt>
+<wpt lat="48.37924" lon="16.24">
+  <name>Hofer Rudolf-Hirsch-Str. 2, 2000 Stockerau  </name>
+</wpt>
+<wpt lat="47.22138" lon="15.62496">
+  <name>Hofer Dr.-Karl-Widdmann-Strasse 16, 8160 Weiz  </name>
+</wpt>
+<wpt lat="48.35002" lon="16.33986">
+  <name>Hofer Laaer Str. 77, 2100 Korneuburg  </name>
+</wpt>
+<wpt lat="48.04958" lon="14.12683">
+  <name>Hofer Gablonzer Strasse 11, 4550 Kremsmuenster  </name>
+</wpt>
+<wpt lat="46.70067" lon="15.24326">
+  <name>Hofer Radlpass Strasse 30, 8551 Wies  </name>
+</wpt>
+<wpt lat="48.2169" lon="16.34001">
+  <name>Hofer Hernalser Hauptstrasse 20-22, 1170 Wien 17., Hernals  </name>
+</wpt>
+<wpt lat="47.97814" lon="16.85406">
+  <name>Hofer Gewerbestrasse 1, 7111 Parndorf  </name>
+</wpt>
+<wpt lat="48.2926" lon="16.4657">
+  <name>Hofer Leopoldauer Strasse 22, 2201 Gerasdorf  </name>
+</wpt>
+<wpt lat="48.49679" lon="13.96947">
+  <name>Hofer Haselbach 30, 4121 Altenfelden i.Mkr.  </name>
+</wpt>
+<wpt lat="48.18862" lon="14.11835">
+  <name>Hofer Mauthausstrasse 2, 4614 Marchtrenk  </name>
+</wpt>
+<wpt lat="47.99031" lon="13.48194">
+  <name>Hofer Moesenthal 9, 4870 Voecklamarkt  </name>
+</wpt>
+<wpt lat="48.40536" lon="15.65646">
+  <name>Hofer Gewerbeparkstrasse 2, 3500 Krems  </name>
+</wpt>
+<wpt lat="48.05368" lon="14.42327">
+  <name>Hofer Resthofstrasse 23, 4400 Steyr  </name>
+</wpt>
+<wpt lat="48.17995" lon="16.32754">
+  <name>Hofer Tivoligasse 15, 1120 Wien 12., Meidling  </name>
+</wpt>
+<wpt lat="48.2421" lon="16.32674">
+  <name>Hofer Krottenbachstr. 106, 1190 Wien 19., Doebling  </name>
+</wpt>
+<wpt lat="48.31122" lon="14.30417">
+  <name>Hofer Lederergasse 68 - 70, 4020 Linz  </name>
+</wpt>
+<wpt lat="48.44612" lon="13.44036">
+  <name>Hofer Othmar-Spanlang-Strasse 1, 4780 Schaerding  </name>
+</wpt>
+<wpt lat="48.66412" lon="15.64119">
+  <name>Hofer Pragerstrasse 77, 3580 Horn  </name>
+</wpt>
+<wpt lat="48.1738" lon="16.37664">
+  <name>Hofer Rotenhofgasse 3, 1100 Wien 10., Favoriten  </name>
+</wpt>
+<wpt lat="47.04231" lon="15.48404">
+  <name>Hofer Styriastrasse 14, 8042 Graz  </name>
+</wpt>
+<wpt lat="47.07609" lon="15.40723">
+  <name>Hofer Alte Poststrasse 103, 8020 Graz  </name>
+</wpt>
+<wpt lat="48.2032" lon="16.38928">
+  <name>Hofer Landstrasser Hauptstrasse 26, 1030 Wien  3., Landstrasse  </name>
+</wpt>
+<wpt lat="47.09947" lon="15.71799">
+  <name>Hofer Feldbacher Strasse 8, 8200 Gleisdorf  </name>
+</wpt>
+<wpt lat="47.95561" lon="16.40418">
+  <name>Hofer Wr. Neustaedter Strasse 31-35, 2483 Ebreichsdorf  </name>
+</wpt>
+<wpt lat="47.52752" lon="12.42568">
+  <name>Hofer Salzburgerstrasse 20a, 6380 St. Johann in Tirol  </name>
+</wpt>
+<wpt lat="47.5394" lon="15.53303">
+  <name>Hofer Fressnitzstrasse 65, 8670 Krieglach  </name>
+</wpt>
+<wpt lat="48.47153" lon="15.68442">
+  <name>Hofer Wiener Strasse 47, 3550 Langenlois  </name>
+</wpt>
+<wpt lat="48.04799" lon="13.76375">
+  <name>Hofer Gewerbepark Ost 27, 4846 Redlham  </name>
+</wpt>
+<wpt lat="47.89005" lon="14.12782">
+  <name>Hofer Kollingerfeld 5, 4563 Micheldorf  </name>
+</wpt>
+<wpt lat="47.15255" lon="9.81693">
+  <name>Hofer Klarenbrunnstrasse 5, 6700 Bludenz  </name>
+</wpt>
+<wpt lat="48.27164" lon="14.26771">
+  <name>Hofer Richterstrasse 5, 4060 Leonding  </name>
+</wpt>
+<wpt lat="47.70097" lon="13.62452">
+  <name>Hofer Technoparkstrasse 2, 4820 Bad Ischl Sued  </name>
+</wpt>
+<wpt lat="46.96294" lon="15.35296">
+  <name>Hofer Dobler Strasse 2, 8501 Lieboch  </name>
+</wpt>
+<wpt lat="47.11211" lon="15.70836">
+  <name>Hofer Hartberger Strasse 23, 8200 Gleisdorf  </name>
+</wpt>
+<wpt lat="48.16177" lon="16.47157">
+  <name>Hofer Zinnergasse 6, 1110 Wien 11., Simmering  </name>
+</wpt>
+<wpt lat="48.19389" lon="16.29953">
+  <name>Hofer Linzer Str.143/3/1A, 1140 Wien 14., Penzing  </name>
+</wpt>
+<wpt lat="48.02277" lon="16.75989">
+  <name>Hofer Bundesstrasse 10, 2460 Bruck/Leitha  </name>
+</wpt>
+<wpt lat="47.36726" lon="9.67111">
+  <name>Hofer Barnabas-Fink-Strasse 1, 6845 Hohenems  </name>
+</wpt>
+<wpt lat="47.26433" lon="11.37416">
+  <name>Hofer WEST - Hoettinger Au 73, 6020 Innsbruck  </name>
+</wpt>
+<wpt lat="47.77454" lon="13.06993">
+  <name>Hofer Alpenstrasse 109, 5020 Salzburg  </name>
+</wpt>
+<wpt lat="46.8865" lon="15.50063">
+  <name>Hofer Kainachtalstrasse 9, 8410 Wildon  </name>
+</wpt>
+<wpt lat="47.18379" lon="14.68519">
+  <name>Hofer Murweg 15, 8753 Fohnsdorf  </name>
+</wpt>
+<wpt lat="46.60765" lon="14.32968">
+  <name>Hofer Stadlweg 51, 9020 Klagenfurt  </name>
+</wpt>
+<wpt lat="48.27308" lon="16.41968">
+  <name>Hofer Ruthnergasse 54, 1210 Wien 21., Floridsdorf  </name>
+</wpt>
+<wpt lat="47.81888" lon="13.05798">
+  <name>Hofer Bergerbraeuhofstrasse 40a, 5020 Salzburg-Schallmoos  </name>
+</wpt>
+<wpt lat="47.2054" lon="15.63898">
+  <name>Hofer Bundesstrasse 1, 8160 Weiz  </name>
+</wpt>
+<wpt lat="47.48782" lon="9.70142">
+  <name>Hofer Rauhholzstrasse 29, 6971 Hard  </name>
+</wpt>
+<wpt lat="48.11619" lon="16.3177">
+  <name>Hofer SCS Park/Autoallee 2, 2334 Voesendorf  </name>
+</wpt>
+<wpt lat="47.33945" lon="9.65198">
+  <name>Hofer Im Buch 40, 6840 Goetzis  </name>
+</wpt>
+<wpt lat="47.15374" lon="14.41497">
+  <name>Hofer Gewerbepark 2, 8811 Scheifling  </name>
+</wpt>
+<wpt lat="46.80385" lon="15.5546">
+  <name>Hofer Hauptstrasse 63, 8431 Gralla  </name>
+</wpt>
+<wpt lat="47.56255" lon="16.09609">
+  <name>Hofer Wechselstrasse 1b, 2870 Aspang  </name>
+</wpt>
+<wpt lat="47.97833" lon="16.22059">
+  <name>Hofer Badner Strasse 106, 2540 Bad Voeslau  </name>
+</wpt>
+<wpt lat="48.64773" lon="15.82316">
+  <name>Hofer Pulkauerstrasse 36, 3730 Eggenburg  </name>
+</wpt>
+<wpt lat="47.28403" lon="12.49143">
+  <name>Hofer Essiger Allee 2, 5730 Mittersill  </name>
+</wpt>
+<wpt lat="47.94251" lon="16.11852">
+  <name>Hofer Leobersdorferstrasse 18, 2560 Berndorf  </name>
+</wpt>
+<wpt lat="48.31996" lon="16.02141">
+  <name>Hofer Europastrasse 3, 3442 Langenrohr  </name>
+</wpt>
+<wpt lat="48.22154" lon="16.31327">
+  <name>Hofer Heigerleinstrasse 41, 1160 Wien 16., Ottakring  </name>
+</wpt>
+<wpt lat="46.59677" lon="13.83917">
+  <name>Hofer Ackerweg 1, 9500 Villach  </name>
+</wpt>
+<wpt lat="47.92411" lon="13.78897">
+  <name>Hofer Bahnhofstrasse 36, 4810 Gmunden  </name>
+</wpt>
+<wpt lat="48.11425" lon="14.87137">
+  <name>Hofer Ybbsstrasse 70, 3300 Amstetten  </name>
+</wpt>
+<wpt lat="47.06196" lon="15.07995">
+  <name>Hofer Kaerntnerstrasse 29, 8580 Koeflach  </name>
+</wpt>
+<wpt lat="48.60025" lon="15.18997">
+  <name>Hofer Andre Freyskorn-Strasse 20, 3910 Zwettl  </name>
+</wpt>
+<wpt lat="48.25044" lon="13.21195">
+  <name>Hofer Pirath 19, 4952 Weng bei Altheim  </name>
+</wpt>
+<wpt lat="48.38761" lon="16.18518">
+  <name>Hofer Horner Strasse 89, 2000 Stockerau  </name>
+</wpt>
+<wpt lat="48.20315" lon="16.43298">
+  <name>Hofer Wehlistrasse 364, 1020 Wien  2., Leopoldstadt  </name>
+</wpt>
+<wpt lat="48.16463" lon="16.37489">
+  <name>Hofer Daumegasse 13, 1100 Wien 10., Favoriten  </name>
+</wpt>
+<wpt lat="48.27381" lon="15.69249">
+  <name>Hofer St. Poeltner-Strasse 75 - 81, 3130 Herzogenburg  </name>
+</wpt>
+<wpt lat="46.63403" lon="14.15776">
+  <name>Hofer Hauptstrasse 70, 9210 Poertschach  </name>
+</wpt>
+<wpt lat="47.27783" lon="11.4964">
+  <name>Hofer Innsbrucker Strasse 13, 6060 Hall  </name>
+</wpt>
+<wpt lat="48.16726" lon="16.40822">
+  <name>Hofer Gadnergasse 10, 1110 Wien 11., Simmering  </name>
+</wpt>
+<wpt lat="48.06989" lon="14.05369">
+  <name>Hofer Kirchdorfer Strasse 6, 4642 Sattledt  </name>
+</wpt>
+<wpt lat="47.48831" lon="10.71099">
+  <name>Hofer Lindenstrasse 43, 6600 Reutte  </name>
+</wpt>
+<wpt lat="48.22522" lon="16.3601">
+  <name>Hofer Alserbachstrasse 18, 1090 Wien  9., Alsergrund  </name>
+</wpt>
+<wpt lat="48.19055" lon="15.61904">
+  <name>Hofer Mariazeller Strasse 81, 3100 St. Poelten  </name>
+</wpt>
+<wpt lat="47.08679" lon="15.41951">
+  <name>Hofer Kalvarienbergstrasse 73, 8020 Graz  </name>
+</wpt>
+<wpt lat="48.207" lon="16.31287">
+  <name>Hofer Gablenzgasse 111, 1150 Wien 15., Rudolfsh/Fuenfhaus  </name>
+</wpt>
+<wpt lat="48.15662" lon="14.00251">
+  <name>Hofer Wimpassinger Strasse 1, 4600 Wels  </name>
+</wpt>
+<wpt lat="46.75939" lon="14.82244">
+  <name>Hofer Burgstall - St. Andrae 144, 9433 St. Andrae  </name>
+</wpt>
+<wpt lat="47.42547" lon="9.74063">
+  <name>Hofer Schwefel 43, 6850 Dornbirn  </name>
+</wpt>
+<wpt lat="47.28269" lon="16.18874">
+  <name>Hofer Marktlaende 3, 7400 Oberwart  </name>
+</wpt>
+<wpt lat="48.1649" lon="16.39016">
+  <name>Hofer Laaer-Berg-Strasse 49, 1100 Wien 10., Favoriten  </name>
+</wpt>
+<wpt lat="48.16723" lon="15.08598">
+  <name>Hofer Bahnhofstrasse 26, 3370 Ybbs  </name>
+</wpt>
+<wpt lat="47.82365" lon="16.20904">
+  <name>Hofer Bauhausstrasse 3, 2721 Bad Fischau  </name>
+</wpt>
+<wpt lat="46.60769" lon="14.2916">
+  <name>Hofer Waidmannsdorfer Strasse 135, 9010 Klagenfurt  </name>
+</wpt>
+<wpt lat="46.79982" lon="13.69802">
+  <name>Hofer Hauptstrasse 70, 9545 Radenthein  </name>
+</wpt>
+<wpt lat="47.10904" lon="14.17983">
+  <name>Hofer Bahnhofviertel 31, 8850 Murau  </name>
+</wpt>
+<wpt lat="47.24861" lon="9.61023">
+  <name>Hofer Reichsstrasse 122 - 124, 6800 Feldkirch  </name>
+</wpt>
+<wpt lat="47.32543" lon="11.86652">
+  <name>Hofer Am Giessen 3, 6271 Uderns  </name>
+</wpt>
+<wpt lat="48.0141" lon="15.1576">
+  <name>Hofer Gewerbestrasse 2, 3270 Scheibbs  </name>
+</wpt>
+<wpt lat="48.26477" lon="16.4595">
+  <name>Hofer Dassanowskyweg 4A, 1220 Wien 22., Donaustadt  </name>
+</wpt>
+<wpt lat="48.29243" lon="14.3038">
+  <name>Hofer Hamerlingstrasse 33, 4020 Linz  </name>
+</wpt>
+<wpt lat="47.09484" lon="13.63927">
+  <name>Hofer Murtalstrasse 630, 5582 St. Michael im Lungau  </name>
+</wpt>
+<wpt lat="48.4961" lon="14.50452">
+  <name>Hofer Maderspergerstrasse 2, 4240 Freistadt  </name>
+</wpt>
+<wpt lat="47.28903" lon="12.80888">
+  <name>Hofer Kaprunerstrasse 60, 5671 Bruck an der Glocknerstrasse  </name>
+</wpt>
+<wpt lat="47.30738" lon="11.0792">
+  <name>Hofer Untermarktstrasse 64, 6410 Telfs  </name>
+</wpt>
+<wpt lat="46.99862" lon="15.50222">
+  <name>Hofer Grazer Strasse 60a, 8071 Hausmannstaetten  </name>
+</wpt>
+<wpt lat="46.93959" lon="16.15157">
+  <name>Hofer Technologiepark 51, 8380 Jennersdorf  </name>
+</wpt>
+<wpt lat="48.12852" lon="16.32731">
+  <name>Hofer Schoenbrunner Allee, 2331 Voesendorf  </name>
+</wpt>
+<wpt lat="47.80039" lon="13.01188">
+  <name>Hofer Innsbrucker Bundesstr. 112, 5020 Salzburg  </name>
+</wpt>
+<wpt lat="47.1127" lon="15.50087">
+  <name>Hofer Mariatroster Strasse 377, 8044 Graz  </name>
+</wpt>
+<wpt lat="48.18956" lon="16.37253">
+  <name>Hofer Favoritenstrasse 27, 27a, 1040 Wien  4.,  Wieden  </name>
+</wpt>
+<wpt lat="48.04882" lon="15.61209">
+  <name>Hofer Gewerbestrasse 2, 3160 Traisen  </name>
+</wpt>
+<wpt lat="48.04396" lon="14.38886">
+  <name>Hofer Sierninger Strasse 131, 4400 Steyr  </name>
+</wpt>
+<wpt lat="47.74905" lon="13.08502">
+  <name>Hofer Marktstrasse 8, 5061 Elsbethen  </name>
+</wpt>
+<wpt lat="47.27147" lon="15.9608">
+  <name>Hofer Schildbach 120, 8230 Hartberg-Umgebung  </name>
+</wpt>
+<wpt lat="48.29174" lon="16.31971">
+  <name>Hofer Brandmayerstr. 38-48, 3400 Klosterneuburg-Weidling  </name>
+</wpt>
+<wpt lat="47.80253" lon="16.24108">
+  <name>Hofer Guenser Strasse, 2700 Wr. Neustadt  </name>
+</wpt>
+<wpt lat="48.18669" lon="16.36287">
+  <name>Hofer Nikolsdorfergasse 7-11, 1050 Wien  5., Margareten  </name>
+</wpt>
+<wpt lat="46.7705" lon="15.56202">
+  <name>Hofer Marburgerstrasse 92, 8435 Wagna  </name>
+</wpt>
+<wpt lat="47.19712" lon="9.74034">
+  <name>Hofer Hauptstrasse 5d, 6719 Bludesch  </name>
+</wpt>
+<wpt lat="46.82167" lon="12.75587">
+  <name>Hofer Dolomitenstrasse 49, 9900 Lienz  </name>
+</wpt>
+<wpt lat="48.56048" lon="16.55897">
+  <name>Hofer Ernstbrunner Str. 2, 2130 Mistelbach  </name>
+</wpt>
+<wpt lat="47.72179" lon="16.068">
+  <name>Hofer Sandgasse 1, 2620 Neunkirchen  </name>
+</wpt>
+<wpt lat="47.64118" lon="13.62081">
+  <name>Hofer Hofrat-Renner-Weg 1, 4822 Bad Goisern  </name>
+</wpt>
+<wpt lat="47.03918" lon="15.16526">
+  <name>Hofer Grazer Vorstadt 116, 8570 Voitsberg  </name>
+</wpt>
+<wpt lat="47.9374" lon="12.94327">
+  <name>Hofer Salzburger Strasse 27, 5110 Oberndorf bei Salzburg  </name>
+</wpt>
+<wpt lat="47.42512" lon="12.83924">
+  <name>Hofer Thorerstrasse 2, 5760 Saalfelden  </name>
+</wpt>
+<wpt lat="47.96696" lon="16.83746">
+  <name>Hofer Kurzes Hirschfeld, 7100 Neusiedl/See  </name>
+</wpt>
+<wpt lat="47.27287" lon="11.45062">
+  <name>Hofer Florianistrasse 2, 6064 Rum  </name>
+</wpt>
+<wpt lat="48.19457" lon="16.28817">
+  <name>Hofer Linzer Strasse 233, 1140 Wien 14., Penzing  </name>
+</wpt>
+<wpt lat="48.21695" lon="16.49229">
+  <name>Hofer Grossenzersd.Str./Lohwagg.2, 1220 Wien 22., Donaustadt  </name>
+</wpt>
+<wpt lat="48.20589" lon="16.39347">
+  <name>Hofer Marxergasse 29, 1030 Wien 3., Landstrasse  </name>
+</wpt>
+<wpt lat="47.02796" lon="15.40107">
+  <name>Hofer Weiberfelderweg 1, 8054 Graz-Strassgang  </name>
+</wpt>
+<wpt lat="47.13538" lon="13.80225">
+  <name>Hofer Moertelsdorf 56, 5580 Tamsweg  </name>
+</wpt>
+<wpt lat="47.03009" lon="15.43824">
+  <name>Hofer Gmeinstrasse 4, 8055 Graz-Puntigam  </name>
+</wpt>
+<wpt lat="48.65643" lon="16.63158">
+  <name>Hofer Baumfeldstr. 2, 2170 Poysdorf  </name>
+</wpt>
+<wpt lat="47.4776" lon="12.04525">
+  <name>Hofer Innsbrucker Strasse 100, 6300 Woergl  </name>
+</wpt>
+<wpt lat="46.9707" lon="15.45914">
+  <name>Hofer Feldkirchenstrasse 36, 8401 Kalsdorf  </name>
+</wpt>
+<wpt lat="47.86078" lon="13.12938">
+  <name>Hofer Gewerbestrasse 1a, 5301 Eugendorf  </name>
+</wpt>
+<wpt lat="47.97613" lon="14.75513">
+  <name>Hofer Wiener Strasse 54, 3340 Waidhofen/Ybbs  </name>
+</wpt>
+<wpt lat="48.22235" lon="16.35354">
+  <name>Hofer Nussdorfer Str. 4 - 4a, 1090 Wien  9., Alsergrund  </name>
+</wpt>
+<wpt lat="46.86569" lon="15.90297">
+  <name>Hofer Radkersburger Strasse 21, 8344 Bad Gleichenberg  </name>
+</wpt>
+<wpt lat="48.23838" lon="13.9571">
+  <name>Hofer Eferdinger Strasse 79, 4702 Wallern an der Trattnach  </name>
+</wpt>
+<wpt lat="47.68881" lon="13.09443">
+  <name>Hofer Weisslhofweg 16, 5400 Hallein  </name>
+</wpt>
+<wpt lat="47.45913" lon="9.64562">
+  <name>Hofer Gartenstrasse 6, 6973 Hoechst  </name>
+</wpt>
+<wpt lat="47.27245" lon="9.60794">
+  <name>Hofer St. Anna Weg 23, 6830 Rankweil  </name>
+</wpt>
+<wpt lat="48.32844" lon="14.32425">
+  <name>Hofer Freistaedter Strasse 401, 4040 Linz  </name>
+</wpt>
+<wpt lat="47.0313" lon="15.4649">
+  <name>Hofer Liebenauer Hauptstr. 224, 8041 Graz  </name>
+</wpt>
+<wpt lat="47.80732" lon="13.06711">
+  <name>Hofer Fuerbergstrasse 29, 5020 Salzburg  </name>
+</wpt>
+<wpt lat="48.1768" lon="16.39545">
+  <name>Hofer Huettenbrennergasse 5, 1030 Wien  3., Landstrasse  </name>
+</wpt>
+<wpt lat="47.01733" lon="15.43861">
+  <name>Hofer Triesterstrasse 472, 8055 Seiersberg-Pirka  </name>
+</wpt>
+<wpt lat="46.95245" lon="14.41442">
+  <name>Hofer Industriestrasse 5, 9360 Friesach  </name>
+</wpt>
+<wpt lat="48.29768" lon="16.37529">
+  <name>Hofer Wiener Strasse 210 - 218, 2103 Langenzersdorf  </name>
+</wpt>
+<wpt lat="46.63137" lon="13.8269">
+  <name>Hofer Badstubenweg 80, 9500 Villach  </name>
+</wpt>
+<wpt lat="47.42426" lon="15.00272">
+  <name>Hofer Kehrgasse 10, 8793 Trofaiach  </name>
+</wpt>
+<wpt lat="47.29669" lon="12.78773">
+  <name>Hofer Gletschermoosstrasse 39, 5700 Zell am See  </name>
+</wpt>
+<wpt lat="48.34427" lon="16.46336">
+  <name>Hofer G3 Platz 1, Top F141, 2201 Gerasdorf  </name>
+</wpt>
+<wpt lat="48.26758" lon="16.42824">
+  <name>Hofer Siemensstrasse 105, 1210 Wien 21., Floridsdorf  </name>
+</wpt>
+<wpt lat="48.20975" lon="16.33573">
+  <name>Hofer Brunnengasse 38, 1160 Wien 16., Ottakring  </name>
+</wpt>
+<wpt lat="48.17442" lon="16.28291">
+  <name>Hofer Versorgungsheimstrasse 4, 1130 Wien 13., Hietzing  </name>
+</wpt>
+<wpt lat="47.51508" lon="16.48712">
+  <name>Hofer Bgld.Schnellstr./Zubr.Stoob, 7344 Stoob  </name>
+</wpt>
+<wpt lat="46.66114" lon="16.01262">
+  <name>Hofer Ljutomerska cesta 38, 9250 Gornja Radgona  </name>
+</wpt>
+<wpt lat="48.25733" lon="16.36757">
+  <name>Hofer Heiligenstaedter Strasse 158, 1190 Wien 19., Doebling  </name>
+</wpt>
+<wpt lat="48.16485" lon="14.04098">
+  <name>Hofer Linzer Strasse 99, 4600 Wels  </name>
+</wpt>
+<wpt lat="47.79342" lon="12.98558">
+  <name>Hofer Franz-Broetzner-Strasse 3, 5071 Wals  </name>
+</wpt>
+<wpt lat="47.45755" lon="12.38645">
+  <name>Hofer St. Johanner Strasse 20, 6370 Kitzbuehel  </name>
+</wpt>
+<wpt lat="48.19217" lon="16.38595">
+  <name>Hofer Fasangasse 25, 1030 Wien  3., Landstrasse  </name>
+</wpt>
+<wpt lat="47.82473" lon="16.52995">
+  <name>Hofer Haidaeckerstrasse 4, 7000 Eisenstadt  </name>
+</wpt>
+<wpt lat="47.48318" lon="10.72292">
+  <name>Hofer Innsbrucker Strasse 4, 6600 Reutte  </name>
+</wpt>
+<wpt lat="47.43792" lon="15.28745">
+  <name>Hofer Grazer Strasse 19, 8605 Kapfenberg  </name>
+</wpt>
+<wpt lat="48.28274" lon="16.4136">
+  <name>Hofer Bruennerstr./Gerasdf.Str. 51, 1210 Wien 21., Floridsdorf  </name>
+</wpt>
+<wpt lat="47.85508" lon="13.77908">
+  <name>Hofer Feldstrasse 6, 4801 Traunkirchen  </name>
+</wpt>
+<wpt lat="47.26719" lon="11.22949">
+  <name>Hofer Bahnhofstrasse 43, 6170 Zirl  </name>
+</wpt>
+<wpt lat="48.14759" lon="16.46231">
+  <name>Hofer Simmeringer Hauptst.334-336, 1110 Wien 11., Simmering  </name>
+</wpt>
+<wpt lat="48.20648" lon="16.3397">
+  <name>Hofer Kaiserstrasse 92, 1070 Wien  7., Neubau  </name>
+</wpt>
+<wpt lat="47.45096" lon="9.83489">
+  <name>Hofer Hof 15, 6861 Alberschwende  </name>
+</wpt>
+<wpt lat="48.19587" lon="15.76511">
+  <name>Hofer Hainfelder Strasse 6, 3071 Boeheimkirchen  </name>
+</wpt>
+<wpt lat="48.11391" lon="13.15102">
+  <name>Hofer Braunauer Strasse 27, 5230 Mattighofen  </name>
+</wpt>
+<wpt lat="48.29543" lon="16.34029">
+  <name>Hofer Schuettaustr. 5-7, 3400 Klosterneuburg  </name>
+</wpt>
+<wpt lat="48.29706" lon="14.29118">
+  <name>Hofer Schillerplatz 1, 4020 Linz  </name>
+</wpt>
+<wpt lat="48.36601" lon="13.56699">
+  <name>Hofer Wilhelm-Redl-Strasse 4, 4770 Andorf  </name>
+</wpt>
+<wpt lat="46.63003" lon="14.3541">
+  <name>Hofer Steingasse 209, 9020 Klagenfurt  </name>
+</wpt>
+<wpt lat="47.70977" lon="16.04028">
+  <name>Hofer Werkstrasse 18, 2630 Ternitz  </name>
+</wpt>
+<wpt lat="47.01436" lon="15.40874">
+  <name>Hofer Maria Pfeifferstrasse 8, 8054 Seiersberg-Pirka  </name>
+</wpt>
+<wpt lat="47.83005" lon="13.0827">
+  <name>Hofer Wiener Bundesstr. 3, 5300 Hallwang  </name>
+</wpt>
+<wpt lat="46.62856" lon="14.31748">
+  <name>Hofer Schlachthofstrasse 3, 9010 Klagenfurt  </name>
+</wpt>
+<wpt lat="48.22999" lon="16.36435">
+  <name>Hofer Brigittenauer Laende 50 - 54, 1200 Wien 20., Brigittenau  </name>
+</wpt>
+<wpt lat="47.8292" lon="16.24824">
+  <name>Hofer Stadionstrasse 40, 2700 Wr. Neustadt  </name>
+</wpt>
+<wpt lat="47.8336" lon="12.99744">
+  <name>Hofer Muenchner Bundesstr. 139, 5020 Salzburg  </name>
+</wpt>
+<wpt lat="48.32019" lon="16.65286">
+  <name>Hofer Strazzeg.2/Schoenkirchner St, 2231 Strasshof  </name>
+</wpt>
+<wpt lat="47.37784" lon="15.10236">
+  <name>Hofer Kaerntner Strasse 92, 8700 Leoben  </name>
+</wpt>
+<wpt lat="46.76341" lon="14.35921">
+  <name>Hofer Lastenstrasse 7, 9300 St.Veit an der Glan  </name>
+</wpt>
+<wpt lat="48.00484" lon="13.67542">
+  <name>Hofer Max Planck-Strasse 7, 4840 Voecklabruck  </name>
+</wpt>
+<wpt lat="47.71855" lon="13.58527">
+  <name>Hofer Salzburger Strasse 94, 4820 Bad Ischl-West  </name>
+</wpt>
+<wpt lat="48.0915" lon="17.05719">
+  <name>Hofer Eisenstaedter Strasse 29, 2421 Kittsee  </name>
+</wpt>
+<wpt lat="47.92943" lon="13.50255">
+  <name>Hofer Am See-Ring 5, 4880 St. Georgen / Attergau  </name>
+</wpt>
+<wpt lat="48.22611" lon="15.34864">
+  <name>Hofer Wiener Strasse 91, 3390 Melk  </name>
+</wpt>
+<wpt lat="48.16313" lon="16.31217">
+  <name>Hofer Breitenfurterstrasse 78, 1120 Wien 12., Meidling  </name>
+</wpt>
+<wpt lat="47.10582" lon="15.70602">
+  <name>Hofer Ludwig-Binder-Strasse 16, 8200 Gleisdorf  </name>
+</wpt>
+<wpt lat="48.32076" lon="14.28939">
+  <name>Hofer Freistaedter Strasse 81-83, 4040 Linz/Urfahr  </name>
+</wpt>
+<wpt lat="48.2002" lon="15.2209">
+  <name>Hofer Manker Str. 59, 3380 Poechlarn  </name>
+</wpt>
+<wpt lat="48.52762" lon="14.29449">
+  <name>Hofer Boehmer Strasse 32, 4190 Bad Leonfelden  </name>
+</wpt>
+<wpt lat="47.82024" lon="13.20748">
+  <name>Hofer Sportplatzstr. 2, 5322 Hof b. Sbg.  </name>
+</wpt>
+<wpt lat="48.12378" lon="16.47148">
+  <name>Hofer Himberger Strasse 68-70, 2320 Schwechat  </name>
+</wpt>
+<wpt lat="48.21316" lon="13.48598">
+  <name>Hofer Goethestrasse 1, 4910 Ried im Innkreis  </name>
+</wpt>
+<wpt lat="46.61413" lon="13.83066">
+  <name>Hofer Tiroler Strasse 51, 9500 Villach  </name>
+</wpt>
+<wpt lat="48.32764" lon="14.30845">
+  <name>Hofer Pleschinger Strasse 13, 4040 Linz-Dornach  </name>
+</wpt>
+<wpt lat="46.59904" lon="13.84655">
+  <name>Hofer Heidenfeldstrasse 35, 9500 Villach  </name>
+</wpt>
+<wpt lat="47.25652" lon="11.32493">
+  <name>Hofer Cytastrasse 1, 6176 Voels  </name>
+</wpt>
+<wpt lat="48.2234" lon="16.34148">
+  <name>Hofer Martinst.57-61/Staudg.28-30, 1180 Wien 18., Waehring  </name>
+</wpt>
+<wpt lat="47.35686" lon="13.19838">
+  <name>Hofer Bundesstrasse 23, 5600 St. Johann im Pongau  </name>
+</wpt>
+<wpt lat="47.68541" lon="13.10493">
+  <name>Hofer Europastrasse 5, 5400 Hallein  </name>
+</wpt>
+<wpt lat="48.19631" lon="15.64006">
+  <name>Hofer Stattersdorfer Hauptstr. 42, 3100 St. Poelten  </name>
+</wpt>
+<wpt lat="48.41802" lon="15.6278">
+  <name>Hofer Wiener Strasse 126-128, 3500 Krems/Donau  </name>
+</wpt>
+<wpt lat="47.0683" lon="15.40425">
+  <name>Hofer Eckertstrasse 54, 8020 Graz  </name>
+</wpt>
+<wpt lat="48.07235" lon="16.45791">
+  <name>Hofer Hofer Strasse 2, 2325 Himberg  </name>
+</wpt>
+<wpt lat="48.17302" lon="16.41467">
+  <name>Hofer Grillgasse 13, 1110 Wien 11., Simmering  </name>
+</wpt>
+<wpt lat="48.2531" lon="14.29006">
+  <name>Hofer Dauphinestrasse 202, 4030 Linz  </name>
+</wpt>
+<wpt lat="48.30197" lon="14.03135">
+  <name>Hofer Goldenberg 31, 4070 Eferding-Pupping  </name>
+</wpt>
+<wpt lat="46.61971" lon="14.27674">
+  <name>Hofer Villacher Strasse 181, 9020 Klagenfurt  </name>
+</wpt>
+<wpt lat="48.29818" lon="14.2837">
+  <name>Hofer Hopfengasse 23,25, 4020 Linz  </name>
+</wpt>
+<wpt lat="48.17986" lon="16.33721">
+  <name>Hofer Assmayergasse 38-40, 1120 Wien 12., Meidling  </name>
+</wpt>
+<wpt lat="48.01286" lon="16.25494">
+  <name>Hofer Wiener Strasse 72, 2500 Baden  </name>
+</wpt>
+<wpt lat="47.78614" lon="13.06588">
+  <name>Hofer Friedensstrasse 4, 5020 Salzburg, Zentrum Herrnau  </name>
+</wpt>
+<wpt lat="47.33884" lon="15.00882">
+  <name>Hofer Kaerntner Strasse 4, 8770 St. Michael  </name>
+</wpt>
+<wpt lat="47.05407" lon="16.08031">
+  <name>Hofer Koermenderstrasse 25, 8280 Fuerstenfeld  </name>
+</wpt>
+<wpt lat="48.22268" lon="16.3188">
+  <name>Hofer Hernalser Hauptstrasse 158, 1170 Wien 17., Hernals  </name>
+</wpt>
+<wpt lat="48.15089" lon="16.30019">
+  <name>Hofer Breitenfurterstrasse 261, 1230 Wien 23., Liesing  </name>
+</wpt>
+<wpt lat="48.85731" lon="15.11052">
+  <name>Hofer Schremser S./Kl.Pertholz 92, 3860 Heidenreichstein  </name>
+</wpt>
+<wpt lat="48.03963" lon="15.75961">
+  <name>Hofer Hauptstrasse 110, 3170 Hainfeld  </name>
+</wpt>
+<wpt lat="48.13568" lon="16.28545">
+  <name>Hofer Karl-Sarg-Gasse 2 a, 1230 Wien 23., Liesing  </name>
+</wpt>
+<wpt lat="48.1433" lon="16.93183">
+  <name>Hofer Landstrasse 118, 2410 Hainburg  </name>
+</wpt>
+<wpt lat="48.27121" lon="16.40874">
+  <name>Hofer Shuttleworthstrasse 11, 1210 Wien 21., Floridsdorf  </name>
+</wpt>
+<wpt lat="48.13757" lon="16.29872">
+  <name>Hofer Brunner Strasse 71, 1230 Wien 23., Liesing  </name>
+</wpt>
+<wpt lat="47.27897" lon="11.42011">
+  <name>Hofer Haller Strasse 93, 6020 Innsbruck  </name>
+</wpt>
+<wpt lat="47.38865" lon="11.78285">
+  <name>Hofer Austrasse 22, 6200 Jenbach  </name>
+</wpt>
+<wpt lat="48.23497" lon="14.23603">
+  <name>Hofer Wiener Bundesstrasse 117, 4050 Traun  </name>
+</wpt>
+<wpt lat="48.31437" lon="14.28425">
+  <name>Hofer Bluetenstr.13-23, 4040 Linz  </name>
+</wpt>
+<wpt lat="48.25804" lon="14.25547">
+  <name>Hofer Kornstrasse 12, 4060 Leonding  </name>
+</wpt>
+<wpt lat="47.67269" lon="15.95472">
+  <name>Hofer Wiener Strasse 102, 2640 Gloggnitz  </name>
+</wpt>
+<wpt lat="48.11732" lon="14.91028">
+  <name>Hofer Franz-Kollmann-Strasse 6, 3300 Amstetten  </name>
+</wpt>
+<wpt lat="47.14145" lon="10.56354">
+  <name>Hofer Innstrasse 40, 6500 Landeck  </name>
+</wpt>
+<wpt lat="47.93435" lon="16.21673">
+  <name>Hofer Hirtenberger Strasse 4f, 2544 Leobersdorf  </name>
+</wpt>
+<wpt lat="46.63716" lon="14.29876">
+  <name>Hofer Turmgasse 26, 9010 Klagenfurt  </name>
+</wpt>
+<wpt lat="47.183" lon="11.39794">
+  <name>Hofer Dorfstrasse 26, 6141 Schoenberg im Stubaital  </name>
+</wpt>
+<wpt lat="47.05537" lon="15.4413">
+  <name>Hofer Schoenaugasse 121, 8010 Graz  </name>
+</wpt>
+<wpt lat="47.17472" lon="15.32311">
+  <name>Hofer Stuebinger Strasse 2, 8120 Peggau  </name>
+</wpt>
+<wpt lat="47.23102" lon="10.85617">
+  <name>Hofer &#214;tztaler Hoehe 9, 6430 &#214;tztal Bahnhof  </name>
+</wpt>
+<wpt lat="47.80822" lon="13.01488">
+  <name>Hofer Julius-Welser-Strasse 28, 5020 Salzburg  </name>
+</wpt>
+<wpt lat="47.07595" lon="15.43284">
+  <name>Hofer Lendkai 59, 8020 Graz  </name>
+</wpt>
+<wpt lat="48.22024" lon="16.44616">
+  <name>Hofer Gotramgasse 7, 1220 Wien 22., Donaustadt  </name>
+</wpt>
+<wpt lat="48.20032" lon="15.89979">
+  <name>Hofer Tullner Str./Ebersberg 263, 3040 Neulengbach  </name>
+</wpt>
+<wpt lat="47.58652" lon="15.65863">
+  <name>Hofer Grazer Strasse 62 f, 8680 Muerzzuschlag  </name>
+</wpt>
+<wpt lat="46.84716" lon="14.84515">
+  <name>Hofer Grazer Strasse 22, 9400 Wolfsberg  </name>
+</wpt>
+<wpt lat="47.48332" lon="9.72129">
+  <name>Hofer Harder Strasse 52, 6923 Lauterach  </name>
+</wpt>
+<wpt lat="47.98202" lon="13.69874">
+  <name>Hofer Schoerflinger-Strasse 20, 4844 Regau  </name>
+</wpt>
+<wpt lat="48.40461" lon="15.59007">
+  <name>Hofer Steiner Donaulaende 3, 3500 Krems/Donau  </name>
+</wpt>
+<wpt lat="48.21806" lon="16.30964">
+  <name>Hofer Odoakergasse 38, 1160 Wien 16., Ottakring  </name>
+</wpt>
+<wpt lat="48.20276" lon="16.30249">
+  <name>Hofer Maroltingergasse 1, 1140 Wien 14., Penzing  </name>
+</wpt>
+<wpt lat="47.14085" lon="10.54816">
+  <name>Hofer Flirstrasse 25, 6500 Landeck  </name>
+</wpt>
+<wpt lat="47.49491" lon="16.50899">
+  <name>Hofer Burgenlandstrasse 1, 7350 Oberpullendorf  </name>
+</wpt>
+<wpt lat="47.17095" lon="14.64199">
+  <name>Hofer Hugo-Wolf-Gasse 4, 8750 Judenburg  </name>
+</wpt>
+<wpt lat="48.15098" lon="16.29003">
+  <name>Hofer Gatterederstrasse 11-15, 1230 Wien 23., Liesing  </name>
+</wpt>
+<wpt lat="47.73133" lon="16.4126">
+  <name>Hofer Fachmarktzentrum 2, 7210 Mattersburg  </name>
+</wpt>
+<wpt lat="47.07398" lon="15.4178">
+  <name>Hofer Europaplatz 12, 8020 Graz  </name>
+</wpt>
+<wpt lat="48.30186" lon="16.4249">
+  <name>Hofer Bruenner Str./Eberescheng. 3, 1210 Wien 21., Floridsdorf  </name>
+</wpt>
+<wpt lat="47.57193" lon="12.1561">
+  <name>Hofer Salurner Strasse 60, 6330 Kufstein  </name>
+</wpt>
+<wpt lat="48.13898" lon="15.13775">
+  <name>Hofer Betriebsgebiet Holzing 1, 3254 Bergland  </name>
+</wpt>
+<wpt lat="48.08686" lon="16.294">
+  <name>Hofer Hauptstrasse 2, 2340 Moedling  </name>
+</wpt>
+<wpt lat="46.7874" lon="13.51838">
+  <name>Hofer Lastenstrasse 1, 9800 Spittal an der Drau  </name>
+</wpt>
+<wpt lat="48.10512" lon="16.30942">
+  <name>Hofer Johann Steinboeck-Str. 18, 2345 Brunn am Gebirge  </name>
+</wpt>
+<wpt lat="48.20626" lon="16.32162">
+  <name>Hofer Klausgasse 4 - 8, 1160 Wien 16., Ottakring  </name>
+</wpt>
+<wpt lat="46.60434" lon="13.86604">
+  <name>Hofer Maria-Gailer-Strasse 30, 9500 Villach  </name>
+</wpt>
+<wpt lat="48.47669" lon="15.97985">
+  <name>Hofer DDr. Maier Strasse 1, 3701 Grossweikersdorf  </name>
+</wpt>
+<wpt lat="47.05699" lon="15.42798">
+  <name>Hofer Karlauerguertel 4, 8020 Graz  </name>
+</wpt>
+<wpt lat="47.73814" lon="13.0509">
+  <name>Hofer Alpenstrasse 102, 5081 Anif  </name>
+</wpt>
+<wpt lat="48.02133" lon="16.29765">
+  <name>Hofer Wiener Strasse 75, 2514 Traiskirchen  </name>
+</wpt>
+<wpt lat="48.22663" lon="14.39383">
+  <name>Hofer Im Astenfeld 2, 4490 St.Florian  </name>
+</wpt>
+<wpt lat="48.06444" lon="15.13482">
+  <name>Hofer Erlauftalstrasse 49, 3251 Purgstall  </name>
+</wpt>
+<wpt lat="48.25922" lon="16.41099">
+  <name>Hofer Leopoldauer Str. 45, 1210 Wien 21., Floridsdorf  </name>
+</wpt>
+<wpt lat="47.83818" lon="13.05712">
+  <name>Hofer Moosfeldstrasse 2b, 5101 Bergheim  </name>
+</wpt>
+<wpt lat="48.1856" lon="16.41431">
+  <name>Hofer Doeblerhofstrasse 8, 1030 Wien 3., Landstrasse  </name>
+</wpt>
+<wpt lat="48.26618" lon="16.4518">
+  <name>Hofer Julius Ficker Str. 89, 1210 Wien 21., Floridsdorf  </name>
+</wpt>
+<wpt lat="47.07741" lon="15.49169">
+  <name>Hofer Ragnitzstrasse 154, 8047 Graz  </name>
+</wpt>
+<wpt lat="48.81202" lon="15.26934">
+  <name>Hofer Brunner Strasse 20, 3830 Waidhofen/Thaya  </name>
+</wpt>
+<wpt lat="48.33522" lon="16.71386">
+  <name>Hofer Bodenzeile 2, 2230 Gaenserndorf  </name>
+</wpt>
+<wpt lat="47.07215" lon="10.66399">
+  <name>Hofer Moosweg 22, 6522 Prutz  </name>
+</wpt>
+<wpt lat="48.18426" lon="14.0261">
+  <name>Hofer Dalistrasse 2, 4600 Wels-Nord  </name>
+</wpt>
+<wpt lat="47.40652" lon="15.27909">
+  <name>Hofer Leobner Strasse 44b, 8600 Bruck an der Mur  </name>
+</wpt>
+<wpt lat="47.26695" lon="11.39678">
+  <name>Hofer Museumstrasse 14, 6020 Innsbruck  </name>
+</wpt>
+<wpt lat="48.30862" lon="16.26861">
+  <name>Hofer Hauptstrasse 189, 3400 Kierling  </name>
+</wpt>
+<wpt lat="48.3585" lon="14.47867">
+  <name>Hofer Betriebsstrasse 14, 4210 Unterweitersdorf  </name>
+</wpt>
+<wpt lat="47.232" lon="10.74437">
+  <name>Hofer Langgasse 30, 6460 Imst  </name>
+</wpt>
+<wpt lat="48.21634" lon="14.45809">
+  <name>Hofer Dr.Karl-Renner-Strasse 60, 4470 Enns  </name>
+</wpt>
+<wpt lat="46.82702" lon="14.83916">
+  <name>Hofer Klagenfurter Strasse 18, 9400 Wolfsberg  </name>
+</wpt>
+<wpt lat="48.76575" lon="14.98052">
+  <name>Hofer Emerich-Berger-Strasse 7, 3950 Gmuend  </name>
+</wpt>
+<wpt lat="48.24432" lon="13.04918">
+  <name>Hofer Hofer Strasse 1, 5280 Braunau  </name>
+</wpt>
+<wpt lat="47.04905" lon="15.45321">
+  <name>Hofer Conrad-v-Hoetzendorfstr. 161, 8010 Graz  </name>
+</wpt>
+<wpt lat="48.30845" lon="14.31126">
+  <name>Hofer Derfflingerstrasse 21, 4020 Linz  </name>
+</wpt>
+<wpt lat="46.66247" lon="14.62069">
+  <name>Hofer Rupertiweg 1, 9100 Voelkermarkt  </name>
+</wpt>
+<wpt lat="47.41076" lon="13.21668">
+  <name>Hofer Gasteiner Strasse 46, 5500 Bischofshofen  </name>
+</wpt>
+<wpt lat="48.22892" lon="16.3289">
+  <name>Hofer Gersthofer Str. 2 d, 1180 Wien 18., Waehring  </name>
+</wpt>
+<wpt lat="47.28531" lon="15.99204">
+  <name>Hofer Ferdinand-Leihs-Strasse 53, 8230 Hartberg  </name>
+</wpt>
+<wpt lat="48.24971" lon="14.27176">
+  <name>Hofer Salzburger Strasse 337, 4030 Linz  </name>
+</wpt>
+<wpt lat="46.69024" lon="15.98275">
+  <name>Hofer Halbenrainerstrasse 9, 8490 Bad Radkersburg  </name>
+</wpt>
+<wpt lat="48.22488" lon="15.33622">
+  <name>Hofer Loewenpark 1, 3390 Melk  </name>
+</wpt>
+<wpt lat="47.22237" lon="10.74512">
+  <name>Hofer Brennbichl 56, 6460 Imst  </name>
+</wpt>
+<wpt lat="48.16669" lon="16.36991">
+  <name>Hofer Laxenburgerstr. 137-139, 1100 Wien 10., Favoriten  </name>
+</wpt>
+<wpt lat="47.9978" lon="13.62026">
+  <name>Hofer Atterseestr. 95, 4850 Timelkam  </name>
+</wpt>
+<wpt lat="47.21033" lon="14.81387">
+  <name>Hofer Kaerntner Strasse 69, 8720 Knittelfeld  </name>
+</wpt>
+<wpt lat="46.80526" lon="13.48474">
+  <name>Hofer Oberdorfer Strasse 4-6, 9800 Spittal an der Drau  </name>
+</wpt>
+<wpt lat="47.9342" lon="13.78836">
+  <name>Hofer Aubauerstrasse 39, 4810 Gmunden  </name>
+</wpt>
+<wpt lat="48.51699" lon="14.50508">
+  <name>Hofer Fosenstrasse 2, 4240 Freistadt  </name>
+</wpt>
+<wpt lat="47.13296" lon="15.32231">
+  <name>Hofer Murfeldstrasse 2, 8112 Gratwein-Strassengel  </name>
+</wpt>
+<wpt lat="47.4181" lon="9.66572">
+  <name>Hofer Forststrasse 1, 6890 Lustenau  </name>
+</wpt>
+<wpt lat="47.43416" lon="12.20598">
+  <name>Hofer Muehltal 51, 6363 Westendorf  </name>
+</wpt>
+<wpt lat="46.93829" lon="15.90651">
+  <name>Hofer Industriepark 5, 8330 Feldbach  </name>
+</wpt>
+<wpt lat="48.24459" lon="16.34207">
+  <name>Hofer Obkirchergasse 35, 1190 Wien 19., Doebling  </name>
+</wpt>
+<wpt lat="47.56137" lon="14.24794">
+  <name>Hofer Gesaeusestrasse 3a, 8940 Liezen  </name>
+</wpt>
+<wpt lat="48.22538" lon="13.84922">
+  <name>Hofer Handelspark 1, 4707 Schluesslberg  </name>
+</wpt>
+<wpt lat="47.4457" lon="9.66543">
+  <name>Hofer Zellgasse 13, 6890 Lustenau  </name>
+</wpt>
+<wpt lat="46.719" lon="14.08079">
+  <name>Hofer Villacher Strasse 22, 9560 Feldkirchen  </name>
+</wpt>
+<wpt lat="48.17351" lon="15.618">
+  <name>Hofer Porschestr.35/Harlanderstr., 3100 St. Poelten  </name>
+</wpt>
+<wpt lat="46.725" lon="14.10486">
+  <name>Hofer St. Ruprechter Strasse 31, 9560 Feldkirchen-St. Ruprecht  </name>
+</wpt>
+<wpt lat="48.17864" lon="16.37059">
+  <name>Hofer Gudrunstrasse 144, 1100 Wien 10., Favoriten  </name>
+</wpt>
+<wpt lat="47.06347" lon="15.46548">
+  <name>Hofer Plueddemanngasse 66, 8010 Graz  </name>
+</wpt>
+<wpt lat="47.48973" lon="12.07328">
+  <name>Hofer Salzburger Strasse 53, 6300 Woergl  </name>
+</wpt>
+<wpt lat="48.22117" lon="13.49638">
+  <name>Hofer Hannesgrub Nord 1, 4911 Tumeltsham bei Ried  </name>
+</wpt>
+<wpt lat="47.31535" lon="11.08636">
+  <name>Hofer Saglstrasse 69, 6410 Telfs  </name>
+</wpt>
+<wpt lat="48.30396" lon="16.57692">
+  <name>Hofer Dr. Leopold Figl-Gasse 4, 2232 Deutsch Wagram  </name>
+</wpt>
+<wpt lat="47.29767" lon="11.58746">
+  <name>Hofer Ritter-Waldauf-Strasse 1, 6112 Wattens  </name>
+</wpt>
+<wpt lat="46.70673" lon="15.75953">
+  <name>Hofer Grazer Strasse 72, 8480 Mureck  </name>
+</wpt>
+<wpt lat="48.24676" lon="16.38019">
+  <name>Hofer Aignerstr.-Wehlistr.27, 1200 Wien 20, Brigittenau  </name>
+</wpt>
+<wpt lat="48.01615" lon="16.58154">
+  <name>Hofer Am Eisteich 1, 2434 Goetzendorf  </name>
+</wpt>
+<wpt lat="48.16661" lon="16.43145">
+  <name>Hofer Florian Hedorfer-Strasse 19, 1110 Wien 11., Simmering  </name>
+</wpt>
+<wpt lat="47.05165" lon="15.74502">
+  <name>Hofer St. Margarethen 331, 8321 St. Margarethen an der Raab  </name>
+</wpt>
+<wpt lat="48.272" lon="16.38993">
+  <name>Hofer Prager Strasse 115, 1210 Wien 21., Floridsdorf  </name>
+</wpt>
+<wpt lat="46.65194" lon="13.8744">
+  <name>Hofer Gewerbegebiet, 9521 Treffen  </name>
+</wpt>
+<wpt lat="48.21458" lon="14.2766">
+  <name>Hofer Auweg 2, 4052 Ansfelden  </name>
+</wpt>
+<wpt lat="47.25928" lon="11.37534">
+  <name>Hofer Mitterweg 18, 6020 Innsbruck  </name>
+</wpt>
+<wpt lat="47.26934" lon="11.42712">
+  <name>Hofer Langer Weg 26, 6020 Innsbruck  </name>
+</wpt>
+<wpt lat="48.06014" lon="14.45282">
+  <name>Hofer Haager Strasse 58, 4400 Steyr  </name>
+</wpt>
+<wpt lat="47.26594" lon="16.2326">
+  <name>Hofer Unterwart 386, 7501 Unterwart  </name>
+</wpt>
+<wpt lat="48.18063" lon="16.37568">
+  <name>Hofer Favoritenstrasse 81, 1100 Wien 10., Favoriten  </name>
+</wpt>
+<wpt lat="47.97484" lon="16.28013">
+  <name>Hofer Haidhofstr. 147, 2500 Baden  </name>
+</wpt>
+<wpt lat="48.24146" lon="16.37258">
+  <name>Hofer Adalbert Stifter Str. 40, 1200 Wien 20., Brigittenau  </name>
+</wpt>
+<wpt lat="48.2504" lon="14.32312">
+  <name>Hofer Wiener Strasse 435a, 4030 Linz  </name>
+</wpt>
+<wpt lat="48.22073" lon="15.62745">
+  <name>Hofer Kremser Landstrasse 87, 3100 St. Poelten  </name>
+</wpt>
+<wpt lat="47.84594" lon="13.33779">
+  <name>Hofer Mondseestrasse 55, 5310 Mondsee  </name>
+</wpt>
+<wpt lat="47.1101" lon="15.42327">
+  <name>Hofer Stattegger Strasse 22, 8045 Graz-Andritz  </name>
+</wpt>
+<wpt lat="47.52577" lon="14.34163">
+  <name>Hofer Technologiepark 11, 8786 Rottenmann  </name>
+</wpt>
+<wpt lat="48.278" lon="14.31175">
+  <name>Hofer Wiener Strasse 179, 4020 Linz  </name>
+</wpt>
+<wpt lat="47.37184" lon="15.08929">
+  <name>Hofer Zirkusstrasse 15, 8700 Leoben  </name>
+</wpt>
+<wpt lat="46.58571" lon="14.64898">
+  <name>Hofer Bleiburger Strasse 64, 9141 Eberndorf  </name>
+</wpt>
+<wpt lat="48.79347" lon="15.06774">
+  <name>Hofer Schulgasse 15, 3943 Schrems  </name>
+</wpt>
+<wpt lat="47.87461" lon="16.375">
+  <name>Hofer Hauptstrasse 55, 2490 Ebenfurth  </name>
+</wpt>
+<wpt lat="47.3915" lon="13.66045">
+  <name>Hofer Salzburger Siedlung 259, 8970 Schladming  </name>
+</wpt>
+<wpt lat="47.17877" lon="13.10361">
+  <name>Hofer Salzburger Strasse 69, 5630 Bad Hofgastein  </name>
+</wpt>
+<wpt lat="48.2066" lon="13.46448">
+  <name>Hofer Aubachweg 2, 4910 Ried im Innkreis  </name>
+</wpt>
+<wpt lat="48.56757" lon="13.98045">
+  <name>Hofer Wirtschaftszeile 2, 4150 Rohrbach  </name>
+</wpt>
+<wpt lat="47.43664" lon="11.88409">
+  <name>Hofer Niederfeldweg 9 f, 6230 Brixlegg  </name>
+</wpt>
+<wpt lat="47.49692" lon="9.72929">
+  <name>Hofer Heldendankstrasse 29, 6900 Bregenz  </name>
+</wpt>
+<wpt lat="46.82061" lon="15.23119">
+  <name>Hofer Frauentalerstrasse 91, 8530 Deutschlandsberg  </name>
+</wpt>
+<wpt lat="48.24719" lon="16.36756">
+  <name>Hofer Muthgasse 20A, 1190 Wien 19., Doebling  </name>
+</wpt>
+<wpt lat="48.21831" lon="16.33559">
+  <name>Hofer Bergsteiggasse 36 - 38, 1170 Wien 17., Hernals  </name>
+</wpt>
+<wpt lat="48.23081" lon="16.35412">
+  <name>Hofer Nussdorfer Str. 73, 1090 Wien 09., Alsergrund  </name>
+</wpt>
+<wpt lat="46.64564" lon="14.31451">
+  <name>Hofer St. Veiter Strasse 141, 9020 Klagenfurt  </name>
+</wpt>
+<wpt lat="47.52981" lon="14.10461">
+  <name>Hofer Bahnhofstrasse 443, 8950 Stainach-Puergg  </name>
+</wpt>
+<wpt lat="48.10615" lon="14.83336">
+  <name>Hofer Leinerstrasse 4a, 3300 Amstetten  </name>
+</wpt>
+<wpt lat="47.82898" lon="16.52391">
+  <name>Hofer Mattersburger Strasse 35, 7000 Eisenstadt  </name>
+</wpt>
+<wpt lat="47.3948" lon="9.73111">
+  <name>Hofer Wallenmahd 5, 6850 Dornbirn  </name>
+</wpt>
+<wpt lat="48.1236" lon="16.29306">
+  <name>Hofer Muehlgasse 98, 2380 Perchtoldsdorf  </name>
+</wpt>
+<wpt lat="48.5801" lon="16.56492">
+  <name>Hofer Oberhoferstrasse 150, 2130 Mistelbach  </name>
+</wpt>
+<wpt lat="48.17716" lon="16.3303">
+  <name>Hofer Meidlinger Hauptstr.51-53, 1120 Wien 12., Meidling  </name>
+</wpt>
+<wpt lat="48.3453" lon="14.16063">
+  <name>Hofer Kaufpark 1, 4111 Walding  </name>
+</wpt>
+<wpt lat="48.19107" lon="16.40099">
+  <name>Hofer Landstrasser Hauptstrasse 167, 1030 Wien 3., Landstrasse  </name>
+</wpt>
+<wpt lat="47.59204" lon="12.17184">
+  <name>Hofer Willy-Graf-Strasse 6, 6330 Kufstein  </name>
+</wpt>
+<wpt lat="47.15254" lon="9.81472">
+  <name>Hofer Herrenau 2, 6706 Buers  </name>
+</wpt>
+<wpt lat="46.61432" lon="13.85897">
+  <name>Hofer Ossiacher Zeile 56b, 9500 Villach  </name>
+</wpt>
+<wpt lat="46.65008" lon="14.28409">
+  <name>Hofer Feldkirchner Strasse 221, 9020 Klagenfurt  </name>
+</wpt>
+<wpt lat="47.3503" lon="11.70025">
+  <name>Hofer Industriestrasse 4, 6134 Vomp  </name>
+</wpt>
+<wpt lat="47.32595" lon="9.62954">
+  <name>Hofer Bundesstrasse 6, 6842 Koblach  </name>
+</wpt>
+<wpt lat="48.0083" lon="13.65197">
+  <name>Hofer Muehlbachgasse 4, 4840 Voecklabruck  </name>
+</wpt>
+<wpt lat="48.37658" lon="16.50715">
+  <name>Hofer Winzerstr. 1, 2120 Wolkersdorf  </name>
+</wpt>
+<wpt lat="48.23681" lon="14.62641">
+  <name>Hofer Gewerbestrasse 10, 4320 Perg  </name>
+</wpt>
+<wpt lat="48.14768" lon="16.94834">
+  <name>Hofer Pressburger Reichsstr.5a-11, 2410 Hainburg  </name>
+</wpt>
+<wpt lat="48.28421" lon="14.3029">
+  <name>Hofer Wankmuellerhofstrasse 5, 4020 Linz  </name>
+</wpt>
+<wpt lat="48.03596" lon="14.31447">
+  <name>Hofer Gewerbestrasse 11, 4522 Sierning  </name>
+</wpt>
+<wpt lat="47.86649" lon="13.32753">
+  <name>Hofer Moosstrasse 11, 5310 Mondsee-Tiefgraben  </name>
+</wpt>
+<wpt lat="48.25516" lon="16.39527">
+  <name>Hofer Floridsd. Hauptstr. 25 - 27, 1210 Wien 21., Floridsdorf  </name>
+</wpt>
+<wpt lat="48.08586" lon="16.35703">
+  <name>Hofer S. Marcus-Strasse 13 - 15, 2362 Biedermannsdorf  </name>
+</wpt>
+<wpt lat="48.75599" lon="15.95627">
+  <name>Hofer Karl Koenig-Platz 2, 2070 Retz  </name>
+</wpt>
+<wpt lat="46.52826" lon="14.29193">
+  <name>Hofer Klagenfurter Strasse 38, 9170 Ferlach  </name>
+</wpt>
+<wpt lat="47.9745" lon="13.82052">
+  <name>Hofer Gmundner Strasse 39a, 4663 Laakirchen  </name>
+</wpt>
+<wpt lat="48.33509" lon="13.77062">
+  <name>Hofer Grieskirchner Strasse 8, 4722 Peuerbach  </name>
+</wpt>
+<wpt lat="48.31953" lon="16.08247">
+  <name>Hofer Koenigstetter Strasse 148, 3430 Tulln  </name>
+</wpt>
+<wpt lat="46.8901" lon="15.25958">
+  <name>Hofer Kaerntner Strasse 22, 8510 Stainz  </name>
+</wpt>
+<wpt lat="48.19083" lon="14.5205">
+  <name>Hofer Rasthausstr./Kaufpark 1, 4300 St. Valentin  </name>
+</wpt>
+<wpt lat="48.3602" lon="16.31042">
+  <name>Hofer Bundesstr.1/Hammerschmied S, 2100 Leobendorf  </name>
+</wpt>
+<wpt lat="46.82743" lon="12.81513">
+  <name>Hofer Hermann-Gmeiner-Strasse 14, 9990 Nussdorf-Debant  </name>
+</wpt>
+<wpt lat="48.32364" lon="16.05873">
+  <name>Hofer Staasdorfer Str. 16, 3430 Tulln  </name>
+</wpt>
+<wpt lat="48.11996" lon="16.31511">
+  <name>Hofer Fachmarktstrasse 6, 2334 Voesendorf  </name>
+</wpt>
+<wpt lat="48.14085" lon="16.38937">
+  <name>Hofer Oberlaaer Strasse 162, 1100 Wien,10., Favoriten  </name>
+</wpt>
+<wpt lat="48.56412" lon="16.07373">
+  <name>Hofer Gschmeidlerstr. 16, 2020 Hollabrunn  </name>
+</wpt>
+<wpt lat="47.1956" lon="14.74292">
+  <name>Hofer Bundesstrasse 28, 8740 Zeltweg  </name>
+</wpt>
+<wpt lat="47.50316" lon="15.43899">
+  <name>Hofer Grazer Strasse 1c, 8650 Kindberg  </name>
+</wpt>
+<wpt lat="47.26719" lon="9.61407">
+  <name>Hofer Churwaldenstrasse 6, 6800 Feldkirch  </name>
+</wpt>
+<wpt lat="47.38426" lon="16.1185">
+  <name>Hofer Wiener Strasse 90, 7423 Pinkafeld  </name>
+</wpt>
+<wpt lat="46.74573" lon="12.4072">
+  <name>Hofer Nr. 2h, 9920 Sillian  </name>
+</wpt>
+<wpt lat="46.62457" lon="13.37328">
+  <name>Hofer Egger Strasse 12, 9620 Hermagor  </name>
+</wpt>
+<wpt lat="48.24441" lon="14.33165">
+  <name>Hofer Wiener Strasse 523, 4030 Linz  </name>
+</wpt>
+</gpx>
