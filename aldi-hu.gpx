@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="Locus Android"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
+ xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
+ xmlns:locus="http://www.locusmap.eu">
+<wpt lat="47.46361" lon="18.89514">
+  <name>aldi ALDI Kand Klmn utca 2., 2040 Budars </name>
+</wpt>
+<wpt lat="47.5146" lon="21.60058">
+  <name>aldi ALDI Vincellr utca 5., 4032 Debrecen </name>
+</wpt>
+<wpt lat="47.39831" lon="19.24816">
+  <name>aldi ALDI Wass Albert utca 2., 2220 Vecss </name>
+</wpt>
+<wpt lat="46.41058" lon="20.32395">
+  <name>aldi ALDI Kaszap utca 31., 6800 Hdmezővsrhely </name>
+</wpt>
+<wpt lat="47.53473" lon="19.07172">
+  <name>aldi ALDI Petnehzy utca 12., 1139 Budapest </name>
+</wpt>
+<wpt lat="47.11788" lon="17.54627">
+  <name>aldi ALDI Fő t 31., 8400 Ajka </name>
+</wpt>
+<wpt lat="47.41112" lon="19.02527">
+  <name>aldi ALDI Hros utca 11., 1222 Budapest </name>
+</wpt>
+<wpt lat="47.49576" lon="21.63222">
+  <name>aldi ALDI Ozmn utca 1., 4030 Debrecen </name>
+</wpt>
+<wpt lat="47.95301" lon="21.74331">
+  <name>aldi ALDI Trzs utca 2., 4400 Nyregyhza </name>
+</wpt>
+<wpt lat="47.37573" lon="19.00308">
+  <name>aldi ALDI Korbuly utca 1., 2314 Halsztelek </name>
+</wpt>
+<wpt lat="47.67685" lon="17.61512">
+  <name>aldi ALDI Csipkegyri t 11., 9025 Győr </name>
+</wpt>
+<wpt lat="47.57994" lon="19.04991">
+  <name>aldi ALDI Rkczi t 38., 1039 Budapest </name>
+</wpt>
+<wpt lat="47.50336" lon="19.15092">
+  <name>aldi ALDI Kerepesi t 73., 1106 Budapest </name>
+</wpt>
+<wpt lat="47.42384" lon="19.06782">
+  <name>aldi ALDI II. Rkczi F. t 154-170., 1211 Budapest </name>
+</wpt>
+<wpt lat="48.05444" lon="20.80006">
+  <name>aldi ALDI Pesti t (47386/6), 3516 Miskolc </name>
+</wpt>
+<wpt lat="47.61426" lon="19.06158">
+  <name>aldi ALDI Omszk park 4., 2011 Budakalsz </name>
+</wpt>
+<wpt lat="47.68209" lon="17.6561">
+  <name>aldi ALDI Fehrvri t 5/A, 9000 Győr </name>
+</wpt>
+<wpt lat="47.48529" lon="19.22585">
+  <name>aldi ALDI Pesti t 2., 1173 Budapest </name>
+</wpt>
+<wpt lat="47.1567" lon="20.19815">
+  <name>aldi ALDI Felső-Szandai rt 9., 5000 Szolnok </name>
+</wpt>
+<wpt lat="46.41824" lon="19.49578">
+  <name>aldi ALDI Fűzr utca 1., 6400 Kiskunhalas </name>
+</wpt>
+<wpt lat="47.51314" lon="19.05725">
+  <name>aldi ALDI Vci t 14., 1132 Budapest </name>
+</wpt>
+<wpt lat="47.21313" lon="18.41739">
+  <name>aldi ALDI Szt. Flrin Krt. 11., 8000 Szkesfehrvr </name>
+</wpt>
+<wpt lat="46.52121" lon="18.97852">
+  <name>aldi ALDI Btyai t 5/A, 6300 Kalocsa </name>
+</wpt>
+<wpt lat="47.47135" lon="19.28366">
+  <name>aldi ALDI Pesti t 237/p, 1171 Budapest </name>
+</wpt>
+<wpt lat="47.4669" lon="19.00463">
+  <name>aldi ALDI Rtkz u. 10/b., 1118 Budapest </name>
+</wpt>
+<wpt lat="46.19447" lon="18.95183">
+  <name>aldi ALDI Dzsa Gyrgy t 87., 6500 Baja </name>
+</wpt>
+<wpt lat="46.8803" lon="17.4534">
+  <name>aldi ALDI Veszprmi t 3., 8300 Tapolca </name>
+</wpt>
+<wpt lat="47.43225" lon="19.17373">
+  <name>aldi ALDI Cziffra Gyrgy utca 7., 1186 Budapest </name>
+</wpt>
+<wpt lat="46.89161" lon="18.05812">
+  <name>aldi ALDI Attila utca 74., 8600 Sifok </name>
+</wpt>
+<wpt lat="45.99671" lon="18.66972">
+  <name>aldi ALDI Pcsi t 53., 7700 Mohcs </name>
+</wpt>
+<wpt lat="46.8427" lon="16.86908">
+  <name>aldi ALDI Balatoni t 13., 8900 Zalaegerszeg </name>
+</wpt>
+<wpt lat="47.67081" lon="16.61698">
+  <name>aldi ALDI Győri t 45., 9400 Sopron </name>
+</wpt>
+<wpt lat="48.10008" lon="20.74727">
+  <name>aldi ALDI Kiss Ernő utca 13/A, 3531 Miskolc </name>
+</wpt>
+<wpt lat="46.9622" lon="17.897">
+  <name>aldi ALDI Petőfi Sndor utca 80., 8230 Balatonfred </name>
+</wpt>
+<wpt lat="47.43812" lon="19.04038">
+  <name>aldi ALDI Hunyadi J. t 19., 1116 Budapest </name>
+</wpt>
+<wpt lat="46.9564" lon="18.9492">
+  <name>aldi ALDI Eszperant t 4., 2400 Dunajvros </name>
+</wpt>
+<wpt lat="47.3521" lon="19.44431">
+  <name>aldi ALDI Ady Endre u. 3., 2200 Monor </name>
+</wpt>
+<wpt lat="47.48873" lon="19.88738">
+  <name>aldi ALDI Nagyktai utca 22/C, 5100 Jszberny </name>
+</wpt>
+<wpt lat="47.46154" lon="19.04388">
+  <name>aldi ALDI Sopron t 60., 1116 Budapest </name>
+</wpt>
+<wpt lat="47.48416" lon="19.07166">
+  <name>aldi ALDI Tűzolt utca 10-16., 1094 Budapest </name>
+</wpt>
+<wpt lat="46.68069" lon="21.11625">
+  <name>aldi ALDI Gyulai t 51/2., 5600 Bkscsaba </name>
+</wpt>
+<wpt lat="47.17774" lon="19.77475">
+  <name>aldi ALDI Pesti t 93., 2700 Cegld </name>
+</wpt>
+<wpt lat="47.49882" lon="19.07669">
+  <name>aldi ALDI Rkczi t 65., 1081 Budapest </name>
+</wpt>
+<wpt lat="47.52366" lon="18.99382">
+  <name>aldi ALDI Pasarti t 98., 1026 Budapest </name>
+</wpt>
+<wpt lat="46.77494" lon="17.27757">
+  <name>aldi ALDI Tndrlak t 2., 8360 Keszthely </name>
+</wpt>
+<wpt lat="46.07971" lon="18.25561">
+  <name>aldi ALDI Zsolnay Vilmos utca 48., 7630 Pcs </name>
+</wpt>
+<wpt lat="47.38623" lon="19.10965">
+  <name>aldi ALDI Haraszti t 32/b, 1239 Budapest </name>
+</wpt>
+<wpt lat="47.94452" lon="21.73689">
+  <name>aldi ALDI Klli t 16/C, 4400 Nyregyhza </name>
+</wpt>
+<wpt lat="46.29634" lon="18.53912">
+  <name>aldi ALDI Dek Ferenc utca 10/B, 7150 Bonyhd </name>
+</wpt>
+<wpt lat="47.5343" lon="19.14225">
+  <name>aldi ALDI Ksmrk utca 10., 1158 Budapest </name>
+</wpt>
+<wpt lat="47.08199" lon="17.92457">
+  <name>aldi ALDI Dornyai Bla utca 5., 8200 Veszprm </name>
+</wpt>
+<wpt lat="47.56197" lon="19.12286">
+  <name>aldi ALDI Rgi Fti t 64., 1152 Budapest </name>
+</wpt>
+<wpt lat="47.55488" lon="19.04082">
+  <name>aldi ALDI Huszti t 33., 1033 Budapest </name>
+</wpt>
+<wpt lat="47.97067" lon="21.74113">
+  <name>aldi ALDI Pazonyi t 40., 4400 Nyregyhza </name>
+</wpt>
+<wpt lat="46.46271" lon="17.00772">
+  <name>aldi ALDI Dzsa Gyrgy utca 146., 8800 Nagykanizsa </name>
+</wpt>
+<wpt lat="47.43665" lon="21.37807">
+  <name>aldi ALDI Kabai tfl 0348/5, 4200 Hajdszoboszl </name>
+</wpt>
+<wpt lat="47.55249" lon="19.26895">
+  <name>aldi ALDI Szabadsg tja 1/e, 2144 Kerepes </name>
+</wpt>
+<wpt lat="47.50095" lon="18.91858">
+  <name>aldi ALDI Szőlőskert utca 2., 2092 Budakeszi </name>
+</wpt>
+<wpt lat="46.05132" lon="18.23082">
+  <name>aldi ALDI rnyas utca 25., 7632 Pcs </name>
+</wpt>
+<wpt lat="47.43726" lon="19.1471">
+  <name>aldi ALDI Hofherr Albert utca 40/a., 1194 Budapest </name>
+</wpt>
+<wpt lat="47.54234" lon="19.08898">
+  <name>aldi ALDI Rokolya utca 1-13., 1131 Budapest </name>
+</wpt>
+<wpt lat="47.7744" lon="18.75543">
+  <name>aldi ALDI Dobogkői utca 86., 2500 Esztergom </name>
+</wpt>
+<wpt lat="47.58033" lon="19.15825">
+  <name>aldi ALDI Fehrkő utca 5., 2151 Ft </name>
+</wpt>
+<wpt lat="47.1955" lon="19.32109">
+  <name>aldi ALDI Domb t 1., 2370 Dabas </name>
+</wpt>
+<wpt lat="47.76375" lon="19.14247">
+  <name>aldi ALDI Gdllői t 2., 2600 Vc </name>
+</wpt>
+<wpt lat="47.04002" lon="18.01879">
+  <name>aldi ALDI Szabolcs utca 2., 8220 Balatonalmdi </name>
+</wpt>
+<wpt lat="46.90965" lon="19.69754">
+  <name>aldi ALDI Rkczi t 13/A., 6000 Kecskemt </name>
+</wpt>
+<wpt lat="47.62772" lon="18.85223">
+  <name>aldi ALDI Fő t 2., 2081 Piliscsaba </name>
+</wpt>
+<wpt lat="46.78284" lon="17.68052">
+  <name>aldi ALDI Rkczi t 295., 8638 Balatonlelle </name>
+</wpt>
+<wpt lat="47.45283" lon="19.15581">
+  <name>aldi ALDI llői t 280., 1195 Budapest </name>
+</wpt>
+<wpt lat="47.15105" lon="18.43108">
+  <name>aldi ALDI Holland fasor 1., 8000 Szkesfehrvr </name>
+</wpt>
+<wpt lat="47.29985" lon="20.89904">
+  <name>aldi ALDI Kisjszllsi t 90., 5300 Karcag </name>
+</wpt>
+<wpt lat="46.66176" lon="20.24092">
+  <name>aldi ALDI Csongrdi t 65., 6600 Szentes </name>
+</wpt>
+<wpt lat="48.23527" lon="22.06409">
+  <name>aldi ALDI Vrosmajor utca 53., 4600 Kisvrda </name>
+</wpt>
+<wpt lat="47.4314" lon="19.0673">
+  <name>aldi ALDI Szent Imre tr 6-8., 1211 Budapest </name>
+</wpt>
+<wpt lat="46.86209" lon="17.90469">
+  <name>aldi ALDI Mjus 1. utca 10., 8622 Szntd </name>
+</wpt>
+<wpt lat="48.25904" lon="20.62205">
+  <name>aldi ALDI Hadak tja 9., 3700 Kazincbarcika </name>
+</wpt>
+<wpt lat="47.87927" lon="17.25577">
+  <name>aldi ALDI Kirlyhidai t 63., 9200 Mosonmagyarvr </name>
+</wpt>
+<wpt lat="47.39944" lon="19.00505">
+  <name>aldi ALDI Nagyttnyi t 145-147., 1223 Budapest </name>
+</wpt>
+<wpt lat="47.5061" lon="19.0502">
+  <name>aldi ALDI Bthory u. 8., 1054 Budapest </name>
+</wpt>
+<wpt lat="47.32255" lon="17.44612">
+  <name>aldi ALDI Celli t 71., 8500 Ppa </name>
+</wpt>
+<wpt lat="46.80986" lon="18.91043">
+  <name>aldi ALDI Fzes sor 2-4., 7020 Dunafldvr </name>
+</wpt>
+<wpt lat="46.95003" lon="17.87524">
+  <name>aldi ALDI Frdő utca 31., 8230 Balatonfred </name>
+</wpt>
+<wpt lat="47.57878" lon="19.11457">
+  <name>aldi ALDI cenrok utca 3-5., 1048 Budapest </name>
+</wpt>
+<wpt lat="46.88941" lon="19.64079">
+  <name>aldi ALDI Izski t 69., 6000 Kecskemt </name>
+</wpt>
+<wpt lat="47.44477" lon="18.88518">
+  <name>aldi ALDI Sssen utca 1., 2045 Trkblint </name>
+</wpt>
+<wpt lat="47.52007" lon="19.05677">
+  <name>aldi ALDI Pannnia utca 59-63., 1133 Budapest </name>
+</wpt>
+<wpt lat="47.63928" lon="19.06595">
+  <name>aldi ALDI Kalszi t 2/a., 2000 Szentendre </name>
+</wpt>
+<wpt lat="47.46263" lon="19.13137">
+  <name>aldi ALDI Szalay utca 7-17., 1191 Budapest </name>
+</wpt>
+<wpt lat="47.20206" lon="18.61846">
+  <name>aldi ALDI Szabadsg t 21., 2484 Grdony </name>
+</wpt>
+<wpt lat="47.68661" lon="16.56352">
+  <name>aldi ALDI gfalvi t 4/A., 9400 Sopron </name>
+</wpt>
+<wpt lat="47.18185" lon="18.40887">
+  <name>aldi ALDI Jancsr kz 1-3., 8000 Szkesfehrvr </name>
+</wpt>
+<wpt lat="46.26653" lon="20.12871">
+  <name>aldi ALDI Kossuth Lajos sgt. 119., 6724 Szeged </name>
+</wpt>
+<wpt lat="47.10864" lon="17.92763">
+  <name>aldi ALDI szak-keleti tgyűrű 6., 8200 Veszprm </name>
+</wpt>
+<wpt lat="46.36461" lon="17.81041">
+  <name>aldi ALDI rpd u. 31., 7400 Kaposvr </name>
+</wpt>
+<wpt lat="47.54117" lon="19.15137">
+  <name>aldi ALDI Erdőkerlő u. 47., 1157 Budapest </name>
+</wpt>
+<wpt lat="46.91144" lon="19.71986">
+  <name>aldi ALDI Szt. Istvn krt. 30., 6000 Kecskemt </name>
+</wpt>
+<wpt lat="46.24374" lon="20.12387">
+  <name>aldi ALDI Mravrosi krt 3., 6725 Szeged </name>
+</wpt>
+<wpt lat="47.21473" lon="16.61897">
+  <name>aldi ALDI Szent Gellrt utca 49., 9700 Szombathely </name>
+</wpt>
+<wpt lat="47.4938" lon="19.0587">
+  <name>aldi ALDI Kossuth Lajos u. 13., 1053 Budapest </name>
+</wpt>
+<wpt lat="47.41664" lon="19.14273">
+  <name>aldi ALDI Kves t 9., 1204 Budapest </name>
+</wpt>
+<wpt lat="47.36997" lon="19.04733">
+  <name>aldi ALDI Csepeli t 64-68., 2310 Szigetszentmikls </name>
+</wpt>
+<wpt lat="47.48729" lon="19.0582">
+  <name>aldi ALDI Vmhz krt 1-3., 1093 Budapest </name>
+</wpt>
+<wpt lat="46.96039" lon="18.90893">
+  <name>aldi ALDI Kand Klmn tr 10., 2400 Dunajvros </name>
+</wpt>
+<wpt lat="47.60843" lon="19.33882">
+  <name>aldi ALDI Bossnyi Krisztina utca 4., 2100 Gdllő </name>
+</wpt>
+<wpt lat="47.37833" lon="18.93978">
+  <name>aldi ALDI Budafoki t 6., 2030 rd </name>
+</wpt>
+<wpt lat="47.4533" lon="18.97107">
+  <name>aldi ALDI Malomkő utca 3., 2040 Budars </name>
+</wpt>
+<wpt lat="47.547" lon="21.6118">
+  <name>aldi ALDI tvenhatosok tere 5/b., 4032 Debrecen </name>
+</wpt>
+<wpt lat="47.66246" lon="21.50138">
+  <name>aldi ALDI Klső-Szoboszli utca 2/B, 4220 Hajdbszrmny </name>
+</wpt>
+<wpt lat="47.5036" lon="19.21618">
+  <name>aldi ALDI Bknyfldi t 102., 1165 Budapest </name>
+</wpt>
+<wpt lat="47.5985" lon="18.92428">
+  <name>aldi ALDI Terstynszky dn u. 128., 2083 Solymr </name>
+</wpt>
+<wpt lat="46.06948" lon="18.20856">
+  <name>aldi ALDI Tzr utca 5/A, 7633 Pcs </name>
+</wpt>
+<wpt lat="47.67689" lon="19.66564">
+  <name>aldi ALDI Bib Istvn utca 3., 3000 Hatvan </name>
+</wpt>
+<wpt lat="47.62201" lon="19.12185">
+  <name>aldi ALDI Pallag utca 68., 2120 Dunakeszi </name>
+</wpt>
+<wpt lat="47.25485" lon="16.61883">
+  <name>aldi ALDI Demeter utca 2., 9700 Szombathely </name>
+</wpt>
+<wpt lat="47.54259" lon="21.5811">
+  <name>aldi ALDI Kishatr utca 9/A, 4031 Debrecen </name>
+</wpt>
+<wpt lat="47.34808" lon="19.11853">
+  <name>aldi ALDI Jedlik nyos utca 1., 2330 Dunaharaszti </name>
+</wpt>
+<wpt lat="47.56131" lon="18.40967">
+  <name>aldi ALDI Szent Borbla t 35., 2800 Tatabnya </name>
+</wpt>
+<wpt lat="47.65287" lon="17.63202">
+  <name>aldi ALDI Malomszki utca 11., 9012 Győr </name>
+</wpt>
+</gpx>
