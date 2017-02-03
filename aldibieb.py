@@ -1,5 +1,5 @@
 import mechanize,re,math
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 def adresmaken(response):
     reguliere=re.compile(r'<address>(.*?)<br/>')
@@ -158,7 +158,7 @@ def zoekzipcode(land,zipcode1,totnutoe):
 	latmin=min(latlijstfloat)
 	vierkantx=[lonmin,lonmax,lonmax,lonmin,lonmin]
 	vierkanty=[latmax,latmax,latmin,latmin,latmax]
-	plt.plot(vierkantx,vierkanty,'b-')
+#	plt.plot(vierkantx,vierkanty,'b-')
     return regellijst
 
 def maakgpx(regellijst,land,*args):

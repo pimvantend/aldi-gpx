@@ -49,6 +49,9 @@
 <wpt lat="45.7415006314" lon="4.79638789371">
   <name>aldi 17 Avenue du Général  de Gaulle  69110 Ste-Foy-les-Lyon </name>
 </wpt>
+<wpt lat="48.6147917008" lon="6.09305676477">
+  <name>aldi 843, Rue Pasteur  54230 Neuves-Maisons </name>
+</wpt>
 <wpt lat="50.63987938" lon="2.63617243021">
   <name>aldi Rue Duhamel - Chemin de Halage  59660 Merville </name>
 </wpt>
@@ -124,8 +127,8 @@
 <wpt lat="49.0729425647" lon="0.579981496873">
   <name>aldi ZA du Bois du Cours  27300 Bernay </name>
 </wpt>
-<wpt lat="49.0220498708" lon="1.37863304223">
-  <name>aldi 16 Rue Albert Camus - Rue Branly  27120 Pacy-sur-Eure </name>
+<wpt lat="49.5533081826" lon="2.53448613623">
+  <name>aldi ZI Est  60420 Maignelay-Montigny </name>
 </wpt>
 <wpt lat="49.7332193983" lon="3.06858424477">
   <name>aldi 59 Rue de Paris  80400 Muille-Villette </name>
@@ -174,9 +177,6 @@
 </wpt>
 <wpt lat="47.0346176131" lon="4.84406093204">
   <name>aldi 129 Route de Dijon  21200 Beaune </name>
-</wpt>
-<wpt lat="48.0850709137" lon="7.3115296222">
-  <name>aldi 37 Rue Herzog  68920 Wintzenheim </name>
 </wpt>
 <wpt lat="43.4147712286" lon="5.22404229697">
   <name>aldi Avenue  du 8 Mai 1945 - Lieudit Le Planet  13700 Marignane </name>
@@ -312,9 +312,6 @@
 </wpt>
 <wpt lat="43.0986982117" lon="5.89806585418">
   <name>aldi 53 Avenue Esprit Armando - Les Collines de Tamaris  83500 La-Seyne-sur-Mer </name>
-</wpt>
-<wpt lat="48.2315998697" lon="0.123521822573">
-  <name>aldi Angle Rue des Alpes Mancelles (D39) et Route de la Maufière  72170 Beaumont-sur-Sarthe </name>
 </wpt>
 <wpt lat="50.379667871" lon="3.08845925226">
   <name>aldi 138 Rue Augustin Boutique  59500 Douai </name>
@@ -529,11 +526,8 @@
 <wpt lat="50.5680811602" lon="2.46306201429">
   <name>aldi 120 Rue des Martyrs de la Libération  62190 Lillers </name>
 </wpt>
-<wpt lat="50.4765925513" lon="3.00370718412">
-  <name>aldi Rue d'Oignies  62820 Libercourt </name>
-</wpt>
-<wpt lat="48.1483471651" lon="7.70127761977">
-  <name>aldi Maria-Theresia-Straße 1  79346 Endingen </name>
+<wpt lat="50.691159435" lon="2.8732695784">
+  <name>aldi 73/73 Bis Rue des Résistants  59280 Armentières </name>
 </wpt>
 <wpt lat="45.9041089663" lon="4.81870006275">
   <name>aldi 1 Avenue Lavoisier  01600 Massieux </name>
@@ -567,9 +561,6 @@
 </wpt>
 <wpt lat="48.3275924613" lon="0.820873782234">
   <name>aldi 14 Avenue des Prés  28400 Margon </name>
-</wpt>
-<wpt lat="50.3120907551" lon="4.13541349301">
-  <name>aldi route de Mons 242 6560 Erquelinnes </name>
 </wpt>
 <wpt lat="47.5573884283" lon="7.7826032726">
   <name>aldi Güterstraße 14  79618 Rheinfelden </name>
@@ -748,8 +739,8 @@
 <wpt lat="48.7637103671" lon="1.22064921571">
   <name>aldi 12 Avenue Victor Hugo - Lieudit La Potinière  27320 Nonancourt </name>
 </wpt>
-<wpt lat="46.630248979" lon="3.73596181531">
-  <name>aldi Rue de Nevers - Carrefour des Alouettes  71140 Bourbon-Lancy </name>
+<wpt lat="44.8641976905" lon="6.59694666057">
+  <name>aldi ZA Le Pré du Faure - RN 94  05120 St-Martin-de-Queyrières </name>
 </wpt>
 <wpt lat="47.9780887831" lon="0.206259410317">
   <name>aldi 2 à 34 Avenue Pierre Brossolette  72100 Le Mans </name>
@@ -768,6 +759,9 @@
 </wpt>
 <wpt lat="49.2490014647" lon="6.6973739043">
   <name>aldi Langwies 1  66802 Überherrn </name>
+</wpt>
+<wpt lat="47.8178301099" lon="7.55719730529">
+  <name>aldi Colmarer Straße 5  79395 Neuenburg </name>
 </wpt>
 <wpt lat="50.5116514546" lon="1.64801583606">
   <name>aldi Route d''Hilbert  62630 Etaples </name>
@@ -820,8 +814,8 @@
 <wpt lat="48.692921466" lon="2.4452014872">
   <name>aldi 132 Avenue Charles de Gaulle  91230 Montgeron </name>
 </wpt>
-<wpt lat="50.7807989232" lon="3.03623564661">
-  <name>aldi Komenstraat 36 B  8940 Wervik </name>
+<wpt lat="47.5616608896" lon="7.63774054831">
+  <name>aldi Hörnle 30  79639 Grenzach-Wyhlen </name>
 </wpt>
 <wpt lat="49.5151605627" lon="5.37371639185">
   <name>aldi 6 Route de Villecloye  55600 Montmédy </name>
@@ -861,6 +855,9 @@
 </wpt>
 <wpt lat="50.5107478475" lon="2.62799759682">
   <name>aldi 1200 Rue de Béthune  62131 Vaudricourt </name>
+</wpt>
+<wpt lat="49.6419492314" lon="6.00448257981">
+  <name>aldi Parc d'activité de Capellen  2-4 8310 Capellen </name>
 </wpt>
 <wpt lat="50.4915678542" lon="2.5659983653">
   <name>aldi 751 Avenue de la Libération  62700 Bruay-la-Buissière </name>
@@ -994,9 +991,6 @@
 <wpt lat="49.1372000798" lon="7.79951051879">
   <name>aldi Industriestraße 10  66994 Dahn-Reichenbach </name>
 </wpt>
-<wpt lat="46.674337685" lon="5.53421831885">
-  <name>aldi Rue Aristide Briand  39570 Montmorot </name>
-</wpt>
 <wpt lat="49.3188816782" lon="6.10887583182">
   <name>aldi 26 Route de Longwy  57190 Florange </name>
 </wpt>
@@ -1105,8 +1099,8 @@
 <wpt lat="50.1263586849" lon="3.69337893727">
   <name>aldi Boulevard Dupleix  59550 Landrecies </name>
 </wpt>
-<wpt lat="44.8641976905" lon="6.59694666057">
-  <name>aldi ZA Le Pré du Faure - RN 94  05120 St-Martin-de-Queyrières </name>
+<wpt lat="46.630248979" lon="3.73596181531">
+  <name>aldi Rue de Nevers - Carrefour des Alouettes  71140 Bourbon-Lancy </name>
 </wpt>
 <wpt lat="49.8567685654" lon="3.2791603988">
   <name>aldi 172/174 Rue du Président JF Kennedy  02100 St-Quentin </name>
@@ -1156,9 +1150,6 @@
 <wpt lat="49.4666977487" lon="7.16340236049">
   <name>aldi Eisenbahnstraße 6  66606 St. Wendel </name>
 </wpt>
-<wpt lat="48.0269014811" lon="5.34632305573">
-  <name>aldi Angle Avenue du 8 Mai 1945 et Rue Félix Grelot  52800 Nogent </name>
-</wpt>
 <wpt lat="43.6298021682" lon="5.15544204487">
   <name>aldi Avenue Pasteur - Espace Le Gallion - Rte de St-Cannat  13330 Pélissanne </name>
 </wpt>
@@ -1195,8 +1186,8 @@
 <wpt lat="43.7360782608" lon="-1.05170265883">
   <name>aldi Angle Avenue Maréchal Foch et Rue 22 Août 1944  40990 Saint-Paul-lès-Dax </name>
 </wpt>
-<wpt lat="47.8186815815" lon="0.301587500545">
-  <name>aldi ZAC des Truberdières  72220 Ecommoy </name>
+<wpt lat="48.1483471651" lon="7.70127761977">
+  <name>aldi Maria-Theresia-Straße 1  79346 Endingen </name>
 </wpt>
 <wpt lat="50.6473388748" lon="3.27603075961">
   <name>aldi rue de Roubaix 71 bis  7520 Templeuve </name>
@@ -1204,8 +1195,8 @@
 <wpt lat="46.7208196476" lon="2.51882894707">
   <name>aldi 74 Rue Ernest Mallard  18200 St-Amand-Montrond </name>
 </wpt>
-<wpt lat="49.6419492314" lon="6.00448257981">
-  <name>aldi Parc d'activité de Capellen  2-4 8310 Capellen </name>
+<wpt lat="48.0269014811" lon="5.34632305573">
+  <name>aldi Angle Avenue du 8 Mai 1945 et Rue Félix Grelot  52800 Nogent </name>
 </wpt>
 <wpt lat="50.4289513469" lon="2.77441614748">
   <name>aldi 51 Rue Germain Delbecque  62800 Liévin </name>
@@ -1282,6 +1273,9 @@
 <wpt lat="50.8156714312" lon="3.24710857676">
   <name>aldi Engelse Wandeling 2L2 8510 Kortrijk </name>
 </wpt>
+<wpt lat="48.3765515783" lon="6.87605112097">
+  <name>aldi ZI de la Pépinière - CD 32  88420 Moyenmoutier </name>
+</wpt>
 <wpt lat="50.4472118433" lon="2.73552048802">
   <name>aldi 40 Rue Hapiot  62160 Bully-les-Mines </name>
 </wpt>
@@ -1291,8 +1285,8 @@
 <wpt lat="48.2753123606" lon="6.96548865467">
   <name>aldi 144 à 146 Rue d'Alsace  88100 St-Dié-des-Vosges </name>
 </wpt>
-<wpt lat="48.6147917008" lon="6.09305676477">
-  <name>aldi 843, Rue Pasteur  54230 Neuves-Maisons </name>
+<wpt lat="46.674337685" lon="5.53421831885">
+  <name>aldi Rue Aristide Briand  39570 Montmorot </name>
 </wpt>
 <wpt lat="49.1002183087" lon="2.75413644526">
   <name>aldi Route de Paris - ZI Le Grand Lièvre  60330 Le Plessis-Belleville </name>
@@ -1435,9 +1429,6 @@
 <wpt lat="43.0877769044" lon="1.86038164008">
   <name>aldi Chemin de la Treyto - ZAC de l''Arbre Blanc  09500 Mirepoix </name>
 </wpt>
-<wpt lat="49.2405589234" lon="6.1718103578">
-  <name>aldi 2 Clos de la Chapelle  57525 Talange </name>
-</wpt>
 <wpt lat="48.0962200081" lon="7.36916714392">
   <name>aldi Angle Avenue Joseph Rey et Rue André Kiener  68000 Colmar </name>
 </wpt>
@@ -1464,9 +1455,6 @@
 </wpt>
 <wpt lat="48.8657404111" lon="8.21900807508">
   <name>aldi Biblisweg 2  76437 Rastatt </name>
-</wpt>
-<wpt lat="47.9148079347" lon="6.66706676618">
-  <name>aldi 115 Rue d'Alsace  88360 Rupt sur Moselle </name>
 </wpt>
 <wpt lat="50.4595686205" lon="2.94031400412">
   <name>aldi Avenue Maurice Tilloy - Marais du Bois Est  62440 Harnes </name>
@@ -1516,8 +1504,8 @@
 <wpt lat="43.1154605657" lon="5.85694887035">
   <name>aldi Boulevard de l'Europe - Lieudit Camp Laurent - D26  83500 La-Seyne-sur-Mer </name>
 </wpt>
-<wpt lat="49.2418976145" lon="3.99080257878">
-  <name>aldi 9 Rue Nicolas Appert - CCial du Moulin de l'Ecaille  51430 Tinqueux </name>
+<wpt lat="48.3494003779" lon="7.81977223457">
+  <name>aldi Dr. Georg-Schaeffler-Str. 9  77933 Lahr </name>
 </wpt>
 <wpt lat="44.6160586857" lon="4.40059645495">
   <name>aldi 19 Chemin des Chaussades  07200 Aubenas </name>
@@ -1543,6 +1531,9 @@
 <wpt lat="50.3501523739" lon="3.13758019838">
   <name>aldi 101 Boulevard Pasteur  59287 Guesnain </name>
 </wpt>
+<wpt lat="47.3588093113" lon="0.647088875107">
+  <name>aldi 6, rue du Franc-Palais - La Petite Chaumette  37300 Joué-lès-Tours </name>
+</wpt>
 <wpt lat="43.9544170442" lon="2.8525492086">
   <name>aldi Lieudit Le Vern - RD 999  12400 St-Affrique </name>
 </wpt>
@@ -1563,9 +1554,6 @@
 </wpt>
 <wpt lat="45.600381329" lon="4.07105803889">
   <name>aldi 49 Avenue de St-Etienne  42600 Montbrison </name>
-</wpt>
-<wpt lat="47.5616608896" lon="7.63774054831">
-  <name>aldi Hörnle 30  79639 Grenzach-Wyhlen </name>
 </wpt>
 <wpt lat="49.3814386298" lon="3.30838835099">
   <name>aldi Carrefour de l'Europe - 74 Avenue de Compiègne  02200 Soissons </name>
@@ -1756,8 +1744,8 @@
 <wpt lat="50.386497705" lon="2.35400128314">
   <name>aldi Route d'Ostreville - CD 86  62130 St-Pol-sur-Ternoise </name>
 </wpt>
-<wpt lat="50.9165610375" lon="3.19814051532">
-  <name>aldi Krekelmotestraat 77  8870 Izegem </name>
+<wpt lat="50.7801222473" lon="3.03368157325">
+  <name>aldi Komenstraat 36 B gesloten vanaf 7/01/17 tot 21/3/17 8940 Wervik </name>
 </wpt>
 <wpt lat="49.244921279" lon="6.94281675699">
   <name>aldi Jakobstraße 40  66115 Saarbrücken-Burbach </name>
@@ -1794,9 +1782,6 @@
 </wpt>
 <wpt lat="44.2944383087" lon="2.55929841934">
   <name>aldi 14 Avenue de Rodez  12450 La Primaube </name>
-</wpt>
-<wpt lat="50.853379458" lon="2.87478943191">
-  <name>aldi Maarschalck Haighlaan  31 C 8900 Ieper </name>
 </wpt>
 <wpt lat="48.7431477816" lon="1.38865148492">
   <name>aldi 103 Avenue du Général  Leclerc  28100 Dreux </name>
@@ -2116,6 +2101,9 @@
 <wpt lat="49.3184009742" lon="7.15469692734">
   <name>aldi Hauptstraße 80 a  66583 Spiesen-Elversberg/Spiesen </name>
 </wpt>
+<wpt lat="50.3276520542" lon="3.34356981221">
+  <name>aldi 127 Rue Paul Bert  59124 Escaudain </name>
+</wpt>
 <wpt lat="43.5987377627" lon="5.00701800703">
   <name>aldi Avenue de l'Arc-en-Ciel - RN 569  13140 Miramas </name>
 </wpt>
@@ -2151,6 +2139,9 @@
 </wpt>
 <wpt lat="47.9810686919" lon="6.83329737182">
   <name>aldi 13 Rue de Cherménil - Direction La Bresse  88310 Cornimont </name>
+</wpt>
+<wpt lat="49.8037173859" lon="2.69627409314">
+  <name>aldi Rue Julien Detaille  80170 Vrély </name>
 </wpt>
 <wpt lat="48.2017581241" lon="2.98909320802">
   <name>aldi 24 Rue Jean Moulin  89690 Chéroy </name>
@@ -2197,8 +2188,8 @@
 <wpt lat="49.3715079453" lon="6.71364263215">
   <name>aldi Siemensstraße 1  66763 Dillingen </name>
 </wpt>
-<wpt lat="49.5533081826" lon="2.53448613623">
-  <name>aldi ZI Est  60420 Maignelay-Montigny </name>
+<wpt lat="49.0220498708" lon="1.37863304223">
+  <name>aldi 16 Rue Albert Camus - Rue Branly  27120 Pacy-sur-Eure </name>
 </wpt>
 <wpt lat="43.2547980253" lon="0.0731238397773">
   <name>aldi Route de Bordeaux  65000 Tarbes </name>
@@ -2211,6 +2202,9 @@
 </wpt>
 <wpt lat="42.7739815028" lon="3.01261046802">
   <name>aldi Zone d'activités "La Torre"  66250 St-Laurent-de-la-Salanque </name>
+</wpt>
+<wpt lat="50.9165610375" lon="3.19814051532">
+  <name>aldi Krekelmotestraat 77  8870 Izegem </name>
 </wpt>
 <wpt lat="49.4840180817" lon="7.03765022033">
   <name>aldi St. Wendeler Straße 2  66636 Tholey </name>
@@ -2316,6 +2310,9 @@
 </wpt>
 <wpt lat="47.8456195182" lon="3.55470354563">
   <name>aldi Avenue de Paris - D 319  89470 Monéteau </name>
+</wpt>
+<wpt lat="50.7587877202" lon="2.22884269524">
+  <name>aldi 41 Rue de Calais  62500 St-Martin-au-Laërt </name>
 </wpt>
 <wpt lat="50.7148709032" lon="1.58990167389">
   <name>aldi 40 Boulevard  Auguste Huguet  62480 Le Portel </name>
@@ -2599,6 +2596,9 @@
 <wpt lat="45.8367317149" lon="1.27072344273">
   <name>aldi 16 Avenue de Locarno  87100 Limoges </name>
 </wpt>
+<wpt lat="49.2418976145" lon="3.99080257878">
+  <name>aldi 9 Rue Nicolas Appert - CCial du Moulin de l'Ecaille  51430 Tinqueux </name>
+</wpt>
 <wpt lat="50.460078168" lon="2.89075239042">
   <name>aldi 216 Route de Lille  62880 Annay </name>
 </wpt>
@@ -2671,8 +2671,8 @@
 <wpt lat="48.6560906231" lon="6.18551601908">
   <name>aldi 2 Rue d'Albertville  54500 Vandoeuvre-lès-Nancy </name>
 </wpt>
-<wpt lat="48.3765515783" lon="6.87605112097">
-  <name>aldi ZI de la Pépinière - CD 32  88420 Moyenmoutier </name>
+<wpt lat="50.4765925513" lon="3.00370718412">
+  <name>aldi Rue d'Oignies  62820 Libercourt </name>
 </wpt>
 <wpt lat="47.1888606817" lon="-0.289257801328">
   <name>aldi Allée Joseph Touchais - ZAC de la Petite Champagne  49700 Doué-la-Fontaine </name>
@@ -2689,8 +2689,8 @@
 <wpt lat="49.1655225334" lon="5.84436736109">
   <name>aldi Rue de Verdun - ZI Val de l'Orne  54800 Conflans-en-Jarnisy </name>
 </wpt>
-<wpt lat="45.7293294897" lon="4.87633758448">
-  <name>aldi 89 Avenue Paul Santy  69008 Lyon </name>
+<wpt lat="48.9330011305" lon="2.23344722187">
+  <name>aldi 189 à 193 Avenue Henri Barbusse  95100 Argenteuil </name>
 </wpt>
 <wpt lat="47.2317470917" lon="5.23401577358">
   <name>aldi 49 Impasse Arago  21110 Genlis </name>
@@ -2713,8 +2713,8 @@
 <wpt lat="48.8445922717" lon="-0.553541441659">
   <name>aldi 67 Rue St-Martin  14110 Condé-sur-Noireau </name>
 </wpt>
-<wpt lat="50.7587877202" lon="2.22884269524">
-  <name>aldi 41 Rue de Calais  62500 St-Martin-au-Laërt </name>
+<wpt lat="50.853379458" lon="2.87478943191">
+  <name>aldi gesloten wegens verbouwing tot half juni 2017 8900 Ieper </name>
 </wpt>
 <wpt lat="46.3787371495" lon="5.84111181687">
   <name>aldi 1 Rue du Biolet  39200 St-Claude </name>
@@ -2794,9 +2794,6 @@
 <wpt lat="50.3894908235" lon="3.10820835473">
   <name>aldi 68 Rue Maurice Facon  59119 Waziers </name>
 </wpt>
-<wpt lat="48.9330011305" lon="2.23344722187">
-  <name>aldi 189 à 193 Avenue Henri Barbusse  95100 Argenteuil </name>
-</wpt>
 <wpt lat="44.9147676332" lon="2.4274488787">
   <name>aldi Avenue de Conthe  15000 Aurillac </name>
 </wpt>
@@ -2824,8 +2821,8 @@
 <wpt lat="43.414320474" lon="1.12916122874">
   <name>aldi Avenue de Toulouse  31370 Rieumes </name>
 </wpt>
-<wpt lat="48.1322277963" lon="7.35511074722">
-  <name>aldi Rue de l Écluse  68126 Bennwihr </name>
+<wpt lat="49.2402418596" lon="6.17870815452">
+  <name>aldi Zone de la Ponte  57525 Talange </name>
 </wpt>
 <wpt lat="48.67487166" lon="7.92611701447">
   <name>aldi Am Glockenloch 1  77866 Rheinau-Freistett </name>
@@ -2884,8 +2881,8 @@
 <wpt lat="44.4081404204" lon="0.735833931179">
   <name>aldi ZAC de Parasol - Route de Fumel  47300 Villeneuve-sur-Lot </name>
 </wpt>
-<wpt lat="50.3282778449" lon="3.34415437126">
-  <name>aldi 20 Rue Paul Bert  59124 Escaudain </name>
+<wpt lat="47.8186815815" lon="0.301587500545">
+  <name>aldi ZAC des Truberdières  72220 Ecommoy </name>
 </wpt>
 <wpt lat="43.7615705371" lon="1.97403790464">
   <name>aldi Carrefour de l'Appel du 18 Juin 1940 - Boulevard du Général Leclerc  81300 Graulhet </name>
@@ -2965,9 +2962,6 @@
 <wpt lat="49.30858069" lon="5.76773616705">
   <name>aldi 156 Rue de la Mourière  54490 Piennes </name>
 </wpt>
-<wpt lat="48.3494003779" lon="7.81977223457">
-  <name>aldi Dr.-Georg-Schaeffler-Str. 9  77933 Lahr </name>
-</wpt>
 <wpt lat="50.9486013025" lon="3.29177788093">
   <name>aldi Gentstraat 13  8760 Meulebeke </name>
 </wpt>
@@ -3013,8 +3007,8 @@
 <wpt lat="47.882248837" lon="6.29301193063">
   <name>aldi 83 Rue Albert Thomas  70320 Corbenay </name>
 </wpt>
-<wpt lat="48.9952209579" lon="2.19114313352">
-  <name>aldi 147 Boulevard  Victor Bordier - RN 14  95370 Montigny-lès-Cormeilles </name>
+<wpt lat="48.1322277963" lon="7.35511074722">
+  <name>aldi Rue de l Écluse  68126 Bennwihr </name>
 </wpt>
 <wpt lat="49.4903685042" lon="0.150168721756">
   <name>aldi 216 Boulevard de Graville  76600 Le Havre </name>
@@ -3100,8 +3094,8 @@
 <wpt lat="48.3409724372" lon="7.88521586783">
   <name>aldi Geroldsecker Vorstadt 30  77933 Lahr </name>
 </wpt>
-<wpt lat="50.691159435" lon="2.8732695784">
-  <name>aldi 73/73 Bis Rue des Résistants  59280 Armentières </name>
+<wpt lat="48.9952209579" lon="2.19114313352">
+  <name>aldi 147 Boulevard  Victor Bordier - RN 14  95370 Montigny-lès-Cormeilles </name>
 </wpt>
 <wpt lat="50.0098921481" lon="3.78021743153">
   <name>aldi 34 Avenue du Docteur Jacques Lemaire  02170 Le Nouvion-en-Thiérache </name>
@@ -3265,8 +3259,8 @@
 <wpt lat="50.4186781544" lon="3.13645604637">
   <name>aldi 943 Rue Nationale  59194 Râches </name>
 </wpt>
-<wpt lat="49.8037173859" lon="2.69627409314">
-  <name>aldi Rue Julien Detaille  80170 Vrély </name>
+<wpt lat="48.2315998697" lon="0.123521822573">
+  <name>aldi Angle Rue des Alpes Mancelles (D39) et Route de la Maufière  72170 Beaumont-sur-Sarthe </name>
 </wpt>
 <wpt lat="50.9593992185" lon="3.13152776397">
   <name>aldi Koning Leopold III Laan  8800 Roeselare </name>
@@ -3316,8 +3310,8 @@
 <wpt lat="43.5076007772" lon="2.37716780771">
   <name>aldi 2 Boulevard du Thoré  81200 Aussillon </name>
 </wpt>
-<wpt lat="48.8179402381" lon="2.53194105609">
-  <name>aldi 5 Rue Serpente  94500 Champigny-sur-Marne </name>
+<wpt lat="50.3120907551" lon="4.13541349301">
+  <name>aldi route de Mons 242 6560 Erquelinnes </name>
 </wpt>
 <wpt lat="45.7434023287" lon="-1.11986224334">
   <name>aldi 5 Rue de la Source  17530 Arvert </name>
@@ -3331,8 +3325,8 @@
 <wpt lat="49.9059389768" lon="3.64603864793">
   <name>aldi 60 Rue de l'Europe  02120 Guise </name>
 </wpt>
-<wpt lat="47.8178301099" lon="7.55719730529">
-  <name>aldi Colmarer Straße 5  79395 Neuenburg </name>
+<wpt lat="48.8179402381" lon="2.53194105609">
+  <name>aldi 5 Rue Serpente  94500 Champigny-sur-Marne </name>
 </wpt>
 <wpt lat="49.1524309256" lon="0.225082211529">
   <name>aldi 9 Bis Boulevard Nicolas Oresme  14100 Lisieux </name>
