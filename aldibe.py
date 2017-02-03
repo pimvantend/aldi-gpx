@@ -22,6 +22,6 @@ for zipcode in zipcodelijst:
     reguliere=re.compile(r' [1-9][0-9][0-9][0-9][A-Z][A-Z] ')
     regellijst1=[ding for ding in regellijst1 if len(reguliere.findall(ding))==0]
     print len(regellijst1)
-plt.show()
+#plt.show()
 maakgpx(regellijst1,land1)
 exit()

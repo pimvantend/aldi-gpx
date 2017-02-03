@@ -38,6 +38,6 @@ for zipcode in zipcodelijst:
     regellijst2+=[ding for ding in regellijst1 if len(reguliere.findall(ding))>0]
     regellijst1=regellijst2
     print len(regellijst1)
-plt.show()
+#plt.show()
 maakgpx(regellijst1,land1)
 exit()
