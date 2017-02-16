@@ -148,8 +148,8 @@
 <wpt lat="50.9295883824" lon="7.28305710016">
   <name>aldi Wiesenauel 1  51491 Overath </name>
 </wpt>
-<wpt lat="50.7765681162" lon="6.14808625384">
-  <name>aldi Forster Str. 5  52080 Aachen-Eilendorf </name>
+<wpt lat="50.4271008471" lon="7.56530918617">
+  <name>aldi Brauereistr. 44  56170 Bendorf </name>
 </wpt>
 <wpt lat="50.809329811" lon="6.14260039204">
   <name>aldi Am alten Kaninsberg 5  52146 Würselen-Broichweiden </name>
@@ -240,9 +240,6 @@
 </wpt>
 <wpt lat="51.6681812397" lon="7.81898083156">
   <name>aldi Grünstr. 102 59063 Hamm Hamm-Mitte </name>
-</wpt>
-<wpt lat="50.914321418" lon="8.00396229268">
-  <name>aldi In der Lehmkuhle 2 b  57078 Siegen-Geisweid </name>
 </wpt>
 <wpt lat="51.4599510499" lon="7.95033574532">
   <name>aldi Im Ohl 16 b 59757 Arnsberg </name>
@@ -460,8 +457,8 @@
 <wpt lat="50.7321784534" lon="7.08187885691">
   <name>aldi Endenicher Straße 104  53115 Bonn-Weststadt </name>
 </wpt>
-<wpt lat="51.3154990593" lon="8.00917835799">
-  <name>aldi Röhre 32 59846 Sundern </name>
+<wpt lat="50.8904897304" lon="6.27566401685">
+  <name>aldi Am alten Bahnhof 5  52457 Aldenhoven </name>
 </wpt>
 <wpt lat="50.7814016683" lon="7.95580362068">
   <name>aldi Alte Hütte 16  57562 Herdorf </name>
@@ -558,6 +555,9 @@
 </wpt>
 <wpt lat="51.3956187977" lon="8.07559325859">
   <name>aldi Zum Schützenhof  51 59821 Arnsberg </name>
+</wpt>
+<wpt lat="51.201841603" lon="8.70787030685">
+  <name>aldi Vopeliusstrasse 2-4 59964 Medebach </name>
 </wpt>
 <wpt lat="50.9322977026" lon="6.5686270232">
   <name>aldi Hinter den Gärten 2  50189 Elsdorf </name>
@@ -778,9 +778,6 @@
 <wpt lat="50.7711880696" lon="6.12309410641">
   <name>aldi Freunder Weg 23  52068 Aachen-Forst </name>
 </wpt>
-<wpt lat="51.0574172407" lon="6.92894921783">
-  <name>aldi Hitdorfer Straße 79  51371 Leverkusen-Hitdorf </name>
-</wpt>
 <wpt lat="51.3575476635" lon="8.47931671392">
   <name>aldi Fruges Str.  2 59939 Olsberg </name>
 </wpt>
@@ -895,8 +892,8 @@
 <wpt lat="51.0108672492" lon="7.63013228753">
   <name>aldi Kölner Straße  2-14 51702 Bergneustadt </name>
 </wpt>
-<wpt lat="49.695497488" lon="6.56639670562">
-  <name>aldi Konzerbrück 27 (B51)  54329 Konz-Könen </name>
+<wpt lat="51.1045981066" lon="8.07426226261">
+  <name>aldi Hundemstrasse 44 57368 Lennestadt/Altenhundem </name>
 </wpt>
 <wpt lat="51.3492185415" lon="8.27920866338">
   <name>aldi Le-Puy-Str.  24 59872 Meschede </name>
@@ -952,9 +949,6 @@
 <wpt lat="51.597931171" lon="7.76003030029">
   <name>aldi Marmelinghöfener Weg 3 59199 Boenen </name>
 </wpt>
-<wpt lat="50.6283399241" lon="6.94422869191">
-  <name>aldi Euskirchener Weg 10  53359 Rheinbach </name>
-</wpt>
 <wpt lat="51.1225007864" lon="7.90115184669">
   <name>aldi Auf der Tränke / Am Zollstock 51 57439 Attendorn </name>
 </wpt>
@@ -996,9 +990,6 @@
 </wpt>
 <wpt lat="50.9330288519" lon="6.92354429497">
   <name>aldi Dürener Straße 56 - 60  50931 Köln-Lindenthal </name>
-</wpt>
-<wpt lat="51.200438477" lon="8.70724078172">
-  <name>aldi Brunartstr. 7  59964 Medebach </name>
 </wpt>
 <wpt lat="51.5842425004" lon="8.09950622009">
   <name>aldi Bergenring  1 59494 Soest </name>
@@ -1075,6 +1066,9 @@
 <wpt lat="50.332531855" lon="7.7037597474">
   <name>aldi Nieverner Straße 13  56130 Bad Ems </name>
 </wpt>
+<wpt lat="50.9514624847" lon="7.54776342164">
+  <name>aldi Weiherplatz 1 - 8  51674 Wiehl </name>
+</wpt>
 <wpt lat="51.5600789196" lon="8.08543183696">
   <name>aldi Boleweg  14 59494 Soest </name>
 </wpt>
@@ -1092,9 +1086,6 @@
 </wpt>
 <wpt lat="49.9791409512" lon="8.05507073954">
   <name>aldi Konrad-Adenauer-Str. 14c  55218 Ingelheim </name>
-</wpt>
-<wpt lat="50.8904897304" lon="6.27566401685">
-  <name>aldi Am alten Bahnhof 5  52457 Aldenhoven </name>
 </wpt>
 <wpt lat="50.5482901552" lon="7.14406694596">
   <name>aldi Heerstraße 46  53474 Bad Neuenahr-Ahrweiler </name>
@@ -1117,8 +1108,11 @@
 <wpt lat="50.8725880959" lon="6.88988268726">
   <name>aldi Eschweiler Str. 1  50354 Hürth-Hermülheim </name>
 </wpt>
-<wpt lat="50.4271008471" lon="7.56530918617">
-  <name>aldi Brauereistr. 44  56170 Bendorf </name>
+<wpt lat="50.7829084971" lon="7.25598751982">
+  <name>aldi Löhestraße 1  53773 Hennef </name>
+</wpt>
+<wpt lat="50.7765681162" lon="6.14808625384">
+  <name>aldi Forster Str. 5  52080 Aachen-Eilendorf </name>
 </wpt>
 <wpt lat="50.64593033" lon="7.31214116089">
   <name>aldi Rottbitzer Straße 24  53604 Bad Honnef - Rottbitze </name>
@@ -1129,8 +1123,8 @@
 <wpt lat="50.733259963" lon="6.59492318696">
   <name>aldi Gereonstraße 137  52391 Vettweiß </name>
 </wpt>
-<wpt lat="50.9514624847" lon="7.54776342164">
-  <name>aldi Weiherplatz 1 - 8  51674 Wiehl </name>
+<wpt lat="50.6283399241" lon="6.94422869191">
+  <name>aldi Euskirchener Weg 10  53359 Rheinbach </name>
 </wpt>
 <wpt lat="50.4378819992" lon="7.48756283334">
   <name>aldi Allensteiner Straße 13  56566 Neuwied </name>
@@ -1170,6 +1164,9 @@
 </wpt>
 <wpt lat="49.9843282339" lon="7.54473270783">
   <name>aldi Johann-Philipp-Reis-Str.14a  55469 Simmern </name>
+</wpt>
+<wpt lat="51.2786777003" lon="7.27329946073">
+  <name>aldi Barmer Str. 77  58332 Schwelm </name>
 </wpt>
 <wpt lat="51.4010276953" lon="7.43118436187">
   <name>aldi Stiftsstraße 11 58313 Herdecke </name>
@@ -1243,11 +1240,8 @@
 <wpt lat="50.9985814779" lon="6.42593166399">
   <name>aldi Heinrich-Gossen-Straße 1  52445 Titz </name>
 </wpt>
-<wpt lat="51.1045981066" lon="8.07426226261">
-  <name>aldi Hundemstrasse 44 57368 Lennestadt/Altenhundem </name>
-</wpt>
-<wpt lat="51.4230101869" lon="7.28054799288">
-  <name>aldi Wittener Str. 13  58456 Witten-Herbede </name>
+<wpt lat="49.695497488" lon="6.56639670562">
+  <name>aldi Konzerbrück 27 (B51)  54329 Konz-Könen </name>
 </wpt>
 <wpt lat="50.8675880275" lon="6.67464804732">
   <name>aldi Stiftsstraße 256  50171 Kerpen-Langenich </name>
@@ -1321,6 +1315,9 @@
 <wpt lat="50.8112278414" lon="7.86184249929">
   <name>aldi Im Rußloch 1  57548 Kirchen </name>
 </wpt>
+<wpt lat="50.8822291651" lon="8.02944007377">
+  <name>aldi Hagener Str. 9 57072 Siegen </name>
+</wpt>
 <wpt lat="51.4405818439" lon="7.55878011131">
   <name>aldi Margot-Röttger-Rath-Str.  3 58239 Schwerte </name>
 </wpt>
@@ -1365,9 +1362,6 @@
 </wpt>
 <wpt lat="49.9758386104" lon="8.29203298948">
   <name>aldi Jakob-Anstatt-Str. 13  55130 Mainz-Weisenau </name>
-</wpt>
-<wpt lat="50.8397685512" lon="8.15376229257">
-  <name>aldi Dillenburger Strasse 54  57234 Wilnsdorf-Rudersdorf </name>
 </wpt>
 <wpt lat="50.8158475751" lon="6.37399584125">
   <name>aldi Im Gewerbegebiet 8  52379 Langerwehe </name>
@@ -1489,9 +1483,6 @@
 <wpt lat="50.9276328127" lon="7.00439330735">
   <name>aldi Gremberger Straße 151  51105 Köln-Humboldt-Gremberg </name>
 </wpt>
-<wpt lat="50.8257901009" lon="6.89957737418">
-  <name>aldi Uhlstr.100, Giesler-Galerie  50321 Brühl </name>
-</wpt>
 <wpt lat="50.875947659" lon="8.04479149359">
   <name>aldi Marienborner Str. 259 57074 Siegen </name>
 </wpt>
@@ -1552,8 +1543,8 @@
 <wpt lat="50.2229027917" lon="6.64779430417">
   <name>aldi Sarresdorfer Straße 65  54568 Gerolstein </name>
 </wpt>
-<wpt lat="51.2786777003" lon="7.27329946073">
-  <name>aldi Barmer Str. 77  58332 Schwelm </name>
+<wpt lat="51.0574172407" lon="6.92894921783">
+  <name>aldi Hitdorfer Straße 79  51371 Leverkusen-Hitdorf </name>
 </wpt>
 <wpt lat="50.9882398943" lon="7.00004958399">
   <name>aldi Düsseldorfer Straße 336  51061 Köln-Stammheim </name>
@@ -1570,8 +1561,8 @@
 <wpt lat="51.5010385466" lon="7.96008439152">
   <name>aldi An der Windmühle 2 59469 Ense Bremen </name>
 </wpt>
-<wpt lat="50.7829084971" lon="7.25598751982">
-  <name>aldi Löhestraße 1  53773 Hennef </name>
+<wpt lat="50.8257901009" lon="6.89957737418">
+  <name>aldi Uhlstr.100, Giesler-Galerie  50321 Brühl </name>
 </wpt>
 <wpt lat="50.8009809714" lon="7.60781112527">
   <name>aldi Hurster Straße 1  51570 Windeck-Rosbach </name>
