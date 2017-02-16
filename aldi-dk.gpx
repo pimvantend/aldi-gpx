@@ -7,6 +7,9 @@
  xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
  xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
  xmlns:locus="http://www.locusmap.eu">
+<wpt lat="55.6807608182" lon="11.102332069">
+  <name>aldi Sct. Jørgensbjerg 46  4400 Kalundborg </name>
+</wpt>
 <wpt lat="54.70402879" lon="11.9655099396">
   <name>aldi Stovby Ringvej 5 4873 Væggerløse </name>
 </wpt>
@@ -72,9 +75,6 @@
 </wpt>
 <wpt lat="55.6574097024" lon="12.3535941922">
   <name>aldi Stationstorvet 3-9 2620 Albertslund </name>
-</wpt>
-<wpt lat="54.8320496901" lon="11.1491057858">
-  <name>aldi Løjtoftevej 4 4900 Nakskov </name>
 </wpt>
 <wpt lat="56.7495998204" lon="8.42253354772">
   <name>aldi Østre Allé 1 7760 Hurup Thy </name>
@@ -151,11 +151,8 @@
 <wpt lat="55.4714903068" lon="9.13592940483">
   <name>aldi Søndergade 40  6600 Vejen </name>
 </wpt>
-<wpt lat="54.9368419885" lon="10.7128268883">
-  <name>aldi Grønnegården 7  5900 Rudkøbing </name>
-</wpt>
-<wpt lat="56.3202999573" lon="10.3129885023">
-  <name>aldi Banevej  3 8543 Hornslet </name>
+<wpt lat="55.3941313125" lon="10.3652300944">
+  <name>aldi Grønløkkevej 7 5000 Odense C </name>
 </wpt>
 <wpt lat="56.107499947" lon="10.2073811661">
   <name>aldi Stenvej  1-3 8270 Højbjerg </name>
@@ -241,8 +238,8 @@
 <wpt lat="55.6726574703" lon="12.4726823593">
   <name>aldi Roskildevej 250 2610 Rødovre </name>
 </wpt>
-<wpt lat="55.8550819004" lon="11.9839909986">
-  <name>aldi Hovedgaden 36 3630 Jægerspris </name>
+<wpt lat="55.6823883846" lon="12.5820668462">
+  <name>aldi Gothersgade 52 1123 København K </name>
 </wpt>
 <wpt lat="55.435332455" lon="11.7906098737">
   <name>aldi Søndervang 1 4100 Ringsted </name>
@@ -289,8 +286,8 @@
 <wpt lat="55.8532697036" lon="12.5629742485">
   <name>aldi Baneskellet 1 2950 Vedbæk </name>
 </wpt>
-<wpt lat="55.3941313125" lon="10.3652300944">
-  <name>aldi Grønløkkevej 7 5000 Odense C </name>
+<wpt lat="56.3202999573" lon="10.3129885023">
+  <name>aldi Banevej  3 8543 Hornslet </name>
 </wpt>
 <wpt lat="55.4031194901" lon="12.1360482957">
   <name>aldi Pogebanken 2 4681 Herfølge </name>
@@ -304,8 +301,8 @@
 <wpt lat="55.5813917994" lon="9.76702834178">
   <name>aldi Treldevej 86  7000 Fredericia </name>
 </wpt>
-<wpt lat="55.519800276" lon="9.4603237013">
-  <name>aldi Damhusvej 1  6000 Kolding </name>
+<wpt lat="55.6220623714" lon="12.4216368649">
+  <name>aldi Brøndby Strand Centrum 41 2660 Brøndby Strand </name>
 </wpt>
 <wpt lat="55.661417509" lon="12.3339620016">
   <name>aldi Egelundsvej 1 2620 Albertslund </name>
@@ -424,8 +421,8 @@
 <wpt lat="55.7232581339" lon="11.468868576">
   <name>aldi Hovedgaden 12 4520 Svinninge </name>
 </wpt>
-<wpt lat="55.6220623714" lon="12.4216368649">
-  <name>aldi Brøndby Strand Centrum 41 2660 Brøndby Strand </name>
+<wpt lat="55.519800276" lon="9.4603237013">
+  <name>aldi Damhusvej 1  6000 Kolding </name>
 </wpt>
 <wpt lat="56.8025408359" lon="9.51889651749">
   <name>aldi Aars City Center, Søndergade  31 A 9600 Aars </name>
@@ -472,23 +469,20 @@
 <wpt lat="54.7600008544" lon="11.8921972423">
   <name>aldi Østerbrogade 147 4800 Nykøbing F </name>
 </wpt>
-<wpt lat="55.6823883846" lon="12.5820668462">
-  <name>aldi Gothersgade 52 1123 København K </name>
+<wpt lat="55.8550819004" lon="11.9839909986">
+  <name>aldi Hovedgaden 36 3630 Jægerspris </name>
 </wpt>
 <wpt lat="57.2475901318" lon="9.62290306122">
   <name>aldi Stenmarksvej  1 9492 Blokhus </name>
 </wpt>
-<wpt lat="55.6807608182" lon="11.102332069">
-  <name>aldi Sct. Jørgensbjerg 46  4400 Kalundborg </name>
+<wpt lat="54.8320496901" lon="11.1491057858">
+  <name>aldi Løjtoftevej 4 4900 Nakskov </name>
 </wpt>
 <wpt lat="55.6865507931" lon="12.549718248">
   <name>aldi Rantzausgade 30 2200 København N </name>
 </wpt>
 <wpt lat="55.6496618042" lon="12.2018066916">
   <name>aldi Hovedgaden 407 2640 Hedehusene </name>
-</wpt>
-<wpt lat="56.1787314104" lon="10.2010229624">
-  <name>aldi Randersvej 144  8200 Århus N </name>
 </wpt>
 <wpt lat="55.6601594063" lon="12.6047567303">
   <name>aldi Tingvej 4 2300 København S </name>
