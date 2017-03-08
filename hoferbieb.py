@@ -119,7 +119,10 @@ def maakgpx(regellijst,land,*args):
     else:
 	land1=land.lower()
     doelbestand='aldi-'+land1+'.gpx'
-    doelbestand=codecs.open(doelbestand,encoding='utf-8',mode='w')
+    if land in ['at','ch']:
+	doelbestand=codecs.open(doelbestand,encoding='utf-8',mode='w')
+    else:
+	doelbestand=open(doelbestand,'w')
     doelbestand.write( u'<?xml version="1.0" encoding="utf-8" standalone="yes"?>\n')
     doelbestand.write( u'<gpx version="1.1" creator="Locus Android"\n')
     doelbestand.write( u' xmlns="http://www.topografix.com/GPX/1/1"\n')

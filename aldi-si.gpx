@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="Locus Android"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
+ xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
+ xmlns:locus="http://www.locusmap.eu">
+<wpt lat="45.70501" lon="13.85783">
+  <name>Hofer Partizanska cesta 71c, 6210 Sežana </name>
+</wpt>
+<wpt lat="46.14005" lon="15.0355">
+  <name>Hofer Vodenska cesta 5c, 1420 Trbovlje </name>
+</wpt>
+<wpt lat="46.50085" lon="15.64966">
+  <name>Hofer Bohovska cesta 6, 2311 Hoče pri Mariboru </name>
+</wpt>
+<wpt lat="46.05439" lon="14.56708">
+  <name>Hofer Chengdujska cesta 1, 1000 Ljubljana </name>
+</wpt>
+<wpt lat="46.55539" lon="16.44861">
+  <name>Hofer Kolodvorska ulica 41, 9220 Lendava </name>
+</wpt>
+<wpt lat="46.52507" lon="16.19431">
+  <name>Hofer Prešernova ulica 42, 9240 Ljutomer </name>
+</wpt>
+<wpt lat="46.35843" lon="14.29836">
+  <name>Hofer Cesta Ste Marie aux mines 7, 4290 Tržič </name>
+</wpt>
+<wpt lat="45.93612" lon="14.80503">
+  <name>Hofer Cesta II.grupe odredov 4, 1295 Ivančna Gorica </name>
+</wpt>
+<wpt lat="46.55314" lon="15.62997">
+  <name>Hofer Preradovičeva ulica 20, 2000 Maribor </name>
+</wpt>
+<wpt lat="46.038" lon="14.48011">
+  <name>Hofer Gerbičeva ulica 103, 1000 Ljubljana </name>
+</wpt>
+<wpt lat="46.5448" lon="14.93418">
+  <name>Hofer Pri Brančurniku 9, 2391 Prevalje </name>
+</wpt>
+<wpt lat="46.57968" lon="15.83679">
+  <name>Hofer Kraigherjeva ulica 32, 2230 Lenart </name>
+</wpt>
+<wpt lat="46.08463" lon="14.50661">
+  <name>Hofer Slovenčeva ulica 91, 1000 Ljubljana </name>
+</wpt>
+<wpt lat="46.61483" lon="15.20781">
+  <name>Hofer Koroška cesta 69b, 2360 Radlje ob Dravi </name>
+</wpt>
+<wpt lat="46.66114" lon="16.01262">
+  <name>Hofer Ljutomerska cesta 38, 9250 Gornja Radgona </name>
+</wpt>
+<wpt lat="46.54859" lon="15.64988">
+  <name>Hofer Linhartova ulica 5, 2000 Maribor </name>
+</wpt>
+<wpt lat="46.63137" lon="13.8269">
+  <name>Hofer Badstubenweg 80, 9500 Villach </name>
+</wpt>
+<wpt lat="46.24577" lon="14.37771">
+  <name>Hofer Šuceva ulica 23 a, 4000 Kranj </name>
+</wpt>
+<wpt lat="45.91473" lon="15.5932">
+  <name>Hofer Ulica kozjanskih borcev 57, 8250 Brežice </name>
+</wpt>
+<wpt lat="46.38299" lon="15.56266">
+  <name>Hofer Ljubljanska cesta 90, 2310 Slovenska Bistrica </name>
+</wpt>
+<wpt lat="46.69024" lon="15.98275">
+  <name>Hofer Halbenrainerstrae 9, 8490 Bad Radkersburg </name>
+</wpt>
+<wpt lat="46.06907" lon="14.54389">
+  <name>Hofer Šmartinska cesta 152, 1000 Ljubljana </name>
+</wpt>
+<wpt lat="46.40805" lon="15.86516">
+  <name>Hofer Zagrebška cesta 40, 2250 Ptuj </name>
+</wpt>
+<wpt lat="45.92652" lon="13.63167">
+  <name>Hofer Žnidarčičeva ulica 19 a, 5290 Šempeter pri Gorici </name>
+</wpt>
+<wpt lat="46.06265" lon="14.50876">
+  <name>Hofer Dunajska cesta 20, 1000 Ljubljana </name>
+</wpt>
+<wpt lat="45.64936" lon="14.85311">
+  <name>Hofer Ljubljanska cesta 69, 1330 Kočevje </name>
+</wpt>
+<wpt lat="46.52644" lon="15.6739">
+  <name>Hofer Ptujska cesta 194, 2000 Maribor </name>
+</wpt>
+<wpt lat="46.60561" lon="14.03499">
+  <name>Hofer Rosentaler Strae 78, 9220 Velden </name>
+</wpt>
+<wpt lat="45.57618" lon="14.2293">
+  <name>Hofer Vilharjeva cesta 58, 6250 Ilirska Bistrica </name>
+</wpt>
+<wpt lat="46.13597" lon="14.41761">
+  <name>Hofer Gorenjska cesta 12, 1215 Medvode </name>
+</wpt>
+<wpt lat="46.22997" lon="14.36886">
+  <name>Hofer Smledniška ulica 27H, 4000 Kranj </name>
+</wpt>
+<wpt lat="46.60434" lon="13.86604">
+  <name>Hofer Maria-Gailer-Strae 30, 9500 Villach </name>
+</wpt>
+<wpt lat="46.05715" lon="14.81995">
+  <name>Hofer Ljubljanska cesta 14, 1270 Litija </name>
+</wpt>
+<wpt lat="45.95419" lon="13.65688">
+  <name>Hofer Cesta 25. junija 1L, 5000 Nova Gorica </name>
+</wpt>
+<wpt lat="46.54658" lon="15.67348">
+  <name>Hofer Ulica Veljka Vlahoviča 15, 2000 Maribor </name>
+</wpt>
+<wpt lat="46.05146" lon="14.51238">
+  <name>Hofer Poljanski nasip 10, 1000 Ljubljana </name>
+</wpt>
+<wpt lat="46.59677" lon="13.83917">
+  <name>Hofer Ackerweg 1, 9500 Villach </name>
+</wpt>
+<wpt lat="46.25378" lon="15.61647">
+  <name>Hofer Zgornje Negonje 36b, 3250 Rogaška Slatina </name>
+</wpt>
+<wpt lat="46.61432" lon="13.85897">
+  <name>Hofer Ossiacher Zeile 56b, 9500 Villach </name>
+</wpt>
+<wpt lat="45.7902" lon="14.36768">
+  <name>Hofer Cesta 4. maja 5a, 1380 Cerknica </name>
+</wpt>
+<wpt lat="46.0472" lon="14.4621">
+  <name>Hofer Cesta na Brdo 105, 1000 Ljubljana </name>
+</wpt>
+<wpt lat="45.82314" lon="15.1579">
+  <name>Hofer Andrijaničeva cesta 1, 8000 Novo mesto </name>
+</wpt>
+<wpt lat="45.9147" lon="14.22346">
+  <name>Hofer Cesta talcev 12, 1370 Logatec </name>
+</wpt>
+<wpt lat="46.41679" lon="15.87845">
+  <name>Hofer Ormoška cesta 22, 2250 Ptuj </name>
+</wpt>
+<wpt lat="45.94258" lon="15.48733">
+  <name>Hofer Cesta krških žrtev 133, 8270 Krško </name>
+</wpt>
+<wpt lat="46.00014" lon="14.55598">
+  <name>Hofer Dolenjska cesta 337, 1291 Lavrica-Škofljica </name>
+</wpt>
+<wpt lat="46.64834" lon="16.14727">
+  <name>Hofer Kroška ulica 58 a, 9000 Murska Sobota </name>
+</wpt>
+<wpt lat="46.36532" lon="15.08925">
+  <name>Hofer Partizanska cesta 52b, 3320 Velenje </name>
+</wpt>
+<wpt lat="46.44144" lon="14.03546">
+  <name>Hofer Spodnji plavž 3c, 4270 Jesenice </name>
+</wpt>
+<wpt lat="45.54327" lon="13.73846">
+  <name>Hofer Ankaranska cesta 3b, 6000 Koper-Capodistria </name>
+</wpt>
+<wpt lat="46.57667" lon="15.0266">
+  <name>Hofer Otiški vrh 168 A, 2373 Šentjanž pri Dravogradu </name>
+</wpt>
+<wpt lat="45.90715" lon="15.02545">
+  <name>Hofer Prijateljeva ulica 3, 8210 Trebnje </name>
+</wpt>
+<wpt lat="46.17508" lon="14.3207">
+  <name>Hofer Grenc 55, 4220 Škofja Loka </name>
+</wpt>
+<wpt lat="46.05471" lon="14.5199">
+  <name>Hofer Njegoševa ulica 8, 1000 Ljubljana </name>
+</wpt>
+<wpt lat="46.59904" lon="13.84655">
+  <name>Hofer Heidenfeldstrae 35, 9500 Villach </name>
+</wpt>
+<wpt lat="46.66725" lon="16.17817">
+  <name>Hofer Lendavska ulica 64, 9000 Murska Sobota </name>
+</wpt>
+<wpt lat="46.58594" lon="15.66686">
+  <name>Hofer Šentiljska cesta 116a, 2000 Maribor </name>
+</wpt>
+<wpt lat="46.01883" lon="14.02978">
+  <name>Hofer Vojkova ulica 41, 5280 Idrija </name>
+</wpt>
+<wpt lat="45.8809" lon="13.90256">
+  <name>Hofer Ulica Mirce 10, 5270 Ajdovščina </name>
+</wpt>
+<wpt lat="46.61413" lon="13.83066">
+  <name>Hofer Tiroler Strae 51, 9500 Villach </name>
+</wpt>
+<wpt lat="46.23714" lon="15.27192">
+  <name>Hofer Mariborska cesta 30, 3000 Celje </name>
+</wpt>
+<wpt lat="46.55776" lon="15.64135">
+  <name>Hofer Vodnikov trg 7, 2000 Maribor </name>
+</wpt>
+<wpt lat="46.41165" lon="16.1645">
+  <name>Hofer Ljutomerska cesta 38c, 2270 Ormož </name>
+</wpt>
+<wpt lat="46.02508" lon="14.53821">
+  <name>Hofer Dolenjska cesta 240d, 1000 Ljubljana </name>
+</wpt>
+<wpt lat="46.25481" lon="15.15101">
+  <name>Hofer Gotoveljska cesta 18, 3310 Žalec </name>
+</wpt>
+<wpt lat="45.53153" lon="13.66497">
+  <name>Hofer Kajuhova ulica 22, 6310 Izola-Isola </name>
+</wpt>
+<wpt lat="46.51155" lon="15.08404">
+  <name>Hofer Pohorska cesta 18, 2380 Slovenj Gradec </name>
+</wpt>
+<wpt lat="46.19914" lon="14.59505">
+  <name>Hofer Domžalska cesta 1, 1241 Kamnik </name>
+</wpt>
+<wpt lat="46.00676" lon="15.29295">
+  <name>Hofer Radna 32, 8294 Boštanj </name>
+</wpt>
+<wpt lat="46.34063" lon="14.97016">
+  <name>Hofer Cesta na lepo njivo 7, 3330 Mozirje </name>
+</wpt>
+<wpt lat="45.79864" lon="15.17964">
+  <name>Hofer Belokranjska cesta 2, 8000 Novo Mesto </name>
+</wpt>
+<wpt lat="46.14867" lon="14.61129">
+  <name>Hofer Šaranovičeva cesta 27a, 1230 Domžale </name>
+</wpt>
+<wpt lat="46.21436" lon="15.38913">
+  <name>Hofer Drofenikova ulica 10, 3230 Šentjur </name>
+</wpt>
+<wpt lat="46.05651" lon="14.54159">
+  <name>Hofer Toplarniška ulica 4, 1000 Ljubljana </name>
+</wpt>
+<wpt lat="46.18114" lon="13.72886">
+  <name>Hofer Ulica padlih borcev 11a, 5220 Tolmin </name>
+</wpt>
+<wpt lat="45.95965" lon="14.64755">
+  <name>Hofer Adamičeva cesta 4, 1290 Grosuplje </name>
+</wpt>
+<wpt lat="46.366" lon="14.1612">
+  <name>Hofer Hraška cesta 23, 4248 Lesce </name>
+</wpt>
+<wpt lat="46.54511" lon="15.61774">
+  <name>Hofer C. proletarskih brigad 101, 2000 Maribor </name>
+</wpt>
+<wpt lat="46.08123" lon="14.48086">
+  <name>Hofer Celovška cesta 224, 1000 Ljubljana </name>
+</wpt>
+<wpt lat="45.53143" lon="13.72811">
+  <name>Hofer Dolinska cesta 7, 6000 Koper </name>
+</wpt>
+<wpt lat="45.97572" lon="14.30686">
+  <name>Hofer Ljubljanska cesta 33, 1360 Vrhnika </name>
+</wpt>
+<wpt lat="46.23346" lon="15.2973">
+  <name>Hofer Teharje 1a, 3221 Teharje </name>
+</wpt>
+<wpt lat="45.58123" lon="15.19748">
+  <name>Hofer Belokranjska cesta 24, 8340 Črnomelj </name>
+</wpt>
+<wpt lat="46.23829" lon="15.24342">
+  <name>Hofer Ljubljanska cesta 112, 3000 Celje </name>
+</wpt>
+<wpt lat="46.37012" lon="15.13224">
+  <name>Hofer Selo 7a, 3320 Velenje </name>
+</wpt>
+<wpt lat="46.07071" lon="14.52366">
+  <name>Hofer Kranjčeva ulica 25, 1000 Ljubljana </name>
+</wpt>
+<wpt lat="46.08934" lon="14.47573">
+  <name>Hofer Ulica Jožeta Jame 11, 1000 Ljubljana </name>
+</wpt>
+<wpt lat="46.34124" lon="15.43619">
+  <name>Hofer Prevrat 21, 3210 Slovenske Konjice </name>
+</wpt>
+<wpt lat="46.04777" lon="14.52456">
+  <name>Hofer Mesarska cesta 13, 1000 Ljubljana </name>
+</wpt>
+<wpt lat="45.76752" lon="14.19513">
+  <name>Hofer Industrijska cesta 4, 6230 Postojna </name>
+</wpt>
+</gpx>
