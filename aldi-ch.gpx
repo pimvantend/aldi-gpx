@@ -7,29 +7,26 @@
  xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
  xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
  xmlns:locus="http://www.locusmap.eu">
-<wpt lat="47.371" lon="8.77097">
-  <name>ALDI Speckstrasse 1, 8330 Pfaeffikon  </name>
+<wpt lat="47.51985" lon="9.41801">
+  <name>ALDI Rütistrasse 1, 9320 Arbon  </name>
 </wpt>
-<wpt lat="47.43775" lon="8.4735">
-  <name>ALDI Feldstrasse 32, 8105 Regensdorf  </name>
+<wpt lat="47.2296" lon="8.6759">
+  <name>ALDI Seestrasse 302-304, 8820 Wädenswil/Au  </name>
 </wpt>
 <wpt lat="47.35794" lon="8.70798">
   <name>ALDI Industriepark 10, 8610 Uster  </name>
 </wpt>
-<wpt lat="47.30533" lon="8.82367">
-  <name>ALDI Waesseristrasse 18, 8340 Hinwil  </name>
-</wpt>
 <wpt lat="47.46394" lon="9.00703">
   <name>ALDI Wilerstrasse 98, 8370 Sirnach  </name>
 </wpt>
-<wpt lat="46.84685" lon="9.51797">
-  <name>ALDI Kasernenstrasse 53, 7000 Chur  </name>
+<wpt lat="47.49854" lon="8.72391">
+  <name>ALDI Archhöfe/Archplatz 2, 8400 Winterthur  </name>
 </wpt>
 <wpt lat="47.09962" lon="9.35094">
   <name>ALDI Lochrietstrasse 18, 8890 Flums  </name>
 </wpt>
-<wpt lat="47.65496" lon="9.1639">
-  <name>ALDI Taegerwilerstrasse 2 + 4, 8280 Kreuzlingen  </name>
+<wpt lat="47.56805" lon="9.09437">
+  <name>ALDI Weststrasse 22, 8570 Weinfelden  </name>
 </wpt>
 <wpt lat="47.54872" lon="9.27456">
   <name>ALDI Schrofenstrasse 18, 8580 Amriswil  </name>
@@ -40,44 +37,41 @@
 <wpt lat="47.4389" lon="8.29129">
   <name>ALDI Birmenstorferstrasse 1, 5442 Fislisbach  </name>
 </wpt>
-<wpt lat="46.22407" lon="7.30008">
-  <name>ALDI Route Cantonale 24, 1964 Conthey  </name>
+<wpt lat="47.45059" lon="8.53827">
+  <name>ALDI Hofwisenstrasse 42, 8153 Rümlang  </name>
+</wpt>
+<wpt lat="47.26061" lon="8.83927">
+  <name>ALDI Spitalstrasse 60, 8630 Rüti  </name>
 </wpt>
 <wpt lat="46.22746" lon="7.38026">
   <name>ALDI Rue des Casernes 55a, 1950 Sion  </name>
 </wpt>
-<wpt lat="47.43881" lon="8.57242">
-  <name>ALDI Schaffhauserstrasse 134, 8152 Glattbrugg  </name>
+<wpt lat="47.22899" lon="8.96571">
+  <name>ALDI Wiesentalstrasse 2, 8730 Uznach  </name>
 </wpt>
 <wpt lat="47.41787" lon="9.2361">
   <name>ALDI Wilerstrasse 82, 9200 Gossau  </name>
 </wpt>
+<wpt lat="46.47317" lon="6.42672">
+  <name>ALDI Rue de la Chenalette 177, 1163 Etoy  </name>
+</wpt>
+<wpt lat="47.07555" lon="7.30753">
+  <name>ALDI Bürenstrasse 9, 3250 Lyss  </name>
+</wpt>
 <wpt lat="47.13341" lon="7.24239">
   <name>ALDI Bahnhofplatz 2A, 2504 Biel  </name>
-</wpt>
-<wpt lat="46.79831" lon="7.12107">
-  <name>ALDI Route de Moncor 12, 1752 Villars-sur-Glane  </name>
 </wpt>
 <wpt lat="46.51604" lon="6.50563">
   <name>ALDI Rue de Lausanne 47, 1110 Morges  </name>
 </wpt>
-<wpt lat="47.2296" lon="8.6759">
-  <name>ALDI Seestrasse 302-304, 8820 Waedenswil/Au  </name>
-</wpt>
-<wpt lat="47.56379" lon="8.88061">
-  <name>ALDI Wespenstrasse 16, 8500 Frauenfeld  </name>
-</wpt>
-<wpt lat="47.4659" lon="8.3275">
-  <name>ALDI Landstrasse 99, 5430 Wettingen  </name>
-</wpt>
 <wpt lat="45.9963" lon="8.90421">
   <name>ALDI Via Chiodenda 7, 6982 Agno  </name>
 </wpt>
-<wpt lat="47.15822" lon="9.04232">
-  <name>ALDI Saeumergutstrasse 3, 8718 Schaenis  </name>
-</wpt>
 <wpt lat="47.3575" lon="8.056">
   <name>ALDI Feldstrasse 5, 5036 Oberentfelden  </name>
+</wpt>
+<wpt lat="47.4194" lon="8.55643">
+  <name>ALDI Schärenmoosstrasse 77, 8052 Zürich  </name>
 </wpt>
 <wpt lat="47.38489" lon="8.39576">
   <name>ALDI Bernstrasse 378, 8953 Dietikon  </name>
@@ -94,11 +88,14 @@
 <wpt lat="47.19215" lon="7.40832">
   <name>ALDI Leuzigenstrasse 4, 2540 Grenchen  </name>
 </wpt>
-<wpt lat="47.57082" lon="8.92114">
-  <name>ALDI Zuercherstrasse 381, 8500 Frauenfeld  </name>
+<wpt lat="47.3714" lon="8.00201">
+  <name>ALDI Im Grund 18, 5014 Gretzenbach  </name>
 </wpt>
-<wpt lat="46.59709" lon="7.07908">
-  <name>ALDI Rte de l'Intyamon 111, 1635 La Tour-de-Treme  </name>
+<wpt lat="47.44135" lon="8.834">
+  <name>ALDI Tösstalstrasse 11, 8488 Turbenthal  </name>
+</wpt>
+<wpt lat="47.19787" lon="7.52904">
+  <name>ALDI Bürenstrasse 91, 4562 Biberist  </name>
 </wpt>
 <wpt lat="47.41216" lon="8.61603">
   <name>ALDI Industriestrasse 34, 8305 Dietlikon  </name>
@@ -106,32 +103,32 @@
 <wpt lat="46.2237" lon="9.0502">
   <name>ALDI Via San Bernardino 18, 6532 Castione  </name>
 </wpt>
-<wpt lat="46.3497" lon="8.9743">
-  <name>ALDI Via Bellinzona 46, 6710 Biasca  </name>
+<wpt lat="47.50486" lon="8.54122">
+  <name>ALDI Parkallee/Grabenstrasse 1, 8184 Bachenbülach  </name>
 </wpt>
-<wpt lat="47.22899" lon="8.96571">
-  <name>ALDI Wiesentalstrasse 2, 8730 Uznach  </name>
+<wpt lat="46.10921" lon="7.07669">
+  <name>ALDI Avenue de Fully 41, 1920 Martigny  </name>
 </wpt>
-<wpt lat="46.94915" lon="7.40926">
-  <name>ALDI Murtenstrasse 143, 3008 Bern  </name>
+<wpt lat="46.84685" lon="9.51797">
+  <name>ALDI Kasernenstrasse 53, 7000 Chur  </name>
 </wpt>
-<wpt lat="47.56805" lon="9.09437">
-  <name>ALDI Weststrasse 22, 8570 Weinfelden  </name>
+<wpt lat="47.1073" lon="8.4502">
+  <name>ALDI Zugerstrasse 66, 6403 Küssnacht am Rigi  </name>
 </wpt>
-<wpt lat="47.51985" lon="9.41801">
-  <name>ALDI Ruetistrasse 1, 9320 Arbon  </name>
+<wpt lat="46.80114" lon="7.15189">
+  <name>ALDI Boulevard de Pérolles 7b, 1700 Fribourg  </name>
 </wpt>
 <wpt lat="46.96358" lon="7.48187">
   <name>ALDI Milchstrasse 2-8, 3072 Ostermundigen  </name>
 </wpt>
-<wpt lat="47.30345" lon="8.71871">
-  <name>ALDI Isenrietstrasse 20, 8617 Moenchaltorf  </name>
-</wpt>
 <wpt lat="46.54112" lon="6.55334">
   <name>ALDI Route du Reculan 7, 1024 Ecublens  </name>
 </wpt>
-<wpt lat="46.47317" lon="6.42672">
-  <name>ALDI Rue de la Chenalette 177, 1163 Etoy  </name>
+<wpt lat="47.12499" lon="9.49662">
+  <name>ALDI Bahnweg Süd 1, 9475 Sevelen  </name>
+</wpt>
+<wpt lat="47.0372" lon="8.32821">
+  <name>ALDI Schönbühl/Langensandstr. 23, 6005 Luzern  </name>
 </wpt>
 <wpt lat="46.54649" lon="6.56363">
   <name>ALDI Route de Renens 8, 1030 Bussigny  </name>
@@ -151,8 +148,8 @@
 <wpt lat="46.22147" lon="6.10845">
   <name>ALDI Rue du Grand-Bay 21, 1220 Vernier  </name>
 </wpt>
-<wpt lat="46.80114" lon="7.15189">
-  <name>ALDI Boulevard de Perolles 7b, 1700 Fribourg  </name>
+<wpt lat="47.1823" lon="7.9832">
+  <name>ALDI Schürmatt 5, 6247 Schötz  </name>
 </wpt>
 <wpt lat="47.49923" lon="8.90743">
   <name>ALDI Wittenwilerstrasse 45, 8355 Aadorf  </name>
@@ -169,20 +166,17 @@
 <wpt lat="46.79222" lon="9.81957">
   <name>ALDI Bahnhofstrasse 4A, 7270 Davos  </name>
 </wpt>
-<wpt lat="47.41084" lon="9.33796">
-  <name>ALDI Fuerstenlandstrasse 149, 9014 St. Gallen  </name>
-</wpt>
-<wpt lat="47.1073" lon="8.4502">
-  <name>ALDI Zugerstrasse 66, 6403 Kuessnacht am Rigi  </name>
-</wpt>
 <wpt lat="45.8363" lon="9.03451">
   <name>ALDI Viale Alessandro Volta 22, 6830 Chiasso  </name>
 </wpt>
 <wpt lat="46.78327" lon="7.14669">
   <name>ALDI Route des Ecoles 48, 1723 Marly  </name>
 </wpt>
-<wpt lat="47.50366" lon="7.55397">
-  <name>ALDI Oberwilerstrasse 40, 4106 Therwil  </name>
+<wpt lat="46.85609" lon="7.19821">
+  <name>ALDI Murtenstrasse 39, 3186 Düdingen  </name>
+</wpt>
+<wpt lat="47.40549" lon="8.59251">
+  <name>ALDI Überlandstrasse 441, 8051 Zürich  </name>
 </wpt>
 <wpt lat="47.38095" lon="8.68351">
   <name>ALDI Usterstrasse 51, 8604 Volketswil  </name>
@@ -196,26 +190,14 @@
 <wpt lat="46.0898" lon="8.9211">
   <name>ALDI Via Cantonale 4, 6805 Mezzovico  </name>
 </wpt>
-<wpt lat="47.38081" lon="8.5332">
-  <name>ALDI Zollstrasse 58, 8005 Zuerich  </name>
-</wpt>
 <wpt lat="47.4789" lon="7.59668">
   <name>ALDI Arlesheimerstrasse 11, 4147 Aesch  </name>
 </wpt>
 <wpt lat="46.17476" lon="8.89529">
   <name>ALDI Via Cantonale 95, 6595 Riazzino-Lavertezzo  </name>
 </wpt>
-<wpt lat="47.2888" lon="7.718">
-  <name>ALDI Muehlefeldstrasse 15, 4702 Oensingen  </name>
-</wpt>
-<wpt lat="47.38687" lon="9.2735">
-  <name>ALDI Cilanderstrasse 10, 9100 Herisau  </name>
-</wpt>
-<wpt lat="46.10921" lon="7.07669">
-  <name>ALDI Avenue de Fully 41, 1920 Martigny  </name>
-</wpt>
-<wpt lat="46.8877" lon="8.63411">
-  <name>ALDI Flueelerstrasse  34, 6460 Altdorf  </name>
+<wpt lat="46.3497" lon="8.9743">
+  <name>ALDI Via Bellinzona 46, 6710 Biasca  </name>
 </wpt>
 <wpt lat="47.4596" lon="8.4013">
   <name>ALDI Dammstrasse 24, 8112 Otelfingen  </name>
@@ -226,29 +208,32 @@
 <wpt lat="47.1875" lon="8.4747">
   <name>ALDI Alte Steinhauserstrasse 10, 6330 Cham  </name>
 </wpt>
-<wpt lat="46.62972" lon="7.05954">
-  <name>ALDI Chemin de Champ-Francey 150, 1630 Bulle  </name>
+<wpt lat="47.50366" lon="7.55397">
+  <name>ALDI Oberwilerstrasse 40, 4106 Therwil  </name>
 </wpt>
-<wpt lat="46.79019" lon="6.62165">
-  <name>ALDI En Chamard 44, 1442 Montagny-pres-Yverdon  </name>
+<wpt lat="47.371" lon="8.77097">
+  <name>ALDI Speckstrasse 1, 8330 Pfäffikon  </name>
 </wpt>
 <wpt lat="47.0345" lon="8.27281">
   <name>ALDI SchappeCenter/Hobacherweg 2, 6010 Kriens  </name>
 </wpt>
-<wpt lat="47.12499" lon="9.49662">
-  <name>ALDI Bahnweg Sued 1, 9475 Sevelen  </name>
+<wpt lat="47.132" lon="8.4035">
+  <name>ALDI Gwärbstrasse 4, 6038 Honau  </name>
 </wpt>
 <wpt lat="47.3876" lon="8.08131">
   <name>ALDI Fabrikweg 16, 5033 Buchs  </name>
 </wpt>
-<wpt lat="46.31581" lon="7.98754">
-  <name>ALDI Glismattenstrasse 20, 3902 Brig-Glis  </name>
+<wpt lat="46.8233" lon="6.933">
+  <name>ALDI Z.I. La Palaz B8, 1530 Payerne  </name>
 </wpt>
 <wpt lat="46.0361" lon="8.9267">
   <name>ALDI Via Violino 11, 6928 Manno  </name>
 </wpt>
 <wpt lat="47.21924" lon="7.19835">
   <name>ALDI Pleine-Eau 5, 2710 Tavannes  </name>
+</wpt>
+<wpt lat="46.688" lon="6.90824">
+  <name>ALDI Route de l'Industrie 7, 1680 Romont  </name>
 </wpt>
 <wpt lat="47.33222" lon="8.79639">
   <name>ALDI Motorenstrasse 99, 8620 Wetzikon  </name>
@@ -262,8 +247,14 @@
 <wpt lat="46.53563" lon="6.65647">
   <name>ALDI Route d'Oron 39, 1000 Lausanne  </name>
 </wpt>
-<wpt lat="47.50076" lon="7.72171">
-  <name>ALDI Parkstrasse 2, 4402 Frenkendorf  </name>
+<wpt lat="47.36246" lon="7.34237">
+  <name>ALDI Rue du Stand 1, 2800 Delémont  </name>
+</wpt>
+<wpt lat="47.06708" lon="6.76597">
+  <name>ALDI Rue du Verger 16, 2400 Le Locle  </name>
+</wpt>
+<wpt lat="47.39301" lon="8.64206">
+  <name>ALDI Im Schossacher 24, 8600 Dübendorf  </name>
 </wpt>
 <wpt lat="46.78656" lon="7.07767">
   <name>ALDI Route de Matran 5, 1754 Avry-sur-Matran  </name>
@@ -277,17 +268,14 @@
 <wpt lat="47.49871" lon="8.69709">
   <name>ALDI Schlosstalstrasse 96, 8408 Winterthur  </name>
 </wpt>
-<wpt lat="47.1823" lon="7.9832">
-  <name>ALDI Schuermatt 5, 6247 Schoetz  </name>
+<wpt lat="46.77531" lon="9.19152">
+  <name>ALDI Via Grüneck 2, 7130 Ilanz  </name>
 </wpt>
-<wpt lat="47.24205" lon="8.71889">
-  <name>ALDI Haeldelistrasse 11, 8712 Staefa  </name>
+<wpt lat="47.38848" lon="8.4969">
+  <name>ALDI Hohlstrasse 473, 8048 Zürich  </name>
 </wpt>
-<wpt lat="47.40025" lon="8.44107">
-  <name>ALDI Goldschlaegiplatz 3, 8952 Schlieren  </name>
-</wpt>
-<wpt lat="47.49854" lon="8.72391">
-  <name>ALDI Archhoefe/Archplatz 2, 8400 Winterthur  </name>
+<wpt lat="47.3586" lon="8.2727">
+  <name>ALDI Lägernstrasse 5, 5610 Wohlen  </name>
 </wpt>
 <wpt lat="47.21615" lon="7.51173">
   <name>ALDI Bellacherstrasse 4, 4513 Langendorf  </name>
@@ -295,20 +283,17 @@
 <wpt lat="46.528" lon="6.59105">
   <name>ALDI Avenue de Longemalle 1, 1020 Renens  </name>
 </wpt>
-<wpt lat="47.25713" lon="8.68298">
-  <name>ALDI Seestrasse 61, 8708 Maennedorf  </name>
-</wpt>
 <wpt lat="47.21309" lon="7.78715">
   <name>ALDI Brauihof 22, 4900 Langenthal  </name>
+</wpt>
+<wpt lat="46.98924" lon="6.90336">
+  <name>ALDI Rue Draizes 7, 2000 Neuchâtel  </name>
 </wpt>
 <wpt lat="47.02268" lon="7.04376">
   <name>ALDI Bernstrasse 7, 3238 Gals  </name>
 </wpt>
-<wpt lat="47.55751" lon="7.57461">
-  <name>ALDI Tuerkheimerstrasse 4-6, 4055 Basel  </name>
-</wpt>
-<wpt lat="47.39301" lon="8.64206">
-  <name>ALDI Im Schossacher 24, 8600 Duebendorf  </name>
+<wpt lat="46.94915" lon="7.40926">
+  <name>ALDI Murtenstrasse 143, 3008 Bern  </name>
 </wpt>
 <wpt lat="47.0244" lon="8.29451">
   <name>ALDI Ringcenter/Ringstrasse 27, 6010 Kriens  </name>
@@ -319,14 +304,17 @@
 <wpt lat="46.80808" lon="7.12874">
   <name>ALDI Route des Loisirs 1, 1762 Givisiez  </name>
 </wpt>
-<wpt lat="47.3586" lon="8.2727">
-  <name>ALDI Laegernstrasse 5, 5610 Wohlen  </name>
+<wpt lat="47.38081" lon="8.5332">
+  <name>ALDI Zollstrasse 58, 8005 Zürich  </name>
+</wpt>
+<wpt lat="46.91753" lon="7.10888">
+  <name>ALDI Länggasse 47, 1796 Courgevaux  </name>
+</wpt>
+<wpt lat="47.30345" lon="8.71871">
+  <name>ALDI Isenrietstrasse 20, 8617 Mönchaltorf  </name>
 </wpt>
 <wpt lat="47.2244" lon="8.2497">
   <name>ALDI Luzernerstrasse 28, 6294 Ermensee  </name>
-</wpt>
-<wpt lat="46.906" lon="8.257">
-  <name>ALDI Kaegiswilerstrasse 39, 6060 Sarnen  </name>
 </wpt>
 <wpt lat="46.52683" lon="6.60347">
   <name>ALDI Avenue du Chablais 3b, 1007 Lausanne  </name>
@@ -334,17 +322,20 @@
 <wpt lat="47.48488" lon="9.54824">
   <name>ALDI Knotternstrasse 4, 9423 Altenrhein  </name>
 </wpt>
-<wpt lat="47.41346" lon="8.53927">
-  <name>ALDI Binzmuehlestrasse 102, 8050 Zuerich  </name>
+<wpt lat="46.85134" lon="9.51231">
+  <name>ALDI Ringstrasse 2 + 4, 7000 Chur  </name>
+</wpt>
+<wpt lat="46.19432" lon="6.19548">
+  <name>ALDI Rue Peillonnex 2, 1225 Chêne-Bourg  </name>
 </wpt>
 <wpt lat="46.56196" lon="7.37513">
   <name>ALDI Thunstrasse 29c, 3770 Zweisimmen  </name>
 </wpt>
-<wpt lat="46.91753" lon="7.10888">
-  <name>ALDI Laenggasse 47, 1796 Courgevaux  </name>
+<wpt lat="47.41084" lon="9.33796">
+  <name>ALDI Fürstenlandstrasse 149, 9014 St. Gallen  </name>
 </wpt>
-<wpt lat="46.8233" lon="6.933">
-  <name>ALDI Z.I. La Palaz B8, 1530 Payerne  </name>
+<wpt lat="46.31581" lon="7.98754">
+  <name>ALDI Glismattenstrasse 20, 3902 Brig-Glis  </name>
 </wpt>
 <wpt lat="46.74716" lon="7.62592">
   <name>ALDI Frutigenstrasse 46c, 3600 Thun  </name>
@@ -355,17 +346,26 @@
 <wpt lat="47.2051" lon="8.70678">
   <name>ALDI Zugerstrasse 1, 8805 Richterswil  </name>
 </wpt>
-<wpt lat="47.19787" lon="7.52904">
-  <name>ALDI Buerenstrasse 91, 4562 Biberist  </name>
+<wpt lat="47.43775" lon="8.4735">
+  <name>ALDI Feldstrasse 32, 8105 Regensdorf  </name>
+</wpt>
+<wpt lat="47.40881" lon="8.54384">
+  <name>ALDI Baumackerstrasse 35, 8050 Zürich  </name>
+</wpt>
+<wpt lat="47.39967" lon="8.41281">
+  <name>ALDI Zürcherstrasse 55, 8953 Dietikon  </name>
+</wpt>
+<wpt lat="46.79831" lon="7.12107">
+  <name>ALDI Route de Moncor 12, 1752 Villars-sur-Glâne  </name>
 </wpt>
 <wpt lat="46.56913" lon="6.81495">
-  <name>ALDI Route de Lausanne 1, 1610 Chatillens  </name>
-</wpt>
-<wpt lat="47.06708" lon="6.76597">
-  <name>ALDI Rue du Verger 16, 2400 Le Locle  </name>
+  <name>ALDI Route de Lausanne 1, 1610 Châtillens  </name>
 </wpt>
 <wpt lat="47.04406" lon="9.43133">
   <name>ALDI Grossfeldstrasse 61, 8887 Mels  </name>
+</wpt>
+<wpt lat="47.65496" lon="9.1639">
+  <name>ALDI Tägerwilerstrasse 2 + 4, 8280 Kreuzlingen  </name>
 </wpt>
 <wpt lat="47.3485" lon="7.89101">
   <name>ALDI Solothurnerstrasse 201, 4600 Olten  </name>
@@ -373,8 +373,11 @@
 <wpt lat="47.0947" lon="8.3628">
   <name>ALDI Pilatusstrasse 18, 6036 Dierikon  </name>
 </wpt>
-<wpt lat="45.8468" lon="9.01539">
-  <name>ALDI Viale Serfontana 16, 6834 Morbio Inferiore  </name>
+<wpt lat="47.45621" lon="7.60465">
+  <name>ALDI Liebmattstrasse 7, 4202 Duggingen  </name>
+</wpt>
+<wpt lat="47.24205" lon="8.71889">
+  <name>ALDI Häldelistrasse 11, 8712 Stäfa  </name>
 </wpt>
 <wpt lat="46.71965" lon="6.54579">
   <name>ALDI Chemin des Taborneires 6, 1350 Orbe  </name>
@@ -388,17 +391,26 @@
 <wpt lat="47.56208" lon="7.5926">
   <name>ALDI Webergasse 34, 4058 Basel  </name>
 </wpt>
-<wpt lat="46.1676" lon="9.0003">
-  <name>ALDI Via Monte Ceneri 24, 6512 Giubiasco  </name>
+<wpt lat="47.43881" lon="8.57242">
+  <name>ALDI Schaffhauserstrasse 134, 8152 Glattbrugg  </name>
 </wpt>
-<wpt lat="46.77531" lon="9.19152">
-  <name>ALDI Via Grueneck 2, 7130 Ilanz  </name>
+<wpt lat="46.87414" lon="7.55998">
+  <name>ALDI Bahnhofplatz 1, 3110 Münsingen  </name>
 </wpt>
 <wpt lat="46.68698" lon="7.86735">
   <name>ALDI Lindenallee 106, 3800 Interlaken  </name>
 </wpt>
+<wpt lat="46.62972" lon="7.05954">
+  <name>ALDI Chemin de Champ-Francey 150, 1630 Bulle  </name>
+</wpt>
 <wpt lat="47.29653" lon="9.09219">
   <name>ALDI Rietwisstrasse 11, 9630 Wattwil  </name>
+</wpt>
+<wpt lat="46.1676" lon="9.0003">
+  <name>ALDI Via Monte Ceneri 24, 6512 Giubiasco  </name>
+</wpt>
+<wpt lat="46.22407" lon="7.30008">
+  <name>ALDI Route Cantonale 24, 1964 Conthey  </name>
 </wpt>
 <wpt lat="47.40891" lon="9.62373">
   <name>ALDI Balgacherstrasse 205, 9435 Heerbrugg  </name>
@@ -409,14 +421,11 @@
 <wpt lat="47.51731" lon="8.59612">
   <name>ALDI Industriestrasse 4, 8424 Embrach  </name>
 </wpt>
-<wpt lat="47.40881" lon="8.54384">
-  <name>ALDI Baumackerstrasse 35, 8050 Zuerich  </name>
+<wpt lat="47.30533" lon="8.82367">
+  <name>ALDI Wässeristrasse 18, 8340 Hinwil  </name>
 </wpt>
-<wpt lat="47.0372" lon="8.32821">
-  <name>ALDI Schoenbuehl/Langensandstr. 23, 6005 Luzern  </name>
-</wpt>
-<wpt lat="47.4892" lon="8.24411">
-  <name>ALDI Wambisterstrasse 5, 5412 Gebenstorf  </name>
+<wpt lat="46.59709" lon="7.07908">
+  <name>ALDI Rte de l'Intyamon 111, 1635 La Tour-de-Trême  </name>
 </wpt>
 <wpt lat="47.3926" lon="8.0582">
   <name>ALDI Industriestrasse 1, 5000 Aarau  </name>
@@ -424,11 +433,17 @@
 <wpt lat="47.40521" lon="9.30573">
   <name>ALDI Westcenter/Herisauerstr. 5, 9015 St. Gallen  </name>
 </wpt>
-<wpt lat="46.85134" lon="9.51231">
-  <name>ALDI Ringstrasse 2 + 4, 7000 Chur  </name>
+<wpt lat="47.41346" lon="8.53927">
+  <name>ALDI Binzmühlestrasse 102, 8050 Zürich  </name>
+</wpt>
+<wpt lat="46.906" lon="8.257">
+  <name>ALDI Kägiswilerstrasse 39, 6060 Sarnen  </name>
 </wpt>
 <wpt lat="47.09432" lon="7.57072">
   <name>ALDI Industrie Neuhof 80, 3422 Kirchberg  </name>
+</wpt>
+<wpt lat="46.79019" lon="6.62165">
+  <name>ALDI En Chamard 44, 1442 Montagny-près-Yverdon  </name>
 </wpt>
 <wpt lat="46.93972" lon="7.44069">
   <name>ALDI Eigerstrasse 82, 3007 Bern  </name>
@@ -445,8 +460,8 @@
 <wpt lat="46.52887" lon="9.87473">
   <name>ALDI Cho d'Punt 43, 7503 Samedan  </name>
 </wpt>
-<wpt lat="46.19432" lon="6.19548">
-  <name>ALDI Rue Peillonnex 2, 1225 Chene-Bourg  </name>
+<wpt lat="47.15822" lon="9.04232">
+  <name>ALDI Säumergutstrasse 3, 8718 Schänis  </name>
 </wpt>
 <wpt lat="46.38351" lon="6.91898">
   <name>ALDI Les Malliez 1, 1845 Noville  </name>
@@ -463,32 +478,17 @@
 <wpt lat="47.3241" lon="7.8037">
   <name>ALDI Lindenhagstrasse 1, 4622 Egerkingen  </name>
 </wpt>
-<wpt lat="47.36391" lon="9.55562">
-  <name>ALDI Oberrieterstrasse 85, 9450 Altstaetten  </name>
-</wpt>
 <wpt lat="46.76147" lon="7.627">
   <name>ALDI Grabenstrasse 8, 3600 Thun  </name>
-</wpt>
-<wpt lat="47.09546" lon="9.06146">
-  <name>ALDI Oberdorf 54, 8752 Naefels  </name>
 </wpt>
 <wpt lat="46.18714" lon="6.11065">
   <name>ALDI Route de Chancy 71, 1213 Petit-Lancy  </name>
 </wpt>
-<wpt lat="47.50486" lon="8.54122">
-  <name>ALDI Parkallee/Grabenstrasse 1, 8184 Bachenbuelach  </name>
-</wpt>
-<wpt lat="46.688" lon="6.90824">
-  <name>ALDI Route de l'industrie 7, 1680 Romont  </name>
-</wpt>
-<wpt lat="47.40549" lon="8.59251">
-  <name>ALDI Ueberlandstrasse 441, 8051 Zuerich  </name>
+<wpt lat="47.4659" lon="8.3275">
+  <name>ALDI Landstrasse 99, 5430 Wettingen  </name>
 </wpt>
 <wpt lat="46.52148" lon="6.63654">
   <name>ALDI Rue St. Martin 3-5, 1000 Lausanne  </name>
-</wpt>
-<wpt lat="47.132" lon="8.4035">
-  <name>ALDI Gwaerbstrasse 4, 6038 Honau  </name>
 </wpt>
 <wpt lat="46.68518" lon="7.66798">
   <name>ALDI Simmentalstrasse 50, 3700 Spiez  </name>
@@ -496,23 +496,23 @@
 <wpt lat="47.00469" lon="7.46248">
   <name>ALDI Bernstrasse 160, 3052 Zollikofen  </name>
 </wpt>
-<wpt lat="46.98924" lon="6.90336">
-  <name>ALDI Rue Draizes 7, 2000 Neuchatel  </name>
+<wpt lat="47.50076" lon="7.72171">
+  <name>ALDI Parkstrasse 2, 4402 Frenkendorf  </name>
+</wpt>
+<wpt lat="47.40025" lon="8.44107">
+  <name>ALDI Goldschlägiplatz 3, 8952 Schlieren  </name>
 </wpt>
 <wpt lat="47.1007" lon="8.268">
   <name>ALDI Bertiswilstrasse 42, 6023 Rothenburg  </name>
-</wpt>
-<wpt lat="47.45059" lon="8.53827">
-  <name>ALDI Hofwisenstrasse 42, 8153 Ruemlang  </name>
-</wpt>
-<wpt lat="47.36246" lon="7.34237">
-  <name>ALDI Rue du Stand 1, 2800 Delemont  </name>
 </wpt>
 <wpt lat="47.71654" lon="8.66367">
   <name>ALDI Gennersbrunnerstrasse 63, 8207 Schaffhausen  </name>
 </wpt>
 <wpt lat="47.02802" lon="7.6339">
   <name>ALDI Ziegelgutstrasse 16, 3414 Oberburg  </name>
+</wpt>
+<wpt lat="47.36391" lon="9.55562">
+  <name>ALDI Oberrieterstrasse 85, 9450 Altstätten  </name>
 </wpt>
 <wpt lat="47.1965" lon="8.53009">
   <name>ALDI Oberdorfstrasse 9, 6340 Baar  </name>
@@ -523,43 +523,34 @@
 <wpt lat="47.1259" lon="7.9964">
   <name>ALDI Ettiswilerstrasse 29, 6130 Willisau  </name>
 </wpt>
-<wpt lat="47.07555" lon="7.30753">
-  <name>ALDI Buerenstrasse 9, 3250 Lyss  </name>
+<wpt lat="47.55751" lon="7.57461">
+  <name>ALDI Türkheimerstrasse 4-6, 4055 Basel  </name>
+</wpt>
+<wpt lat="47.25713" lon="8.68298">
+  <name>ALDI Seestrasse 61, 8708 Männedorf  </name>
 </wpt>
 <wpt lat="46.95604" lon="9.56444">
   <name>ALDI Schulstrasse 82, 7302 Landquart  </name>
 </wpt>
-<wpt lat="47.45621" lon="7.60465">
-  <name>ALDI Liebmattstrasse 7, 4202 Duggingen  </name>
+<wpt lat="45.8468" lon="9.01539">
+  <name>ALDI Viale Serfontana 16, 6834 Morbio Inferiore  </name>
 </wpt>
-<wpt lat="47.38848" lon="8.4969">
-  <name>ALDI Hohlstrasse 473, 8048 Zuerich  </name>
+<wpt lat="47.2888" lon="7.718">
+  <name>ALDI Mühlefeldstrasse 15, 4702 Oensingen  </name>
 </wpt>
-<wpt lat="46.85609" lon="7.19821">
-  <name>ALDI Murtenstrasse 39, 3186 Duedingen  </name>
+<wpt lat="47.38687" lon="9.2735">
+  <name>ALDI Cilanderstrasse 10, 9100 Herisau  </name>
 </wpt>
-<wpt lat="47.4194" lon="8.55643">
-  <name>ALDI Schaerenmoosstrasse 77, 8052 Zuerich  </name>
-</wpt>
-<wpt lat="47.44135" lon="8.834">
-  <name>ALDI Toesstalstrasse 11, 8488 Turbenthal  </name>
+<wpt lat="46.8877" lon="8.63411">
+  <name>ALDI Flüelerstrasse  34, 6460 Altdorf  </name>
 </wpt>
 <wpt lat="47.398" lon="8.17821">
   <name>ALDI Lenzburgerstrasse 2, 5702 Niederlenz  </name>
 </wpt>
-<wpt lat="47.3714" lon="8.00201">
-  <name>ALDI Im Grund 18, 5014 Gretzenbach  </name>
-</wpt>
-<wpt lat="47.26061" lon="8.83927">
-  <name>ALDI Spitalstrasse 60, 8630 Rueti  </name>
+<wpt lat="47.4892" lon="8.24411">
+  <name>ALDI Wambisterstrasse 5, 5412 Gebenstorf  </name>
 </wpt>
 <wpt lat="47.3068" lon="7.9266">
   <name>ALDI Spitalweidstrasse 1, 4665 Oftringen  </name>
-</wpt>
-<wpt lat="47.39967" lon="8.41281">
-  <name>ALDI Zuercherstrasse 55, 8953 Dietikon  </name>
-</wpt>
-<wpt lat="46.87414" lon="7.55998">
-  <name>ALDI Bahnhofplatz 1, 3110 Muensingen  </name>
 </wpt>
 </gpx>
